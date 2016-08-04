@@ -1,0 +1,80 @@
+# ******
+# Weekly Report Generation Script- AIX Servers
+#
+# This script actually runs in all the AIX servers & collects all the server data that are required. 
+#This script is internally called by master script  placed in centralized server shepictscsa205
+# # # It is known to run on ksh.
+#
+# History:
+#  07-13-2015: Original created by Karthick Priya Arumugam
+# ******
+
+
+
+#! /bin/ksh
+#echo "SERVER NAME,TYPE OF HOST (PHYSICAL/VIRTUAL),ENVIRONMENT,LOCATION,HARDWARE MODEL, NUMBER OF CPU/CORES,PHYSICAL MEMORY,OS,Version OF OS,Total Disk Size(GB),SWAP Size(GB)"
+Sname=`uname -a | awk '{print $2}'`
+if [ $Sname = "shintnpemni201" ] || [ $Sname = "shintnrscni201" ]
+then
+type=Physical
+else
+type=Virtual
+fi
+echo $Sname > /tmp/servername.txt
+envir=`cut -c 7 /tmp/servername.txt`
+#echo $envir
+if [ "$envir" = p ]
+then
+Environment=PRODUCTION
+else
+Environment=NON-PRODUCTION
+fi
+loc=`cut -c 8-9 /tmp/servername.txt`
+if [ "$loc" = "em" ]
+then
+Location=MSP
+elif [ "$loc" = "sc" ]
+then
+Location=STC
+else
+Location=Undefiened
+fi
+if [ $Sname = "shintnpemni201" ] || [ $Sname = "shintnrscni201" ]
+then
+Hmodel=NIM-8231-E2B-SN068611P
+else
+Hmodel=`lsconf | grep -i "system model" | awk -F "," '{print $2}'`
+fi
+CPU=`prtconf | egrep "^Number Of Processors" |awk '{print $4}'`
+RAM=`lparstat -i | egrep "^Online Memory" | awk '{print $4}' | awk '{sum+=$1}{print (sum/1024)}'`
+fun=`cut -c 10-11 /tmp/servername.txt`
+case "$fun" in
+   "ni") Function="NIM Server"
+   ;;
+   "wb") Function="Web server"
+   ;;
+"dh") Function="Database Server"
+   ;;
+"do") Function="Database Server Oracle"
+   ;;
+"ap") Function="Application Server"
+   ;;
+"sa") Function="System Admin Server"
+   ;;
+*) Function="Application Server"
+   ;;
+esac
+OS=AIX
+lev=`oslevel`
+level=`oslevel -s`
+Version=`echo "AIX" $lev" ("$level")"`
+totalsize=0
+for I in `lspv |grep hdiskpower| awk '{print $1}'`
+do
+disk="$I"
+size=`getconf DISK_SIZE /dev/$I |awk '{sum+=$1}{print (sum/1024)}'`
+totalsize=`echo "$(($size+$totalsize))"`
+done
+SWAP_SIZE=`lsps -a |grep -i MB | awk '{print $4}' | awk '{sum+=$1}END{print (sum/1024)}'`
+echo "$Sname,$type,$Environment,$Location,$Hmodel,$CPU,$RAM,$Function,$OS,$Version,$totalsize,$SWAP_SIZE"
+exit

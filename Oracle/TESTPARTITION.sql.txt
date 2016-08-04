@@ -1,0 +1,4 @@
+TESTPARTITION_MAY2016.sql
+alter table "&OWNER"."&TABNAME" split partition PMAX AT(TO_DATE(' 2016-07-01 00:00:00 ', 'SYYYY-MM-DD HH24:MI:SS', 'NLS_CALENDAR=GREGORIAN')) into (partition P5, partition PMAX);
+alter table "&OWNER"."&TABNAME" split partition PMAX AT(TO_DATE(' 2016-10-01 00:00:00 ', 'SYYYY-MM-DD HH24:MI:SS', 'NLS_CALENDAR=GREGORIAN')) into (partition P6, partition PMAX);
+alter table "&OWNER"."&TABNAME" split partition PMAX AT(TO_DATE(' 2017-01-01 00:00:00 ', 'SYYYY-MM-DD HH24:MI:SS', 'NLS_CALENDAR=GREGORIAN')) into (partition P7, partition PMAX);

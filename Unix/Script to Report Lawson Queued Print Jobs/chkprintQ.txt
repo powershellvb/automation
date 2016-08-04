@@ -1,0 +1,89 @@
+# ******
+# Check printer Q for long running jobs awaiting > 10 mins
+#
+# This script is notify application team and unix team whenever there are print queue jobs queued for more than 10 mins 
+# Runs on kourne shell
+# 
+# 
+# 
+# 
+#
+# History:
+#  03-10-2015: Original created by Karthick priya A
+#  
+#  
+# ******
+
+
+#! /bin/ksh
+
+for Rprintername in $(lpstat -W | grep -i running | awk '{print $1}')
+do
+
+Qmin=`lpstat -t -p$Rprintername | grep -v -i running | grep -v -i queued | awk '{print $1"" $2}' | grep -v "^/" | grep -v "Q" | grep -v "S" | grep -v "-" | head -2 | tail -1 | cut -c12-13`
+Qhr=`lpstat -t -p$Rprintername | grep -v -i running | grep -v -i queued | awk '{print $1"" $2}' | grep -v "^/" | grep -v "Q" | grep -v "S" | grep -v "-" | head -2 | tail -1 | cut -c9-10`
+Dmin=`echo "$(date +%M)`
+Dhr=`echo "$(date +%H)`
+Hdiff=`echo "$(($Dhr-$Qhr))"`
+Mdiff=`echo "$(($Dmin-$Qmin))"`
+if [ $Hdiff -eq 1 ]
+then
+if [ $Mdiff -ge "-50" ] || [ $Mdiff -ge 0 ]
+then
+lpstat -t -p$Rprintername > $Rprintername_Queuedjobs.txt
+mail -s "Attention : $Rprintername Print Jobs Queued more than 10 Mins" dl-hcl-unix@stanfordhealthcare.org,dl-ao-lawson@stanfordhealthcare.org < $Rprintername_Queuedjobs.txt
+fi
+elif [ $Hdiff -eq 0 ]
+then
+if [ $Mdiff -ge 10 ]
+then
+lpstat -t -p$Rprintername > $Rprintername_Queuedjobs.txt
+mail -s "Attention : $Rprintername Print Jobs Queued more than 10 Mins" dl-hcl-unix@stanfordhealthcare.org,dl-ao-lawson@stanfordhealthcare.org < $Rprintername_Queuedjobs.txt
+fi
+elif [ $Hdiff -gt 1 ] || [ $Hdiff -lt 0 ]
+then
+lpstat -t -p$Rprintername > $Rprintername_Queuedjobs.txt
+mail -s "Attention : $Rprintername Print Jobs Queued more than a hour" dl-hcl-unix@stanfordhealthcare.org,dl-ao-lawson@stanfordhealthcare.org < $Rprintername_Queuedjobs.txt
+else
+echo"No Queued jobs more than 10 mins"
+fi
+
+done
+
+if [ -z "$Rprintername" ];
+then
+echo ""
+exit
+fi
+
+###############################
+##Steps to implement
+############################
+
+
+step 1)
+
+Place the script in the path "chkprintQ.ksh" /usr/local/custom/bin/
+
+crontab -l
+
+step 2)
+
+back up the crontab
+
+cp -rp /var/spool/cron/crontabs /var/spool/cron/crontabs_22092015
+
+step 3)
+
+edit the crontab
+
+crontab -e
+
+#Job to monitor print queued jobs
+0,10,20,30,40,50 * * * * /usr/local/custom/bin/chkprintQ.ksh >> /usr/local/custom/logs/chkprintQ.`date +\%Y\%m\%d`
+
+step 4)
+
+monitor the logs for an hour
+
+cat /usr/local/custom/logs/chkprintQ.`date +\%Y\%m\%d`

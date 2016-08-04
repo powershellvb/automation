@@ -1,0 +1,922 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Sun Mar 27 11:27:36 2016
+
+   Source : \\shintnpscfs116\T$\Users7\S0063189\
+     Dest : \\shintnpscfs116\W$\T_drive(disabled_users)_users7\users7\S0063189\
+
+    Files : *.*
+	    
+  Options : *.* /TEE /S /E /COPY:DATS /DCOPY:T /ZB /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	  New Dir         55	\\shintnpscfs116\T$\Users7\S0063189\
+	    New File  		   1.1 m	CAM00076.jpg  0%  100%  
+	    New File  		    9169	chilin,griselda brain mri.txt  0%  100%  
+	    New File  		   48128	codes 8.24 from JR.xls  0%  100%  
+	    New File  		   27136	ColorectalSBRTAppealLetter.doc  0%  100%  
+	    New File  		  104326	Copy of FY14 May YTD Medical Necessity-06092014 SH with graphd.xlsx  0%  100%  
+	    New File  		  104326	Copy of FY14 May YTD Medical Necessity-06092014 SH with graphd-2014-08-14T021815.xlsx  0%  100%  
+	    New File  		   54269	Copy of FY14 May YTD No ABN-06092014 SH with graphd.xlsx  0%  100%  
+	    New File  		   26112	Copy of XRT CPT Codes conformal.xls  0%  100%  
+	    New File  		    3369	Copy of XRT CPT Codes imrt - Shortcut.lnk  0%  100%  
+	    New File  		   47104	Copy of XRT CPT Codes imrt.xls  0%  100%  
+	    New File  		   41472	Copy of XRT CPT Codes pt2 (2) (4) NEW.xls  0%  100%  
+	    New File  		  189544	December 27.docx  0%  100%  
+	    New File  		     556	desktop.ini  0%  100%  
+	    New File  		   13319	Diet plan ob.docx  0%  100%  
+	    New File  		   75028	dnd.jpg  0%  100%  
+	    New File  		  270336	Doc3.doc  0%  100%  
+	    New File  		    4170	dolley.txt  0%  100%  
+	    New File  		   14697	Dominique Rodriguez.docx  0%  100%  
+	    New File  		   14475	Dominique V.docx  0%  100%  
+	    New File  		   17163	dubkova.txt  0%  100%  
+	    New File  		  115200	FAX COVER SHEET.doc  0%  100%  
+	    New File  		   26541	GT.txt  0%  100%  
+	    New File  		   14376	hissen asad ct 1126.txt  0%  100%  
+	    New File  		   28511	Hooper, Willaim; clinical doc.txt  0%  100%  
+	    New File  		    7156	HUTT,MARILYNN CONSULT.txt  0%  100%  
+	    New File  		   17321	Hutt.txt  0%  100%  
+	    New File  		  107452	huttmarilyn mri.docx  0%  100%  
+	    New File  		   12486	IMRT 33 treatments with CBCT (4) (Autosaved).xlsx  0%  100%  
+	    New File  		   12486	IMRT 33 treatments with CBCT (4) (Autosaved)-2014-08-14T021815.xlsx  0%  100%  
+	    New File  		    7578	lewis richard imrt.txt  0%  100%  
+	    New File  		   84546	MB letter of medical necessity for TL.pdf  0%  100%  
+	    New File  		   16584	mcd,robert follow up affinity.docx  0%  100%  
+	    New File  		   17272	mckinney.txt  0%  100%  
+	    New File  		   11285	mendonca,jeffrey.txt  0%  100%  
+	    New File  		   13319	moracco joseph.txt  0%  100%  
+	    New File  		   19565	morgan eliz.txt  0%  100%  
+	    New File  		  828074	MW xrt schedule.docx  0%  100%  
+	    New File  		   23506	n.w.jpg  0%  100%  
+	    New File  		   41984	new Copy of XRT CPT Codes pt2 (2) (7).xls  0%  100%  
+	    New File  		    7382	nguyen,hai.txt  0%  100%  
+	    New File  		    7382	nguyen,hai-2014-08-14T021815.txt  0%  100%  
+	    New File  		   24768	ortegarobert imrt.docx  0%  100%  
+	    New File  		   24576	OUT OF THE OFFICE.doc  0%  100%  
+	    New File  		 736.7 m	outlook.ost  0.0%  2.1%  4.3%  6.5%  8.6% 10.8% 13.0% 15.2% 17.3% 19.5% 21.7% 23.8% 26.0% 28.2% 30.4% 32.5% 34.7% 36.9% 39.0% 41.2% 43.4% 45.6% 47.7% 49.9% 52.1% 54.2% 56.4% 58.6% 60.8% 62.9% 65.1% 67.3% 69.4% 71.6% 73.8% 76.0% 78.1% 80.3% 82.5% 84.6% 86.8% 89.0% 91.2% 93.3% 95.5% 97.7% 99.8%100%  
+	    New File  		   27648	Passwords (Autosaved).xls  0%  100%  
+	    New File  		   24576	Passwords.xls  0%  100%  
+	    New File  		   16315	petersenjohn.txt  0%  100%  
+	    New File  		   18727	potter,ronald a.txt  0%  100%  
+	    New File  		   26624	REDO CODES.xls  0%  100%  
+	    New File  		   23040	redo part 2.xls  0%  100%  
+	    New File  		   16684	SBRT TREATMENT CODES.docx  0%  100%  
+	    New File  		     652	SWWATER.INI  0%  100%  
+	    New File  		    3708	thomp,kenn.txt  0%  100%  
+	    New File  		   17920	Thumbs.db  0%  100%  100%  
+	    New File  		   22016	XRT CPT Codes pg2.xls  0%  100%  
+	  New Dir         18	\\shintnpscfs116\T$\Users7\S0063189\$RECYCLE.BIN\
+	    New File  		     544	$I0KGXWA.txt  0%  100%  
+	    New File  		     544	$IIX2D9K.txt  0%  100%  
+	    New File  		     544	$IJ4BZL2.txt  0%  100%  
+	    New File  		     544	$IQCY9QS.docx  0%  100%  
+	    New File  		     544	$ITMUBJU.txt  0%  100%  
+	    New File  		     544	$ITMUBJU-2014-08-14T021818.txt  0%  100%  
+	    New File  		     544	$IUXTMIC.txt  0%  100%  
+	    New File  		     544	$IUXTMIC-2014-08-14T021818.txt  0%  100%  
+	    New File  		     544	$IZ36GCN.txt  0%  100%  
+	    New File  		   11758	$R0KGXWA.txt  0%  100%  
+	    New File  		   13734	$RIX2D9K.txt  0%  100%  
+	    New File  		   10112	$RJ4BZL2.txt  0%  100%  
+	    New File  		   13620	$RQCY9QS.docx  0%  100%  
+	    New File  		   10621	$RTMUBJU.txt  0%  100%  
+	    New File  		   10621	$RTMUBJU-2014-08-14T021818.txt  0%  100%  
+	    New File  		    9624	$RUXTMIC.txt  0%  100%  
+	    New File  		   15503	$RZ36GCN.txt  0%  100%  
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Application data\
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Application data\Outlook\
+	    New File  		    2560	Default Outlook Profile.srs  0%  100%  
+	    New File  		    6515	Default Outlook Profile.xml  0%  100%  
+	    New File  		  551048	NEW.NK2  0%  100%  
+	    New File  		    4096	NEW.srs  0%  100%  
+	    New File  		    4302	NEW.xml  0%  100%  
+	    New File  		    1896	outcmd.dat  0%  100%  
+	    New File  		   39744	OutlPrnt  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Application data\Proof\
+	    New File  		    1784	CUSTOM.DIC  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Application data\Signatures\
+	    New File  		   26087	new.htm  0%  100%  
+	    New File  		   38577	new.rtf  0%  100%  
+	    New File  		    2134	new.txt  0%  100%  
+	    New File  		    1228	Patient Admitting Rep.htm  0%  100%  
+	    New File  		    4792	Patient Admitting Rep.rtf  0%  100%  
+	    New File  		     596	Patient Admitting Rep.txt  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Application data\Signatures\new_files\
+	    New File  		     314	colorschememapping.xml  0%  100%  
+	    New File  		     205	filelist.xml  0%  100%  
+	    New File  		    3099	themedata.thmx  0%  100%  
+	  New Dir         24	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Desktop\
+	    New File  		  496650	Active Contracts List 12-10.xlsx  0%  100%  
+	    New File  		   31232	auth request, blank.doc  0%  100%  
+	    New File  		   39936	AUTHO FORM complex.doc  0%  100%  
+	    New File  		   40448	AUTHO FORM.doc  0%  100%  
+	    New File  		   46080	Copy of Insurance PH#'s.xls  0%  100%  
+	    New File  		  324538	Department of Radiation Oncology Directory 02.16.11.pdf  0%  100%  
+	    New File  		    1943	Document Approval.lnk  0%  100%  
+	    New File  		    2311	Enterprise Wide Scheduling.lnk  0%  100%  
+	    New File  		  106496	FAX COVER SHEET.doc  0%  100%  
+	    New File  		    2322	Google Chrome.lnk  0%  100%  
+	    New File  		    8967	IMRT cpt codes.xlsx  0%  100%  
+	    New File  		    2521	Microsoft Office Outlook 2007.lnk  0%  100%  
+	    New File  		    2527	Microsoft Office Word 2007.lnk  0%  100%  
+	    New File  		   24576	OUT OF THE OFFICE.doc  0%  100%  
+	    New File  		     174	Paging.url  0%  100%  
+	    New File  		    1929	Patient Manager.lnk  0%  100%  
+	    New File  		   27136	PHYSICIANS EPIC SCHEDULE 020310  0%  100%  
+	    New File  		   82544	PHYSICIANS EPIC SCHEDULE 071610.xml  0%  100%  
+	    New File  		  194297	Radiation Oncology Directory - JULY 2009.pdf  0%  100%  
+	    New File  		   21448	Referral Coordinators Attendance 2009 11 -09.xlsx  0%  100%  
+	    New File  		     532	Shortcut to Passwords.xls.lnk  0%  100%  
+	    New File  		   40960	Stanford Cancer Center Insurance Referral Coordinator2.doc  0%  100%  
+	    New File  		  214786	test,ingenix.JPG  0%  100%  
+	    New File  		     799	Windows Media Player.lnk  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Desktop\abn edits\
+	    New File  		   23552	abn may.xls  0%  100%  
+	    New File  		   17408	ABN RESULTS MAY24-30.xls  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Desktop\nopr docs\
+	    New File  		   95744	NOPR FAX COVER SHEET.doc  0%  100%  
+	    New File  		   45568	NOPR Program.doc  0%  100%  
+	    New File  		  181334	nopr_postpet_forms.pdf  0%  100%  
+	    New File  		   67910	nopr_prepet_form_after_20100111.pdf  0%  100%  
+	  New Dir         18	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Desktop\templates\
+	    New File  		   67072	25tx 2010.xls  0%  100%  
+	    New File  		  552684	Active Contracts List 9-10.xlsx  0%  100%  
+	    New File  		   25600	AK pet appeal letter.doc  0%  100%  
+	    New File  		   26624	Auth Form for Soldano - 03 05 10.doc  0%  100%  
+	    New File  		   26624	chang rectal CA scan approval_template.doc  0%  100%  
+	    New File  		   27648	Gross-IMRT auth_panc_FINAL.doc  0%  100%  
+	    New File  		   42496	Imrt 33tx.xls  0%  100%  
+	    New File  		   25600	imrt Sousa Doug.doc  0%  100%  
+	    New File  		   24576	IMRTEsthesio.doc  0%  100%  
+	    New File  		   24576	JS IMRT letter.doc  0%  100%  
+	    New File  		   24576	Kearby letter.doc  0%  100%  
+	    New File  		   26624	Kwok w.doc  0%  100%  
+	    New File  		   26624	Ltr_Tooker_HCC_Jan2010.doc  0%  100%  
+	    New File  		   29184	Parysek - IMRT 2 (2).doc  0%  100%  
+	    New File  		  216064	ThoracicIMRTNecessityMaggiore12-15-09.doc  0%  100%  
+	    New File  		  217088	ThoracicIMRTNecessityTemplate04-27-2009.doc  0%  100%  
+	    New File  		   39424	Tumor Type.doc  0%  100%  
+	    New File  		   25600	watson.doc  0%  100%  
+	  New Dir         23	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Favorites\
+	    New File  		    1838	7 Ways to Love Being Single  Love & Sex  GalTime.url  0%   61%   61%  100%  
+	    New File  		     273	Allow.url  0%  100%  
+	    New File  		     940	Coping .url  0%   44%   44%  100%  
+	    New File  		     201	Copyright-Legal Title-UCC.url  0%  100%  
+	    New File  		     122	Desktop.ini  0%  100%  
+	    New File  		     164	EPSi.url  0%  100%  
+	    New File  		     314	Google Translate.url  0%  100%  
+	    New File  		     123	http--www.inglewoodimaging.com-CPT IIC Reimbursement Card.pdf.url  0%  100%  
+	    New File  		     748	Lawson portal.url  0%   40%   40%  100%  
+	    New File  		     126	LPCH paging.url  0%  100%  
+	    New File  		      81	MSDN.url  0%  100%  
+	    New File  		     146	MSDS-Chemquik.url  0%  100%  
+	    New File  		     141	MSOnet.url  0%  100%  
+	    New File  		     172	Pediatric Heart Center Database.url  0%  100%  
+	    New File  		     184	Quic.url  0%  100%  
+	    New File  		     144	Stand.url  0%  100%  
+	    New File  		     140	Stanford Campus Downtime Reports.url  0%  100%  
+	    New File  		     245	Stanford Credit Union.url  0%   17%   17%  100%  
+	    New File  		     140	Stanford Offsite Clinics Downtime Reports.url  0%  100%  
+	    New File  		     140	Stanford Pharmacy Downtime Reports.url  0%  100%  
+	    New File  		      84	Support.url  0%  100%  
+	    New File  		     195	Web Budgeting Tool.url  0%  100%  
+	    New File  		     209	Welcome to Parking & Transportation Services at Stanford University.url  0%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Favorites\Benifits\
+	    New File  		     206	 SCFHP.url  0%  100%  
+	    New File  		     350	Affinity new.url  0%    2%    2%  100%  
+	    New File  		     236	Anthem Blue Cross - Provider Access.url  0%  100%  
+	    New File  		     338	Blue Shield of California Provider Connection.url  0%    8%    8%  100%  
+	    New File  		     338	BT CARE.url  0%  100%  
+	    New File  		     242	Children Medical Services.url  0%  100%  
+	    New File  		     339	CIGNA - For Health Care Professionals.url  0%   51%   51%  100%  
+	    New File  		     238	Medi-Cal Login to Medi-Cal.url  0%  100%  
+	    New File  		     310	MedSolutions Online dom.url  0%  100%  
+	    New File  		     216	pmg san jose.url  0%  100%  
+	    New File  		     216	PMGsjProvider Login for Claims-Auth-Eligibility.url  0%  100%  
+	    New File  		     230	RadMD.com Login.url  0%  100%  
+	    New File  		     166	sar request.url  0%  100%  
+	    New File  		     206	SAR Tools.url  0%  100%  
+	    New File  		     218	Scippa Access Express.url  0%  100%  
+	    New File  		     231	TriWest Healthcare Alliance.url  0%    0%    0%  100%  
+	    New File  		     344	UnitedHealthcare Online.url  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Favorites\CV Med-CT Surg Clinic Favorites\
+	    New File  		     140	ECG.url  0%  100%  
+	    New File  		     150	Echo Lab.url  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Favorites\Links\
+	    New File  		     160	Customize Links.url  0%  100%  
+	    New File  		     112	MSDS-Chemquik.url  0%  100%  
+	    New File  		     170	MSOnet.url  0%  100%  
+	    New File  		     137	Pediatric Heart Center Database.url  0%  100%  
+	    New File  		     106	Stanford Campus Downtime Reports.url  0%  100%  
+	    New File  		     106	Stanford Offsite Clinics Downtime Reports.url  0%  100%  
+	    New File  		     106	Stanford Pharmacy Downtime Reports.url  0%  100%  
+	    New File  		     351	The Worst Drive-Thru Foods in America (And What to Eat Instead!) on Yahoo! Health.url  0%  100%  
+	    New File  		     169	Windows Marketplace.url  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Favorites\LPCH Sites to Explore\
+	    New File  		     170	LPCH Community Physician Directory.url  0%  100%  
+	    New File  		     167	LPCH Faculty Physician Directory.url  0%  100%  
+	    New File  		     113	LPCH Nursing Education.url  0%  100%  
+	    New File  		     136	LPCH Web Site.url  0%  100%  
+	    New File  		     143	Vaccine Information Statements.url  0%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Favorites\LPCH Web Based Applications\
+	    New File  		     161	Cerner.url  0%  100%  
+	    New File  		     146	Hospital Paging.url  0%  100%  
+	    New File  		     147	LPCH Nursing Education.url  0%  100%  
+	    New File  		     141	MD Paging.url  0%  100%  
+	    New File  		     150	Medical Center Directory.url  0%  100%  
+	    New File  		     151	Quantros.url  0%  100%  
+	    New File  		     166	Reference - PEDBASE.url  0%  100%  
+	    New File  		     132	Referene - PEDBASE.url  0%  100%  
+	    New File  		     181	SHC Learning Management System.url  0%  100%  
+	    New File  		     158	Trust Commerce.url  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Favorites\Microsoft Websites\
+	    New File  		     160	IE Add-on site.url  0%  100%  
+	    New File  		     160	IE site on Microsoft.com.url  0%  100%  
+	    New File  		     160	Marketplace.url  0%  100%  
+	    New File  		     160	Microsoft At Home.url  0%  100%  
+	    New File  		     160	Microsoft At Work.url  0%  100%  
+	    New File  		     160	Welcome to IE7.url  0%  100%  
+	  New Dir         14	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Favorites\my favorites\
+	    New File  		     265	comcast.url  0%   15%   15%  100%  
+	    New File  		     422	Dating Tips 9 Things Happy Couples Talk About -- Yahoo! Personals.url  0%    6%    6%  100%  
+	    New File  		     266	Dream Dictionary glamour.com.url  0%   19%   19%  100%  
+	    New File  		     144	Drum Set.url  0%  100%  
+	    New File  		     370	Exercise at Your Desk.url  0%    9%    9%  100%  
+	    New File  		     176	Joel Osteen Ministries.url  0%  100%  
+	    New File  		     184	kionna.url  0%  100%  
+	    New File  		     862	My Utilities Account (dom, Yellow00).url  0%   49%   49%  100%  
+	    New File  		     289	MyHealth at Stanford.url  0%   17%   17%  100%  
+	    New File  		     302	PEERtrainer - Calorie Counter.url  0%  100%  
+	    New File  		    1693	Step Brothers (2008) - Memorable quotes.url  0%   15%   15%  100%  
+	    New File  		   15938	ym.url  0%   98%   98%  100%  
+	    New File  		     213	YouTube - Bispasa's Channel.url  0%  100%  
+	    New File  		     263	YouTube - How to do Cumbia Dancing  How to Do Basic Cumbia Dance Steps.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Favorites\Smart Paging\
+	    New File  		     146	Smart Paging Application.url  0%  100%  
+	    New File  		     172	Smart Paging Help - Introduction.url  0%  100%  
+	    New File  		     146	Smart Paging Help - Placing Pages & Using Features.url  0%  100%  
+	    New File  		     172	Smart Paging Help - Using Smart Paging.url  0%  100%  
+	  New Dir         32	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Favorites\SMG-SFM Favorites\
+	    New File  		     109	AAFP - American Family Physician.url  0%  100%  
+	    New File  		     158	AAFP Clin Policy.url  0%  100%  
+	    New File  		     243	AAP - American Academy of Pediatrics.url  0%  100%  
+	    New File  		     153	AAP Clin Policy.url  0%  100%  
+	    New File  		     162	Adult Immunization.url  0%  100%  
+	    New File  		     143	AFP.url  0%  100%  
+	    New File  		     105	CA Internet Formulary Reference.url  0%  100%  
+	    New File  		     143	CDC - Adult Immunization.url  0%  100%  
+	    New File  		     143	CDC - Child Immunization.url  0%  100%  
+	    New File  		     121	CDC - Travel Advise.url  0%  100%  
+	    New File  		     169	CDC Prevent Guides.url  0%  100%  
+	    New File  		     162	Child Immunization PDF.url  0%  100%  
+	    New File  		     185	Child Immunization.url  0%  100%  
+	    New File  		     167	Healinx User.url  0%  100%  
+	    New File  		     139	HMO Formulary.url  0%  100%  
+	    New File  		     162	Medem Health Info.url  0%  100%  
+	    New File  		     158	Natl Guideline Clearing House.url  0%  100%  
+	    New File  		     268	NHLBI Health Info -  National Heart, Lung, and Blood Institute.url  0%  100%  
+	    New File  		     157	NHLBI Health Info.url  0%  100%  
+	    New File  		     249	Nicholas Institute of Sports Medicine .url  0%  100%  
+	    New File  		     138	Nichol's Institute.url  0%  100%  
+	    New File  		     102	Palo Alto Medical Foundation - PAMF.url  0%  100%  
+	    New File  		     115	PDR - Physicians' Desk Reference.url  0%  100%  
+	    New File  		     149	PDR.url  0%  100%  
+	    New File  		     241	SFM - Stanford Family Medicine .url  0%  100%  
+	    New File  		     140	SFP Home.url  0%  100%  
+	    New File  		     189	SHC Contracts.url  0%  100%  
+	    New File  		     290	SHC Managed Care Contracts.url  0%  100%  
+	    New File  		     252	SMG - Stanford Medical Group.url  0%  100%  
+	    New File  		     151	SMG Home.url  0%  100%  
+	    New File  		     141	Travel Advise.url  0%  100%  
+	    New File  		     140	Trip Prep.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Favorites\Stanford Clinical Laboratory\
+	    New File  		     218	DISASTER PLAN - Stanford Clinical Lab and Anatomic Pathology.url  0%  100%  
+	    New File  		     143	Lab Internet Site.url  0%  100%  
+	    New File  		     155	Lab Intranet Site.url  0%  100%  
+	    New File  		     165	Sharepoint Lab Home Site.url  0%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Favorites\Stanford Sites to Explore\
+	    New File  		     171	Find Cancer Clinical Trials.url  0%  100%  
+	    New File  		     114	Hospital url.url  0%  100%  
+	    New File  		     169	ICD 9 Coding.url  0%  100%  
+	    New File  		     148	Lane Library.url  0%  100%  
+	    New File  		     150	Medical Center Directory.url  0%  100%  
+	    New File  		     164	Medical Staff Roster.url  0%  100%  
+	    New File  		     128	Oncore url.url  0%  100%  
+	    New File  		     144	School of Medicine.url  0%  100%  
+	    New File  		     184	SHC Community Physician Directory.url  0%  100%  
+	    New File  		     181	SHC Faculty Physician Directory.url  0%  100%  
+	    New File  		     270	SHC Physician Directory.url  0%  100%  
+	    New File  		     148	SHC Web Site.url  0%  100%  
+	    New File  		     144	Stand.url  0%  100%  
+	    New File  		     148	Stanford Intranet.url  0%  100%  
+	    New File  		     249	Stanford Intranets.url  0%  100%  
+	    New File  		     154	Stanford University Medical Center.url  0%  100%  
+	    New File  		     140	Stanford University.url  0%  100%  
+	  New Dir         21	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Favorites\Stanford Web Based Applications\
+	    New File  		     148	BOB (Knowledgebase).url  0%  100%  
+	    New File  		     148	Emerg-Med.url  0%  100%  
+	    New File  		     108	Ether.url  0%  100%  
+	    New File  		     156	HealthStream.url  0%  100%  
+	    New File  		     149	HIPAA Information.url  0%  100%  
+	    New File  		     150	Lexicomp.url  0%  100%  
+	    New File  		     141	MICROMEDEX(R) Healthcare Series.url  0%  100%  
+	    New File  		     242	MSOnet.url  0%  100%  
+	    New File  		     145	PAMF - portal.url  0%  100%  
+	    New File  		     106	PAMF Sutter Health Citrix Portal.url  0%  100%  
+	    New File  		     144	Portal Backup Site.url  0%  100%  
+	    New File  		     150	Profee Ontrac.url  0%  100%  
+	    New File  		     146	Radiology Images.url  0%  100%  
+	    New File  		     253	SHC Carecast Online Learning Center.url  0%  100%  
+	    New File  		     260	SHC Learning Management System.url  0%  100%  
+	    New File  		     144	Spheris Clarity Care and Complete.url  0%  100%  
+	    New File  		     244	Stanford Lab.url  0%  100%  
+	    New File  		     153	Stanford Physician Portal.url  0%  100%  
+	    New File  		     147	SUMC Outlook Web Access.url  0%  100%  
+	    New File  		     113	TissueTrackCore.url  0%  100%  
+	    New File  		     158	Trust Commerce.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Favorites\Stanford Web Based Applications\Smart Paging\
+	    New File  		     112	Smart Paging Application.url  0%  100%  
+	    New File  		     138	Smart Paging Help - Introduction.url  0%  100%  
+	    New File  		     112	Smart Paging Help - Placing Pages & Using Features.url  0%  100%  
+	    New File  		     138	Smart Paging Help - Using Smart Paging.url  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Favorites\Stanford Web Based Applications\SmartPage\
+	    New File  		     253	Smart Page Portal.url  0%  100%  
+	    New File  		     252	Smart Paging Application.url  0%  100%  
+	    New File  		     278	Smart Paging Help - Introduction.url  0%  100%  
+	    New File  		     252	Smart Paging Help - Placing Pages.url  0%  100%  
+	    New File  		     278	Smart Paging Help - Using Features.url  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Local Settings\
+	  New Dir         14	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Local Settings\Outlook\
+	    New File  		 219.1 m	archive.pst  0.0%  7.2% 14.5% 21.8% 29.1% 36.4% 43.7% 51.0% 58.3% 65.6% 72.9% 80.2% 87.5% 94.8%100%  
+	    New File  		  48.6 m	archive1.pst  0.0% 32.8% 65.7% 98.5%100%  
+	    New File  		    1510	Default Outlook Profile.sharing.xml.obi  0%  100%  
+	    New File  		    2987	e34a5259d4cccb4988a2179c14526a58 - Autodiscover.xml  0%  100%  
+	    New File  		    2033	extend.dat  0%  100%  
+	    New File  		    1122	mapisvc.inf  0%  100%  
+	    New File  		    1298	NEW.sharing.xml.obi  0%  100%  
+	    New File  		    3121	spscoll.dat  0%  100%  
+	    New File  		 1008332	uanrdex.oab  0%  100%  
+	    New File  		  159828	ubrowse.oab  0%  100%  
+	    New File  		   8.3 m	udetails.oab  0.0%100%  
+	    New File  		      20	updndex.oab  0%  100%  
+	    New File  		  319636	urdndex.oab  0%  100%  
+	    New File  		   25860	utmplts.oab  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063189\3-3-11\Local Settings\Outlook\RoamCache\
+	    New File  		     462	Stream_AvailabilityOptions_2_BBA3FCDE068EF64E87E209883136929A.dat  0%  100%  
+	    New File  		     588	Stream_Calendar_2_440ADE372F88D74EA446C8A656AFD7D0.dat  0%  100%  
+	    New File  		     196	Stream_RssRule_2_94FBEA7285A4DE4899022EA3A23402A3.dat  0%  100%  
+	    New File  		     676	Stream_WorkHours_1_4FF65183C486EE4C956CEF284CC30094.dat  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\
+	    New File  		 886.9 m	archive2.pst  0.0%  1.8%  3.6%  5.4%  7.2%  9.0% 10.8% 12.6% 14.4% 16.2% 18.0% 19.8% 21.6% 23.4% 25.2% 27.0% 28.8% 30.6% 32.4% 34.2% 36.0% 37.8% 39.6% 41.4% 43.2% 45.1% 46.9% 48.7% 50.5% 52.3% 54.1% 55.9% 57.7% 59.5% 61.3% 63.1% 64.9% 66.7% 68.5% 70.3% 72.1% 73.9% 75.7% 77.5% 79.3% 81.1% 82.9% 84.7% 86.5% 88.3% 90.2% 92.0% 93.8% 95.6% 97.4% 99.2%100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Desktop\
+	    New File  		  446400	0420011423.jpg  0%  100%  
+	    New File  		   33280	auth request, blank.doc  0%  100%  
+	    New File  		   40960	AUTHO FORM complex.doc  0%  100%  
+	    New File  		   41472	AUTHO FORM.doc  0%  100%  
+	    New File  		   49152	Copy of Insurance PH#'s.xls  0%  100%  
+	    New File  		    1945	Document Approval.lnk  0%  100%  
+	    New File  		  108544	FAX COVER SHEET.doc  0%  100%  
+	    New File  		    2521	Microsoft Office Outlook 2007.lnk  0%  100%  
+	    New File  		    2527	Microsoft Office Word 2007.lnk  0%  100%  
+	    New File  		   24576	OUT OF THE OFFICE.doc  0%  100%  
+	    New File  		    1931	Patient Manager.lnk  0%  100%  
+	    New File  		  194297	Radiation Oncology Directory - JULY 2009.pdf  0%  100%  
+	    New File  		   21448	Referral Coordinators Attendance 2009 11 -09.xlsx  0%  100%  
+	    New File  		  311288	SABR-SBRT Workflow Final MG 06202011.docx  0%  100%  
+	    New File  		    1529	Shortcut to Passwords.xls.lnk  0%  100%  
+	    New File  		   38400	Stanford Cancer Center Insurance Referral Coordinator2.doc  0%  100%  
+	    New File  		    5632	Thumbs.db  0%  100%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Desktop\abn edits\
+	    New File  		   23552	abn may.xls  0%  100%  
+	    New File  		   17408	ABN RESULTS MAY24-30.xls  0%  100%  
+	    New File  		  152155	Copy of ABN Potential Write-offs - November 7 to 13 2011.xlsx  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Desktop\nopr docs\
+	    New File  		   95744	NOPR FAX COVER SHEET.doc  0%  100%  
+	    New File  		   45568	NOPR Program.doc  0%  100%  
+	    New File  		  181334	nopr_postpet_forms.pdf  0%  100%  
+	    New File  		   67910	nopr_prepet_form_after_20100111.pdf  0%  100%  
+	  New Dir         23	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Desktop\templates\
+	    New File  		   67072	25tx 2010.xls  0%  100%  
+	    New File  		  138299	a,s letter.pdf  0%  100%  
+	    New File  		  552684	Active Contracts List 9-10.xlsx  0%  100%  
+	    New File  		   25600	AK pet appeal letter.doc  0%  100%  
+	    New File  		  392378	amoako. appeal denial.pdf  0%  100%  
+	    New File  		   26624	Auth Form for Soldano - 03 05 10.doc  0%  100%  
+	    New File  		   26624	chang rectal CA scan approval_template.doc  0%  100%  
+	    New File  		   43280	dz.pdf  0%  100%  
+	    New File  		   27648	Gross-IMRT auth_panc_FINAL.doc  0%  100%  
+	    New File  		   42496	Imrt 33tx.xls  0%  100%  
+	    New File  		   25600	imrt Sousa Doug.doc  0%  100%  
+	    New File  		   24576	IMRTEsthesio.doc  0%  100%  
+	    New File  		   24576	JS IMRT letter.doc  0%  100%  
+	    New File  		   24576	Kearby letter.doc  0%  100%  
+	    New File  		   26624	Kwok w.doc  0%  100%  
+	    New File  		   26624	Ltr_Tooker_HCC_Jan2010.doc  0%  100%  
+	    New File  		   29184	Parysek - IMRT 2 (2).doc  0%  100%  
+	    New File  		   1.3 m	talbott appeal.pdf  0%  100%  
+	    New File  		  216064	ThoracicIMRTNecessityMaggiore12-15-09.doc  0%  100%  
+	    New File  		  217088	ThoracicIMRTNecessityTemplate04-27-2009.doc  0%  100%  
+	    New File  		    6144	Thumbs.db  0%  100%  100%  
+	    New File  		   39424	Tumor Type.doc  0%  100%  
+	    New File  		   25600	watson.doc  0%  100%  
+	  New Dir         28	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\
+	    New File  		     273	Allow.url  0%  100%  
+	    New File  		    5537	Calories Burned Walking - To Work or Class.url  0%   82%   82%  100%  
+	    New File  		     940	Coping .url  0%   44%   44%  100%  
+	    New File  		     201	Copyright-Legal Title-UCC.url  0%  100%  
+	    New File  		     122	Desktop.ini  0%  100%  
+	    New File  		     164	EPSi.url  0%  100%  
+	    New File  		     314	Google Translate.url  0%  100%  
+	    New File  		     123	http--www.inglewoodimaging.com-CPT IIC Reimbursement Card.pdf.url  0%  100%  
+	    New File  		     748	Lawson portal.url  0%   40%   40%  100%  
+	    New File  		     461	Legal Insurance.url  0%   34%   34%  100%  
+	    New File  		     126	LPCH paging.url  0%  100%  
+	    New File  		      81	MSDN.url  0%  100%  
+	    New File  		     146	MSDS-Chemquik.url  0%  100%  
+	    New File  		     141	MSOnet.url  0%  100%  
+	    New File  		     172	Pediatric Heart Center Database.url  0%  100%  
+	    New File  		     219	Purchasing Power - Employee Purchase Program  Computers, Appliances, Electronics.url  0%  100%  
+	    New File  		     338	Ripoff Report.url  0%   27%   27%  100%  
+	    New File  		     428	sbrt lcd.url  0%   32%   32%  100%  
+	    New File  		     144	Stand.url  0%  100%  
+	    New File  		     140	Stanford Campus Downtime Reports.url  0%  100%  
+	    New File  		     238	Stanford Credit Union.url  0%   17%   17%  100%  
+	    New File  		     140	Stanford Offsite Clinics Downtime Reports.url  0%  100%  
+	    New File  		     140	Stanford Pharmacy Downtime Reports.url  0%  100%  
+	    New File  		     162	SuccessFactors Business Execution Suite.url  0%  100%  
+	    New File  		      84	Support.url  0%  100%  
+	    New File  		    2568	Try these low fat dinner recipes for a tasty and guilt-free meal..url  0%   41%   41%  100%  
+	    New File  		     195	Web Budgeting Tool.url  0%  100%  
+	    New File  		     209	Welcome to Parking & Transportation Services at Stanford University.url  0%  100%  
+	  New Dir         21	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\Benifits\
+	    New File  		     206	 SCFHP.url  0%  100%  
+	    New File  		     350	Affinity new.url  0%    2%    2%  100%  
+	    New File  		     300	Anthem Blue Cross - Provider Access.url  0%   15%   15%  100%  
+	    New File  		     338	Blue Shield of California Provider Connection.url  0%    8%    8%  100%  
+	    New File  		     338	BT CARE.url  0%  100%  
+	    New File  		     242	Children Medical Services.url  0%  100%  
+	    New File  		     314	CIGNA.com Services - Log In.url  0%  100%  
+	    New File  		     168	Contact  Advanced Medical Reviews.url  0%  100%  
+	    New File  		     584	Local Coverage Determinations (LCDs) for Palmetto GBA (01102, MAC - Part B).url  0%   39%   39%  100%  
+	    New File  		     238	Medi-Cal Login to Medi-Cal.url  0%  100%  
+	    New File  		     310	MedSolutions Online dom.url  0%  100%  
+	    New File  		     230	NIA.url  0%  100%  
+	    New File  		     209	PCIP geha.url  0%  100%  
+	    New File  		     216	pmg san jose.url  0%  100%  
+	    New File  		     216	PMGsjProvider Login for Claims-Auth-Eligibility.url  0%  100%  
+	    New File  		     166	sar request.url  0%  100%  
+	    New File  		     206	SAR Tools.url  0%  100%  
+	    New File  		     218	Scippa Access Express.url  0%  100%  
+	    New File  		     231	TriWest Healthcare Alliance.url  0%    0%    0%  100%  
+	    New File  		     344	UnitedHealthcare Online.url  0%  100%  
+	    New File  		    1910	walking calculator.url  0%   62%   62%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\CLIENT LAB USERS\
+	    New File  		     178	LABUSERS.url  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\CV Med-CT Surg Clinic Favorites\
+	    New File  		     140	ECG.url  0%  100%  
+	    New File  		     150	Echo Lab.url  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\LifeIMAGE\
+	    New File  		     167	lifeIMAGE Inbox - Log in.url  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\Links\
+	    New File  		     271	Anthem Blue Cross - Provider Access.url  0%   14%   14%  100%  
+	    New File  		      84	desktop.ini  0%  100%  
+	    New File  		     226	Web Slice Gallery.url  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\LPCH Sites to Explore\
+	    New File  		     170	LPCH Community Physician Directory.url  0%  100%  
+	    New File  		     167	LPCH Faculty Physician Directory.url  0%  100%  
+	    New File  		     113	LPCH Nursing Education.url  0%  100%  
+	    New File  		     136	LPCH Web Site.url  0%  100%  
+	    New File  		     143	Vaccine Information Statements.url  0%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\LPCH Web Based Applications\
+	    New File  		     161	Cerner.url  0%  100%  
+	    New File  		     146	Hospital Paging.url  0%  100%  
+	    New File  		     147	LPCH Nursing Education.url  0%  100%  
+	    New File  		     141	MD Paging.url  0%  100%  
+	    New File  		     150	Medical Center Directory.url  0%  100%  
+	    New File  		     151	Quantros.url  0%  100%  
+	    New File  		     166	Reference - PEDBASE.url  0%  100%  
+	    New File  		     132	Referene - PEDBASE.url  0%  100%  
+	    New File  		     181	SHC Learning Management System.url  0%  100%  
+	    New File  		     158	Trust Commerce.url  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\Microsoft Websites\
+	    New File  		     160	IE Add-on site.url  0%  100%  
+	    New File  		     160	IE site on Microsoft.com.url  0%  100%  
+	    New File  		     160	Marketplace.url  0%  100%  
+	    New File  		     160	Microsoft At Home.url  0%  100%  
+	    New File  		     160	Microsoft At Work.url  0%  100%  
+	    New File  		     161	Microsoft Store.url  0%  100%  
+	    New File  		     160	Welcome to IE7.url  0%  100%  
+	  New Dir         14	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\my favorites\
+	    New File  		     265	comcast.url  0%   15%   15%  100%  
+	    New File  		     422	Dating Tips 9 Things Happy Couples Talk About -- Yahoo! Personals.url  0%    6%    6%  100%  
+	    New File  		     266	Dream Dictionary glamour.com.url  0%   19%   19%  100%  
+	    New File  		     144	Drum Set.url  0%  100%  
+	    New File  		     370	Exercise at Your Desk.url  0%    9%    9%  100%  
+	    New File  		     176	Joel Osteen Ministries.url  0%  100%  
+	    New File  		     184	kionna.url  0%  100%  
+	    New File  		     998	My Utilities Account (dom, 2Extra).url  0%   52%   52%  100%  
+	    New File  		     289	MyHealth at Stanford.url  0%   17%   17%  100%  
+	    New File  		     365	PEERtrainer - Calorie Counter.url  0%  100%  
+	    New File  		    1693	Step Brothers (2008) - Memorable quotes.url  0%   15%   15%  100%  
+	    New File  		   19759	ym.url  0%   93%   93%  100%  
+	    New File  		     213	YouTube - Bispasa's Channel.url  0%  100%  
+	    New File  		     263	YouTube - How to do Cumbia Dancing  How to Do Basic Cumbia Dance Steps.url  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\SHC WEBBASE\
+	    New File  		     152	SHC WEBBASE.url  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\SHC WEB-BASED APPLICATIONS\
+	    New File  		     163	Lawson Portal.url  0%  100%  
+	    New File  		     194	WEB-BASED APPLICATIONS.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\Smart Paging\
+	    New File  		     146	Smart Paging Application.url  0%  100%  
+	    New File  		     172	Smart Paging Help - Introduction.url  0%  100%  
+	    New File  		     146	Smart Paging Help - Placing Pages & Using Features.url  0%  100%  
+	    New File  		     172	Smart Paging Help - Using Smart Paging.url  0%  100%  
+	  New Dir         32	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\SMG-SFM Favorites\
+	    New File  		     109	AAFP - American Family Physician.url  0%  100%  
+	    New File  		     158	AAFP Clin Policy.url  0%  100%  
+	    New File  		     243	AAP - American Academy of Pediatrics.url  0%  100%  
+	    New File  		     153	AAP Clin Policy.url  0%  100%  
+	    New File  		     162	Adult Immunization.url  0%  100%  
+	    New File  		     143	AFP.url  0%  100%  
+	    New File  		     105	CA Internet Formulary Reference.url  0%  100%  
+	    New File  		     143	CDC - Adult Immunization.url  0%  100%  
+	    New File  		     143	CDC - Child Immunization.url  0%  100%  
+	    New File  		     121	CDC - Travel Advise.url  0%  100%  
+	    New File  		     169	CDC Prevent Guides.url  0%  100%  
+	    New File  		     162	Child Immunization PDF.url  0%  100%  
+	    New File  		     185	Child Immunization.url  0%  100%  
+	    New File  		     167	Healinx User.url  0%  100%  
+	    New File  		     139	HMO Formulary.url  0%  100%  
+	    New File  		     162	Medem Health Info.url  0%  100%  
+	    New File  		     158	Natl Guideline Clearing House.url  0%  100%  
+	    New File  		     268	NHLBI Health Info -  National Heart, Lung, and Blood Institute.url  0%  100%  
+	    New File  		     157	NHLBI Health Info.url  0%  100%  
+	    New File  		     249	Nicholas Institute of Sports Medicine .url  0%  100%  
+	    New File  		     138	Nichol's Institute.url  0%  100%  
+	    New File  		     102	Palo Alto Medical Foundation - PAMF.url  0%  100%  
+	    New File  		     115	PDR - Physicians' Desk Reference.url  0%  100%  
+	    New File  		     149	PDR.url  0%  100%  
+	    New File  		     241	SFM - Stanford Family Medicine .url  0%  100%  
+	    New File  		     140	SFP Home.url  0%  100%  
+	    New File  		     189	SHC Contracts.url  0%  100%  
+	    New File  		     290	SHC Managed Care Contracts.url  0%  100%  
+	    New File  		     252	SMG - Stanford Medical Group.url  0%  100%  
+	    New File  		     151	SMG Home.url  0%  100%  
+	    New File  		     141	Travel Advise.url  0%  100%  
+	    New File  		     140	Trip Prep.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\Stanford Clinical Laboratory\
+	    New File  		     218	DISASTER PLAN - Stanford Clinical Lab and Anatomic Pathology.url  0%  100%  
+	    New File  		     143	Lab Internet Site.url  0%  100%  
+	    New File  		     155	Lab Intranet Site.url  0%  100%  
+	    New File  		     165	Sharepoint Lab Home Site.url  0%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\Stanford Sites to Explore\
+	    New File  		     171	Find Cancer Clinical Trials.url  0%  100%  
+	    New File  		     114	Hospital url.url  0%  100%  
+	    New File  		     169	ICD 9 Coding.url  0%  100%  
+	    New File  		     148	Lane Library.url  0%  100%  
+	    New File  		     150	Medical Center Directory.url  0%  100%  
+	    New File  		     164	Medical Staff Roster.url  0%  100%  
+	    New File  		     128	Oncore url.url  0%  100%  
+	    New File  		     144	School of Medicine.url  0%  100%  
+	    New File  		     184	SHC Community Physician Directory.url  0%  100%  
+	    New File  		     181	SHC Faculty Physician Directory.url  0%  100%  
+	    New File  		     270	SHC Physician Directory.url  0%  100%  
+	    New File  		     148	SHC Web Site.url  0%  100%  
+	    New File  		     144	Stand.url  0%  100%  
+	    New File  		     148	Stanford Intranet.url  0%  100%  
+	    New File  		     249	Stanford Intranets.url  0%  100%  
+	    New File  		     154	Stanford University Medical Center.url  0%  100%  
+	    New File  		     140	Stanford University.url  0%  100%  
+	  New Dir         25	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\Stanford Web Based Applications\
+	    New File  		     148	BOB (Knowledgebase).url  0%  100%  
+	    New File  		     148	Emerg-Med.url  0%  100%  
+	    New File  		     108	Ether.url  0%  100%  
+	    New File  		     156	HealthStream.url  0%  100%  
+	    New File  		     147	Hill-Rom On Demand.url  0%  100%  
+	    New File  		     149	HIPAA Information.url  0%  100%  
+	    New File  		     163	Lawson Portal.url  0%  100%  
+	    New File  		     150	Lexicomp.url  0%  100%  
+	    New File  		     166	lifeIMAGE Inbox - Log in.url  0%  100%  
+	    New File  		     141	MICROMEDEX(R) Healthcare Series.url  0%  100%  
+	    New File  		     242	MSOnet.url  0%  100%  
+	    New File  		     145	PAMF - portal.url  0%  100%  
+	    New File  		     106	PAMF Sutter Health Citrix Portal.url  0%  100%  
+	    New File  		     144	Portal Backup Site.url  0%  100%  
+	    New File  		     150	Profee Ontrac.url  0%  100%  
+	    New File  		     146	Radiology Images.url  0%  100%  
+	    New File  		     253	SHC Carecast Online Learning Center.url  0%  100%  
+	    New File  		     260	SHC Learning Management System.url  0%  100%  
+	    New File  		     144	Spheris Clarity Care and Complete.url  0%  100%  
+	    New File  		     244	Stanford Lab.url  0%  100%  
+	    New File  		     153	Stanford Physician Portal.url  0%  100%  
+	    New File  		     147	SUMC Outlook Web Access.url  0%  100%  
+	    New File  		     113	TissueTrackCore.url  0%  100%  
+	    New File  		     158	Trust Commerce.url  0%  100%  
+	    New File  		     151	XT Teletracking.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\Stanford Web Based Applications\Smart Paging\
+	    New File  		     112	Smart Paging Application.url  0%  100%  
+	    New File  		     138	Smart Paging Help - Introduction.url  0%  100%  
+	    New File  		     112	Smart Paging Help - Placing Pages & Using Features.url  0%  100%  
+	    New File  		     138	Smart Paging Help - Using Smart Paging.url  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Favorites\Stanford Web Based Applications\SmartPage\
+	    New File  		     253	Smart Page Portal.url  0%  100%  
+	    New File  		     252	Smart Paging Application.url  0%  100%  
+	    New File  		     278	Smart Paging Help - Introduction.url  0%  100%  
+	    New File  		     252	Smart Paging Help - Placing Pages.url  0%  100%  
+	    New File  		     278	Smart Paging Help - Using Features.url  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Outlook\
+	    New File  		  483870	Default Outlook Profile.NK2  0%  100%  
+	    New File  		    2560	Default Outlook Profile.srs  0%  100%  
+	    New File  		    5483	Default Outlook Profile.xml  0%  100%  
+	    New File  		    3072	Default Outlook Profile~1.srs  0%  100%  
+	    New File  		  551048	NEW.NK2  0%  100%  
+	    New File  		    4096	NEW.srs  0%  100%  
+	    New File  		    4302	NEW.xml  0%  100%  
+	    New File  		    1896	outcmd.dat  0%  100%  
+	    New File  		   39744	OutlPrnt  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\Proof\
+	    New File  		    1784	CUSTOM.DIC  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063189\Backup 4-24-12\UProof\
+	    New File  		   12288	CUSTOM.DIC  0%  100%  
+	    New File  		       2	ExcludeDictionaryEN0409.lex  0%  100%  
+	    New File  		       2	ExcludeDictionaryEN0809.lex  0%  100%  
+	    New File  		       2	ExcludeDictionaryES080a.lex  0%  100%  
+	    New File  		       2	ExcludeDictionaryES0c0a.lex  0%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0063189\doms\
+	    New File  		   49866	527924_513644338688058_798992563_n.jpg  0%  100%  
+	    New File  		   25088	Acl reconstructive and meniscal repair.doc  0%  100%  
+	    New File  		   24064	ben.doc  0%  100%  
+	    New File  		  155295	dj face.jpg  0%  100%  
+	    New File  		   29184	Dominique Veronica Rodriguez.doc  0%  100%  
+	    New File  		  221067	eyefly 1.jpg  0%  100%  
+	    New File  		  226317	eyefly 2.jpg  0%  100%  
+	    New File  		  143837	hands.jpg  0%  100%  
+	    New File  		 833.6 m	holiday dinner 2010.zip  0.0%  1.9%  3.8%  5.7%  7.6%  9.5% 11.5% 13.4% 15.3% 17.2% 19.1% 21.1% 23.0% 24.9% 26.8% 28.7% 30.7% 32.6% 34.5% 36.4% 38.3% 40.3% 42.2% 44.1% 46.0% 47.9% 49.9% 51.8% 53.7% 55.6% 57.5% 59.4% 61.4% 63.3% 65.2% 67.1% 69.0% 71.0% 72.9% 74.8% 76.7% 78.6% 80.6% 82.5% 84.4% 86.3% 88.2% 90.2% 92.1% 94.0% 95.9% 97.8% 99.8%100%  100%  100%  
+	    New File  		   27648	Leobardo Javier Guzman.doc  0%  100%  
+	    New File  		  240022	New Image 0505.JPG  0%  100%  
+	    New File  		  462913	New Image.JPG  0%  100%  
+	    New File  		  453910	New Image2.JPG  0%  100%  
+	    New File  		   28519	ob NOTES.docx  0%  100%  
+	    New File  		   24064	portion.doc  0%  100%  
+	    New File  		   24064	Things in this office are increasingly uncomfortable.doc  0%  100%  
+	    New File  		   22016	Thumbs.db  0%  100%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063189\Downloads\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063189\Migrated_WKS22720\
+	  New Dir         18	\\shintnpscfs116\T$\Users7\S0063189\Migrated_WKS22720\xp_Desktop\
+	    New File  		  446400	0420011423.jpg  0%  100%  
+	    New File  		   12222	am dealing with them right now.docx  0%  100%  
+	    New File  		   33792	auth request, blank.doc  0%  100%  
+	    New File  		   40960	AUTHO FORM complex.doc  0%  100%  
+	    New File  		   40960	AUTHO FORM.doc  0%  100%  
+	    New File  		  138466	birthplan_pdf.pdf  0%  100%  
+	    New File  		   49152	Copy of Insurance PH#'s.xls  0%  100%  
+	    New File  		  447488	Department of Radiation Oncology Directory New 05.03.2012.doc  0%  100%  
+	    New File  		  108032	FAX COVER SHEET.doc  0%  100%  
+	    New File  		   90234	kaiser records release form.pdf  0%  100%  
+	    New File  		   15113	lehman.docx  0%  100%  
+	    New File  		    3792	lehman.txt  0%  100%  
+	    New File  		   24576	OUT OF THE OFFICE.doc  0%  100%  
+	    New File  		   21448	Referral Coordinators Attendance 2009 11 -09.xlsx  0%  100%  
+	    New File  		  311288	SABR-SBRT Workflow Final MG 06202011.docx  0%  100%  
+	    New File  		     532	Shortcut to Passwords.xls.lnk  0%  100%  
+	    New File  		     592	Shortcut to SBRT TREATMENT CODES.docx.lnk  0%  100%  
+	    New File  		   38400	Stanford Cancer Center Insurance Referral Coordinator2.doc  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063189\Migrated_WKS22720\xp_Desktop\abn edits\
+	    New File  		   23552	abn may.xls  0%  100%  
+	    New File  		   17408	ABN RESULTS MAY24-30.xls  0%  100%  
+	    New File  		  152155	Copy of ABN Potential Write-offs - November 7 to 13 2011.xlsx  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063189\Migrated_WKS22720\xp_Desktop\nopr docs\
+	    New File  		   95744	NOPR FAX COVER SHEET.doc  0%  100%  
+	    New File  		   45568	NOPR Program.doc  0%  100%  
+	    New File  		  181334	nopr_postpet_forms.pdf  0%  100%  
+	    New File  		   67910	nopr_prepet_form_after_20100111.pdf  0%  100%  
+	  New Dir         18	\\shintnpscfs116\T$\Users7\S0063189\Migrated_WKS22720\xp_Desktop\templates\
+	    New File  		   67072	25tx 2010.xls  0%  100%  
+	    New File  		  552684	Active Contracts List 9-10.xlsx  0%  100%  
+	    New File  		   25600	AK pet appeal letter.doc  0%  100%  
+	    New File  		   26624	Auth Form for Soldano - 03 05 10.doc  0%  100%  
+	    New File  		   26624	chang rectal CA scan approval_template.doc  0%  100%  
+	    New File  		   27648	Gross-IMRT auth_panc_FINAL.doc  0%  100%  
+	    New File  		   42496	Imrt 33tx.xls  0%  100%  
+	    New File  		   25600	imrt Sousa Doug.doc  0%  100%  
+	    New File  		   24576	IMRTEsthesio.doc  0%  100%  
+	    New File  		   24576	JS IMRT letter.doc  0%  100%  
+	    New File  		   24576	Kearby letter.doc  0%  100%  
+	    New File  		   26624	Kwok w.doc  0%  100%  
+	    New File  		   26624	Ltr_Tooker_HCC_Jan2010.doc  0%  100%  
+	    New File  		   29184	Parysek - IMRT 2 (2).doc  0%  100%  
+	    New File  		  216064	ThoracicIMRTNecessityMaggiore12-15-09.doc  0%  100%  
+	    New File  		  217088	ThoracicIMRTNecessityTemplate04-27-2009.doc  0%  100%  
+	    New File  		   39424	Tumor Type.doc  0%  100%  
+	    New File  		   25600	watson.doc  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063189\My Data Sources\
+	    New File  		     190	+Connect to New Data Source.odc  0%  100%  
+	    New File  		     196	+NewSQLServerConnection.odc  0%  100%  
+	    New File  		    4710	FOLDER.ICO  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063189\My Music\
+	    New File  		     652	Desktop.ini  0%  100%  
+	    New File  		     644	Sample Music.lnk  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063189\My Music\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir         94	\\shintnpscfs116\T$\Users7\S0063189\My Pictures\
+	    New File  		    4449	01.jpg  0%  100%  
+	    New File  		    4379	02.jpg  0%  100%  
+	    New File  		    4447	03.jpg  0%  100%  
+	    New File  		    4801	04.jpg  0%  100%  
+	    New File  		  432513	0401001503.jpg  0%  100%  
+	    New File  		   83803	04292010014.jpg  0%  100%  
+	    New File  		    5206	05.jpg  0%  100%  
+	    New File  		  178569	05162010030.jpg  0%  100%  
+	    New File  		  163738	05172010037.jpg  0%  100%  
+	    New File  		    4513	06.jpg  0%  100%  
+	    New File  		    5005	07.jpg  0%  100%  
+	    New File  		    4781	08.jpg  0%  100%  
+	    New File  		    4226	09.jpg  0%  100%  
+	    New File  		   25257	10.16.11 leo.jpg  0%  100%  
+	    New File  		    1630	10603723_10205015211241082_887781134675095859_n.jpg  0%  100%  
+	    New File  		  222132	1111.jpg  0%   99%   99%  100%  
+	    New File  		   37606	11-9-06_rear_smash (3).JPG  0%  100%  
+	    New File  		    6668	21611.jpg  0%  100%  
+	    New File  		  216344	2222.jpg  0%   99%   99%  100%  
+	    New File  		   57853	23495_1389135769534_1266277770_1119510_6345957_n.jpeg  0%  100%  
+	    New File  		   33215	3 of us  0%  100%  
+	    New File  		    7159	3mb3o23p55V45Z05X5a5d96b57d562da9139c.jpeg  0%  100%  
+	    New File  		   62963	5.25.11 2.jpg  0%  100%  
+	    New File  		   69058	5.25.11.jpg  0%  100%  
+	    New File  		    4316	9335_1229764385349_1266277770_683374_5525755_s.jpeg  0%  100%  
+	    New File  		    4075	9335_1229771905537_1266277770_683469_1458149_s.jpeg  0%  100%  
+	    New File  		   94779	ant.jpg  0%  100%  
+	    New File  		   38078	baby pic.bmp  0%  100%  
+	    New File  		   62549	back.jpg  0%   99%   99%  100%  
+	    New File  		   75952	BOY_22.JPG  0%  100%  
+	    New File  		   72295	BOY_46.JPG  0%  100%  
+	    New File  		   45386	brydon  0%  100%  
+	    New File  		   86417	bump.jpg  0%  100%  
+	    New File  		   35034	d.jpeg  0%  100%  
+	    New File  		   26240	dd  0%  100%  
+	    New File  		   37385	ddf  0%  100%  
+	    New File  		     658	Desktop.ini  0%  100%  
+	    New File  		   32608	dj  0%  100%  
+	    New File  		  821494	dom.bmp  0%  100%  
+	    New File  		    8121	dominique19.JPG  0%  100%  
+	    New File  		   98927	el  0%  100%  
+	    New File  		   26014	fam  0%  100%  
+	    New File  		   68009	front view.jpg  0%   99%   99%  100%  
+	    New File  		  104556	gg and dd.jpg  0%  100%  
+	    New File  		  820890	grass.bmp  0%  100%  
+	    New File  		    5657	i dont want it anymore  0%  100%  
+	    New File  		   33020	igp.jpg  0%  100%  
+	    New File  		   17154	i-pad.jpg  0%  100%  
+	    New File  		   23644	j mug 1  0%  100%  
+	    New File  		   27557	jd  0%  100%  
+	    New File  		   22305	Jencarlos-single-cover-OKc.jpg  0%  100%  
+	    New File  		   31826	jesus__oPt.jpeg  0%  100%  
+	    New File  		  131104	jmug 2  0%  100%  
+	    New File  		  102771	johnn.jpeg  0%  100%  
+	    New File  		   27649	kgp.jpg  0%  100%  
+	    New File  		   19737	l.jpeg  0%  100%  
+	    New File  		    4802	l_c321652ec003b07bc85afc01e2c1dfbc.jpg  0%  100%  
+	    New File  		    4299	l_dd81f6c351150485b7b85e6828b557fc.jpg  0%  100%  
+	    New File  		    4316	leo  0%  100%  
+	    New File  		   85942	leo jumper.jpg  0%  100%  
+	    New File  		   66008	leon bunny.jpg  0%  100%  
+	    New File  		   89699	leon pumpkin.jpg  0%  100%  
+	    New File  		  113908	leoo.jpg  0%  100%  
+	    New File  		   40592	lnd.jpg  0%  100%  
+	    New File  		  820890	lol.bmp  0%  100%  
+	    New File  		   25692	me and d  0%  100%  
+	    New File  		   16223	me n jeff.jpg  0%  100%  
+	    New File  		   35902	mom  0%  100%  
+	    New File  		   42686	moms hug.jpg  0%  100%  
+	    New File  		   33112	nahid.jpeg  0%  100%  
+	    New File  		  10.7 m	old pic.bmp  0.0%100%  
+	    New File  		  145788	old pic.JPG  0%  100%  
+	    New File  		   36556	peeette.JPG  0%  100%  
+	    New File  		    3840	peter  0%  100%  
+	    New File  		   22246	peter pup  0%  100%  
+	    New File  		   33215	pop me and al  0%  100%  
+	    New File  		    3658	ppppete  0%  100%  
+	    New File  		   12993	rc.jpg  0%  100%  
+	    New File  		   72039	redneck-limo.jpeg  0%  100%  
+	    New File  		  172570	s05172010037.jpg  0%  100%  
+	    New File  		    2500	safe_image.jpg  0%  100%  
+	    New File  		     674	Sample Pictures.lnk  0%  100%  
+	    New File  		  231590	santa cruz days.jpg  0%  100%  
+	    New File  		   56982	side 2.jpg  0%   99%   99%  100%  
+	    New File  		   67776	side.jpg  0%   99%   99%  100%  
+	    New File  		    2851	sola.JPG  0%  100%  
+	    New File  		    2696	solo.JPG  0%  100%  
+	    New File  		   66135	tat.jpg  0%  100%  
+	    New File  		  944640	Thumbs.db  0%  100%  100%  
+	    New File  		   11024	too thin.jpg  0%  100%  
+	    New File  		  983094	untitled spray.bmp  0%  100%  
+	    New File  		   41718	untitled.bmp  0%  100%  
+	    New File  		   31446	use this one.jpeg  0%  100%  
+	    New File  		  638454	yellow.bmp  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063189\My Pictures\$RECYCLE.BIN\
+	    New File  		     544	$IT75D4X.jpeg  0%  100%  
+	    New File  		     544	$IT75D4X-2014-08-14T021826.jpeg  0%  100%  
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063189\My Videos\
+	    New File  		     664	Desktop.ini  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063189\My Videos\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063189\Outlook\
+	    New File  		 886.9 m	archive2.pst  0.0%  1.8%  3.6%  5.4%  7.2%  9.0% 10.8% 12.6% 14.4% 16.2% 18.0% 19.8% 21.6% 23.4% 25.2% 27.0% 28.8% 30.6% 32.4% 34.2% 36.0% 37.8% 39.6% 41.4% 43.2% 45.1% 46.9% 48.7% 50.5% 52.3% 54.1% 55.9% 57.7% 59.5% 61.3% 63.1% 64.9% 66.7% 68.5% 70.3% 72.1% 73.9% 75.7% 77.5% 79.3% 81.1% 82.9% 84.7% 86.5% 88.3% 90.2% 92.0% 93.8% 95.6% 97.4% 99.2%100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063189\Outlook Files\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063189\RECYCLER\
+	  New Dir         32	\\shintnpscfs116\T$\Users7\S0063189\RECYCLER\S-1-5-21-1292407741-3760857420-1411248183-84504\
+	    New File  		   27571	D@1.txt  0%  100%  
+	    New File  		    5483	D@10.txt  0%  100%  
+	    New File  		   11871	D@11.txt  0%  100%  
+	    New File  		    5010	D@12.txt  0%  100%  
+	    New File  		    5238	D@13.txt  0%  100%  
+	    New File  		   18177	D@14.txt  0%  100%  
+	    New File  		   1.3 m	D@15.pdf  0%  100%  
+	    New File  		  172021	D@16.pdf  0%  100%  
+	    New File  		  183919	D@17.PDF  0%  100%  
+	    New File  		  185944	D@18.pdf  0%  100%  
+	    New File  		   42148	D@19.pdf  0%  100%  
+	    New File  		   24660	D@2.txt  0%  100%  
+	    New File  		   61339	D@20.pdf  0%  100%  
+	    New File  		   98187	D@21.pdf  0%  100%  
+	    New File  		   15601	D@22.docx  0%  100%  
+	    New File  		   25936	D@23.docx  0%  100%  
+	    New File  		   13608	D@24.docx  0%  100%  
+	    New File  		   19196	D@25.docx  0%  100%  
+	    New File  		   29062	D@26.docx  0%  100%  
+	    New File  		   14073	D@27.docx  0%  100%  
+	    New File  		   19930	D@28.docx  0%  100%  
+	    New File  		   20562	D@29.docx  0%  100%  
+	    New File  		   13749	D@3.txt  0%  100%  
+	    New File  		  141421	D@30.docx  0%  100%  
+	    New File  		   20992	D@4.txt  0%  100%  
+	    New File  		    5502	D@5.txt  0%  100%  
+	    New File  		   18105	D@6.txt  0%  100%  
+	    New File  		   13507	D@7.txt  0%  100%  
+	    New File  		    3655	D@8.txt  0%  100%  
+	    New File  		   11767	D@9.txt  0%  100%  
+	    New File  		      65	desktop.ini  0%  100%  
+	    New File  		   24020	INFO2  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063189\Reflection\
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0063189\Remote Assistance Logs\
+	    New File  		    1090	09440620130111.xml  0%  100%  
+	    New File  		    1121	12425220141008.xml  0%  100%  
+	    New File  		    1066	13103020130507.xml  0%  100%  
+	    New File  		    1253	15273220130206.xml  0%  100%  
+	    New File  		     677	15552820130626.xml  0%  100%  
+	    New File  		    1090	16052320130626.xml  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063189\ScanSnap\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063189\ScanSnap\.organizer\
+	  New Dir         25	\\shintnpscfs116\T$\Users7\S0063189\templates\
+	    New File  		   67072	25tx 2010.xls  0%  100%  
+	    New File  		   25600	AK pet appeal letter.doc  0%  100%  
+	    New File  		   26624	Auth Form for Soldano - 03 05 10.doc  0%  100%  
+	    New File  		   26624	chang rectal CA scan approval_template.doc  0%  100%  
+	    New File  		   28160	Claussen-Rogers_LUNG IMRT.doc  0%  100%  
+	    New File  		   27648	Gross-IMRT auth_panc_FINAL.doc  0%  100%  
+	    New File  		   42496	Imrt 33tx.xls  0%  100%  
+	    New File  		   25600	imrt Sousa Doug.doc  0%  100%  
+	    New File  		   24029	IMRT_Appeal_Chan.docx  0%  100%  
+	    New File  		   25088	IMRTAnal.doc  0%  100%  
+	    New File  		   13180	IMRTAppeal-McDaniel.docx  0%  100%  
+	    New File  		   24576	IMRTEsthesio.doc  0%  100%  
+	    New File  		   13504	Joanna chan sbrt 8.2.11 imrt switch.docx  0%  100%  
+	    New File  		   24576	Kearby letter.doc  0%  100%  
+	    New File  		   26624	Kwok w.doc  0%  100%  
+	    New File  		   26624	Ltr_Tooker_HCC_Jan2010.doc  0%  100%  
+	    New File  		   29184	Parysek - IMRT 2 (2).doc  0%  100%  
+	    New File  		   12137	sbrt lmn template-lung.docx  0%  100%  
+	    New File  		   13620	sbrt lmn template-panc.docx  0%  100%  
+	    New File  		   24576	SBRT PelvisletterFimbrez.doc  0%  100%  
+	    New File  		  216064	ThoracicIMRTNecessityMaggiore12-15-09.doc  0%  100%  
+	    New File  		  217088	ThoracicIMRTNecessityTemplate04-27-2009.doc  0%  100%  
+	    New File  		    5120	Thumbs.db  0%  100%  100%  
+	    New File  		   39424	Tumor Type.doc  0%  100%  
+	    New File  		   25600	watson.doc  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063189\WINDOWS\
+	    New File  		      54	inifile.upd  0%  100%  
+	    New File  		     634	win.ctx  0%  100%  
+	    New File  		     634	win.ini  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063189\WINDOWS\system\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        82        82         0         0         0         0
+   Files :       810       810         0         0         0         0
+   Bytes :   3.579 g   3.579 g         0         0         0         0
+   Times :   0:04:09   0:04:01                       0:00:00   0:00:08
+
+
+   Speed :            15945953 Bytes/sec.
+   Speed :             912.434 MegaBytes/min.
+
+   Ended : Sun Mar 27 11:31:45 2016

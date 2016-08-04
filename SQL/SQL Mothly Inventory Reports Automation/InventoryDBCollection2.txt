@@ -1,0 +1,27 @@
+USE [DBADB]
+GO
+
+/****** Object:  Table [dbo].[InventoryDBCollection2]    Script Date: 6/30/2016 1:04:19 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[InventoryDBCollection2](
+	[Server_ID] [int] IDENTITY(1,1) NOT NULL,
+	[SERVER_NAME] [nvarchar](255) NOT NULL,
+	[DBNAME] [nvarchar](255) NULL,
+	[TotalSizeMB] [nvarchar](255) NULL,
+	[usedSpaceMB] [nvarchar](255) NULL,
+	[FreeSizeMB] [nvarchar](255) NULL,
+	[TotalSizeGB] [nvarchar](255) NULL,
+	[usedSpaceGB] [nvarchar](255) NULL,
+	[FreeSizeGB] [nvarchar](255) NULL,
+	[CPU] [nvarchar](255) NULL,
+	[Memory] [nvarchar](255) NULL
+) ON [PRIMARY]
+
+GO
+
+

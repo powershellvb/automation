@@ -1,0 +1,1 @@
+powershell.exe -file F:\Automation\DBStatusChecker\DBStatusTest.ps1

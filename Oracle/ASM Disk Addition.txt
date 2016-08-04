@@ -1,0 +1,28 @@
+
+#!/bin/bash
+
+# Enter the Schema name
+echo ---------------------------------------
+echo "Please enter the Diskgroup Name > "
+read DGNAME
+
+echo ---------------------------------------
+echo "Please enter Number of disks > "
+read DGNUM
+
+export ORACLE_SID=+ASM
+sqlplus / as sysasm<<EOF >/home/grid/gtest/ASMDisk_out.txt
+set pages 5000
+set linesize 300
+set heading off
+set feedback off
+set verify off
+set echo off
+set termout off
+select 'alter diskgroup ''${DGNAME}'' add disk '''||PATH||''''|| ' rebalance power 1;'from v\$asm_disk where HEADER_STATUS='MEMBER';
+exit;
+EOF
+egrep -v "SQL>|^$|Data Mining|Production|Copyright|Connected to|Real|ERROR|SP2|Usage|where|With" /home/grid/gtest/ASMDisk_out.txt >> /home/grid/gtest/ASM_out.txt
+
+
+head -n${DGNUM} ASM_out.txt >> /home/grid/gtest/ASM_Final.txt

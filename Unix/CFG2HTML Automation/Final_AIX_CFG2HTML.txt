@@ -1,0 +1,129 @@
+# ******
+# Script for config to HTML scrotp
+#
+# This script is to convert the current configuration details as html format and to get centralized stored in a webserver which can be accessed via browser
+# Runs on kourne shell
+# 
+# 
+# 
+# 
+#
+# History:
+#  13-07-2016: Original created by Karthick priya A
+#  
+#  
+# ******
+
+
+#! /bin/ksh
+
+host=`uname -n`
+
+timestamp=`date +%Y%m%d`
+
+cd /usr/local/custom/bin
+
+./cfg2html_AIX.sh
+
+if [[ `echo $?` == 0 ]]
+
+then
+
+Mon=`ls -ltr | tail | grep $host.html | awk '{print $6}'`
+
+
+[ -d /mksysbbackup/backup ] || mkdir -p /mksysbbackup/backup
+
+mount -o rw,bg shepictscsa205:/cfg2html/AIX /mksysbbackup/backup
+
+cd /mksysbbackup/backup/$Mon
+
+
+cp  /usr/local/custom/bin/$host.html .
+
+cd /usr/local/custom/bin
+
+rm $host.html $host.txt $host.err
+
+rm *.info
+
+umount /mksysbbackup/backup
+
+else
+
+echo "cfg2html of $host failed" | mail dl-hcl-unix@stanfordhealthcare.org
+
+fi
+
+
+
+*********************
+
+for hostname issue edit script as below (make sure no *.html is available in /usr/local/custom/bin
+**************
+
+#! /bin/ksh
+
+host=`uname -n`
+
+timestamp=`date +%Y%m%d`
+
+cd /usr/local/custom/bin
+
+./cfg2html_AIX.sh
+
+if [[ `echo $?` == 0 ]]
+
+then
+
+Mon=`ls -ltr | tail | grep *.html | awk '{print $6}'`
+
+
+[ -d /mksysbbackup/backup ] || mkdir -p /mksysbbackup/backup
+
+mount -o rw,bg shepictscsa205:/cfg2html/AIX /mksysbbackup/backup
+
+cd /mksysbbackup/backup/$Mon
+
+
+cp  /usr/local/custom/bin/*.html .
+
+cd /usr/local/custom/bin
+
+rm *.html *.txt *.err
+
+rm *.info
+
+umount /mksysbbackup/backup
+
+else
+
+echo "cfg2html of $host failed" | mail dl-hcl-unix@stanfordhealthcare.org
+
+fi
+
+
+
+
+
+Implementation Plan for AIX Servers
+************************************
+
+cd /usr/local/custom/bin
+
+cp /tmp/cfg2html_aix_282.sh .
+
+mv cfg2html_aix_282.sh cfg2html_AIX.sh
+
+vi cfg2html.ksh
+
+chmod 755 cfg2html_AIX.sh
+
+chmod 755 cfg2html.ksh
+
+
+
+Crontab entry
+****************
+
+30 00 1 * * /usr/local/custom/bin/cfg2html.ksh  > /tmp/cfg2html.log 2>&1

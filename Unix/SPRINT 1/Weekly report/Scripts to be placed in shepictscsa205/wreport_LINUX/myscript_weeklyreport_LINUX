@@ -1,0 +1,119 @@
+# ******
+# Weekly Report Generation Script- LINUX Servers
+#
+# This script actually runs in all the LINUX servers & collects all the server data that are required. 
+#This script is internally called by master script  placed in centralized server shepictscsa205
+# # # It is known to run on ksh.
+#
+# History:
+#  06/12/2016: Original created by Karthick Priya Arumugam
+# ******
+
+
+#! /bin/bash
+#echo -e "SERVER NAME,TYPE OF HOST (PHYSICAL/VIRTUAL),ENVIRONMENT,LOCATION,HARDWARE MODEL, NUMBER OF CPU/CORES,PHYSICAL MEMORY,SERVER FUNCTION,OS,Version OF OS,Total Disk Size(GB),Utilized Disk Size(GB)"
+#echo "============================================================================================================================================================================================================"
+Sname=`uname -a | awk '{print $2}'`
+Cpu=`cat /proc/cpuinfo | grep -i "cpu cores" | wc -l`
+Mem=`free -g | grep -i Mem | awk '{print $2}'`
+echo $Sname > /home/kparuma/Sname.txt
+envir=`cut -c 7 /home/kparuma/Sname.txt`
+if [ "$envir" = p ]
+then
+Environment=PRODUCTION
+else
+Environment=NON-PRODUCTION
+fi
+loc=`cut -c 8-9 /home/kparuma/Sname.txt`
+if [ "$loc" = "em" ]
+then
+Location=MSP
+elif [ "$loc" = "sc" ]
+then
+Location=STC
+
+elif [ "$loc" = "fc" ]
+then
+Location=FC
+else
+Location=Undefiened
+fi
+Os=`uname -a | awk '{print $1}'`
+Version=`cat /etc/redhat-release`
+#Type=`dmidecode -s system-product-name`
+#Hmodel=`dmidecode -s system-manufacturer`
+
+#Type=`dmidecode -s system-product-name | awk '{print $1}'`
+
+#Hmodel=`dmidecode -s system-manufacturer |awk '{print $1}'`
+
+
+
+Type=`echo -e "VMware Virtual Platform" | awk '{print $1}'`
+
+Hmodel=`echo -e "VMware, Inc." |awk '{print $1}'`
+
+if [ "$Type" = "VMware" ]
+then
+Stype=VIRTUAL
+else
+Stype=PHYSICAL
+fi
+
+if [ "$Hmodel" = "VMware," ]
+then
+Hmodel="N/A - Virtual Server"
+else
+echo ""
+#Write command to display the Hardware model for Physical
+fi
+
+
+fun=`cut -c 10-11 /home/kparuma/Sname.txt`
+case "$fun" in
+   "am") Function="Application Monitoring Server"
+   ;;
+   "dh") Function="Database Server Cache"
+   ;;
+"sa") Function="System Admin"
+   ;;
+"do") Function="Database Server Oracle"
+   ;;
+"db") Function="Database Server"
+   ;;
+"wb") Function="Web Server"
+   ;;
+"dx") Function="Database Server- Mixed"
+   ;;
+"ev") Function="Event Monitoring"
+   ;;
+"ls") Function="License Server"
+   ;;
+"dp") Function="Application Depolyment server"
+   ;;
+"cl") Function="Application Cluster Server"
+   ;;
+"hf") Function="Application Server - Heavy Forward"
+   ;;
+"sh") Function="Application Server- Search Head"
+   ;;
+"in") Function="Integration Server"
+   ;;
+*) Function="Application Server"
+   ;;
+esac
+
+Total_disk_Size=`vgs -o vg_name,vg_size,vg_free --units G --nosuffix | sed 1d | awk '{print $2}' | awk '{sum+=$1} END {print (sum)}'`
+Free_disk_size=`vgs -o vg_name,vg_size,vg_free --units G --nosuffix | sed 1d | awk '{print $3}' | awk '{sum+=$1} END {print (sum)}'`
+#echo "Amount of Storage Allocated:" $Total_disk_Size
+Utilized_disk_size=`echo $Total_disk_Size-$Free_disk_size | bc`
+#echo "Amount of Storage Utilized:" $Utilized_disk_size
+
+
+
+
+echo -e "$Sname, $Stype,$Environment,$Location,$Hmodel,$Cpu,$Mem,$Function,$Os,$Version,$Total_disk_Size,$Utilized_disk_size"
+
+#echo -e "\t$Sname \t\t$Type \t\t\t$Environment \t    $Location     \t    $Hmodel \t\t\t  $Cpu  \t\t\t $Mem \t\t $Os \t $Version"
+
+

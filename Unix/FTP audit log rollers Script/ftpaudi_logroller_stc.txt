@@ -1,0 +1,54 @@
+# ******
+# Script for roll the ftp logs for STC site
+#
+# This script is to roll the ftp logs and get is saved to NIM server which can be accessed later for audit and monitor the activities of FTP users.
+# Runs on kourne shell
+# 
+# 
+# 
+# 
+#
+# History:
+#  10-05-2016: Original created by Karthick priya A
+#  
+#  
+# ******
+
+
+
+
+#for STC servers
+#*******************
+
+
+
+#! /bin/ksh
+
+host=`uname -n`
+timestamp=`date +%Y%m%d`
+
+mount -o rw,bg shnwkrpscdd201:/data/col1/stc_cifs_nfs/stc_nfs_mksysb_images /mksysbbackup/backup
+
+
+cp -rp /var/log/ftpaudit/ftpauditlog /var/log/ftpaudit/ftpauditlog_$timestamp
+gzip /var/log/ftpaudit/ftpauditlog_$timestamp
+cp /var/log/ftpaudit/ftpauditlog_$timestamp.gz /mksysbbackup/backup/$host/
+
+
+
+Slogsize=`cd /var/log/ftpaudit ; ls -l | tail -1 | awk '{print $5}'`
+Dlogsize=`cd /mksysbbackup/backup/$host ; ls -ltr | tail -1 | awk '{print $5}'`
+
+
+if [[ $Slogsize == $Dlogsize ]]
+then
+echo "Regular back-up of ftpaudit log file to DD successfully Done" | mail dl-hcl-unix@stanfordhealthcare.org
+rm /var/log/ftpaudit/ftpauditlog_$timestamp.gz
+cp /dev/null /var/log/ftpaudit/ftpauditlog
+
+else
+
+rm /var/log/ftpaudit/ftpauditlog_$timestamp.gz
+echo "Regular back-up of ftpaudit to DD fails.Please run the cron job manually"| mail dl-hcl-unix@stanfordhealthcare.org
+
+fi

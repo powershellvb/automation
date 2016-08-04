@@ -1,0 +1,2106 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Sun Mar 27 09:30:06 2016
+
+   Source : \\shintnpscfs116\T$\Users7\S0001294\
+     Dest : \\shintnpscfs116\W$\T_drive(disabled_users)_users7\users7\S0001294\
+
+    Files : *.*
+	    
+  Options : *.* /TEE /S /E /COPY:DATS /DCOPY:T /ZB /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	  New Dir        506	\\shintnpscfs116\T$\Users7\S0001294\
+	    New File  		  271360	2009 Mail.pst  0%  100%  
+	    New File  		   26112	ABOUT YOUR DIET Version 2.doc  0%  100%  
+	    New File  		   25600	ABOUT YOUR DIET.doc  0%  100%  
+	    New File  		   24576	Adams, Jim - Letter.doc  0%  100%  
+	    New File  		   25088	Alenya Tomate 02-04-04.doc  0%  100%  
+	    New File  		   25088	Alenya Tomate 02-05-04.doc  0%  100%  
+	    New File  		   25088	Aleyna Tomate 01-10-03.doc  0%  100%  
+	    New File  		   33792	Aleyna Tomate 2-5-04.doc  0%  100%  
+	    New File  		   60416	ALTERNATE MENU.doc  0%  100%  
+	    New File  		  273408	Andrea Vaccarella - Recommendation Form.doc  0%  100%  
+	    New File  		   25088	Andrea Vaccarella 02-10-04.doc  0%  100%  
+	    New File  		   16896	Annual Competencies 01 16 03  0%  100%  
+	    New File  		   16896	Annual Competencies 01 16 04.xls  0%  100%  
+	    New File  		   16896	Annual Competencies 11604  0%  100%  
+	    New File  		  137321	application2008.pdf  0%  100%  
+	    New File  		   19968	April 6.doc  0%  100%  
+	    New File  		   4.1 m	archive.pst  0%  100%  
+	    New File  		   24064	August 23.doc  0%  100%  
+	    New File  		   25222	AYR - SHC Rm Service Menu Template  6-16-11.xlsx  0%  100%  
+	    New File  		   25240	AYR - SHC Rm Service Menu Template  6-17-11.xlsx  0%  100%  
+	    New File  		   66048	AYR Chef Specialty Menu Analysis.xls  0%  100%  
+	    New File  		   97144	AYR Chicken photo (7).JPG  0%  100%  
+	    New File  		   10360	AYR Christmas Menu Spreads 2011.xlsx  0%  100%  
+	    New File  		   1.0 m	AYR Core Menu Spreads 5-11.xls  0%  100%  
+	    New File  		   12795	AYR Friday Nonselect 9-2011.xlsx  0%  100%  
+	    New File  		   95725	AYR Halibut photo (7).JPG  0%  100%  
+	    New File  		   70144	AYR I September-2011 Analysis.xls  0%  100%  
+	    New File  		   19039	AYR II 2 MENU ITEM DESCRIPTORS 11-2012.docx  0%  100%  
+	    New File  		   75776	AYR II April-2012 Analysis.xls  0%  100%  
+	    New File  		   74752	AYR II March-2012 Analysis.xls  0%  100%  
+	    New File  		   10528	AYR II Non-Select -FRIDAY.docx  0%  100%  
+	    New File  		   10524	AYR II Non-Select MONDAY.docx  0%  100%  
+	    New File  		   10403	AYR II Non-Select SATURDAY.docx  0%  100%  
+	    New File  		   10883	AYR II Non-Select SUNDAY.docx  0%  100%  
+	    New File  		   10425	AYR II Non-Select THURSDAY.docx  0%  100%  
+	    New File  		   10489	AYR II Non-Select TUESDAY.docx  0%  100%  
+	    New File  		   10428	AYR II Non-Select WEDNESDAY.docx  0%  100%  
+	    New File  		   25323	AYR II Stanford Menu Revisions #2 12-19- 2011.xlsx  0%  100%  
+	    New File  		   25202	AYR II Stanford Menu Revisions 12-07-11.xlsx  0%  100%  
+	    New File  		   25207	AYR II Stanford Menu Revisions 12-14-11.xlsx  0%  100%  
+	    New File  		   25199	AYR II Stanford Menu Revisions 12-15-11.xlsx  0%  100%  
+	    New File  		   25353	AYR II Stanford Menu Revisions 12-19-11.xlsx  0%  100%  
+	    New File  		  712240	AYR II.2 34600 Standard AYR Menu4.pdf  0%  100%  
+	    New File  		  678801	AYR II.2 34600 Standard AYR Menu5.pdf  0%  100%  
+	    New File  		  628688	AYR II.2 37531 Stanford Spanish.pdf  0%  100%  
+	    New File  		  592979	AYR II.2 37531 Stanford Spanish2.pdf  0%  100%  
+	    New File  		  681184	AYR II.2 37623 LPCH Ped Proof 3.pdf  0%  100%  
+	    New File  		   1.4 m	AYR II.2 LPCH 34057 Ped Menu2.pdf  0%  100%  
+	    New File  		   17809	AYR II.2 MENU ITEM DESCRIPTORS 11-2012.docx  0%  100%  
+	    New File  		  767097	AYR II.2 Proof 5 34600 Standard AYR.pdf  0%  100%  
+	    New File  		  679234	AYR II.2 Stanford 34600 Standard Menu7.pdf  0%  100%  
+	    New File  		  872743	AYR II.2 Stanford.pdf  0%  100%  
+	    New File  		   17437	AYR II.2 Stanford_Menu_Changes1.docx  0%  100%  
+	    New File  		  617400	AYR II.237623 LPCH Proof 1.pdf  0%  100%  
+	    New File  		   11752	AYR III Recipe - Maryland Crab Cake 2012.docx  0%  100%  
+	    New File  		   11468	AYR III Recipes - Beet Salad No Feta 2012.docx  0%  100%  
+	    New File  		   11364	AYR III Recipes - Beet Salad with Feta 2012.docx  0%  100%  
+	    New File  		   11551	AYR III Recipes 2012.docx  0%  100%  
+	    New File  		   11379	AYR III Recipes Hoisin Beef Short Rib 2012.docx  0%  100%  
+	    New File  		   11855	AYR III Recipes Zucchini Peaches Macadamia Cream 2012.docx  0%  100%  
+	    New File  		   74752	AYR March-2012 Analysis.xls  0%  100%  
+	    New File  		   10747	AYR -MCR SUPPORT STAFF 11-11  781.docx  0%  100%  
+	    New File  		   4.0 m	AYR Menu 4-19-12.pdf  0%  100%  
+	    New File  		   29005	AYR Menu Grams of CHO 12-2011.docx  0%  100%  
+	    New File  		   28998	AYR Menu Grams of CHO December 2011.docx  0%  100%  
+	    New File  		   13077	AYR MENU ITEM DESCRIPTORS 10-11.docx  0%  100%  
+	    New File  		   18187	AYR MENU ITEM DESCRIPTORS 6-2012.docx  0%  100%  
+	    New File  		   18757	AYR MENU ITEM DESCRIPTORS 8-2012.docx  0%  100%  
+	    New File  		   4.0 m	AYR Menu Stanford 3-14-2012pdf.pdf  0%  100%  
+	    New File  		   13632	AYR Monday Nonselect 9-2011.xlsx  0%  100%  
+	    New File  		   69087	AYR Non Select Menus Regular 2012 (3).xlsx  0%  100%  
+	    New File  		   13180	AYR recipe list 05-02-11.xlsx  0%  100%  
+	    New File  		   13275	AYR recipe list 05-06-11.xlsx  0%  100%  
+	    New File  		   13039	AYR recipe list.xlsx  0%  100%  
+	    New File  		   29948	AYR Reg Paper Menu in Excel.xlsx  0%  100%  
+	    New File  		   10026	AYR Regular Menus 2001.xlsx  0%  100%  
+	    New File  		   11114	AYR Salads and Dressings 9-2011.docx  0%  100%  
+	    New File  		  104066	AYR Salmon photo (7).JPG  0%  100%  
+	    New File  		     140	AYR Salmon.txt  0%  100%  
+	    New File  		   12774	AYR Saturday Nonselect 9-2001.xlsx  0%  100%  
+	    New File  		   26474	AYR Sodium - Cholesterol Values December 2011.docx  0%  100%  
+	    New File  		   26239	AYR Sodium Values December 2011.docx  0%  100%  
+	    New File  		   26245	AYR Sodium Values Oct 2011.docx  0%  100%  
+	    New File  		   1.4 m	AYR Standard Nutrient-Cost Analysis Apr 11-12 (2).xls  0%  100%  
+	    New File  		   1.4 m	AYR Standard Nutrient-Cost Analysis August 2012.xls  0%  100%  
+	    New File  		   20962	AYR Stanford Menu Revisions 11-21-11.xlsx  0%  100%  
+	    New File  		   21821	AYR Stanford Menu Revisions 11-22-11.xlsx  0%  100%  
+	    New File  		   22913	AYR Stanford Menu Revisions 12-01-11.xlsx  0%  100%  
+	    New File  		   97689	AYR Steak photo (6).JPG  0%  100%  
+	    New File  		   96027	AYR Strudelphoto (6).JPG  0%  100%  
+	    New File  		   13020	AYR Sunday Nonselect 9-2011.xlsx  0%  100%  
+	    New File  		   13730	AYR Thursday Nonselect 9-2011.xlsx  0%  100%  
+	    New File  		  149504	AYR Tray Assessment Form 2011_tcm238-571415.xls  0%  100%  
+	    New File  		   13146	AYR Tuesday Nonselect 9-2011.xlsx  0%  100%  
+	    New File  		   12858	AYR Wednesday Nonselect 9-2011.xlsx  0%  100%  
+	    New File  		   17647	AYRII.2 MENU DESCRIPTORS 11-2012.docx  0%  100%  
+	    New File  		  197763	Bego¤a Greencard Original.jpg  0%  100%  
+	    New File  		  173840	Bego¤a Greencard.jpg  0%  100%  
+	    New File  		   33280	Broth Content - Gluten-Soy-Corn 1-08.doc  0%  100%  
+	    New File  		  262262	Candied Ginger-Citrus Cookies.pdf  0%  100%  
+	    New File  		       0	Candied Ginger-Citrus Cookies.txt100%  
+	    New File  		   86016	Carbohydrate Content of Foods 3-07.doc  0%  100%  
+	    New File  		   26112	Carbohydrates and Insulin Therapy.doc  0%  100%  
+	    New File  		   31744	Case Study Evaluation Forms - Preceptor  Clinical Staff.doc  0%  100%  
+	    New File  		   25088	CBORD Food Station - Breakfast.doc  0%  100%  
+	    New File  		   24576	CBORD Food Station - Lunch.doc  0%  100%  
+	    New File  		   43008	CBORD Food Stations.doc  0%  100%  
+	    New File  		  165376	CBORD Menu templates.doc  0%  100%  
+	    New File  		   60416	CBORD SHC Training Manual.doc  0%  100%  
+	    New File  		   21843	Cherry Pie Nutrition Composition.pdf  0%  100%  
+	    New File  		   44032	Cherry Pie Presidents' Day.DOC  0%  100%  
+	    New File  		   25088	Children's Cafe 6-22-09.doc  0%  100%  
+	    New File  		   20480	Chinese New Year Flyer 2010.xls  0%  100%  
+	    New File  		  535040	Christmas  Day Menu 2012 REVISED.xls  0%  100%  
+	    New File  		   19968	Christmas 09 Non Select.xls  0%  100%  
+	    New File  		  534016	Christmas Day Menu 2011 (2).xls  0%  100%  
+	    New File  		   16896	Christmas Spread Sheet 2006.xls  0%  100%  
+	    New File  		   35328	Christmas09Nutrition.xls  0%  100%  
+	    New File  		   70038	C-I-CARE Food_Services_FINAL.docx  0%  100%  
+	    New File  		   13322	CICARE PT SERV rounding monthly schedule checklist.xlsx  0%  100%  
+	    New File  		   14634	CICARE rounding monthly rounding checklist December 2011.xlsx  0%  100%  
+	    New File  		   18432	Clear Liquid Wired Jaw.xls  0%  100%  
+	    New File  		   27136	Cleveland Clinic Foundation.doc  0%  100%  
+	    New File  		   74240	Conflict.doc  0%  100%  
+	    New File  		   37376	Cookbook list1.doc  0%  100%  
+	    New File  		   95725	Copy of AYR Halibut photo (7).JPG  0%  100%  
+	    New File  		   35505	Copy of AYR Reg Paper Menu in Excel 2012 UPDATED 11-8-12.xlsx  0%  100%  
+	    New File  		     140	Copy of AYR Salmon.txt  0%  100%  
+	    New File  		   20480	Copy of NON SELECT THURSDAY.xls  0%  100%  
+	    New File  		   27648	Copy of tech menu grid.xls  0%  100%  
+	    New File  		   18944	Cream Soup Rotation.2-25-08.xls  0%  100%  
+	    New File  		   91973	CSA Group Go Policy - 2007 5205_GR70 Group Cert_1206.pdf  0%  100%  
+	    New File  		       0	cupcake_season_easter 2010.txt100%  
+	    New File  		   10593	DA INSERVICES     WEEK OF NOVEMBER 14.docx  0%  100%  
+	    New File  		   10760	Daily Huddle 11-17-11.docx  0%  100%  
+	    New File  		   32768	Day #4 Initial Visit.doc  0%  100%  
+	    New File  		   25088	Dear Unit Educator.doc  0%  100%  
+	    New File  		    1734	Default.rdp  0%  100%  
+	    New File  		      79	desktop.ini  0%  100%  
+	    New File  		  102400	DI_Recommendation_Form.doc  0%  100%  
+	    New File  		   35328	Diet Assistant Inservices 2012-2013.doc  0%  100%  
+	    New File  		   15220	Diet Comments.xlsx  0%  100%  
+	    New File  		   15009	Diet- Epic Comments 6-13-12.xlsx  0%  100%  
+	    New File  		   2.0 m	Dietary Guidelines for Americans.ppt  0%  100%  
+	    New File  		  344064	Dietetic Intern Contract 2006.DOC  0%  100%  
+	    New File  		  353792	Dietetic Intern Contract.DOC  0%  100%  
+	    New File  		   30208	Dietetic Intern Orientation 2008.doc  0%  100%  
+	    New File  		   25088	Dietetic Intern- Staff Relief Evaluation.doc  0%  100%  
+	    New File  		   53760	DIETITIAN EDUCATIONAL EVENTS 2.doc  0%  100%  
+	    New File  		   52224	DIETITIAN EDUCATIONAL EVENTS 2004.doc  0%  100%  
+	    New File  		   46080	DIETITIAN EDUCATIONAL EVENTS 2005.doc  0%  100%  
+	    New File  		   50176	DIETITIAN EDUCATIONAL EVENTS 2006.doc  0%  100%  
+	    New File  		   40960	DIETITIAN EDUCATIONAL EVENTS 2007.doc  0%  100%  
+	    New File  		   37888	DIETITIAN EDUCATIONAL EVENTS 2008.doc  0%  100%  
+	    New File  		   36864	DIETITIAN EDUCATIONAL EVENTS 2009.doc  0%  100%  
+	    New File  		   38400	DIETITIAN EDUCATIONAL EVENTS 2010.doc  0%  100%  
+	    New File  		   36352	DIETITIAN EDUCATIONAL EVENTS 2011.doc  0%  100%  
+	    New File  		   24064	Dietitian Flyer.doc  0%  100%  
+	    New File  		    7149	Dietitian Ladder.htm  0%  100%  
+	    New File  		   25088	Dietitian Professional Ladder 2003.doc  0%  100%  
+	    New File  		   29184	Dietitian Professional Ladder 2004.doc  0%  100%  
+	    New File  		   24064	Dietitian Professional Ladder 2005.doc  0%  100%  
+	    New File  		   30720	Dietitian Professional Ladder 2006.doc  0%  100%  
+	    New File  		   30208	Dietitian Professional Ladder Requirements 1.doc  0%  100%  
+	    New File  		  924160	Disaster Plan Dept LPCH Clinical Nutrition 2007.doc  0%  100%  
+	    New File  		  935936	Disaster Plan Dept SHC Clinical Nutrition 2007.doc  0%  100%  
+	    New File  		   10086	Doc1.docx  0%  100%  
+	    New File  		   29696	Doc3.doc  0%  100%  
+	    New File  		   23040	Dress Code Policy.doc  0%  100%  
+	    New File  		   24064	DT Increases.doc  0%  100%  
+	    New File  		   43008	DT Meetings  Inservices FY2005.doc  0%  100%  
+	    New File  		   26112	DT Update.doc  0%  100%  
+	    New File  		   36864	EASTER 2011.DOC  0%  100%  
+	    New File  		   36864	EASTER 2012.DOC  0%  100%  
+	    New File  		   24064	eat.doc  0%  100%  
+	    New File  		   27136	Eating DO Guidelines_for Pt.doc  0%  100%  
+	    New File  		   25088	EMPLOYEE DEVELOPMENT PLAN2.doc  0%  100%  
+	    New File  		   24576	Epic 3-24 08 Nutrition Techs.doc  0%  100%  
+	    New File  		   26624	Epic 3-24-08 Dietitians.doc  0%  100%  
+	    New File  		   25088	Epic 3-31-08 Dietitians.doc  0%  100%  
+	    New File  		   26624	Epic 3-31-08 Nutrition Techs.doc  0%  100%  
+	    New File  		   24064	Evaluation  2006.doc  0%  100%  
+	    New File  		   24064	Evaluation 2007.doc  0%  100%  
+	    New File  		   22108	Excel Non Select Menus 2012.xlsx  0%  100%  
+	    New File  		   18854	Excel Non Select Menus.xlsx  0%  100%  
+	    New File  		   10558	Excel Non Select Renal Menu.xlsx  0%  100%  
+	    New File  		   26624	Explanation of Special.doc  0%  100%  
+	    New File  		   16800	exposure list form for department managers.docx  0%  100%  
+	    New File  		   27136	EXTREME MAKEOVER.doc  0%  100%  
+	    New File  		   15692	Farm Fresh - Reasons to Decline 7-10.docx  0%  100%  
+	    New File  		  261632	Farm Fresh Script 6-17-10.doc  0%  100%  
+	    New File  		  263680	Farm Fresh Script 7-2-09.doc  0%  100%  
+	    New File  		   48128	FATHER'S DAY2012.DOC  0%  100%  
+	    New File  		   24576	Feedback from Techs for  Menu Committee         2.doc  0%  100%  
+	    New File  		   11070	FGR Patient Comments.docx  0%  100%  
+	    New File  		   24064	Flyer - Nutrition Technician.doc  0%  100%  
+	    New File  		   24576	Flyer - Registered Dietitian.doc  0%  100%  
+	    New File  		   24064	Flyer- Nutrition Technician.doc  0%  100%  
+	    New File  		   24064	Flyer- Registered Dietitian.doc  0%  100%  
+	    New File  		   27648	FOCUS - PDCA.doc  0%  100%  
+	    New File  		   42496	Follow Up doc1-09.doc  0%  100%  
+	    New File  		   28160	Food Allergies.doc  0%  100%  
+	    New File  		   12056	Food Service - Tray Line 9-8-10.docx  0%  100%  
+	    New File  		   37376	Food Service and Clinical Nutrition Meeting.doc  0%  100%  
+	    New File  		   24576	Food Service and Clinical Nutrition.doc 10-25-06.doc  0%  100%  
+	    New File  		   24576	Frequently Asked Questions..doc  0%  100%  
+	    New File  		   81408	Fresh Fruit Rotation 2-21-11.xls  0%  100%  
+	    New File  		   18432	Full Liquid Wired Jaw.xls  0%  100%  
+	    New File  		   33792	G2P-H2 - Screening Patients for Nutritional Ris.doc  0%  100%  
+	    New File  		   39424	Gluten Free Menu Items 06-14-12.doc  0%  100%  
+	    New File  		   1.2 m	Google Grains.doc  0%  100%  
+	    New File  		  157505	Graphic for Newsletters.JPG  0%  100%  
+	    New File  		   56320	Greece -2010 trip - registration form final 2.doc  0%  100%  
+	    New File  		   53248	Halloween2012.DOC  0%  100%  
+	    New File  		  336435	Health Touch Diet Order Screen Shots.docx  0%  100%  
+	    New File  		   25600	Heather Witkowski 1-19-10doc.doc  0%  100%  
+	    New File  		  486912	Holiday cookie 2012 Revised.xls  0%  100%  
+	    New File  		  461824	Holiday ginger bread cookie 2012(2).xls  0%  100%  
+	    New File  		   40448	Holiday Schedule 2006-2007.doc  0%  100%  
+	    New File  		   47616	Holidays - Independence Day 2012.DOC  0%  100%  
+	    New File  		   38400	Holidays - Labor day 2012.DOC  0%  100%  
+	    New File  		   11255	Holidays Worked 2006-2010.docx  0%  100%  
+	    New File  		   26624	Home Tube Feeding Guidelines.doc  0%  100%  
+	    New File  		   12288	HR eval Lynn's input.doc  0%  100%  
+	    New File  		   48640	HR-performance eval - 10-08 - Diane West.doc  0%  100%  
+	    New File  		   55296	HR-performance eval - 10-09  0%  100%  
+	    New File  		   45568	HR-performance eval - 10-10.doc  0%  100%  
+	    New File  		   36864	HR-performance eval - mgmt self eval gen.doc  0%  100%  
+	    New File  		   1.1 m	HT food items Screens.docx  0%  100%  
+	    New File  		   16546	Huddle Templete Daily Huddle 11-11-11.docx  0%  100%  
+	    New File  		   47616	Independence Day 2012.DOC  0%  100%  
+	    New File  		  175104	Industry Interactions - Education Council rev1.ppt  0%  100%  
+	    New File  		   42496	Inservice Form TrainAttendrec.doc  0%  100%  
+	    New File  		   25600	Insurance Claim 8-19-08.doc  0%  100%  
+	    New File  		   26624	Interdisciplinary Assess & Reass.doc  0%  100%  
+	    New File  		   30208	INTERNATIONAL LUNCH 8-14-07.doc  0%  100%  
+	    New File  		  972800	Internship Agreement '04.doc  0%  100%  
+	    New File  		   34816	Internship Orientation 2008.doc  0%  100%  
+	    New File  		   13758	Interview Questions. 2012docx.docx  0%  100%  
+	    New File  		   24576	Jenilee Baluyot 9-10-09.doc  0%  100%  
+	    New File  		   24576	Jennifer Bryant.doc  0%  100%  
+	    New File  		   25088	Kay Mungaray - Rose Nomination.doc  0%  100%  
+	    New File  		   10207	KITCHEN FUSE # 23 - DO NOT PLUG PLATE WARMER.docx  0%  100%  
+	    New File  		   11779	Kosher Diet.docx  0%  100%  
+	    New File  		  153600	Kosher Symbols.doc  0%  100%  
+	    New File  		   21504	L. Chatterjee- Clinical Rotation.doc  0%  100%  
+	    New File  		   26624	LastWord Changes 3-23-05.doc  0%  100%  
+	    New File  		   69120	Lisa Gilliland Resume 2008.doc  0%  100%  
+	    New File  		  128000	Lorraine Chatterjee QI.xls  0%  100%  
+	    New File  		   10403	low fiber.xlsx  0%  100%  
+	    New File  		   24576	LPCH Patient Relations.doc  0%  100%  
+	    New File  		   24576	Lucy Asumang.doc  0%  100%  
+	    New File  		   28160	Lynn Dennie-DW feedback.doc  0%  100%  
+	    New File  		  101888	Mabel Negrillo - DI_Recommendation_Form.doc  0%  100%  
+	    New File  		   29696	Mabel Negrillo 10-10-05.doc  0%  100%  
+	    New File  		   26624	Mabel Negrillo 1-09.doc  0%  100%  
+	    New File  		   20480	Mabel Negrillo.doc  0%  100%  
+	    New File  		   33280	Major Case Study - RD Evaluation.doc  0%  100%  
+	    New File  		   34816	Management Self Evaluation.doc  0%  100%  
+	    New File  		   32768	MEAL PATTERN.xls  0%  100%  
+	    New File  		   26112	Mechanical Soft Diets.doc  0%  100%  
+	    New File  		   94208	MEMORIAL DAY 2012 (2).DOC  0%  100%  
+	    New File  		   24576	Menu - Pediatric Oct05.xls  0%  100%  
+	    New File  		   39424	Menu audit - fulfillment of diet order 1-10.doc  0%  100%  
+	    New File  		   29696	Menu audit - fulfillment of diet order 2-10.doc  0%  100%  
+	    New File  		   24064	MENU BRAINSTORMS.11-10-06doc.doc  0%  100%  
+	    New File  		   33792	Menu Changes 9-15-08.xls  0%  100%  
+	    New File  		   29184	Menu Dinner 11-06.doc  0%  100%  
+	    New File  		   12919	MENU ITEM DESCRIPTORS 2011.docx  0%  100%  
+	    New File  		   27136	Menu Meeting 6-06.doc  0%  100%  
+	    New File  		   29184	Menu Meeting 6-28-07.doc  0%  100%  
+	    New File  		   24576	Menu Monitoring Guidelines.doc  0%  100%  
+	    New File  		   24064	Menu Monitoring Months of November 2005.doc  0%  100%  
+	    New File  		   24576	MENU Pick up Codes 3-06.doc  0%  100%  
+	    New File  		   27648	Menu Pick-Up Standards  3-06.doc  0%  100%  
+	    New File  		   28160	MENU REQUESTS  08-04-05.doc  0%  100%  
+	    New File  		   29184	MENU REQUESTS  08-11-05.doc  0%  100%  
+	    New File  		   28160	Menu Revisions - Breakfast - 11-06.doc  0%  100%  
+	    New File  		   29184	Menu Revisions - Dinner 11-07.doc  0%  100%  
+	    New File  		   29184	Menu Revisions - Lunch- 11-07.doc  0%  100%  
+	    New File  		   25088	Menu Suggestions - 102504.doc  0%  100%  
+	    New File  		   24064	Menu.doc  0%  100%  
+	    New File  		   25600	Menus - 7 Day Cycle.doc  0%  100%  
+	    New File  		   24064	Menus Written - Reasons.doc  0%  100%  
+	    New File  		   24064	Monce-Lawas 1.doc  0%  100%  
+	    New File  		   26112	Monce-Lawas 2.doc  0%  100%  
+	    New File  		   81582	National Nutrition Month 2011.docx  0%  100%  
+	    New File  		   24064	National Nutrition Month.doc  0%  100%  
+	    New File  		   32256	NEW MEAL PATTERN.12-08.xls  0%  100%  
+	    New File  		   25088	NEW PROCEDURE.doc  0%  100%  
+	    New File  		  545792	New Years  Day Special Revised 2013.xls  0%  100%  
+	    New File  		   1.9 m	NNM - 2009 LPCH.doc  0%  100%  
+	    New File  		   1.9 m	NNM - 2009 SHC.doc  0%  100%  
+	    New File  		   39936	NNM Breakfast Attendees LPCH 2009.doc  0%  100%  
+	    New File  		   47104	NNM Breakfast Attendees SHC 2009.doc  0%  100%  
+	    New File  		   1.9 m	NNM Eat Right Logo 2009 - 1.doc  0%  100%  
+	    New File  		   24064	NNM Eat Right Logo 2009 - 2.doc  0%  100%  
+	    New File  		   10654	NNM Letter Draft 1-28-11.docx  0%  100%  
+	    New File  		  145445	NNM Photo - 2011.docx  0%  100%  
+	    New File  		   11332	Non Select Dinner RenalDiet.docx  0%  100%  
+	    New File  		   10926	Non select Low chol Dinner.docx  0%  100%  
+	    New File  		   10651	non select low chol lunchDiet.docx  0%  100%  
+	    New File  		   10645	Non Select Reg BreakfastDiet.docx  0%  100%  
+	    New File  		   11071	Non Select Regular Dinner.docx  0%  100%  
+	    New File  		   10607	Non Select Regular Lunch.docx  0%  100%  
+	    New File  		   10672	non select renal lunDiet.docx  0%  100%  
+	    New File  		   10889	Non Select sp renal Breakfast.docx  0%  100%  
+	    New File  		   10756	nonselect heart healthy Brk.docx  0%  100%  
+	    New File  		   10630	Non-Select LMD Breakfast.docx  0%  100%  
+	    New File  		   10621	Non-Select LMD Lunch.docx  0%  100%  
+	    New File  		   11090	Non-Select Low Microbial Dinner.docx  0%  100%  
+	    New File  		    3990	NON-SELECT MENU 4-15-09.htm  0%  100%  
+	    New File  		   51200	Non-Select Menus Composition 6-10.doc  0%  100%  
+	    New File  		   26624	Nut Breakfast 4-08.xls  0%  100%  
+	    New File  		   35840	Nut Friday 4-08.xls  0%  100%  
+	    New File  		   35840	Nut Monday 4-08.xls  0%  100%  
+	    New File  		   44544	Nut Peds Menu.xls  0%  100%  
+	    New File  		   36864	Nut Saturday 4-08.xls  0%  100%  
+	    New File  		   36352	Nut Sunday 4-08LD.xls  0%  100%  
+	    New File  		   35840	Nut Thursday 4-08.xls  0%  100%  
+	    New File  		   35328	Nut Tuesday LD 4-08.xls  0%  100%  
+	    New File  		   35328	Nut Wednesday 4-08.xls  0%  100%  
+	    New File  		   73728	Nut Write-In List1.xls  0%  100%  
+	    New File  		   37888	Nutrition Assessment Form 02-02-05.doc  0%  100%  
+	    New File  		   14092	Nutrition Composition - Non-Select Menus 7-30-10.docx  0%  100%  
+	    New File  		   31744	Nutrition Composition of St.doc  0%  100%  
+	    New File  		   18279	Nutrition Info.Thanksgiving 2010.docx  0%  100%  
+	    New File  		   15752	Nutrition Information for Christmas 2010.docx  0%  100%  
+	    New File  		   24064	Nutrition Information Request 2.doc  0%  100%  
+	    New File  		   24064	Nutrition Information Request.doc  0%  100%  
+	    New File  		   32256	Nutrition Tech Cost Centers.9-08.doc  0%  100%  
+	    New File  		   24064	Nutrition Tech Flyer.doc  0%  100%  
+	    New File  		   28672	Nutrition Tech QA Summary FY-08.doc  0%  100%  
+	    New File  		   31232	Nutrition Technician to RD Risk Referrals LPCH.doc  0%  100%  
+	    New File  		   30208	Nutrition Technician to RD Risk Referrals SHC.doc  0%  100%  
+	    New File  		   26624	Nutrition Technicians Clinical QA 2008.doc  0%  100%  
+	    New File  		   22016	Nutrition Techs - WorkSchedulesTemplate.xls  0%  100%  
+	    New File  		   37888	Nutrition Techs Rounding Schedule 2-09.doc  0%  100%  
+	    New File  		   33280	Nutrition Vision and Objectives 1.doc  0%  100%  
+	    New File  		   38400	Nutrition Vision and Objectives 2.doc  0%  100%  
+	    New File  		  507392	OMO Configurable Parameters - Visual Examples 3-14-2012.doc  0%  100%  
+	    New File  		   30208	OMO Configurable Parameters Worksheet 3-14-2012.xls  0%  100%  
+	    New File  		   36864	Oral Supplements 4-08.doc  0%  100%  
+	    New File  		 340.5 m	outlook.ost  0.0%  4.6%  9.3% 14.0% 18.7% 23.4% 28.1% 32.8% 37.5% 42.2% 46.9% 51.6% 56.3% 61.0% 65.7% 70.4% 75.1% 79.8% 84.5% 89.2% 93.9% 98.6%100%  
+	    New File  		 250.1 m	outlook0.ost  0.0%  6.3% 12.7% 19.1% 25.5% 31.9% 38.3% 44.7% 51.1% 57.5% 63.9% 70.3% 76.7% 83.1% 89.5% 95.9%100%  
+	    New File  		 376.8 m	outlook1 (S0001294 v1).ost  0.0%  4.2%  8.4% 12.7% 16.9% 21.2% 25.4% 29.7% 33.9% 38.2% 42.4% 46.7% 50.9% 55.1% 59.4% 63.6% 67.9% 72.1% 76.4% 80.6% 84.9% 89.1% 93.4% 97.6%100%  
+	    New File  		 113.6 m	outlook1 (s0001294 v2).ost  0.0% 14.0% 28.1% 42.2% 56.3% 70.4% 84.5% 98.5%100%  
+	    New File  		 612.2 m	outlook1.ost  0.0%  2.6%  5.2%  7.8% 10.4% 13.0% 15.6% 18.2% 20.9% 23.5% 26.1% 28.7% 31.3% 33.9% 36.5% 39.1% 41.8% 44.4% 47.0% 49.6% 52.2% 54.8% 57.4% 60.1% 62.7% 65.3% 67.9% 70.5% 73.1% 75.7% 78.3% 81.0% 83.6% 86.2% 88.8% 91.4% 94.0% 96.6% 99.3%100%  
+	    New File  		   57856	PASSOVER 2011.DOC  0%  100%  
+	    New File  		   25088	Pat Kearney.doc  0%  100%  
+	    New File  		   16586	Patient Education Materials 2011.txt  0%  100%  
+	    New File  		   26112	Patient Referral to Food Services Procedure.doc  0%  100%  
+	    New File  		   27648	Patient Reminder 01-24-06 Menus.doc  0%  100%  
+	    New File  		   22016	Patient Satisfaction Summary of Meetings.doc  0%  100%  
+	    New File  		   34304	Patient Write In List - 3-07.doc  0%  100%  
+	    New File  		   25088	PCS Professional Development 2-06.doc  0%  100%  
+	    New File  		   66048	PCS Survey 2003 Report Template4.doc  0%  100%  
+	    New File  		  214016	Pediatric Cycle Menu 9-14-10 (2).xls  0%  100%  
+	    New File  		   29184	PEDIATRIC HEART HEALTHY SNACK.doc  0%  100%  
+	    New File  		   23040	Pediatric Menu 03-08.xls  0%  100%  
+	    New File  		   29696	PEDIATRIC MENU TASTE TESTING 9.21.07.doc  0%  100%  
+	    New File  		   51712	Pediatric Menu Taste Testing Results 9.27.07.doc  0%  100%  
+	    New File  		   19456	Pediatric Taste Testing 10.04.07.xls  0%  100%  
+	    New File  		   16384	Pediatric Taste Testing 9.27.07.xls  0%  100%  
+	    New File  		   49664	Performance Appraisal Part C.doc  0%  100%  
+	    New File  		   56320	Performance eval - mgmt self eval gen.doc  0%  100%  
+	    New File  		  167936	Performance eval - mgmt standards AB rev 8.061.doc  0%  100%  
+	    New File  		   32256	PERFORMANCE EVALUATION.doc  0%  100%  
+	    New File  		   25088	Pictures needed.doc  0%  100%  
+	    New File  		   32768	Policy - Approved Write Ins - 2-28-06.doc  0%  100%  
+	    New File  		   32768	Policy - Approved Write Ins -3-06.doc  0%  100%  
+	    New File  		   33280	Policy - Approved Write Ins -4-06.doc  0%  100%  
+	    New File  		   33792	Policy - Approved Write Ins 4-07.doc  0%  100%  
+	    New File  		   34304	Policy - Approved Write Ins -6-06.doc  0%  100%  
+	    New File  		   23552	Post Gastric Diet Snacks.doc  0%  100%  
+	    New File  		   53760	Professional Development - Form.doc  0%  100%  
+	    New File  		  248832	Professional Development Portfolio 8-14-07.doc  0%  100%  
+	    New File  		   38912	Pros and Cons 01-28-05.doc  0%  100%  
+	    New File  		   37888	Pt Satisfaction Improvement Opportunities Meeting 01.31.08.doc  0%  100%  
+	    New File  		   38400	Pt Satisfaction Improvement Opportunities Meeting 01-22-09.doc  0%  100%  
+	    New File  		   37888	Pt Satisfaction Improvement Opportunities Meeting 02.28.08.doc  0%  100%  
+	    New File  		   39424	Pt Satisfaction Improvement Opportunities Meeting 03-26-09.doc  0%  100%  
+	    New File  		   35840	Pt Satisfaction Improvement Opportunities Meeting 05-07-09.doc  0%  100%  
+	    New File  		   35328	Pt Satisfaction Improvement Opportunities Meeting 06-25-10.doc  0%  100%  
+	    New File  		   33280	Pt Satisfaction Improvement Opportunities Meeting 07.31.08.doc  0%  100%  
+	    New File  		   40448	Pt Satisfaction Improvement Opportunities Meeting 08.28.08.doc  0%  100%  
+	    New File  		   36352	Pt Satisfaction Improvement Opportunities Meeting 08-11-09.doc  0%  100%  
+	    New File  		   38400	Pt Satisfaction Improvement Opportunities Meeting 09.25.08.doc  0%  100%  
+	    New File  		   39424	Pt Satisfaction Improvement Opportunities Meeting 10.23.08.doc  0%  100%  
+	    New File  		   35840	Pt Satisfaction Improvement Opportunities Meeting 10-29-09.doc  0%  100%  
+	    New File  		   39424	Pt Satisfaction Improvement Opportunities Meeting10.16.07.doc  0%  100%  
+	    New File  		   39936	Pt Satisfaction Improvement Opportunities Meeting7.12.07.doc  0%  100%  
+	    New File  		   52736	Pt Satisfaction Improvement Opportunities Meeting7.26.07R.doc  0%  100%  
+	    New File  		   46080	Pt Satisfaction Improvement Opportunities Meeting8.2.07R.doc  0%  100%  
+	    New File  		   36352	Pt Satisfaction Improvement Opportunities Meeting9.20.07.doc  0%  100%  
+	    New File  		   24064	Puree menu 8-09.xls  0%  100%  
+	    New File  		   11470	Pureed Molds.docx  0%  100%  
+	    New File  		   25600	QA.doc- 10-07.doc  0%  100%  
+	    New File  		   24064	QA.doc 1-08.doc  0%  100%  
+	    New File  		   26112	QI - Guidelines 10-25-05.doc  0%  100%  
+	    New File  		   28160	QI - Menus 10-19-05.doc  0%  100%  
+	    New File  		   38400	QI Menu audit - fulfillment of diet order 1-10.doc  0%  100%  
+	    New File  		   46592	Quality - October 2008.doc  0%  100%  
+	    New File  		   56832	RD Cost Center Assignments 01-27-11.doc  0%  100%  
+	    New File  		   60416	RD Cost Center Assignments 06-13-11.doc  0%  100%  
+	    New File  		   55296	RD Cost Center Assignments 8-25-10  0%  100%  
+	    New File  		   54784	RD Cost Center Assignments 8-25-10.doc  0%  100%  
+	    New File  		   54784	RD Cost Center Assignments 9-14-10.doc  0%  100%  
+	    New File  		  137275	RD dashboard template.rtf  0%  100%  
+	    New File  		   28672	RD Ladder 2005.doc  0%  100%  
+	    New File  		   25600	Response for MD 9-08.doc  0%  100%  
+	    New File  		   29117	Rough Draft.htm  0%  100%  
+	    New File  		   55808	Rounding wksheet update.xls  0%  100%  
+	    New File  		   25088	Same Day Dinner Menu Collection.1-12-10doc.doc  0%  100%  
+	    New File  		   25088	Same Day Dinner Menu Collection.5-27-10doc.doc  0%  100%  
+	    New File  		    3990	Same Day Menu Non Select.htm  0%  100%  
+	    New File  		   26624	Same Day Menu Scripting.doc  0%  100%  
+	    New File  		   10249	Sample Meals - 75 grams CHO per meal.xlsx  0%  100%  
+	    New File  		  271360	Save Sent Mail.pst  0%  100%  
+	    New File  		   30720	Screening Patients for Nutritional Risk 09-16-08.doc  0%  100%  
+	    New File  		   30720	Screening Patients for Nutritional Risk.doc  0%  100%  
+	    New File  		       0	Secure email. 6-2012txt.txt100%  
+	    New File  		   17044	Selecting Your Meals on TV.docx  0%  100%  
+	    New File  		  988672	SHC - Disaster Plan Dept. Clinical Nutrition.doc  0%  100%  
+	    New File  		   26624	SHC - Write-In Menu Items 10-21-09.doc  0%  100%  
+	    New File  		   26624	SHC - Write-In Menu Items 10-26-09.doc  0%  100%  
+	    New File  		   32768	SHC - Write-In Menu Items 10-27-09.doc  0%  100%  
+	    New File  		   26624	SHC - Write-In Menu Items 10-29-09.doc  0%  100%  
+	    New File  		   38400	SHC - Write-In Menu Items 10-30-09.doc  0%  100%  
+	    New File  		   60416	SHC CBORD Training Manual.doc  0%  100%  
+	    New File  		   24576	SHC Menu Audit FY 2010.doc  0%  100%  
+	    New File  		   55808	Skylight Access.doc  0%  100%  
+	    New File  		   71168	Skylight Access1.doc  0%  100%  
+	    New File  		   31232	Skylight Content template (3).doc  0%  100%  
+	    New File  		   23792	Skylight Dairy.jpg  0%  100%  
+	    New File  		   10699	Skylight Diet Orders 4-24-2012.docx  0%  100%  
+	    New File  		   10784	Skylight Diet Orders 6-18-2012.docx  0%  100%  
+	    New File  		  359473	Skylight Fresh Fruit .docx  0%  100%  
+	    New File  		   51548	Skylight Fresh Vegetables II.docx  0%  100%  
+	    New File  		  776681	Skylight Fresh Vegetables.docx  0%  100%  
+	    New File  		   36536	Skylight Fruits.jpg  0%  100%  
+	    New File  		   38054	Skylight Grains.jpg  0%  100%  
+	    New File  		   16013	SKYLIGHT MENU ITEMS 4-24-12.docx  0%  100%  
+	    New File  		   14823	Skylight Orders June 1-11-2012.xlsx  0%  100%  
+	    New File  		  428940	Skylight pictures 1.jpg  0%  100%  
+	    New File  		  529622	Skylight pictures 2.jpg  0%  100%  
+	    New File  		   1.3 m	skylight pictures.ppt  0%  100%  
+	    New File  		   31149	Skylight Salmon.jpg  0%  100%  
+	    New File  		   26051	Skylight StrawberryPicture1.jpg  0%  100%  
+	    New File  		   41880	Skylight Usage 2012.xlsx  0%  100%  
+	    New File  		   39970	Skylight Vegetables.jpg  0%  100%  
+	    New File  		   26112	Sodexho  Meetings.doc  0%  100%  
+	    New File  		   45568	SPECIAL REQUEST SELECTIONS.doc  0%  100%  
+	    New File  		   33280	St  Patrick Flyer.xls  0%  100%  
+	    New File  		   16896	Staff Development Record 1-2004 pilot1.xls  0%  100%  
+	    New File  		    7113	Staff Development.htm  0%  100%  
+	    New File  		   25600	Standards - Pick up Menus 2-06.doc  0%  100%  
+	    New File  		   14336	Stanford  Diet Orders 07 30 04.xls  0%  100%  
+	    New File  		   14336	Stanford  Diet Orders.xls  0%  100%  
+	    New File  		   26624	Stanford NSS Diet Codes1.xls  0%  100%  
+	    New File  		   98304	Stanford University Medical Center (Dietary) OH 1 of 1 2012 SR 597658.doc  0%  100%  
+	    New File  		  138752	Step-by-Step_changing Patient List properties.doc  0%  100%  
+	    New File  		  198656	Step-by-Step_elearning_update.doc  0%  100%  
+	    New File  		  309760	Step-by-Step_MyList_Nutr_Tech.doc  0%  100%  
+	    New File  		  222208	Step-by-Step_sharing Patient List.doc  0%  100%  
+	    New File  		  180224	Step-by-Step_Smartphrase.doc  0%  100%  
+	    New File  		  181760	Step-by-Step_Wrenching quick buttons.doc  0%  100%  
+	    New File  		   12258	SUMC IT Network & Application Form.htm  0%  100%  
+	    New File  		    1282	SWWATER.INI  0%  100%  
+	    New File  		   33280	test.doc  0%  100%  
+	    New File  		  206336	Thank you for.doc  0%  100%  
+	    New File  		   56832	Thank you OTR and SLP.doc  0%  100%  
+	    New File  		   24064	Thank you.doc  0%  100%  
+	    New File  		  382464	Thanksgiving Day Menu 2011 (2).xls  0%  100%  
+	    New File  		  382976	Thanksgiving Day Menu 2012.xls  0%  100%  
+	    New File  		  382976	Thanksgiving Day Menu 2012revised.xls  0%  100%  
+	    New File  		  392704	Thanksgiving Pumpkin Pie 2012.xls  0%  100%  
+	    New File  		   11607	Top 10 Nutrition Tips.docx 3-14-11.docx  0%  100%  
+	    New File  		  111104	trace32.exe  0%  100%  
+	    New File  		   29184	Trans Hints for nausea and vomitingSPANISH.doc  0%  100%  
+	    New File  		   32768	Trans-Nutrition during Cancer Treatment SPANISH.doc  0%  100%  
+	    New File  		   30208	Trans-Nutrition for ChemotherapySPANISH.doc  0%  100%  
+	    New File  		   34304	Tray Carrier Inservices 2012-2013.doc  0%  100%  
+	    New File  		  694784	Valentine's Day 10.DOC  0%  100%  
+	    New File  		   26624	Vegan Pesto Pizza.doc  0%  100%  
+	    New File  		  520192	VegetableArt.ppt  0%  100%  
+	    New File  		   11028	WEDNESDAY.docx  0%  100%  
+	    New File  		   25088	West 10-08.doc  0%  100%  
+	    New File  		   25088	West.doc  0%  100%  
+	    New File  		   26112	Witkowski  2-3-09.doc  0%  100%  
+	    New File  		   31232	Witkowski - April 12.doc  0%  100%  
+	    New File  		   25600	Witkowski - March 27.doc  0%  100%  
+	    New File  		   25600	Witkowski, Heather 2-26-09.doc  0%  100%  
+	    New File  		   26112	Witkowski, Heather 2-3-09.doc  0%  100%  
+	    New File  		   25600	Witkowski, Heather 6-15-09.doc  0%  100%  
+	    New File  		   20992	Witkowski, Heather Documentation 2007.doc  0%  100%  
+	    New File  		   41472	Write In List - Gluten Free 06-02-11.doc  0%  100%  
+	    New File  		   43520	Write In List 6-2-11.doc  0%  100%  
+	    New File  		   43520	Write In List LS Veg 6-2-11.doc  0%  100%  
+	    New File  		   63488	Write-In Menu 6-2-11.doc  0%  100%  
+	    New File  		   35328	Write-In Menu LMD GVHD 07-27-10.doc  0%  100%  
+	    New File  		   55296	Write-In Menu LS  6-2-11.doc  0%  100%  
+	    New File  		   34304	Write-In Tally List 7-22-10 (2).xls  0%  100%  
+	    New File  		   93696	Write-In Tally List Sept 2010 (New Peds) (2).xls  0%  100%  
+	    New File  		   25600	Yashmi 11-10-06.doc  0%  100%  
+	    New File  		   40960	Yashmi Mistry.doc  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0001294\AYR II.2 37531 Stanford (SPANISH)      Proof\
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0001294\CBORD Training Manuals\
+	    New File  		  420413	Kaiser_Hawaii_Go_Live.zip  0%  100%  
+	    New File  		  497124	NSStrain40031.zip  0%  100%  
+	    New File  		   1.3 m	St Mary Updated 2005.zip  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0001294\diwest\
+	    New File  		  16.9 m	archive.pst  0.0% 94.2%100%  
+	    New File  		 972.6 m	Diane's e-mails.pst  0.0%  1.6%  3.2%  4.9%  6.5%  8.2%  9.8% 11.5% 13.1% 14.8% 16.4% 18.0% 19.7% 21.3% 23.0% 24.6% 26.3% 27.9% 29.6% 31.2% 32.9% 34.5% 36.1% 37.8% 39.4% 41.1% 42.7% 44.4% 46.0% 47.7% 49.3% 50.9% 52.6% 54.2% 55.9% 57.5% 59.2% 60.8% 62.5% 64.1% 65.8% 67.4% 69.0% 70.7% 72.3% 74.0% 75.6% 77.3% 78.9% 80.6% 82.2% 83.8% 85.5% 87.1% 88.8% 90.4% 92.1% 93.7% 95.4% 97.0% 98.7%100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0001294\diwest1\
+	  New Dir         13	\\shintnpscfs116\T$\Users7\S0001294\diwest1\Desktop\
+	    New File  		     705	Acrobat Reader 5.0.lnk  0%  100%  
+	    New File  		   2.0 m	chocolate.ppt  0%  100%  
+	    New File  		    1306	FMS.lnk  0%  100%  
+	    New File  		    1653	Google Earth.lnk  0%  100%  
+	    New File  		   14888	GoogleToolbarDownloader.exe  0%  100%  
+	    New File  		   1.0 m	GoogleToolbarInstaller.exe  0%  100%  
+	    New File  		    1141	index.cfm.url  0%  100%  
+	    New File  		   49152	LastWord Diets_0410114.xls  0%  100%  
+	    New File  		    2419	Microsoft Word.lnk  0%  100%  
+	    New File  		   24576	Non Select Menu Entr‚e Rotation.doc  0%  100%  
+	    New File  		     604	Powerchart.lnk  0%  100%  
+	    New File  		     104	Shortcut to My Computer.lnk  0%  100%  
+	    New File  		     728	Windows Media Player.lnk  0%  100%  
+	  New Dir         37	\\shintnpscfs116\T$\Users7\S0001294\diwest1\Desktop\diane's desktop\
+	    New File  		   48640	Blenderized Diet 11.doc  0%  100%  
+	    New File  		   48128	Blenderized Diet.doc  0%  100%  
+	    New File  		   38400	Clinical Practice Council  Report.doc  0%  100%  
+	    New File  		   44544	Education Template.doc  0%  100%  
+	    New File  		     434	Enteral formulas sheet for cal counts revised 21204.htm  0%  100%  
+	    New File  		  705536	Internship Agreement '04.doc  0%  100%  
+	    New File  		  614912	Intership Agreement '04.doc  0%  100%  
+	    New File  		    8098	Isoniazid Food Drug Interaction.htm  0%  100%  
+	    New File  		   33280	Isoniazid.doc  0%  100%  
+	    New File  		     412	late shift tech job description.htm  0%  100%  
+	    New File  		   29184	Lithium Food Drug Interation.doc  0%  100%  
+	    New File  		   39424	Lithium.doc  0%  100%  
+	    New File  		   29184	MAO Inhibitor Food Drug Interation.doc  0%  100%  
+	    New File  		   43520	MAOI.doc  0%  100%  
+	    New File  		   37376	Minutes Template 2.doc  0%  100%  
+	    New File  		   40960	Minutes Template1.doc  0%  100%  
+	    New File  		   25088	Nutrition Education Template 15.doc  0%  100%  
+	    New File  		   86528	OctoberFest 2006.DOC  0%  100%  
+	    New File  		   43008	PN 7-024.0 Food-Drug Interaction PP 7-06.doc  0%  100%  
+	    New File  		   30720	PN7-004.0 Screen Adults.doc  0%  100%  
+	    New File  		   43008	Pn7-005.0 PIF.doc  0%  100%  
+	    New File  		   46592	Pn7-010.0 Adult Assessment.doc  0%  100%  
+	    New File  		   14848	Pn7-0112 SHC Cal Ct.doc  0%  100%  
+	    New File  		   34304	Pn7-012 Med Rec Document.doc  0%  100%  
+	    New File  		   35840	PN7-013.0 QA-QI.doc  0%  100%  
+	    New File  		   33792	PN7-014.2 Fee for Private Clients.doc  0%  100%  
+	    New File  		   12800	Pn7-014.3 Fee for Prof Visitor.doc  0%  100%  
+	    New File  		   37376	PN7-015.0 Nutr Support Mgmt.doc  0%  100%  
+	    New File  		   37888	PN7-017.0 Nutr Ed.doc  0%  100%  
+	    New File  		   33792	PN7-018.0 RD Weekend Coverage.doc  0%  100%  
+	    New File  		   33792	PN7-020.0 Enteral Formulary rev.doc  0%  100%  
+	    New File  		   30208	PN7-021.0 Enteral Purchase.doc  0%  100%  
+	    New File  		   40448	PN7-023.0 Diet Manual Record.doc  0%  100%  
+	    New File  		   11264	Pn7-026 Verbal Orders.doc  0%  100%  
+	    New File  		   33792	PN7-027.0 Glutamine.doc  0%  100%  
+	    New File  		   11264	Pn7-028.0  CF Pass.doc  0%  100%  
+	    New File  		  159744	PP Executive Summary Format update.doc  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0001294\diwest1\Desktop\diane's desktop\MINUTES\
+	    New File  		   32256	DT060303.doc  0%  100%  
+	    New File  		   35328	MINUTES TEMPLATE.doc  0%  100%  
+	  New Dir         21	\\shintnpscfs116\T$\Users7\S0001294\diwest1\Favorites\
+	    New File  		     192	American Dietetic Association.url  0%  100%  
+	    New File  		     332	Benefits Connection - Lawson.url  0%  100%  
+	    New File  		     395	Charles Schwab.url  0%  100%  
+	    New File  		      83	Desktop.ini  0%  100%  
+	    New File  		     142	Food and Culinary Professionals.url  0%  100%  
+	    New File  		     177	Google.url  0%  100%  
+	    New File  		     588	HOME - Comcast.net.url  0%  100%  
+	    New File  		     206	IT Network Access  Request.url  0%  100%  
+	    New File  		     128	Journal of the American Dietetic Association.url  0%  100%  
+	    New File  		     752	Launch Internet Explorer Browser.lnk  0%  100%  
+	    New File  		     182	Live view - AXIS 211 Network Camera version 4.10.url  0%  100%  
+	    New File  		     112	MSDS-Chemquik.url  0%  100%  
+	    New File  		     107	MSOnet.url  0%  100%  
+	    New File  		     138	NBC11.com - Home.url  0%  100%  
+	    New File  		     219	NetCamXL Live Image.url  0%  100%  
+	    New File  		     137	Pediatric Heart Center Database.url  0%  100%  
+	    New File  		     136	RD411 - Information for Registered Dietitians and Healthcare Professionals.url  0%  100%  
+	    New File  		     144	SJSU Home Page Nutrition and Food Science .url  0%  100%  
+	    New File  		     347	Smartpage.url  0%  100%  
+	    New File  		     183	TIAA-CREF Web Center.url  0%  100%  
+	    New File  		    1233	Webcams in Norway.url  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0001294\diwest1\Favorites\CV Med-CT Surg Clinic Favorites\
+	    New File  		     106	ECG.url  0%  100%  
+	    New File  		     115	Echo Lab.url  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0001294\diwest1\Favorites\Links\
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0001294\diwest1\Favorites\LPCH Sites to Explore\
+	    New File  		     136	LPCH Community Physician Directory.url  0%  100%  
+	    New File  		     133	LPCH Faculty Physician Directory.url  0%  100%  
+	    New File  		     102	LPCH Web Site.url  0%  100%  
+	    New File  		     109	Vaccine Information Statements.url  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0001294\diwest1\Favorites\LPCH Web Based Applications\
+	    New File  		     270	Cerner.url  0%  100%  
+	    New File  		     112	Hospital Paging.url  0%  100%  
+	    New File  		     113	LPCH Nursing Education.url  0%  100%  
+	    New File  		     107	MD Paging.url  0%  100%  
+	    New File  		     116	Medical Center Directory.url  0%  100%  
+	    New File  		     117	Quantros.url  0%  100%  
+	    New File  		     132	Reference - PEDBASE.url  0%  100%  
+	    New File  		     123	Trust Commerce.url  0%  100%  
+	  New Dir         19	\\shintnpscfs116\T$\Users7\S0001294\diwest1\Favorites\SMG-SFM Favorites\
+	    New File  		     124	AAFP Clin Policy.url  0%  100%  
+	    New File  		     119	AAP Clin Policy.url  0%  100%  
+	    New File  		     128	Adult Immunization.url  0%  100%  
+	    New File  		     109	AFP.url  0%  100%  
+	    New File  		     135	CDC Prevent Guides.url  0%  100%  
+	    New File  		     128	Child Immunization PDF.url  0%  100%  
+	    New File  		     151	Child Immunization.url  0%  100%  
+	    New File  		     133	Healinx User.url  0%  100%  
+	    New File  		     105	HMO Formulary.url  0%  100%  
+	    New File  		     128	Medem Health Info.url  0%  100%  
+	    New File  		     124	Natl Guideline Clearing House.url  0%  100%  
+	    New File  		     123	NHLBI Health Info.url  0%  100%  
+	    New File  		     104	Nichol's Institute.url  0%  100%  
+	    New File  		     115	PDR.url  0%  100%  
+	    New File  		     106	SFP Home.url  0%  100%  
+	    New File  		     155	SHC Contracts.url  0%  100%  
+	    New File  		     117	SMG Home.url  0%  100%  
+	    New File  		     107	Travel Advise.url  0%  100%  
+	    New File  		     106	Trip Prep.url  0%  100%  
+	  New Dir         12	\\shintnpscfs116\T$\Users7\S0001294\diwest1\Favorites\Stanford Sites to Explore\
+	    New File  		     135	ICD 9 Coding.url  0%  100%  
+	    New File  		     114	Lane Library.url  0%  100%  
+	    New File  		     116	Medical Center Directory.url  0%  100%  
+	    New File  		     130	Medical Staff Roster.url  0%  100%  
+	    New File  		     110	School of Medicine.url  0%  100%  
+	    New File  		     150	SHC Community Physician Directory.url  0%  100%  
+	    New File  		     147	SHC Faculty Physician Directory.url  0%  100%  
+	    New File  		     126	SHC Learning Management System.url  0%  100%  
+	    New File  		     114	SHC Web Site.url  0%  100%  
+	    New File  		     114	Stanford Intranet.url  0%  100%  
+	    New File  		     120	Stanford University Medical Center.url  0%  100%  
+	    New File  		     106	Stanford University.url  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0001294\diwest1\Favorites\Stanford Web Based Applications\
+	    New File  		     122	HealthStream.url  0%  100%  
+	    New File  		     115	HIPAA Information.url  0%  100%  
+	    New File  		     111	LastWord Web Training.url  0%  100%  
+	  New Dir        226	\\shintnpscfs116\T$\Users7\S0001294\diwest1\My Documents\
+	    New File  		   25032	07_NPSG_FAQs_1.pdf  0%  100%  
+	    New File  		   27136	2005 Holiday Coverage1.doc  0%  100%  
+	    New File  		   26112	ABOUT YOUR DIET Version 2.doc  0%  100%  
+	    New File  		   25600	ABOUT YOUR DIET.doc  0%  100%  
+	    New File  		   24576	Adams, Jim - Letter.doc  0%  100%  
+	    New File  		   25088	Alenya Tomate 02-04-04.doc  0%  100%  
+	    New File  		   25088	Alenya Tomate 02-05-04.doc  0%  100%  
+	    New File  		   25088	Aleyna Tomate 01-10-03.doc  0%  100%  
+	    New File  		   33792	Aleyna Tomate 2-5-04.doc  0%  100%  
+	    New File  		   60416	ALTERNATE MENU.doc  0%  100%  
+	    New File  		  273408	Andrea Vaccarella - Recommendation Form.doc  0%  100%  
+	    New File  		   25088	Andrea Vaccarella 02-10-04.doc  0%  100%  
+	    New File  		   16896	Annual Competencies 01 16 03  0%  100%  
+	    New File  		   16896	Annual Competencies 01 16 04.xls  0%  100%  
+	    New File  		   16896	Annual Competencies 11604  0%  100%  
+	    New File  		   24064	August 23.doc  0%  100%  
+	    New File  		   26624	Bego¤a Cirera Perez.doc  0%  100%  
+	    New File  		  197763	Bego¤a Greencard Original.jpg  0%  100%  
+	    New File  		  173840	Bego¤a Greencard.jpg  0%  100%  
+	    New File  		   86016	Carbohydrate Content of Foods 3-07.doc  0%  100%  
+	    New File  		   26112	Carbohydrates and Insulin Therapy.doc  0%  100%  
+	    New File  		   83968	CBORD - MPG.doc  0%  100%  
+	    New File  		   60416	CBORD - SHC Training Manual.doc  0%  100%  
+	    New File  		   28160	CBORD Diet Office Workflow 11-11-05.doc  0%  100%  
+	    New File  		   25088	CBORD Food Station - Breakfast.doc  0%  100%  
+	    New File  		   24576	CBORD Food Station - Lunch.doc  0%  100%  
+	    New File  		   43008	CBORD Food Stations.doc  0%  100%  
+	    New File  		  165376	CBORD Menu templates.doc  0%  100%  
+	    New File  		   29184	CBORD overview 6-24.doc  0%  100%  
+	    New File  		   60416	CBORD SHC Training Manual.doc  0%  100%  
+	    New File  		   31232	CBORD Status 2-22-05.doc  0%  100%  
+	    New File  		   24064	CBORD System.doc  0%  100%  
+	    New File  		   33280	CF-LPCH2.doc  0%  100%  
+	    New File  		   16896	Christmas Spread Sheet 2006.xls  0%  100%  
+	    New File  		   27136	Cleveland Clinic Foundation.doc  0%  100%  
+	    New File  		   37376	Cookbook list1.doc  0%  100%  
+	    New File  		   91973	CSA Group Go Policy - 2007 5205_GR70 Group Cert_1206.pdf  0%  100%  
+	    New File  		   25088	Dear Unit Educator.doc  0%  100%  
+	    New File  		   26624	Diane West.doc  0%  100%  
+	    New File  		   2.0 m	Dietary Guidelines for Americans.ppt  0%  100%  
+	    New File  		  344064	Dietetic Intern Contract 2006.DOC  0%  100%  
+	    New File  		  353792	Dietetic Intern Contract.DOC  0%  100%  
+	    New File  		   25088	Dietetic Intern- Staff Relief Evaluation.doc  0%  100%  
+	    New File  		   53760	DIETITIAN EDUCATIONAL EVENTS 2.doc  0%  100%  
+	    New File  		   52224	DIETITIAN EDUCATIONAL EVENTS 2004.doc  0%  100%  
+	    New File  		   46080	DIETITIAN EDUCATIONAL EVENTS 2005.doc  0%  100%  
+	    New File  		   50176	DIETITIAN EDUCATIONAL EVENTS 2006.doc  0%  100%  
+	    New File  		   40960	DIETITIAN EDUCATIONAL EVENTS 2007.doc  0%  100%  
+	    New File  		   46080	DIETITIAN EDUCATIONAL EVENTS 2008.doc  0%  100%  
+	    New File  		   24064	Dietitian Flyer.doc  0%  100%  
+	    New File  		    7149	Dietitian Ladder.htm  0%  100%  
+	    New File  		   25088	Dietitian Professional Ladder 2003.doc  0%  100%  
+	    New File  		   29184	Dietitian Professional Ladder 2004.doc  0%  100%  
+	    New File  		   24064	Dietitian Professional Ladder 2005.doc  0%  100%  
+	    New File  		   30720	Dietitian Professional Ladder 2006.doc  0%  100%  
+	    New File  		   30208	Dietitian Professional Ladder Requirements 1.doc  0%  100%  
+	    New File  		   25600	Dr. Pearl Letter.doc  0%  100%  
+	    New File  		   23040	Dress Code Policy.doc  0%  100%  
+	    New File  		   24064	DT Increases.doc  0%  100%  
+	    New File  		   43008	DT Meetings  Inservices FY2005.doc  0%  100%  
+	    New File  		   26112	DT Update.doc  0%  100%  
+	    New File  		   25088	EMPLOYEE DEVELOPMENT PLAN2.doc  0%  100%  
+	    New File  		    1965	Employee Production.htm  0%  100%  
+	    New File  		   24064	Evaluation  2006.doc  0%  100%  
+	    New File  		   24064	Evaluation 2007.doc  0%  100%  
+	    New File  		   26624	Explanation of Special.doc  0%  100%  
+	    New File  		   27136	EXTREME MAKEOVER.doc  0%  100%  
+	    New File  		   26624	FAXING MENUS.doc  0%  100%  
+	    New File  		   24576	Feedback from Techs for  Menu Committee         2.doc  0%  100%  
+	    New File  		   24064	Flyer - Nutrition Technician.doc  0%  100%  
+	    New File  		   24064	Flyer - Registered Dietitian.doc  0%  100%  
+	    New File  		   24064	Flyer- Nutrition Technician.doc  0%  100%  
+	    New File  		   24064	Flyer- Registered Dietitian.doc  0%  100%  
+	    New File  		   27648	FOCUS - PDCA.doc  0%  100%  
+	    New File  		   28160	Food Allergies.doc  0%  100%  
+	    New File  		   37376	Food Service and Clinical Nutrition Meeting.doc  0%  100%  
+	    New File  		   24576	Food Service and Clinical Nutrition.doc 10-25-06.doc  0%  100%  
+	    New File  		   24576	Frequently Asked Questions..doc  0%  100%  
+	    New File  		   38400	FRIDAY DRAFT.doc  0%  100%  
+	    New File  		   25600	Gluten Free Write-In List 5-07.doc  0%  100%  
+	    New File  		   1.2 m	Google Grains.doc  0%  100%  
+	    New File  		   26624	Home Tube Feeding Guidelines.doc  0%  100%  
+	    New File  		   12288	HR eval Lynn's input.doc  0%  100%  
+	    New File  		  175104	Industry Interactions - Education Council rev1.ppt  0%  100%  
+	    New File  		   26624	Interdisciplinary Assess & Reass.doc  0%  100%  
+	    New File  		   30208	INTERNATIONAL LUNCH 8-14-07.doc  0%  100%  
+	    New File  		  972800	Internship Agreement '04.doc  0%  100%  
+	    New File  		  788992	IPOC Directions.ppt  0%  100%  
+	    New File  		  272384	Jennifer Bryant 2-4-04.doc  0%  100%  
+	    New File  		   24576	Jennifer Bryant.doc  0%  100%  
+	    New File  		   25088	Kay Mungaray - Rose Nomination.doc  0%  100%  
+	    New File  		   21504	L. Chatterjee- Clinical Rotation.doc  0%  100%  
+	    New File  		   22528	L.Chatterjee  Intern Rotations - 2005.doc  0%  100%  
+	    New File  		   26624	LastWord Changes 3-23-05.doc  0%  100%  
+	    New File  		  128000	Lorraine Chatterjee QI.xls  0%  100%  
+	    New File  		   24064	LPCH - Print Labels.doc  0%  100%  
+	    New File  		   25600	LPCH Diet Office 10-11-06.doc  0%  100%  
+	    New File  		   24576	LPCH Patient Relations.doc  0%  100%  
+	    New File  		   24576	Lucy Asumang.doc  0%  100%  
+	    New File  		   28160	Lynn Dennie-DW feedback.doc  0%  100%  
+	    New File  		   29696	Mabel Negrillo 10-10-05.doc  0%  100%  
+	    New File  		   20480	Mabel Negrillo.doc  0%  100%  
+	    New File  		   34816	Management Self Evaluation.doc  0%  100%  
+	    New File  		   26112	Mechanical Soft Diets.doc  0%  100%  
+	    New File  		   24576	Menu - Pediatric Oct05.xls  0%  100%  
+	    New File  		   24064	MENU BRAINSTORMS.11-10-06doc.doc  0%  100%  
+	    New File  		   29184	Menu Dinner 11-06.doc  0%  100%  
+	    New File  		   27136	Menu Meeting 6-06.doc  0%  100%  
+	    New File  		   29184	Menu Meeting 6-28-07.doc  0%  100%  
+	    New File  		   24576	Menu Monitoring Guidelines.doc  0%  100%  
+	    New File  		   24064	Menu Monitoring Months of November 2005.doc  0%  100%  
+	    New File  		   24576	MENU Pick up Codes 3-06.doc  0%  100%  
+	    New File  		   27648	Menu Pick-Up Standards  3-06.doc  0%  100%  
+	    New File  		   28160	MENU REQUESTS  08-04-05.doc  0%  100%  
+	    New File  		   29184	MENU REQUESTS  08-11-05.doc  0%  100%  
+	    New File  		   28160	Menu Revisions - Breakfast - 11-06.doc  0%  100%  
+	    New File  		   29184	Menu Revisions - Dinner 11-07.doc  0%  100%  
+	    New File  		   29184	Menu Revisions - Lunch- 11-07.doc  0%  100%  
+	    New File  		   25088	Menu Suggestions - 102504.doc  0%  100%  
+	    New File  		   24064	Menu.doc  0%  100%  
+	    New File  		   25600	Menus - 7 Day Cycle.doc  0%  100%  
+	    New File  		   24064	Menus Written - Reasons.doc  0%  100%  
+	    New File  		   25088	NEW PROCEDURE.doc  0%  100%  
+	    New File  		   34816	newCBORDTIMELINE.xls 11-10-05.xls  0%  100%  
+	    New File  		  612352	NPR - NUTRITION SERVICES2.doc  0%  100%  
+	    New File  		   37888	Nutrition Assessment Form 02-02-05.doc  0%  100%  
+	    New File  		   24576	Nutrition Comm 12.03.03 Education Materials Presented.doc  0%  100%  
+	    New File  		   24064	Nutrition Information Request 2.doc  0%  100%  
+	    New File  		   24064	Nutrition Information Request.doc  0%  100%  
+	    New File  		   22528	Nutrition Tech 5.doc  0%  100%  
+	    New File  		   55366	Nutrition Tech August 07 Dashboard (3).rtf  0%  100%  
+	    New File  		  124557	Nutrition Tech Dashboard Template(3).rtf  0%  100%  
+	    New File  		   24064	Nutrition Tech Flyer.doc  0%  100%  
+	    New File  		   55222	Nutrition Tech July 07 Dashboard (3).rtf  0%  100%  
+	    New File  		   55789	Nutrition Tech June 07 Dashboard (3).rtf  0%  100%  
+	    New File  		   55598	Nutrition Tech May 07 Dashboard (3).rtf  0%  100%  
+	    New File  		   51031	Nutrition Tech November 07 Dashboard (3).rtf  0%  100%  
+	    New File  		   55237	Nutrition Tech October 07 Dashboard (3).rtf  0%  100%  
+	    New File  		   55437	Nutrition Tech September 07 Dashboard (3).rtf  0%  100%  
+	    New File  		   53760	NUTRITION TECHNICIAN EDU. EVENTS 2006.doc  0%  100%  
+	    New File  		   54784	Nutrition Technician Education - Kay Mungaray.doc  0%  100%  
+	    New File  		   53760	Nutrition Technician Education.doc  0%  100%  
+	    New File  		   44032	Nutrition Technician Tasks - Early.doc  0%  100%  
+	    New File  		   40448	Nutrition Technician Tasks - Late.doc  0%  100%  
+	    New File  		   33280	Nutrition Vision and Objectives 1.doc  0%  100%  
+	    New File  		   38400	Nutrition Vision and Objectives 2.doc  0%  100%  
+	    New File  		   25088	Pat Kearney.doc  0%  100%  
+	    New File  		   26112	Patient Referral to Food Services Procedure.doc  0%  100%  
+	    New File  		   27648	Patient Reminder 01-24-06 Menus.doc  0%  100%  
+	    New File  		   34304	Patient Write In List - 3-07.doc  0%  100%  
+	    New File  		   25088	PCS Professional Development 2-06.doc  0%  100%  
+	    New File  		   66048	PCS Survey 2003 Report Template4.doc  0%  100%  
+	    New File  		   29696	PEDIATRIC MENU TASTE TESTING 9.21.07.doc  0%  100%  
+	    New File  		   51712	Pediatric Menu Taste Testing Results 9.27.07.doc  0%  100%  
+	    New File  		   19456	Pediatric Taste Testing 10.04.07.xls  0%  100%  
+	    New File  		   16384	Pediatric Taste Testing 9.27.07.xls  0%  100%  
+	    New File  		   49664	Performance Appraisal Part C.doc  0%  100%  
+	    New File  		   56320	Performance eval - mgmt self eval gen.doc  0%  100%  
+	    New File  		  167936	Performance eval - mgmt standards AB rev 8.061.doc  0%  100%  
+	    New File  		   32256	PERFORMANCE EVALUATION.doc  0%  100%  
+	    New File  		   25088	Pictures needed.doc  0%  100%  
+	    New File  		   32768	Policy - Approved Write Ins - 2-28-06.doc  0%  100%  
+	    New File  		   32768	Policy - Approved Write Ins -3-06.doc  0%  100%  
+	    New File  		   33280	Policy - Approved Write Ins -4-06.doc  0%  100%  
+	    New File  		   33792	Policy - Approved Write Ins 4-07.doc  0%  100%  
+	    New File  		   34304	Policy - Approved Write Ins -6-06.doc  0%  100%  
+	    New File  		   53760	Professional Development - Form.doc  0%  100%  
+	    New File  		   54784	Professional Development - Kay Mungaray.doc  0%  100%  
+	    New File  		  248832	Professional Development Portfolio 8-14-07.doc  0%  100%  
+	    New File  		   38912	Pros and Cons 01-28-05.doc  0%  100%  
+	    New File  		   28672	Psychiatric Units.doc  0%  100%  
+	    New File  		   39424	Pt Satisfaction Improvement Opportunities Meeting10.16.07.doc  0%  100%  
+	    New File  		   39936	Pt Satisfaction Improvement Opportunities Meeting7.12.07.doc  0%  100%  
+	    New File  		   52736	Pt Satisfaction Improvement Opportunities Meeting7.26.07R.doc  0%  100%  
+	    New File  		   46080	Pt Satisfaction Improvement Opportunities Meeting8.2.07R.doc  0%  100%  
+	    New File  		   36352	Pt Satisfaction Improvement Opportunities Meeting9.20.07.doc  0%  100%  
+	    New File  		   37888	Q12 Impact and 12 month Plans- Nutrition Technicians.xls  0%  100%  
+	    New File  		   26112	QI - Guidelines 10-25-05.doc  0%  100%  
+	    New File  		   28160	QI - Menus 10-19-05.doc  0%  100%  
+	    New File  		  137275	RD dashboard template.rtf  0%  100%  
+	    New File  		   28672	RD Ladder 2005.doc  0%  100%  
+	    New File  		   60416	SHC CBORD Training Manual.doc  0%  100%  
+	    New File  		   55808	Skylight Access.doc  0%  100%  
+	    New File  		   71168	Skylight Access1.doc  0%  100%  
+	    New File  		   31232	Skylight Content template (3).doc  0%  100%  
+	    New File  		   23792	Skylight Dairy.jpg  0%  100%  
+	    New File  		   36536	Skylight Fruits.jpg  0%  100%  
+	    New File  		   38054	Skylight Grains.jpg  0%  100%  
+	    New File  		  428940	Skylight pictures 1.jpg  0%  100%  
+	    New File  		  529622	Skylight pictures 2.jpg  0%  100%  
+	    New File  		   1.3 m	skylight pictures.ppt  0%  100%  
+	    New File  		   31149	Skylight Salmon.jpg  0%  100%  
+	    New File  		   26051	Skylight StrawberryPicture1.jpg  0%  100%  
+	    New File  		   39970	Skylight Vegetables.jpg  0%  100%  
+	    New File  		   26112	Sodexho  Meetings.doc  0%  100%  
+	    New File  		   45056	SPECIAL REQUEST SELECTIONS.doc  0%  100%  
+	    New File  		   16896	Staff Development Record 1-2004 pilot1.xls  0%  100%  
+	    New File  		    7113	Staff Development.htm  0%  100%  
+	    New File  		   25600	Standards - Pick up Menus 2-06.doc  0%  100%  
+	    New File  		   14336	Stanford  Diet Orders 07 30 04.xls  0%  100%  
+	    New File  		   14336	Stanford  Diet Orders.xls  0%  100%  
+	    New File  		   26624	Stanford NSS Diet Codes1.xls  0%  100%  
+	    New File  		   12258	SUMC IT Network & Application Form.htm  0%  100%  
+	    New File  		     315	SWWATER.INI  0%  100%  
+	    New File  		   25600	Tag Guideline 8-03-07.doc  0%  100%  
+	    New File  		   25088	Tag or No Tag.doc  0%  100%  
+	    New File  		   16384	Taste panel scoring template.xls  0%  100%  
+	    New File  		   36864	Tech # 5 - Menu Pick-up 3-07 doc.doc  0%  100%  
+	    New File  		   41984	Tech # 5 - Menu Pick-up 4-07 doc.doc  0%  100%  
+	    New File  		  135680	Tech Menu Tally 11.05.06.doc  0%  100%  
+	    New File  		   25088	Trayline Stations 2-22-05.doc  0%  100%  
+	    New File  		   53248	Unit Info-Sept06.doc  0%  100%  
+	    New File  		   26624	Vegan Pesto Pizza.doc  0%  100%  
+	    New File  		  520192	VegetableArt.ppt  0%  100%  
+	    New File  		   42496	Vision I  0%  100%  
+	    New File  		   42496	Vision II  0%  100%  
+	    New File  		   28672	weekend coverage.doc  0%  100%  
+	    New File  		   31232	Witkowski - April 12.doc  0%  100%  
+	    New File  		   25600	Witkowski - March 27.doc  0%  100%  
+	    New File  		   25088	Witkowski, Heather Documentation 2007.doc  0%  100%  
+	    New File  		   42496	Write In List - 3-07.doc  0%  100%  
+	    New File  		   44032	Write In List.8-07doc.doc  0%  100%  
+	    New File  		   26624	Write-In List Requests 8-11-05.doc  0%  100%  
+	    New File  		   61440	Write-In Menu 8-07.doc  0%  100%  
+	    New File  		   25600	Yashmi 11-10-06.doc  0%  100%  
+	    New File  		   40960	Yashmi Mistry.doc  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0001294\diwest1\My Documents\CBORD Training Manuals\
+	    New File  		  420413	Kaiser_Hawaii_Go_Live.zip  0%  100%  
+	    New File  		  497124	NSStrain40031.zip  0%  100%  
+	    New File  		   1.3 m	St Mary Updated 2005.zip  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0001294\diwest1\My Documents\Employee Production_files\
+	    New File  		    5468	emp-self-service.png  0%  100%  
+	    New File  		  328107	FormValidation.js  0%  100%  
+	    New File  		    3345	main.css  0%  100%  
+	  New Dir         66	\\shintnpscfs116\T$\Users7\S0001294\diwest1\My Documents\MENUS\
+	    New File  		   29184	Adult Menu Changes July 2007.doc  0%  100%  
+	    New File  		   25088	Copy of Menu Heart Thursday.xls  0%  100%  
+	    New File  		   24576	Copy of Menu Renal Friday.xls  0%  100%  
+	    New File  		   1.2 m	Copy of WG Week 1.xls  0%  100%  
+	    New File  		   25088	GestDia.xls  0%  100%  
+	    New File  		   1.1 m	Master Five Star - 1.xls  0%  100%  
+	    New File  		   1.1 m	Master Five Star - 2.xls  0%  100%  
+	    New File  		   22016	Maternity Soft 2006.xls  0%  100%  
+	    New File  		   24576	maternity2006.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Friday.xls  0%  100%  
+	    New File  		   20992	Menu Calculated Monday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Saturday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Sunday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Thursday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Tuesday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Wednesday.xls  0%  100%  
+	    New File  		   21504	Menu Heart Friday.xls  0%  100%  
+	    New File  		   20992	Menu Heart Monday.xls  0%  100%  
+	    New File  		   20480	Menu Heart Saturday.xls  0%  100%  
+	    New File  		   20992	Menu Heart Sunday.xls  0%  100%  
+	    New File  		   20992	Menu Heart Thursday.xls  0%  100%  
+	    New File  		   20480	Menu Heart Tuesday.xls  0%  100%  
+	    New File  		   20992	Menu Heart Wednesday.xls  0%  100%  
+	    New File  		   21504	Menu LMD Friday.xls  0%  100%  
+	    New File  		   21504	Menu LMD Monday.xls  0%  100%  
+	    New File  		   21504	Menu LMD Saturday.xls  0%  100%  
+	    New File  		   21504	Menu LMD Sunday.xls  0%  100%  
+	    New File  		   22016	Menu LMD Thursday.xls  0%  100%  
+	    New File  		   22016	Menu LMD Tuesday.xls  0%  100%  
+	    New File  		   22016	Menu LMD Wednesday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Friday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Monday4.xls  0%  100%  
+	    New File  		   23040	Menu Regular Saturday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Sunday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Thursday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Tuesday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Wednesday.xls  0%  100%  
+	    New File  		   27136	Menu Renal Friday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Monday.xls  0%  100%  
+	    New File  		   27136	Menu Renal Saturday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Sunday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Thursday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Tuesday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Wednesday.xls  0%  100%  
+	    New File  		   21504	Menu Soft Friday.xls  0%  100%  
+	    New File  		   22016	Menu Soft Monday.xls  0%  100%  
+	    New File  		   22528	Menu Soft Saturday.xls  0%  100%  
+	    New File  		   22528	Menu Soft Sunday.xls  0%  100%  
+	    New File  		   22528	Menu Soft Thursday.xls  0%  100%  
+	    New File  		   21504	Menu Soft Tuesday.xls  0%  100%  
+	    New File  		   21504	Menu Soft Wednesday.xls  0%  100%  
+	    New File  		   18944	NON SELECT FRIDAY.xls  0%  100%  
+	    New File  		   24576	Non Select Menu Entr‚e Rotation.doc  0%  100%  
+	    New File  		   19456	NON SELECT MONDAY.xls  0%  100%  
+	    New File  		   22016	NON SELECT SATURDAY.xls  0%  100%  
+	    New File  		   19456	NON SELECT SUNDAY.xls  0%  100%  
+	    New File  		   19456	NON SELECT THURSDAY.xls  0%  100%  
+	    New File  		   22528	NON SELECT TUESDAY.xls  0%  100%  
+	    New File  		   19968	NON SELECT WEDNESDAY.xls  0%  100%  
+	    New File  		   24064	Pediatric Heart Healthy.xls  0%  100%  
+	    New File  		   24064	Pediatric LMD.xls  0%  100%  
+	    New File  		   24576	Pediatric Menu Changes June 2007.doc  0%  100%  
+	    New File  		   25088	Pediatric Regular 2007.xls  0%  100%  
+	    New File  		   25088	Pediatric Regular 6-07.xls  0%  100%  
+	    New File  		   24064	Pediatric Renal.xls  0%  100%  
+	    New File  		   24064	Pediatric Soft.xls  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0001294\diwest1\My Documents\My eBooks\
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0001294\diwest1\My Documents\My eBooks\nutrient analysis\
+	    New File  		   16384	Custom food.xls  0%  100%  
+	    New File  		  126464	Food database.xls  0%  100%  
+	    New File  		   60416	Menu Regular Saturday.xls  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0001294\diwest1\My Documents\My Music\
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0001294\diwest1\My Documents\My Pictures\
+	    New File  		   22420	cranberry_sample.jpg  0%   81%   81%  100%  100%  
+	    New File  		     438	Desktop.ini  0%  100%  
+	    New File  		    9894	Sample.jpg  0%   68%   68%  100%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0001294\diwest1\My Documents\nutrient analysis\
+	    New File  		   16384	Custom food.xls  0%  100%  
+	    New File  		  126464	Food database.xls  0%  100%  
+	    New File  		  140800	Menu Regular Monday.xls  0%  100%  
+	    New File  		   60416	Menu Regular Saturday.xls  0%  100%  
+	    New File  		   3.5 m	Nutrient.mdb  0%  100%  
+	    New File  		    1028	Regular_Sat_Bft.dqy  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0001294\diwest1\My Documents\Outlook\
+	    New File  		  17.9 m	archive.pst  0.0% 89.1%100%  
+	    New File  		  53.5 m	Sent Items.pst  0.0% 29.8% 59.7% 89.6%100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0001294\diwest1\My Documents\Reflection\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0001294\diwest1\My Documents\SUMC IT Network & Application Form_files\
+	    New File  		    6562	intranet.css  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0001294\diwest1\My Documents\WebEx\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0001294\Downloads\
+	    New File  		   1.3 m	WDFirmwareUpdater.zip  0%   99%   99%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\
+	    New File  		   3.9 m	WDFirmwareUpdater.exe  0%  100%  100%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\
+	    New File  		  197528	UnzipPkg.exe  0%   99%   99%  100%  
+	    New File  		     370	UpdaterConfig.ini  0%   93%   93%  100%  
+	    New File  		  247664	WDI_4327.exe  0%   99%   99%  100%  
+	    New File  		   58608	WinPidTable_e.xml  0%   99%   99%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\
+	    New File  		  225951	UnivUpdater.tmx  0%   99%   99%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\cs_CZ.lproj\
+	    New File  		   15377	EULA.html  0%   99%   99%  100%  
+	    New File  		   72725	EULA.rtf  0%   99%   99%  100%  
+	    New File  		    3236	UPDF_UNLK1.html  0%   99%   99%  100%  
+	    New File  		    3353	UPDF_UNLK2B.html  0%   99%   99%  100%  
+	    New File  		    1173	UPDF1.html  0%   97%   97%  100%  
+	    New File  		     959	UPDF2.html  0%   97%   97%  100%  
+	    New File  		    1369	UPDF2A.html  0%   98%   98%  100%  
+	    New File  		    1197	UPDF2B.html  0%   97%   97%  100%  
+	    New File  		    1075	UPDF2C.html  0%   97%   97%  100%  
+	    New File  		    1294	UPDF2D.html  0%   98%   98%  100%  
+	    New File  		    1063	UPDF3.html  0%   97%   97%  100%  
+	    New File  		    1032	UPDF4.html  0%   97%   97%  100%  
+	    New File  		    1047	UPDF5.html  0%   97%   97%  100%  
+	    New File  		    1736	UPDF6.html  0%   98%   98%  100%  
+	    New File  		    1400	UPDF7.html  0%   98%   98%  100%  
+	    New File  		    1419	UPDF8.html  0%   98%   98%  100%  
+	    New File  		    1608	UPDFE.html  0%   98%   98%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\de_DE.lproj\
+	    New File  		   15274	EULA.html  0%   99%   99%  100%  
+	    New File  		   65866	EULA.rtf  0%   99%   99%  100%  
+	    New File  		    3370	UPDF_UNLK1.html  0%   99%   99%  100%  
+	    New File  		    3478	UPDF_UNLK2B.html  0%   99%   99%  100%  
+	    New File  		    1189	UPDF1.html  0%   97%   97%  100%  
+	    New File  		     997	UPDF2.html  0%   97%   97%  100%  
+	    New File  		    1481	UPDF2A.html  0%   98%   98%  100%  
+	    New File  		    1270	UPDF2B.html  0%   97%   97%  100%  
+	    New File  		    1163	UPDF2C.html  0%   97%   97%  100%  
+	    New File  		    1348	UPDF2D.html  0%   98%   98%  100%  
+	    New File  		    1127	UPDF3.html  0%   97%   97%  100%  
+	    New File  		     992	UPDF4.html  0%   97%   97%  100%  
+	    New File  		    1100	UPDF5.html  0%   97%   97%  100%  
+	    New File  		    1872	UPDF6.html  0%   98%   98%  100%  
+	    New File  		    1532	UPDF7.html  0%   98%   98%  100%  
+	    New File  		    1509	UPDF8.html  0%   98%   98%  100%  
+	    New File  		    1571	UPDFE.html  0%   98%   98%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\en_US.lproj\
+	    New File  		   13488	EULA.html  0%   99%   99%  100%  
+	    New File  		   26193	EULA.rtf  0%   99%   99%  100%  
+	    New File  		    2961	UPDF_UNLK1.html  0%   99%   99%  100%  
+	    New File  		    3009	UPDF_UNLK2B.html  0%   99%   99%  100%  
+	    New File  		    1148	UPDF1.html  0%   97%   97%  100%  
+	    New File  		     976	UPDF2.html  0%   97%   97%  100%  
+	    New File  		    1327	UPDF2A.html  0%   98%   98%  100%  
+	    New File  		    1199	UPDF2B.html  0%   97%   97%  100%  
+	    New File  		    1121	UPDF2C.html  0%   97%   97%  100%  
+	    New File  		    1281	UPDF2D.html  0%   98%   98%  100%  
+	    New File  		    1048	UPDF3.html  0%   97%   97%  100%  
+	    New File  		     987	UPDF4.html  0%   97%   97%  100%  
+	    New File  		    1072	UPDF5.html  0%   97%   97%  100%  
+	    New File  		    1702	UPDF6.html  0%   98%   98%  100%  
+	    New File  		    1375	UPDF7.html  0%   98%   98%  100%  
+	    New File  		    1355	UPDF8.html  0%   98%   98%  100%  
+	    New File  		    1522	UPDFE.html  0%   98%   98%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\es_ES.lproj\
+	    New File  		   14708	EULA.html  0%   99%   99%  100%  
+	    New File  		   67887	EULA.rtf  0%   99%   99%  100%  
+	    New File  		    3242	UPDF_UNLK1.html  0%   99%   99%  100%  
+	    New File  		    3376	UPDF_UNLK2B.html  0%   99%   99%  100%  
+	    New File  		    1179	UPDF1.html  0%   97%   97%  100%  
+	    New File  		     962	UPDF2.html  0%   97%   97%  100%  
+	    New File  		    1348	UPDF2A.html  0%   98%   98%  100%  
+	    New File  		    1182	UPDF2B.html  0%   97%   97%  100%  
+	    New File  		    1154	UPDF2C.html  0%   97%   97%  100%  
+	    New File  		    1313	UPDF2D.html  0%   98%   98%  100%  
+	    New File  		    1085	UPDF3.html  0%   97%   97%  100%  
+	    New File  		     979	UPDF4.html  0%   97%   97%  100%  
+	    New File  		    1106	UPDF5.html  0%   97%   97%  100%  
+	    New File  		    1794	UPDF6.html  0%   98%   98%  100%  
+	    New File  		    1389	UPDF7.html  0%   98%   98%  100%  
+	    New File  		    1436	UPDF8.html  0%   98%   98%  100%  
+	    New File  		    1583	UPDFE.html  0%   98%   98%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\fr_FR.lproj\
+	    New File  		   15474	EULA.html  0%   99%   99%  100%  
+	    New File  		   70305	EULA.rtf  0%   99%   99%  100%  
+	    New File  		    3432	UPDF_UNLK1.html  0%   99%   99%  100%  
+	    New File  		    3357	UPDF_UNLK2B.html  0%   99%   99%  100%  
+	    New File  		    1198	UPDF1.html  0%   97%   97%  100%  
+	    New File  		    1000	UPDF2.html  0%   97%   97%  100%  
+	    New File  		    1486	UPDF2A.html  0%   98%   98%  100%  
+	    New File  		    1257	UPDF2B.html  0%   97%   97%  100%  
+	    New File  		    1217	UPDF2C.html  0%   97%   97%  100%  
+	    New File  		    1374	UPDF2D.html  0%   98%   98%  100%  
+	    New File  		    1116	UPDF3.html  0%   97%   97%  100%  
+	    New File  		     989	UPDF4.html  0%   97%   97%  100%  
+	    New File  		    1064	UPDF5.html  0%   97%   97%  100%  
+	    New File  		    1871	UPDF6.html  0%   98%   98%  100%  
+	    New File  		    1507	UPDF7.html  0%   98%   98%  100%  
+	    New File  		    1440	UPDF8.html  0%   98%   98%  100%  
+	    New File  		    1685	UPDFE.html  0%   98%   98%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\hu_HU.lproj\
+	    New File  		   15767	EULA.html  0%   99%   99%  100%  
+	    New File  		   79615	EULA.rtf  0%   99%   99%  100%  
+	    New File  		    3501	UPDF_UNLK1.html  0%   99%   99%  100%  
+	    New File  		    3643	UPDF_UNLK2B.html  0%   99%   99%  100%  
+	    New File  		    1211	UPDF1.html  0%   97%   97%  100%  
+	    New File  		     975	UPDF2.html  0%   97%   97%  100%  
+	    New File  		    1404	UPDF2A.html  0%   98%   98%  100%  
+	    New File  		    1249	UPDF2B.html  0%   97%   97%  100%  
+	    New File  		    1117	UPDF2C.html  0%   97%   97%  100%  
+	    New File  		    1335	UPDF2D.html  0%   98%   98%  100%  
+	    New File  		    1095	UPDF3.html  0%   97%   97%  100%  
+	    New File  		    1036	UPDF4.html  0%   97%   97%  100%  
+	    New File  		    1067	UPDF5.html  0%   97%   97%  100%  
+	    New File  		    1853	UPDF6.html  0%   98%   98%  100%  
+	    New File  		    1391	UPDF7.html  0%   98%   98%  100%  
+	    New File  		    1444	UPDF8.html  0%   98%   98%  100%  
+	    New File  		    1702	UPDFE.html  0%   98%   98%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\img\
+	    New File  		   38341	background_opacity_20.jpg  0%   99%   99%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\it_IT.lproj\
+	    New File  		   14818	EULA.html  0%   99%   99%  100%  
+	    New File  		   71997	EULA.rtf  0%   99%   99%  100%  
+	    New File  		    3208	UPDF_UNLK1.html  0%   99%   99%  100%  
+	    New File  		    3331	UPDF_UNLK2B.html  0%   99%   99%  100%  
+	    New File  		    1193	UPDF1.html  0%   97%   97%  100%  
+	    New File  		     991	UPDF2.html  0%   97%   97%  100%  
+	    New File  		    1399	UPDF2A.html  0%   98%   98%  100%  
+	    New File  		    1222	UPDF2B.html  0%   97%   97%  100%  
+	    New File  		    1152	UPDF2C.html  0%   97%   97%  100%  
+	    New File  		    1295	UPDF2D.html  0%   98%   98%  100%  
+	    New File  		    1096	UPDF3.html  0%   97%   97%  100%  
+	    New File  		     985	UPDF4.html  0%   97%   97%  100%  
+	    New File  		    1105	UPDF5.html  0%   97%   97%  100%  
+	    New File  		    1849	UPDF6.html  0%   98%   98%  100%  
+	    New File  		    1487	UPDF7.html  0%   98%   98%  100%  
+	    New File  		    1438	UPDF8.html  0%   98%   98%  100%  
+	    New File  		    1622	UPDFE.html  0%   98%   98%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\ja_JP.lproj\
+	    New File  		   17138	EULA.html  0%   99%   99%  100%  
+	    New File  		  177208	EULA.rtf  0%   99%   99%  100%  
+	    New File  		    3983	UPDF_UNLK1.html  0%   99%   99%  100%  
+	    New File  		    3950	UPDF_UNLK2B.html  0%   99%   99%  100%  
+	    New File  		    1284	UPDF1.html  0%   98%   98%  100%  
+	    New File  		    1050	UPDF2.html  0%   97%   97%  100%  
+	    New File  		    1620	UPDF2A.html  0%   98%   98%  100%  
+	    New File  		    1344	UPDF2B.html  0%   98%   98%  100%  
+	    New File  		    1232	UPDF2C.html  0%   97%   97%  100%  
+	    New File  		    1528	UPDF2D.html  0%   98%   98%  100%  
+	    New File  		    1164	UPDF3.html  0%   97%   97%  100%  
+	    New File  		    1007	UPDF4.html  0%   97%   97%  100%  
+	    New File  		    1176	UPDF5.html  0%   97%   97%  100%  
+	    New File  		    2242	UPDF6.html  0%   98%   98%  100%  
+	    New File  		    1567	UPDF7.html  0%   98%   98%  100%  
+	    New File  		    1664	UPDF8.html  0%   98%   98%  100%  
+	    New File  		    1769	UPDFE.html  0%   98%   98%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\ko_KR.lproj\
+	    New File  		   15555	EULA.html  0%   99%   99%  100%  
+	    New File  		  592958	EULA.rtf  0%   99%   99%  100%  
+	    New File  		    3468	UPDF_UNLK1.html  0%   99%   99%  100%  
+	    New File  		    3464	UPDF_UNLK2B.html  0%   99%   99%  100%  
+	    New File  		    1181	UPDF1.html  0%   97%   97%  100%  
+	    New File  		     976	UPDF2.html  0%   97%   97%  100%  
+	    New File  		    1464	UPDF2A.html  0%   98%   98%  100%  
+	    New File  		    1216	UPDF2B.html  0%   97%   97%  100%  
+	    New File  		    1138	UPDF2C.html  0%   97%   97%  100%  
+	    New File  		    1383	UPDF2D.html  0%   98%   98%  100%  
+	    New File  		    1069	UPDF3.html  0%   97%   97%  100%  
+	    New File  		     999	UPDF4.html  0%   97%   97%  100%  
+	    New File  		    1079	UPDF5.html  0%   97%   97%  100%  
+	    New File  		    1848	UPDF6.html  0%   98%   98%  100%  
+	    New File  		    1449	UPDF7.html  0%   98%   98%  100%  
+	    New File  		    1413	UPDF8.html  0%   98%   98%  100%  
+	    New File  		    1566	UPDFE.html  0%   98%   98%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\nb_NO.lproj\
+	    New File  		   13869	EULA.html  0%   99%   99%  100%  
+	    New File  		   67732	EULA.rtf  0%   99%   99%  100%  
+	    New File  		    3345	UPDF_UNLK1.html  0%   99%   99%  100%  
+	    New File  		    3259	UPDF_UNLK2B.html  0%   99%   99%  100%  
+	    New File  		    1175	UPDF1.html  0%   97%   97%  100%  
+	    New File  		     991	UPDF2.html  0%   97%   97%  100%  
+	    New File  		    1359	UPDF2A.html  0%   98%   98%  100%  
+	    New File  		    1206	UPDF2B.html  0%   97%   97%  100%  
+	    New File  		    1109	UPDF2C.html  0%   97%   97%  100%  
+	    New File  		    1267	UPDF2D.html  0%   97%   97%  100%  
+	    New File  		    1098	UPDF3.html  0%   97%   97%  100%  
+	    New File  		     957	UPDF4.html  0%   97%   97%  100%  
+	    New File  		    1050	UPDF5.html  0%   97%   97%  100%  
+	    New File  		    1753	UPDF6.html  0%   98%   98%  100%  
+	    New File  		    1404	UPDF7.html  0%   98%   98%  100%  
+	    New File  		    1388	UPDF8.html  0%   98%   98%  100%  
+	    New File  		    1514	UPDFE.html  0%   98%   98%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\nl_NL.lproj\
+	    New File  		   15145	EULA.html  0%   99%   99%  100%  
+	    New File  		   66960	EULA.rtf  0%   99%   99%  100%  
+	    New File  		    3342	UPDF_UNLK1.html  0%   99%   99%  100%  
+	    New File  		    3372	UPDF_UNLK2B.html  0%   99%   99%  100%  
+	    New File  		    1155	UPDF1.html  0%   97%   97%  100%  
+	    New File  		     971	UPDF2.html  0%   97%   97%  100%  
+	    New File  		    1382	UPDF2A.html  0%   98%   98%  100%  
+	    New File  		    1226	UPDF2B.html  0%   97%   97%  100%  
+	    New File  		    1126	UPDF2C.html  0%   97%   97%  100%  
+	    New File  		    1303	UPDF2D.html  0%   98%   98%  100%  
+	    New File  		    1058	UPDF3.html  0%   97%   97%  100%  
+	    New File  		     999	UPDF4.html  0%   97%   97%  100%  
+	    New File  		    1050	UPDF5.html  0%   97%   97%  100%  
+	    New File  		    1821	UPDF6.html  0%   98%   98%  100%  
+	    New File  		    1490	UPDF7.html  0%   98%   98%  100%  
+	    New File  		    1465	UPDF8.html  0%   98%   98%  100%  
+	    New File  		    1531	UPDFE.html  0%   98%   98%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\pl_PL.lproj\
+	    New File  		   15954	EULA.html  0%   99%   99%  100%  
+	    New File  		   77230	EULA.rtf  0%   99%   99%  100%  
+	    New File  		    3445	UPDF_UNLK1.html  0%   99%   99%  100%  
+	    New File  		    3440	UPDF_UNLK2B.html  0%   99%   99%  100%  
+	    New File  		    1174	UPDF1.html  0%   97%   97%  100%  
+	    New File  		     980	UPDF2.html  0%   97%   97%  100%  
+	    New File  		    1399	UPDF2A.html  0%   98%   98%  100%  
+	    New File  		    1198	UPDF2B.html  0%   97%   97%  100%  
+	    New File  		    1156	UPDF2C.html  0%   97%   97%  100%  
+	    New File  		    1300	UPDF2D.html  0%   98%   98%  100%  
+	    New File  		    1116	UPDF3.html  0%   97%   97%  100%  
+	    New File  		     999	UPDF4.html  0%   97%   97%  100%  
+	    New File  		    1062	UPDF5.html  0%   97%   97%  100%  
+	    New File  		    1837	UPDF6.html  0%   98%   98%  100%  
+	    New File  		    1452	UPDF7.html  0%   98%   98%  100%  
+	    New File  		    1418	UPDF8.html  0%   98%   98%  100%  
+	    New File  		    1547	UPDFE.html  0%   98%   98%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\pt_BR.lproj\
+	    New File  		   14516	EULA.html  0%   99%   99%  100%  
+	    New File  		   91011	EULA.rtf  0%   99%   99%  100%  
+	    New File  		    3209	UPDF_UNLK1.html  0%   99%   99%  100%  
+	    New File  		    3140	UPDF_UNLK2B.html  0%   99%   99%  100%  
+	    New File  		    1153	UPDF1.html  0%   97%   97%  100%  
+	    New File  		     951	UPDF2.html  0%   97%   97%  100%  
+	    New File  		    1333	UPDF2A.html  0%   98%   98%  100%  
+	    New File  		    1180	UPDF2B.html  0%   97%   97%  100%  
+	    New File  		    1106	UPDF2C.html  0%   97%   97%  100%  
+	    New File  		    1296	UPDF2D.html  0%   98%   98%  100%  
+	    New File  		    1091	UPDF3.html  0%   97%   97%  100%  
+	    New File  		     976	UPDF4.html  0%   97%   97%  100%  
+	    New File  		    1085	UPDF5.html  0%   97%   97%  100%  
+	    New File  		    1743	UPDF6.html  0%   98%   98%  100%  
+	    New File  		    1383	UPDF7.html  0%   98%   98%  100%  
+	    New File  		    1398	UPDF8.html  0%   98%   98%  100%  
+	    New File  		    1629	UPDFE.html  0%   98%   98%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\ru_RU.lproj\
+	    New File  		   28512	EULA.html  0%   99%   99%  100%  
+	    New File  		  121725	EULA.rtf  0%   99%   99%  100%  
+	    New File  		    5137	UPDF_UNLK1.html  0%   99%   99%  100%  
+	    New File  		    5066	UPDF_UNLK2B.html  0%   99%   99%  100%  
+	    New File  		    1352	UPDF1.html  0%   98%   98%  100%  
+	    New File  		    1087	UPDF2.html  0%   97%   97%  100%  
+	    New File  		    1761	UPDF2A.html  0%   98%   98%  100%  
+	    New File  		    1494	UPDF2B.html  0%   98%   98%  100%  
+	    New File  		    1331	UPDF2C.html  0%   98%   98%  100%  
+	    New File  		    1667	UPDF2D.html  0%   98%   98%  100%  
+	    New File  		    1284	UPDF3.html  0%   98%   98%  100%  
+	    New File  		    1075	UPDF4.html  0%   97%   97%  100%  
+	    New File  		    1192	UPDF5.html  0%   97%   97%  100%  
+	    New File  		    2504	UPDF6.html  0%   98%   98%  100%  
+	    New File  		    1860	UPDF7.html  0%   98%   98%  100%  
+	    New File  		    1851	UPDF8.html  0%   98%   98%  100%  
+	    New File  		    2167	UPDFE.html  0%   98%   98%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\sv_SE.lproj\
+	    New File  		   14534	EULA.html  0%   99%   99%  100%  
+	    New File  		   63201	EULA.rtf  0%   99%   99%  100%  
+	    New File  		    3018	UPDF_UNLK1.html  0%   99%   99%  100%  
+	    New File  		    3101	UPDF_UNLK2B.html  0%   99%   99%  100%  
+	    New File  		    1213	UPDF1.html  0%   97%   97%  100%  
+	    New File  		     975	UPDF2.html  0%   97%   97%  100%  
+	    New File  		    1365	UPDF2A.html  0%   98%   98%  100%  
+	    New File  		    1206	UPDF2B.html  0%   97%   97%  100%  
+	    New File  		    1154	UPDF2C.html  0%   97%   97%  100%  
+	    New File  		    1289	UPDF2D.html  0%   98%   98%  100%  
+	    New File  		    1107	UPDF3.html  0%   97%   97%  100%  
+	    New File  		     968	UPDF4.html  0%   97%   97%  100%  
+	    New File  		    1060	UPDF5.html  0%   97%   97%  100%  
+	    New File  		    1870	UPDF6.html  0%   98%   98%  100%  
+	    New File  		    1396	UPDF7.html  0%   98%   98%  100%  
+	    New File  		    1454	UPDF8.html  0%   98%   98%  100%  
+	    New File  		    1558	UPDFE.html  0%   98%   98%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\tr_TR.lproj\
+	    New File  		   14820	EULA.html  0%   99%   99%  100%  
+	    New File  		  107488	EULA.rtf  0%   99%   99%  100%  
+	    New File  		    3445	UPDF_UNLK1.html  0%   99%   99%  100%  
+	    New File  		    3412	UPDF_UNLK2B.html  0%   99%   99%  100%  
+	    New File  		    1236	UPDF1.html  0%   97%   97%  100%  
+	    New File  		    1022	UPDF2.html  0%   97%   97%  100%  
+	    New File  		    1494	UPDF2A.html  0%   98%   98%  100%  
+	    New File  		    1289	UPDF2B.html  0%   98%   98%  100%  
+	    New File  		    1171	UPDF2C.html  0%   97%   97%  100%  
+	    New File  		    1404	UPDF2D.html  0%   98%   98%  100%  
+	    New File  		    1162	UPDF3.html  0%   97%   97%  100%  
+	    New File  		    1017	UPDF4.html  0%   97%   97%  100%  
+	    New File  		    1118	UPDF5.html  0%   97%   97%  100%  
+	    New File  		    1910	UPDF6.html  0%   98%   98%  100%  
+	    New File  		    1446	UPDF7.html  0%   98%   98%  100%  
+	    New File  		    1512	UPDF8.html  0%   98%   98%  100%  
+	    New File  		    1636	UPDFE.html  0%   98%   98%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\zh_CN.lproj\
+	    New File  		   11542	EULA.html  0%   99%   99%  100%  
+	    New File  		  135711	EULA.rtf  0%   99%   99%  100%  
+	    New File  		    2815	UPDF_UNLK1.html  0%   99%   99%  100%  
+	    New File  		    2861	UPDF_UNLK2B.html  0%   99%   99%  100%  
+	    New File  		    1094	UPDF1.html  0%   97%   97%  100%  
+	    New File  		     937	UPDF2.html  0%   97%   97%  100%  
+	    New File  		    1275	UPDF2A.html  0%   98%   98%  100%  
+	    New File  		    1143	UPDF2B.html  0%   97%   97%  100%  
+	    New File  		    1038	UPDF2C.html  0%   97%   97%  100%  
+	    New File  		    1231	UPDF2D.html  0%   97%   97%  100%  
+	    New File  		     986	UPDF3.html  0%   97%   97%  100%  
+	    New File  		     953	UPDF4.html  0%   97%   97%  100%  
+	    New File  		     998	UPDF5.html  0%   97%   97%  100%  
+	    New File  		    1638	UPDF6.html  0%   98%   98%  100%  
+	    New File  		    1273	UPDF7.html  0%   97%   97%  100%  
+	    New File  		    1280	UPDF8.html  0%   98%   98%  100%  
+	    New File  		    1409	UPDFE.html  0%   98%   98%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0001294\Downloads\WDFirmwareUpdater\Ref\Locale\zh_TW.lproj\
+	    New File  		   10593	EULA.html  0%   99%   99%  100%  
+	    New File  		  213461	EULA.rtf  0%   99%   99%  100%  
+	    New File  		    2924	UPDF_UNLK1.html  0%   99%   99%  100%  
+	    New File  		    2891	UPDF_UNLK2B.html  0%   99%   99%  100%  
+	    New File  		    1117	UPDF1.html  0%   97%   97%  100%  
+	    New File  		     945	UPDF2.html  0%   97%   97%  100%  
+	    New File  		    1294	UPDF2A.html  0%   98%   98%  100%  
+	    New File  		    1162	UPDF2B.html  0%   97%   97%  100%  
+	    New File  		    1043	UPDF2C.html  0%   97%   97%  100%  
+	    New File  		    1243	UPDF2D.html  0%   97%   97%  100%  
+	    New File  		    1007	UPDF3.html  0%   97%   97%  100%  
+	    New File  		     956	UPDF4.html  0%   97%   97%  100%  
+	    New File  		    1012	UPDF5.html  0%   97%   97%  100%  
+	    New File  		    1663	UPDF6.html  0%   98%   98%  100%  
+	    New File  		    1270	UPDF7.html  0%   97%   97%  100%  
+	    New File  		    1322	UPDF8.html  0%   98%   98%  100%  
+	    New File  		    1454	UPDFE.html  0%   98%   98%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0001294\Meeting Minutes\
+	    New File  		   39424	Pt Satisfaction Improvement Opportunities Meeting10.16.07.doc  0%  100%  
+	    New File  		   29184	Pt Satisfaction Improvement Opportunities Meeting11.15.07.doc  0%  100%  
+	    New File  		   39936	Pt Satisfaction Improvement Opportunities Meeting7.12.07.doc  0%  100%  
+	    New File  		   52736	Pt Satisfaction Improvement Opportunities Meeting7.26.07R.doc  0%  100%  
+	    New File  		   46080	Pt Satisfaction Improvement Opportunities Meeting8.2.07R.doc  0%  100%  
+	    New File  		   36352	Pt Satisfaction Improvement Opportunities Meeting9.20.07.doc  0%  100%  
+	  New Dir         66	\\shintnpscfs116\T$\Users7\S0001294\MENUS\
+	    New File  		   29184	Adult Menu Changes July 2007.doc  0%  100%  
+	    New File  		   25088	Copy of Menu Heart Thursday.xls  0%  100%  
+	    New File  		   24576	Copy of Menu Renal Friday.xls  0%  100%  
+	    New File  		   1.2 m	Copy of WG Week 1.xls  0%  100%  
+	    New File  		   25088	GestDia.xls  0%  100%  
+	    New File  		   1.1 m	Master Five Star - 1.xls  0%  100%  
+	    New File  		   1.1 m	Master Five Star - 2.xls  0%  100%  
+	    New File  		   22016	Maternity Soft 2006.xls  0%  100%  
+	    New File  		   24576	maternity2006.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Friday.xls  0%  100%  
+	    New File  		   20992	Menu Calculated Monday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Saturday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Sunday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Thursday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Tuesday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Wednesday.xls  0%  100%  
+	    New File  		   21504	Menu Heart Friday.xls  0%  100%  
+	    New File  		   20992	Menu Heart Monday.xls  0%  100%  
+	    New File  		   20480	Menu Heart Saturday.xls  0%  100%  
+	    New File  		   20992	Menu Heart Sunday.xls  0%  100%  
+	    New File  		   20992	Menu Heart Thursday.xls  0%  100%  
+	    New File  		   20480	Menu Heart Tuesday.xls  0%  100%  
+	    New File  		   20992	Menu Heart Wednesday.xls  0%  100%  
+	    New File  		   21504	Menu LMD Friday.xls  0%  100%  
+	    New File  		   21504	Menu LMD Monday.xls  0%  100%  
+	    New File  		   21504	Menu LMD Saturday.xls  0%  100%  
+	    New File  		   21504	Menu LMD Sunday.xls  0%  100%  
+	    New File  		   22016	Menu LMD Thursday.xls  0%  100%  
+	    New File  		   22016	Menu LMD Tuesday.xls  0%  100%  
+	    New File  		   22016	Menu LMD Wednesday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Friday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Monday4.xls  0%  100%  
+	    New File  		   23040	Menu Regular Saturday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Sunday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Thursday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Tuesday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Wednesday.xls  0%  100%  
+	    New File  		   27136	Menu Renal Friday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Monday.xls  0%  100%  
+	    New File  		   27136	Menu Renal Saturday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Sunday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Thursday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Tuesday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Wednesday.xls  0%  100%  
+	    New File  		   21504	Menu Soft Friday.xls  0%  100%  
+	    New File  		   22016	Menu Soft Monday.xls  0%  100%  
+	    New File  		   22528	Menu Soft Saturday.xls  0%  100%  
+	    New File  		   22528	Menu Soft Sunday.xls  0%  100%  
+	    New File  		   22528	Menu Soft Thursday.xls  0%  100%  
+	    New File  		   21504	Menu Soft Tuesday.xls  0%  100%  
+	    New File  		   21504	Menu Soft Wednesday.xls  0%  100%  
+	    New File  		   18944	NON SELECT FRIDAY.xls  0%  100%  
+	    New File  		   24576	Non Select Menu Entr‚e Rotation.doc  0%  100%  
+	    New File  		   19456	NON SELECT MONDAY.xls  0%  100%  
+	    New File  		   22016	NON SELECT SATURDAY.xls  0%  100%  
+	    New File  		   19456	NON SELECT SUNDAY.xls  0%  100%  
+	    New File  		   19456	NON SELECT THURSDAY.xls  0%  100%  
+	    New File  		   22528	NON SELECT TUESDAY.xls  0%  100%  
+	    New File  		   19968	NON SELECT WEDNESDAY.xls  0%  100%  
+	    New File  		   24064	Pediatric Heart Healthy.xls  0%  100%  
+	    New File  		   24064	Pediatric LMD.xls  0%  100%  
+	    New File  		   24576	Pediatric Menu Changes June 2007.doc  0%  100%  
+	    New File  		   25088	Pediatric Regular 2007.xls  0%  100%  
+	    New File  		   25088	Pediatric Regular 6-07.xls  0%  100%  
+	    New File  		   24064	Pediatric Renal.xls  0%  100%  
+	    New File  		   24064	Pediatric Soft.xls  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0001294\My eBooks\
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0001294\My eBooks\nutrient analysis\
+	    New File  		   16384	Custom food.xls  0%  100%  
+	    New File  		  126464	Food database.xls  0%  100%  
+	    New File  		   60416	Menu Regular Saturday.xls  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0001294\My Music\
+	    New File  		     184	Desktop.ini  0%  100%  
+	    New File  		     644	Sample Music.lnk  0%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0001294\My Pictures\
+	    New File  		  104066	AYR Salmon photo (7).JPG  0%  100%  
+	    New File  		   22420	cranberry_sample.jpg  0%   81%   81%  100%  100%  
+	    New File  		     186	Desktop.ini  0%  100%  
+	    New File  		   12652	farmers_market.jpeg  0%  100%  
+	    New File  		    4465	peach3.jpeg  0%  100%  
+	    New File  		     674	Sample Pictures.lnk  0%  100%  
+	    New File  		    9894	Sample.jpg  0%   68%   68%  100%  100%  
+	    New File  		    5579	sandwich.jpeg  0%  100%  
+	    New File  		   39970	Skylight Vegetables III.jpg  0%  100%  
+	    New File  		   31232	Thumbs.db  0%  100%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0001294\My Videos\
+	    New File  		     190	Desktop.ini  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0001294\nutrient analysis\
+	    New File  		   16384	Custom food.xls  0%  100%  
+	    New File  		  126464	Food database.xls  0%  100%  
+	    New File  		  140800	Menu Regular Monday.xls  0%  100%  
+	    New File  		   60416	Menu Regular Saturday.xls  0%  100%  
+	    New File  		   3.5 m	Nutrient.mdb  0%  100%  
+	    New File  		    1028	Regular_Sat_Bft.dqy  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0001294\Old Diwest\
+	    New File  		  11.0 m	archive.pst  0.0%100%  
+	    New File  		   1.8 g	Misc mail.pst  0.0%  0.8%  1.7%  2.5%  3.4%  4.2%  5.1%  5.9%  6.8%  7.6%  8.5%  9.3% 10.2% 11.0% 11.9% 12.7% 13.6% 14.4% 15.3% 16.1% 17.0% 17.8% 18.7% 19.5% 20.4% 21.2% 22.1% 22.9% 23.8% 24.6% 25.5% 26.3% 27.2% 28.0% 28.9% 29.7% 30.6% 31.4% 32.3% 33.1% 34.0% 34.8% 35.7% 36.5% 37.4% 38.3% 39.1% 40.0% 40.8% 41.7% 42.5% 43.4% 44.2% 45.1% 45.9% 46.8% 47.6% 48.5% 49.3% 50.2% 51.0% 51.9% 52.7% 53.6% 54.4% 55.3% 56.1% 57.0% 57.8% 58.7% 59.5% 60.4% 61.2% 62.1% 62.9% 63.8% 64.6% 65.5% 66.3% 67.2% 68.0% 68.9% 69.7% 70.6% 71.4% 72.3% 73.1% 74.0% 74.8% 75.7% 76.6% 77.4% 78.3% 79.1% 80.0% 80.8% 81.7% 82.5% 83.4% 84.2% 85.1% 85.9% 86.8% 87.6% 88.5% 89.3% 90.2% 91.0% 91.9% 92.7% 93.6% 94.4% 95.3% 96.1% 97.0% 97.8% 98.7% 99.5%100%  
+	  New Dir        226	\\shintnpscfs116\T$\Users7\S0001294\old documents\
+	    New File  		   25032	07_NPSG_FAQs_1.pdf  0%  100%  
+	    New File  		   27136	2005 Holiday Coverage1.doc  0%  100%  
+	    New File  		   26112	ABOUT YOUR DIET Version 2.doc  0%  100%  
+	    New File  		   25600	ABOUT YOUR DIET.doc  0%  100%  
+	    New File  		   24576	Adams, Jim - Letter.doc  0%  100%  
+	    New File  		   25088	Alenya Tomate 02-04-04.doc  0%  100%  
+	    New File  		   25088	Alenya Tomate 02-05-04.doc  0%  100%  
+	    New File  		   25088	Aleyna Tomate 01-10-03.doc  0%  100%  
+	    New File  		   33792	Aleyna Tomate 2-5-04.doc  0%  100%  
+	    New File  		   60416	ALTERNATE MENU.doc  0%  100%  
+	    New File  		  273408	Andrea Vaccarella - Recommendation Form.doc  0%  100%  
+	    New File  		   25088	Andrea Vaccarella 02-10-04.doc  0%  100%  
+	    New File  		   16896	Annual Competencies 01 16 03  0%  100%  
+	    New File  		   16896	Annual Competencies 01 16 04.xls  0%  100%  
+	    New File  		   16896	Annual Competencies 11604  0%  100%  
+	    New File  		   24064	August 23.doc  0%  100%  
+	    New File  		   26624	Bego¤a Cirera Perez.doc  0%  100%  
+	    New File  		  197763	Bego¤a Greencard Original.jpg  0%  100%  
+	    New File  		  173840	Bego¤a Greencard.jpg  0%  100%  
+	    New File  		   86016	Carbohydrate Content of Foods 3-07.doc  0%  100%  
+	    New File  		   26112	Carbohydrates and Insulin Therapy.doc  0%  100%  
+	    New File  		   83968	CBORD - MPG.doc  0%  100%  
+	    New File  		   60416	CBORD - SHC Training Manual.doc  0%  100%  
+	    New File  		   28160	CBORD Diet Office Workflow 11-11-05.doc  0%  100%  
+	    New File  		   25088	CBORD Food Station - Breakfast.doc  0%  100%  
+	    New File  		   24576	CBORD Food Station - Lunch.doc  0%  100%  
+	    New File  		   43008	CBORD Food Stations.doc  0%  100%  
+	    New File  		  165376	CBORD Menu templates.doc  0%  100%  
+	    New File  		   29184	CBORD overview 6-24.doc  0%  100%  
+	    New File  		   60416	CBORD SHC Training Manual.doc  0%  100%  
+	    New File  		   31232	CBORD Status 2-22-05.doc  0%  100%  
+	    New File  		   24064	CBORD System.doc  0%  100%  
+	    New File  		   33280	CF-LPCH2.doc  0%  100%  
+	    New File  		   16896	Christmas Spread Sheet 2006.xls  0%  100%  
+	    New File  		   27136	Cleveland Clinic Foundation.doc  0%  100%  
+	    New File  		   37376	Cookbook list1.doc  0%  100%  
+	    New File  		   91973	CSA Group Go Policy - 2007 5205_GR70 Group Cert_1206.pdf  0%  100%  
+	    New File  		   25088	Dear Unit Educator.doc  0%  100%  
+	    New File  		   26624	Diane West.doc  0%  100%  
+	    New File  		   2.0 m	Dietary Guidelines for Americans.ppt  0%  100%  
+	    New File  		  344064	Dietetic Intern Contract 2006.DOC  0%  100%  
+	    New File  		  353792	Dietetic Intern Contract.DOC  0%  100%  
+	    New File  		   25088	Dietetic Intern- Staff Relief Evaluation.doc  0%  100%  
+	    New File  		   53760	DIETITIAN EDUCATIONAL EVENTS 2.doc  0%  100%  
+	    New File  		   52224	DIETITIAN EDUCATIONAL EVENTS 2004.doc  0%  100%  
+	    New File  		   46080	DIETITIAN EDUCATIONAL EVENTS 2005.doc  0%  100%  
+	    New File  		   50176	DIETITIAN EDUCATIONAL EVENTS 2006.doc  0%  100%  
+	    New File  		   40960	DIETITIAN EDUCATIONAL EVENTS 2007.doc  0%  100%  
+	    New File  		   46592	DIETITIAN EDUCATIONAL EVENTS 2008.doc  0%  100%  
+	    New File  		   24064	Dietitian Flyer.doc  0%  100%  
+	    New File  		    7149	Dietitian Ladder.htm  0%  100%  
+	    New File  		   25088	Dietitian Professional Ladder 2003.doc  0%  100%  
+	    New File  		   29184	Dietitian Professional Ladder 2004.doc  0%  100%  
+	    New File  		   24064	Dietitian Professional Ladder 2005.doc  0%  100%  
+	    New File  		   30720	Dietitian Professional Ladder 2006.doc  0%  100%  
+	    New File  		   30208	Dietitian Professional Ladder Requirements 1.doc  0%  100%  
+	    New File  		   25600	Dr. Pearl Letter.doc  0%  100%  
+	    New File  		   23040	Dress Code Policy.doc  0%  100%  
+	    New File  		   24064	DT Increases.doc  0%  100%  
+	    New File  		   43008	DT Meetings  Inservices FY2005.doc  0%  100%  
+	    New File  		   26112	DT Update.doc  0%  100%  
+	    New File  		   25088	EMPLOYEE DEVELOPMENT PLAN2.doc  0%  100%  
+	    New File  		   24064	Evaluation  2006.doc  0%  100%  
+	    New File  		   24064	Evaluation 2007.doc  0%  100%  
+	    New File  		   26624	Explanation of Special.doc  0%  100%  
+	    New File  		   27136	EXTREME MAKEOVER.doc  0%  100%  
+	    New File  		   26624	FAXING MENUS.doc  0%  100%  
+	    New File  		   24576	Feedback from Techs for  Menu Committee         2.doc  0%  100%  
+	    New File  		   24064	Flyer - Nutrition Technician.doc  0%  100%  
+	    New File  		   24064	Flyer - Registered Dietitian.doc  0%  100%  
+	    New File  		   24064	Flyer- Nutrition Technician.doc  0%  100%  
+	    New File  		   24064	Flyer- Registered Dietitian.doc  0%  100%  
+	    New File  		   27648	FOCUS - PDCA.doc  0%  100%  
+	    New File  		   28160	Food Allergies.doc  0%  100%  
+	    New File  		   37376	Food Service and Clinical Nutrition Meeting.doc  0%  100%  
+	    New File  		   24576	Food Service and Clinical Nutrition.doc 10-25-06.doc  0%  100%  
+	    New File  		   24576	Frequently Asked Questions..doc  0%  100%  
+	    New File  		   38400	FRIDAY DRAFT.doc  0%  100%  
+	    New File  		   25600	Gluten Free Write-In List 12-07.doc  0%  100%  
+	    New File  		   1.2 m	Google Grains.doc  0%  100%  
+	    New File  		   26624	Home Tube Feeding Guidelines.doc  0%  100%  
+	    New File  		   12288	HR eval Lynn's input.doc  0%  100%  
+	    New File  		  175104	Industry Interactions - Education Council rev1.ppt  0%  100%  
+	    New File  		   26624	Interdisciplinary Assess & Reass.doc  0%  100%  
+	    New File  		   30208	INTERNATIONAL LUNCH 8-14-07.doc  0%  100%  
+	    New File  		  972800	Internship Agreement '04.doc  0%  100%  
+	    New File  		  788992	IPOC Directions.ppt  0%  100%  
+	    New File  		  272384	Jennifer Bryant 2-4-04.doc  0%  100%  
+	    New File  		   24576	Jennifer Bryant.doc  0%  100%  
+	    New File  		   25088	Kay Mungaray - Rose Nomination.doc  0%  100%  
+	    New File  		   21504	L. Chatterjee- Clinical Rotation.doc  0%  100%  
+	    New File  		   22528	L.Chatterjee  Intern Rotations - 2005.doc  0%  100%  
+	    New File  		   26624	LastWord Changes 3-23-05.doc  0%  100%  
+	    New File  		  128000	Lorraine Chatterjee QI.xls  0%  100%  
+	    New File  		   24064	LPCH - Print Labels.doc  0%  100%  
+	    New File  		   25600	LPCH Diet Office 10-11-06.doc  0%  100%  
+	    New File  		   24576	LPCH Patient Relations.doc  0%  100%  
+	    New File  		   24576	Lucy Asumang.doc  0%  100%  
+	    New File  		   28160	Lynn Dennie-DW feedback.doc  0%  100%  
+	    New File  		   29696	Mabel Negrillo 10-10-05.doc  0%  100%  
+	    New File  		   20480	Mabel Negrillo.doc  0%  100%  
+	    New File  		   34816	Management Self Evaluation.doc  0%  100%  
+	    New File  		   26112	Mechanical Soft Diets.doc  0%  100%  
+	    New File  		   24576	Menu - Pediatric Oct05.xls  0%  100%  
+	    New File  		   24064	MENU BRAINSTORMS.11-10-06doc.doc  0%  100%  
+	    New File  		   29184	Menu Dinner 11-06.doc  0%  100%  
+	    New File  		   27136	Menu Meeting 6-06.doc  0%  100%  
+	    New File  		   29184	Menu Meeting 6-28-07.doc  0%  100%  
+	    New File  		   24576	Menu Monitoring Guidelines.doc  0%  100%  
+	    New File  		   24064	Menu Monitoring Months of November 2005.doc  0%  100%  
+	    New File  		   24576	MENU Pick up Codes 3-06.doc  0%  100%  
+	    New File  		   27648	Menu Pick-Up Standards  3-06.doc  0%  100%  
+	    New File  		   28160	MENU REQUESTS  08-04-05.doc  0%  100%  
+	    New File  		   29184	MENU REQUESTS  08-11-05.doc  0%  100%  
+	    New File  		   28160	Menu Revisions - Breakfast - 11-06.doc  0%  100%  
+	    New File  		   29184	Menu Revisions - Dinner 11-07.doc  0%  100%  
+	    New File  		   29184	Menu Revisions - Lunch- 11-07.doc  0%  100%  
+	    New File  		   25088	Menu Suggestions - 102504.doc  0%  100%  
+	    New File  		   24064	Menu.doc  0%  100%  
+	    New File  		   25600	Menus - 7 Day Cycle.doc  0%  100%  
+	    New File  		   24064	Menus Written - Reasons.doc  0%  100%  
+	    New File  		   25088	NEW PROCEDURE.doc  0%  100%  
+	    New File  		   34816	newCBORDTIMELINE.xls 11-10-05.xls  0%  100%  
+	    New File  		  612352	NPR - NUTRITION SERVICES2.doc  0%  100%  
+	    New File  		   37888	Nutrition Assessment Form 02-02-05.doc  0%  100%  
+	    New File  		   24576	Nutrition Comm 12.03.03 Education Materials Presented.doc  0%  100%  
+	    New File  		   24064	Nutrition Information Request 2.doc  0%  100%  
+	    New File  		   24064	Nutrition Information Request.doc  0%  100%  
+	    New File  		   22528	Nutrition Tech 5.doc  0%  100%  
+	    New File  		   55366	Nutrition Tech August 07 Dashboard (3).rtf  0%  100%  
+	    New File  		  124557	Nutrition Tech Dashboard Template(3).rtf  0%  100%  
+	    New File  		   24064	Nutrition Tech Flyer.doc  0%  100%  
+	    New File  		   55222	Nutrition Tech July 07 Dashboard (3).rtf  0%  100%  
+	    New File  		   55789	Nutrition Tech June 07 Dashboard (3).rtf  0%  100%  
+	    New File  		   55598	Nutrition Tech May 07 Dashboard (3).rtf  0%  100%  
+	    New File  		   55237	Nutrition Tech October 07 Dashboard (3).rtf  0%  100%  
+	    New File  		   27648	Nutrition Tech QA Summary FY-08.doc  0%  100%  
+	    New File  		   55437	Nutrition Tech September 07 Dashboard (3).rtf  0%  100%  
+	    New File  		   53760	NUTRITION TECHNICIAN EDU. EVENTS 2006.doc  0%  100%  
+	    New File  		   54784	Nutrition Technician Education - Kay Mungaray.doc  0%  100%  
+	    New File  		   53760	Nutrition Technician Education.doc  0%  100%  
+	    New File  		   44032	Nutrition Technician Tasks - Early.doc  0%  100%  
+	    New File  		   40448	Nutrition Technician Tasks - Late.doc  0%  100%  
+	    New File  		   33280	Nutrition Vision and Objectives 1.doc  0%  100%  
+	    New File  		   38400	Nutrition Vision and Objectives 2.doc  0%  100%  
+	    New File  		   25088	Pat Kearney.doc  0%  100%  
+	    New File  		   26112	Patient Referral to Food Services Procedure.doc  0%  100%  
+	    New File  		   27648	Patient Reminder 01-24-06 Menus.doc  0%  100%  
+	    New File  		   34304	Patient Write In List - 3-07.doc  0%  100%  
+	    New File  		   25088	PCS Professional Development 2-06.doc  0%  100%  
+	    New File  		   66048	PCS Survey 2003 Report Template4.doc  0%  100%  
+	    New File  		   20992	Pedi Menu Ingredient List 12-07.xls  0%  100%  
+	    New File  		   43520	Pedi Write In List.12-07doc.doc  0%  100%  
+	    New File  		   61952	Pedi Write-In Menu 12-07.doc  0%  100%  
+	    New File  		   23040	Pediatric Menu 11 28 07 (3).xls  0%  100%  
+	    New File  		   25088	Pediatric Menu 11.28.07.xls  0%  100%  
+	    New File  		   29696	PEDIATRIC MENU TASTE TESTING 9.21.07.doc  0%  100%  
+	    New File  		   51712	Pediatric Menu Taste Testing Results 9.27.07.doc  0%  100%  
+	    New File  		   19456	Pediatric Taste Testing 10.04.07.xls  0%  100%  
+	    New File  		   16384	Pediatric Taste Testing 9.27.07.xls  0%  100%  
+	    New File  		   26112	Peds Menu Descriptions 12-07.doc  0%  100%  
+	    New File  		   49664	Performance Appraisal Part C.doc  0%  100%  
+	    New File  		   56320	Performance eval - mgmt self eval gen.doc  0%  100%  
+	    New File  		  167936	Performance eval - mgmt standards AB rev 8.061.doc  0%  100%  
+	    New File  		   32256	PERFORMANCE EVALUATION.doc  0%  100%  
+	    New File  		   25088	Pictures needed.doc  0%  100%  
+	    New File  		   32768	Policy - Approved Write Ins - 2-28-06.doc  0%  100%  
+	    New File  		   32768	Policy - Approved Write Ins -3-06.doc  0%  100%  
+	    New File  		   33280	Policy - Approved Write Ins -4-06.doc  0%  100%  
+	    New File  		   33792	Policy - Approved Write Ins 4-07.doc  0%  100%  
+	    New File  		   34304	Policy - Approved Write Ins -6-06.doc  0%  100%  
+	    New File  		   53760	Professional Development - Form.doc  0%  100%  
+	    New File  		   54784	Professional Development - Kay Mungaray.doc  0%  100%  
+	    New File  		  248832	Professional Development Portfolio 8-14-07.doc  0%  100%  
+	    New File  		   38912	Pros and Cons 01-28-05.doc  0%  100%  
+	    New File  		   28672	Psychiatric Units.doc  0%  100%  
+	    New File  		   37888	Q12 Impact and 12 month Plans- Nutrition Technicians.xls  0%  100%  
+	    New File  		   26112	QI - Guidelines 10-25-05.doc  0%  100%  
+	    New File  		   28160	QI - Menus 10-19-05.doc  0%  100%  
+	    New File  		  137275	RD dashboard template.rtf  0%  100%  
+	    New File  		   28672	RD Ladder 2005.doc  0%  100%  
+	    New File  		   60416	SHC CBORD Training Manual.doc  0%  100%  
+	    New File  		   55808	Skylight Access.doc  0%  100%  
+	    New File  		   71168	Skylight Access1.doc  0%  100%  
+	    New File  		   31232	Skylight Content template (3).doc  0%  100%  
+	    New File  		   23792	Skylight Dairy.jpg  0%  100%  
+	    New File  		   36536	Skylight Fruits.jpg  0%  100%  
+	    New File  		   38054	Skylight Grains.jpg  0%  100%  
+	    New File  		  428940	Skylight pictures 1.jpg  0%  100%  
+	    New File  		  529622	Skylight pictures 2.jpg  0%  100%  
+	    New File  		   1.3 m	skylight pictures.ppt  0%  100%  
+	    New File  		   31149	Skylight Salmon.jpg  0%  100%  
+	    New File  		   26051	Skylight StrawberryPicture1.jpg  0%  100%  
+	    New File  		   39970	Skylight Vegetables.jpg  0%  100%  
+	    New File  		   26112	Sodexho  Meetings.doc  0%  100%  
+	    New File  		   45056	SPECIAL REQUEST SELECTIONS.doc  0%  100%  
+	    New File  		   16896	Staff Development Record 1-2004 pilot1.xls  0%  100%  
+	    New File  		    7113	Staff Development.htm  0%  100%  
+	    New File  		   25600	Standards - Pick up Menus 2-06.doc  0%  100%  
+	    New File  		   14336	Stanford  Diet Orders 07 30 04.xls  0%  100%  
+	    New File  		   14336	Stanford  Diet Orders.xls  0%  100%  
+	    New File  		   26624	Stanford NSS Diet Codes1.xls  0%  100%  
+	    New File  		   12258	SUMC IT Network & Application Form.htm  0%  100%  
+	    New File  		     315	SWWATER.INI  0%  100%  
+	    New File  		   25600	Tag Guideline 8-03-07.doc  0%  100%  
+	    New File  		   25088	Tag or No Tag.doc  0%  100%  
+	    New File  		   16384	Taste panel scoring template.xls  0%  100%  
+	    New File  		   36864	Tech # 5 - Menu Pick-up 3-07 doc.doc  0%  100%  
+	    New File  		   41984	Tech # 5 - Menu Pick-up 4-07 doc.doc  0%  100%  
+	    New File  		  135680	Tech Menu Tally 11.05.06.doc  0%  100%  
+	    New File  		   25088	Trayline Stations 2-22-05.doc  0%  100%  
+	    New File  		   53248	Unit Info-Sept06.doc  0%  100%  
+	    New File  		   26624	Vegan Pesto Pizza.doc  0%  100%  
+	    New File  		  520192	VegetableArt.ppt  0%  100%  
+	    New File  		   42496	Vision I  0%  100%  
+	    New File  		   42496	Vision II  0%  100%  
+	    New File  		   28672	weekend coverage.doc  0%  100%  
+	    New File  		   31232	Witkowski - April 12.doc  0%  100%  
+	    New File  		   25600	Witkowski - March 27.doc  0%  100%  
+	    New File  		   25088	Witkowski, Heather Documentation 2007.doc  0%  100%  
+	    New File  		   42496	Write In List - 3-07.doc  0%  100%  
+	    New File  		   44032	Write In List.8-07doc.doc  0%  100%  
+	    New File  		   26624	Write-In List Requests 8-11-05.doc  0%  100%  
+	    New File  		   61440	Write-In Menu 8-07.doc  0%  100%  
+	    New File  		   25600	Yashmi 11-10-06.doc  0%  100%  
+	    New File  		   40960	Yashmi Mistry.doc  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0001294\old documents\CBORD Training Manuals\
+	    New File  		  420413	Kaiser_Hawaii_Go_Live.zip  0%  100%  
+	    New File  		  497124	NSStrain40031.zip  0%  100%  
+	    New File  		   1.3 m	St Mary Updated 2005.zip  0%  100%  
+	  New Dir         66	\\shintnpscfs116\T$\Users7\S0001294\old documents\MENUS\
+	    New File  		   29184	Adult Menu Changes July 2007.doc  0%  100%  
+	    New File  		   25088	Copy of Menu Heart Thursday.xls  0%  100%  
+	    New File  		   24576	Copy of Menu Renal Friday.xls  0%  100%  
+	    New File  		   1.2 m	Copy of WG Week 1.xls  0%  100%  
+	    New File  		   25088	GestDia.xls  0%  100%  
+	    New File  		   1.1 m	Master Five Star - 1.xls  0%  100%  
+	    New File  		   1.1 m	Master Five Star - 2.xls  0%  100%  
+	    New File  		   22016	Maternity Soft 2006.xls  0%  100%  
+	    New File  		   24576	maternity2006.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Friday.xls  0%  100%  
+	    New File  		   20992	Menu Calculated Monday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Saturday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Sunday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Thursday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Tuesday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Wednesday.xls  0%  100%  
+	    New File  		   21504	Menu Heart Friday.xls  0%  100%  
+	    New File  		   20992	Menu Heart Monday.xls  0%  100%  
+	    New File  		   20480	Menu Heart Saturday.xls  0%  100%  
+	    New File  		   20992	Menu Heart Sunday.xls  0%  100%  
+	    New File  		   20992	Menu Heart Thursday.xls  0%  100%  
+	    New File  		   20480	Menu Heart Tuesday.xls  0%  100%  
+	    New File  		   20992	Menu Heart Wednesday.xls  0%  100%  
+	    New File  		   21504	Menu LMD Friday.xls  0%  100%  
+	    New File  		   21504	Menu LMD Monday.xls  0%  100%  
+	    New File  		   21504	Menu LMD Saturday.xls  0%  100%  
+	    New File  		   21504	Menu LMD Sunday.xls  0%  100%  
+	    New File  		   22016	Menu LMD Thursday.xls  0%  100%  
+	    New File  		   22016	Menu LMD Tuesday.xls  0%  100%  
+	    New File  		   22016	Menu LMD Wednesday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Friday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Monday4.xls  0%  100%  
+	    New File  		   23040	Menu Regular Saturday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Sunday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Thursday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Tuesday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Wednesday.xls  0%  100%  
+	    New File  		   27136	Menu Renal Friday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Monday.xls  0%  100%  
+	    New File  		   27136	Menu Renal Saturday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Sunday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Thursday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Tuesday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Wednesday.xls  0%  100%  
+	    New File  		   21504	Menu Soft Friday.xls  0%  100%  
+	    New File  		   22016	Menu Soft Monday.xls  0%  100%  
+	    New File  		   22528	Menu Soft Saturday.xls  0%  100%  
+	    New File  		   22528	Menu Soft Sunday.xls  0%  100%  
+	    New File  		   22528	Menu Soft Thursday.xls  0%  100%  
+	    New File  		   21504	Menu Soft Tuesday.xls  0%  100%  
+	    New File  		   21504	Menu Soft Wednesday.xls  0%  100%  
+	    New File  		   18944	NON SELECT FRIDAY.xls  0%  100%  
+	    New File  		   24576	Non Select Menu Entr‚e Rotation.doc  0%  100%  
+	    New File  		   19456	NON SELECT MONDAY.xls  0%  100%  
+	    New File  		   22016	NON SELECT SATURDAY.xls  0%  100%  
+	    New File  		   19456	NON SELECT SUNDAY.xls  0%  100%  
+	    New File  		   19456	NON SELECT THURSDAY.xls  0%  100%  
+	    New File  		   22528	NON SELECT TUESDAY.xls  0%  100%  
+	    New File  		   19968	NON SELECT WEDNESDAY.xls  0%  100%  
+	    New File  		   24064	Pediatric Heart Healthy.xls  0%  100%  
+	    New File  		   24064	Pediatric LMD.xls  0%  100%  
+	    New File  		   24576	Pediatric Menu Changes June 2007.doc  0%  100%  
+	    New File  		   25088	Pediatric Regular 2007.xls  0%  100%  
+	    New File  		   25088	Pediatric Regular 6-07.xls  0%  100%  
+	    New File  		   24064	Pediatric Renal.xls  0%  100%  
+	    New File  		   24064	Pediatric Soft.xls  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0001294\old documents\My Music\
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0001294\old documents\My Pictures\
+	    New File  		   22420	cranberry_sample.jpg  0%   81%   81%  100%  100%  
+	    New File  		     438	Desktop.ini  0%  100%  
+	    New File  		    9894	Sample.jpg  0%   68%   68%  100%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0001294\old documents\nutrient analysis\
+	    New File  		   16384	Custom food.xls  0%  100%  
+	    New File  		  126464	Food database.xls  0%  100%  
+	    New File  		  140800	Menu Regular Monday.xls  0%  100%  
+	    New File  		   60416	Menu Regular Saturday.xls  0%  100%  
+	    New File  		   3.5 m	Nutrient.mdb  0%  100%  
+	    New File  		    1028	Regular_Sat_Bft.dqy  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0001294\old documents\Outlook\
+	    New File  		  12.0 m	archive.pst  0.0%100%  
+	    New File  		  25.5 m	backup.pst  0.0% 62.5%100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0001294\old documents\Reflection\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0001294\old documents\SUMC IT Network & Application Form_files\
+	    New File  		    6562	intranet.css  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0001294\old documents\WebEx\
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0001294\Outlook\
+	    New File  		  61.7 m	2000-2009 inbox.pst  0.0% 25.9% 51.8% 77.7%100%  
+	    New File  		 219.9 m	2010 Email.pst  0.0%  7.2% 14.5% 21.8% 29.1% 36.3% 43.6% 50.9% 58.2% 65.4% 72.7% 80.0% 87.3% 94.5%100%  
+	    New File  		  17.9 m	archive.pst  0.0% 89.1%100%  
+	    New File  		  525312	backup.pst  0%  100%  
+	    New File  		   1.8 g	Diane's e-mails.pst  0.0%  0.8%  1.7%  2.5%  3.4%  4.2%  5.1%  5.9%  6.8%  7.6%  8.5%  9.3% 10.2% 11.0% 11.9% 12.7% 13.6% 14.4% 15.3% 16.1% 17.0% 17.8% 18.7% 19.5% 20.4% 21.2% 22.1% 22.9% 23.8% 24.6% 25.5% 26.3% 27.2% 28.0% 28.9% 29.7% 30.6% 31.4% 32.3% 33.1% 34.0% 34.8% 35.7% 36.5% 37.4% 38.3% 39.1% 40.0% 40.8% 41.7% 42.5% 43.4% 44.2% 45.1% 45.9% 46.8% 47.6% 48.5% 49.3% 50.2% 51.0% 51.9% 52.7% 53.6% 54.4% 55.3% 56.1% 57.0% 57.8% 58.7% 59.5% 60.4% 61.2% 62.1% 62.9% 63.8% 64.6% 65.5% 66.3% 67.2% 68.0% 68.9% 69.7% 70.6% 71.4% 72.3% 73.1% 74.0% 74.8% 75.7% 76.6% 77.4% 78.3% 79.1% 80.0% 80.8% 81.7% 82.5% 83.4% 84.2% 85.1% 85.9% 86.8% 87.6% 88.5% 89.3% 90.2% 91.0% 91.9% 92.7% 93.6% 94.4% 95.3% 96.1% 97.0% 97.8% 98.7% 99.5%100%  
+	    New File  		   1.8 g	Misc mail.pst  0.0%  0.8%  1.7%  2.5%  3.4%  4.2%  5.1%  5.9%  6.8%  7.6%  8.5%  9.3% 10.2% 11.0% 11.9% 12.7% 13.6% 14.4% 15.3% 16.1% 17.0% 17.8% 18.7% 19.5% 20.4% 21.2% 22.1% 22.9% 23.8% 24.6% 25.5% 26.3% 27.2% 28.0% 28.9% 29.7% 30.6% 31.4% 32.3% 33.1% 34.0% 34.8% 35.7% 36.5% 37.4% 38.3% 39.1% 40.0% 40.8% 41.7% 42.5% 43.4% 44.2% 45.1% 45.9% 46.8% 47.6% 48.5% 49.3% 50.2% 51.0% 51.9% 52.7% 53.6% 54.4% 55.3% 56.1% 57.0% 57.8% 58.7% 59.5% 60.4% 61.2% 62.1% 62.9% 63.8% 64.6% 65.5% 66.3% 67.2% 68.0% 68.9% 69.7% 70.6% 71.4% 72.3% 73.1% 74.0% 74.8% 75.7% 76.6% 77.4% 78.3% 79.1% 80.0% 80.8% 81.7% 82.5% 83.4% 84.2% 85.1% 85.9% 86.8% 87.6% 88.5% 89.3% 90.2% 91.0% 91.9% 92.7% 93.6% 94.4% 95.3% 96.1% 97.0% 97.8% 98.7% 99.5%100%  
+	    New File  		  78.0 m	Sent Items.pst  0.0% 20.5% 41.0% 61.5% 82.0%100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0001294\Outlook Files\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0001294\RECYCLER\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0001294\Reflection\
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0001294\Rough Draft_files\
+	    New File  		     314	colorschememapping.xml  0%  100%  
+	    New File  		     247	filelist.xml  0%  100%  
+	    New File  		   11748	image001.jpg  0%  100%  
+	    New File  		    3081	themedata.thmx  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0001294\s0001294\
+	  New Dir        225	\\shintnpscfs116\T$\Users7\S0001294\s0001294\My Documents\
+	    New File  		   25032	07_NPSG_FAQs_1.pdf  0%  100%  
+	    New File  		   27136	2005 Holiday Coverage1.doc  0%  100%  
+	    New File  		   26112	ABOUT YOUR DIET Version 2.doc  0%  100%  
+	    New File  		   25600	ABOUT YOUR DIET.doc  0%  100%  
+	    New File  		   24576	Adams, Jim - Letter.doc  0%  100%  
+	    New File  		   25088	Alenya Tomate 02-04-04.doc  0%  100%  
+	    New File  		   25088	Alenya Tomate 02-05-04.doc  0%  100%  
+	    New File  		   25088	Aleyna Tomate 01-10-03.doc  0%  100%  
+	    New File  		   33792	Aleyna Tomate 2-5-04.doc  0%  100%  
+	    New File  		   60416	ALTERNATE MENU.doc  0%  100%  
+	    New File  		  273408	Andrea Vaccarella - Recommendation Form.doc  0%  100%  
+	    New File  		   25088	Andrea Vaccarella 02-10-04.doc  0%  100%  
+	    New File  		   16896	Annual Competencies 01 16 03  0%  100%  
+	    New File  		   16896	Annual Competencies 01 16 04.xls  0%  100%  
+	    New File  		   16896	Annual Competencies 11604  0%  100%  
+	    New File  		   24064	August 23.doc  0%  100%  
+	    New File  		   26624	Bego¤a Cirera Perez.doc  0%  100%  
+	    New File  		  197763	Bego¤a Greencard Original.jpg  0%  100%  
+	    New File  		  173840	Bego¤a Greencard.jpg  0%  100%  
+	    New File  		   86016	Carbohydrate Content of Foods 3-07.doc  0%  100%  
+	    New File  		   26112	Carbohydrates and Insulin Therapy.doc  0%  100%  
+	    New File  		   83968	CBORD - MPG.doc  0%  100%  
+	    New File  		   60416	CBORD - SHC Training Manual.doc  0%  100%  
+	    New File  		   28160	CBORD Diet Office Workflow 11-11-05.doc  0%  100%  
+	    New File  		   25088	CBORD Food Station - Breakfast.doc  0%  100%  
+	    New File  		   24576	CBORD Food Station - Lunch.doc  0%  100%  
+	    New File  		   43008	CBORD Food Stations.doc  0%  100%  
+	    New File  		  165376	CBORD Menu templates.doc  0%  100%  
+	    New File  		   29184	CBORD overview 6-24.doc  0%  100%  
+	    New File  		   60416	CBORD SHC Training Manual.doc  0%  100%  
+	    New File  		   31232	CBORD Status 2-22-05.doc  0%  100%  
+	    New File  		   24064	CBORD System.doc  0%  100%  
+	    New File  		   33280	CF-LPCH2.doc  0%  100%  
+	    New File  		   16896	Christmas Spread Sheet 2006.xls  0%  100%  
+	    New File  		   27136	Cleveland Clinic Foundation.doc  0%  100%  
+	    New File  		   37376	Cookbook list1.doc  0%  100%  
+	    New File  		   91973	CSA Group Go Policy - 2007 5205_GR70 Group Cert_1206.pdf  0%  100%  
+	    New File  		   25088	Dear Unit Educator.doc  0%  100%  
+	    New File  		   26624	Diane West.doc  0%  100%  
+	    New File  		   2.0 m	Dietary Guidelines for Americans.ppt  0%  100%  
+	    New File  		  344064	Dietetic Intern Contract 2006.DOC  0%  100%  
+	    New File  		  353792	Dietetic Intern Contract.DOC  0%  100%  
+	    New File  		   25088	Dietetic Intern- Staff Relief Evaluation.doc  0%  100%  
+	    New File  		   53760	DIETITIAN EDUCATIONAL EVENTS 2.doc  0%  100%  
+	    New File  		   52224	DIETITIAN EDUCATIONAL EVENTS 2004.doc  0%  100%  
+	    New File  		   46080	DIETITIAN EDUCATIONAL EVENTS 2005.doc  0%  100%  
+	    New File  		   50176	DIETITIAN EDUCATIONAL EVENTS 2006.doc  0%  100%  
+	    New File  		   40960	DIETITIAN EDUCATIONAL EVENTS 2007.doc  0%  100%  
+	    New File  		   46080	DIETITIAN EDUCATIONAL EVENTS 2008.doc  0%  100%  
+	    New File  		   24064	Dietitian Flyer.doc  0%  100%  
+	    New File  		    7149	Dietitian Ladder.htm  0%  100%  
+	    New File  		   25088	Dietitian Professional Ladder 2003.doc  0%  100%  
+	    New File  		   29184	Dietitian Professional Ladder 2004.doc  0%  100%  
+	    New File  		   24064	Dietitian Professional Ladder 2005.doc  0%  100%  
+	    New File  		   30720	Dietitian Professional Ladder 2006.doc  0%  100%  
+	    New File  		   30208	Dietitian Professional Ladder Requirements 1.doc  0%  100%  
+	    New File  		   25600	Dr. Pearl Letter.doc  0%  100%  
+	    New File  		   23040	Dress Code Policy.doc  0%  100%  
+	    New File  		   24064	DT Increases.doc  0%  100%  
+	    New File  		   43008	DT Meetings  Inservices FY2005.doc  0%  100%  
+	    New File  		   26112	DT Update.doc  0%  100%  
+	    New File  		   25088	EMPLOYEE DEVELOPMENT PLAN2.doc  0%  100%  
+	    New File  		   24064	Evaluation  2006.doc  0%  100%  
+	    New File  		   24064	Evaluation 2007.doc  0%  100%  
+	    New File  		   26624	Explanation of Special.doc  0%  100%  
+	    New File  		   27136	EXTREME MAKEOVER.doc  0%  100%  
+	    New File  		   26624	FAXING MENUS.doc  0%  100%  
+	    New File  		   24576	Feedback from Techs for  Menu Committee         2.doc  0%  100%  
+	    New File  		   24064	Flyer - Nutrition Technician.doc  0%  100%  
+	    New File  		   24064	Flyer - Registered Dietitian.doc  0%  100%  
+	    New File  		   24064	Flyer- Nutrition Technician.doc  0%  100%  
+	    New File  		   24064	Flyer- Registered Dietitian.doc  0%  100%  
+	    New File  		   27648	FOCUS - PDCA.doc  0%  100%  
+	    New File  		   28160	Food Allergies.doc  0%  100%  
+	    New File  		   37376	Food Service and Clinical Nutrition Meeting.doc  0%  100%  
+	    New File  		   24576	Food Service and Clinical Nutrition.doc 10-25-06.doc  0%  100%  
+	    New File  		   24576	Frequently Asked Questions..doc  0%  100%  
+	    New File  		   38400	FRIDAY DRAFT.doc  0%  100%  
+	    New File  		   25600	Gluten Free Write-In List 5-07.doc  0%  100%  
+	    New File  		   1.2 m	Google Grains.doc  0%  100%  
+	    New File  		   26624	Home Tube Feeding Guidelines.doc  0%  100%  
+	    New File  		   12288	HR eval Lynn's input.doc  0%  100%  
+	    New File  		  175104	Industry Interactions - Education Council rev1.ppt  0%  100%  
+	    New File  		   26624	Interdisciplinary Assess & Reass.doc  0%  100%  
+	    New File  		   30208	INTERNATIONAL LUNCH 8-14-07.doc  0%  100%  
+	    New File  		  972800	Internship Agreement '04.doc  0%  100%  
+	    New File  		  788992	IPOC Directions.ppt  0%  100%  
+	    New File  		  272384	Jennifer Bryant 2-4-04.doc  0%  100%  
+	    New File  		   24576	Jennifer Bryant.doc  0%  100%  
+	    New File  		   25088	Kay Mungaray - Rose Nomination.doc  0%  100%  
+	    New File  		   21504	L. Chatterjee- Clinical Rotation.doc  0%  100%  
+	    New File  		   22528	L.Chatterjee  Intern Rotations - 2005.doc  0%  100%  
+	    New File  		   26624	LastWord Changes 3-23-05.doc  0%  100%  
+	    New File  		  128000	Lorraine Chatterjee QI.xls  0%  100%  
+	    New File  		   24064	LPCH - Print Labels.doc  0%  100%  
+	    New File  		   25600	LPCH Diet Office 10-11-06.doc  0%  100%  
+	    New File  		   24576	LPCH Patient Relations.doc  0%  100%  
+	    New File  		   24576	Lucy Asumang.doc  0%  100%  
+	    New File  		   28160	Lynn Dennie-DW feedback.doc  0%  100%  
+	    New File  		   29696	Mabel Negrillo 10-10-05.doc  0%  100%  
+	    New File  		   20480	Mabel Negrillo.doc  0%  100%  
+	    New File  		   34816	Management Self Evaluation.doc  0%  100%  
+	    New File  		   26112	Mechanical Soft Diets.doc  0%  100%  
+	    New File  		   24576	Menu - Pediatric Oct05.xls  0%  100%  
+	    New File  		   24064	MENU BRAINSTORMS.11-10-06doc.doc  0%  100%  
+	    New File  		   29184	Menu Dinner 11-06.doc  0%  100%  
+	    New File  		   27136	Menu Meeting 6-06.doc  0%  100%  
+	    New File  		   29184	Menu Meeting 6-28-07.doc  0%  100%  
+	    New File  		   24576	Menu Monitoring Guidelines.doc  0%  100%  
+	    New File  		   24064	Menu Monitoring Months of November 2005.doc  0%  100%  
+	    New File  		   24576	MENU Pick up Codes 3-06.doc  0%  100%  
+	    New File  		   27648	Menu Pick-Up Standards  3-06.doc  0%  100%  
+	    New File  		   28160	MENU REQUESTS  08-04-05.doc  0%  100%  
+	    New File  		   29184	MENU REQUESTS  08-11-05.doc  0%  100%  
+	    New File  		   28160	Menu Revisions - Breakfast - 11-06.doc  0%  100%  
+	    New File  		   29184	Menu Revisions - Dinner 11-07.doc  0%  100%  
+	    New File  		   29184	Menu Revisions - Lunch- 11-07.doc  0%  100%  
+	    New File  		   25088	Menu Suggestions - 102504.doc  0%  100%  
+	    New File  		   24064	Menu.doc  0%  100%  
+	    New File  		   25600	Menus - 7 Day Cycle.doc  0%  100%  
+	    New File  		   24064	Menus Written - Reasons.doc  0%  100%  
+	    New File  		   25088	NEW PROCEDURE.doc  0%  100%  
+	    New File  		   34816	newCBORDTIMELINE.xls 11-10-05.xls  0%  100%  
+	    New File  		  612352	NPR - NUTRITION SERVICES2.doc  0%  100%  
+	    New File  		   37888	Nutrition Assessment Form 02-02-05.doc  0%  100%  
+	    New File  		   24576	Nutrition Comm 12.03.03 Education Materials Presented.doc  0%  100%  
+	    New File  		   24064	Nutrition Information Request 2.doc  0%  100%  
+	    New File  		   24064	Nutrition Information Request.doc  0%  100%  
+	    New File  		   22528	Nutrition Tech 5.doc  0%  100%  
+	    New File  		   55366	Nutrition Tech August 07 Dashboard (3).rtf  0%  100%  
+	    New File  		  124557	Nutrition Tech Dashboard Template(3).rtf  0%  100%  
+	    New File  		   24064	Nutrition Tech Flyer.doc  0%  100%  
+	    New File  		   55222	Nutrition Tech July 07 Dashboard (3).rtf  0%  100%  
+	    New File  		   55789	Nutrition Tech June 07 Dashboard (3).rtf  0%  100%  
+	    New File  		   55598	Nutrition Tech May 07 Dashboard (3).rtf  0%  100%  
+	    New File  		   51031	Nutrition Tech November 07 Dashboard (3).rtf  0%  100%  
+	    New File  		   55237	Nutrition Tech October 07 Dashboard (3).rtf  0%  100%  
+	    New File  		   55437	Nutrition Tech September 07 Dashboard (3).rtf  0%  100%  
+	    New File  		   53760	NUTRITION TECHNICIAN EDU. EVENTS 2006.doc  0%  100%  
+	    New File  		   54784	Nutrition Technician Education - Kay Mungaray.doc  0%  100%  
+	    New File  		   53760	Nutrition Technician Education.doc  0%  100%  
+	    New File  		   44032	Nutrition Technician Tasks - Early.doc  0%  100%  
+	    New File  		   40448	Nutrition Technician Tasks - Late.doc  0%  100%  
+	    New File  		   33280	Nutrition Vision and Objectives 1.doc  0%  100%  
+	    New File  		   38400	Nutrition Vision and Objectives 2.doc  0%  100%  
+	    New File  		   25088	Pat Kearney.doc  0%  100%  
+	    New File  		   26112	Patient Referral to Food Services Procedure.doc  0%  100%  
+	    New File  		   27648	Patient Reminder 01-24-06 Menus.doc  0%  100%  
+	    New File  		   34304	Patient Write In List - 3-07.doc  0%  100%  
+	    New File  		   25088	PCS Professional Development 2-06.doc  0%  100%  
+	    New File  		   66048	PCS Survey 2003 Report Template4.doc  0%  100%  
+	    New File  		   29696	PEDIATRIC MENU TASTE TESTING 9.21.07.doc  0%  100%  
+	    New File  		   51712	Pediatric Menu Taste Testing Results 9.27.07.doc  0%  100%  
+	    New File  		   19456	Pediatric Taste Testing 10.04.07.xls  0%  100%  
+	    New File  		   16384	Pediatric Taste Testing 9.27.07.xls  0%  100%  
+	    New File  		   49664	Performance Appraisal Part C.doc  0%  100%  
+	    New File  		   56320	Performance eval - mgmt self eval gen.doc  0%  100%  
+	    New File  		  167936	Performance eval - mgmt standards AB rev 8.061.doc  0%  100%  
+	    New File  		   32256	PERFORMANCE EVALUATION.doc  0%  100%  
+	    New File  		   25088	Pictures needed.doc  0%  100%  
+	    New File  		   32768	Policy - Approved Write Ins - 2-28-06.doc  0%  100%  
+	    New File  		   32768	Policy - Approved Write Ins -3-06.doc  0%  100%  
+	    New File  		   33280	Policy - Approved Write Ins -4-06.doc  0%  100%  
+	    New File  		   33792	Policy - Approved Write Ins 4-07.doc  0%  100%  
+	    New File  		   34304	Policy - Approved Write Ins -6-06.doc  0%  100%  
+	    New File  		   53760	Professional Development - Form.doc  0%  100%  
+	    New File  		   54784	Professional Development - Kay Mungaray.doc  0%  100%  
+	    New File  		  248832	Professional Development Portfolio 8-14-07.doc  0%  100%  
+	    New File  		   38912	Pros and Cons 01-28-05.doc  0%  100%  
+	    New File  		   28672	Psychiatric Units.doc  0%  100%  
+	    New File  		   39424	Pt Satisfaction Improvement Opportunities Meeting10.16.07.doc  0%  100%  
+	    New File  		   39936	Pt Satisfaction Improvement Opportunities Meeting7.12.07.doc  0%  100%  
+	    New File  		   52736	Pt Satisfaction Improvement Opportunities Meeting7.26.07R.doc  0%  100%  
+	    New File  		   46080	Pt Satisfaction Improvement Opportunities Meeting8.2.07R.doc  0%  100%  
+	    New File  		   36352	Pt Satisfaction Improvement Opportunities Meeting9.20.07.doc  0%  100%  
+	    New File  		   37888	Q12 Impact and 12 month Plans- Nutrition Technicians.xls  0%  100%  
+	    New File  		   26112	QI - Guidelines 10-25-05.doc  0%  100%  
+	    New File  		   28160	QI - Menus 10-19-05.doc  0%  100%  
+	    New File  		  137275	RD dashboard template.rtf  0%  100%  
+	    New File  		   28672	RD Ladder 2005.doc  0%  100%  
+	    New File  		   60416	SHC CBORD Training Manual.doc  0%  100%  
+	    New File  		   55808	Skylight Access.doc  0%  100%  
+	    New File  		   71168	Skylight Access1.doc  0%  100%  
+	    New File  		   31232	Skylight Content template (3).doc  0%  100%  
+	    New File  		   23792	Skylight Dairy.jpg  0%  100%  
+	    New File  		   36536	Skylight Fruits.jpg  0%  100%  
+	    New File  		   38054	Skylight Grains.jpg  0%  100%  
+	    New File  		  428940	Skylight pictures 1.jpg  0%  100%  
+	    New File  		  529622	Skylight pictures 2.jpg  0%  100%  
+	    New File  		   1.3 m	skylight pictures.ppt  0%  100%  
+	    New File  		   31149	Skylight Salmon.jpg  0%  100%  
+	    New File  		   26051	Skylight StrawberryPicture1.jpg  0%  100%  
+	    New File  		   39970	Skylight Vegetables.jpg  0%  100%  
+	    New File  		   26112	Sodexho  Meetings.doc  0%  100%  
+	    New File  		   45056	SPECIAL REQUEST SELECTIONS.doc  0%  100%  
+	    New File  		   16896	Staff Development Record 1-2004 pilot1.xls  0%  100%  
+	    New File  		    7113	Staff Development.htm  0%  100%  
+	    New File  		   25600	Standards - Pick up Menus 2-06.doc  0%  100%  
+	    New File  		   14336	Stanford  Diet Orders 07 30 04.xls  0%  100%  
+	    New File  		   14336	Stanford  Diet Orders.xls  0%  100%  
+	    New File  		   26624	Stanford NSS Diet Codes1.xls  0%  100%  
+	    New File  		   12258	SUMC IT Network & Application Form.htm  0%  100%  
+	    New File  		     315	SWWATER.INI  0%  100%  
+	    New File  		   25600	Tag Guideline 8-03-07.doc  0%  100%  
+	    New File  		   25088	Tag or No Tag.doc  0%  100%  
+	    New File  		   16384	Taste panel scoring template.xls  0%  100%  
+	    New File  		   36864	Tech # 5 - Menu Pick-up 3-07 doc.doc  0%  100%  
+	    New File  		   41984	Tech # 5 - Menu Pick-up 4-07 doc.doc  0%  100%  
+	    New File  		  135680	Tech Menu Tally 11.05.06.doc  0%  100%  
+	    New File  		   25088	Trayline Stations 2-22-05.doc  0%  100%  
+	    New File  		   53248	Unit Info-Sept06.doc  0%  100%  
+	    New File  		   26624	Vegan Pesto Pizza.doc  0%  100%  
+	    New File  		  520192	VegetableArt.ppt  0%  100%  
+	    New File  		   42496	Vision I  0%  100%  
+	    New File  		   42496	Vision II  0%  100%  
+	    New File  		   28672	weekend coverage.doc  0%  100%  
+	    New File  		   31232	Witkowski - April 12.doc  0%  100%  
+	    New File  		   25600	Witkowski - March 27.doc  0%  100%  
+	    New File  		   25088	Witkowski, Heather Documentation 2007.doc  0%  100%  
+	    New File  		   42496	Write In List - 3-07.doc  0%  100%  
+	    New File  		   44032	Write In List.8-07doc.doc  0%  100%  
+	    New File  		   26624	Write-In List Requests 8-11-05.doc  0%  100%  
+	    New File  		   61440	Write-In Menu 8-07.doc  0%  100%  
+	    New File  		   25600	Yashmi 11-10-06.doc  0%  100%  
+	    New File  		   40960	Yashmi Mistry.doc  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0001294\s0001294\My Documents\CBORD Training Manuals\
+	    New File  		  420413	Kaiser_Hawaii_Go_Live.zip  0%  100%  
+	    New File  		  497124	NSStrain40031.zip  0%  100%  
+	    New File  		   1.3 m	St Mary Updated 2005.zip  0%  100%  
+	  New Dir         66	\\shintnpscfs116\T$\Users7\S0001294\s0001294\My Documents\MENUS\
+	    New File  		   29184	Adult Menu Changes July 2007.doc  0%  100%  
+	    New File  		   25088	Copy of Menu Heart Thursday.xls  0%  100%  
+	    New File  		   24576	Copy of Menu Renal Friday.xls  0%  100%  
+	    New File  		   1.2 m	Copy of WG Week 1.xls  0%  100%  
+	    New File  		   25088	GestDia.xls  0%  100%  
+	    New File  		   1.1 m	Master Five Star - 1.xls  0%  100%  
+	    New File  		   1.1 m	Master Five Star - 2.xls  0%  100%  
+	    New File  		   22016	Maternity Soft 2006.xls  0%  100%  
+	    New File  		   24576	maternity2006.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Friday.xls  0%  100%  
+	    New File  		   20992	Menu Calculated Monday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Saturday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Sunday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Thursday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Tuesday.xls  0%  100%  
+	    New File  		   22016	Menu Calculated Wednesday.xls  0%  100%  
+	    New File  		   21504	Menu Heart Friday.xls  0%  100%  
+	    New File  		   20992	Menu Heart Monday.xls  0%  100%  
+	    New File  		   20480	Menu Heart Saturday.xls  0%  100%  
+	    New File  		   20992	Menu Heart Sunday.xls  0%  100%  
+	    New File  		   20992	Menu Heart Thursday.xls  0%  100%  
+	    New File  		   20480	Menu Heart Tuesday.xls  0%  100%  
+	    New File  		   20992	Menu Heart Wednesday.xls  0%  100%  
+	    New File  		   21504	Menu LMD Friday.xls  0%  100%  
+	    New File  		   21504	Menu LMD Monday.xls  0%  100%  
+	    New File  		   21504	Menu LMD Saturday.xls  0%  100%  
+	    New File  		   21504	Menu LMD Sunday.xls  0%  100%  
+	    New File  		   22016	Menu LMD Thursday.xls  0%  100%  
+	    New File  		   22016	Menu LMD Tuesday.xls  0%  100%  
+	    New File  		   22016	Menu LMD Wednesday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Friday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Monday4.xls  0%  100%  
+	    New File  		   23040	Menu Regular Saturday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Sunday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Thursday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Tuesday.xls  0%  100%  
+	    New File  		   28160	Menu Regular Wednesday.xls  0%  100%  
+	    New File  		   27136	Menu Renal Friday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Monday.xls  0%  100%  
+	    New File  		   27136	Menu Renal Saturday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Sunday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Thursday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Tuesday.xls  0%  100%  
+	    New File  		   21504	Menu Renal Wednesday.xls  0%  100%  
+	    New File  		   21504	Menu Soft Friday.xls  0%  100%  
+	    New File  		   22016	Menu Soft Monday.xls  0%  100%  
+	    New File  		   22528	Menu Soft Saturday.xls  0%  100%  
+	    New File  		   22528	Menu Soft Sunday.xls  0%  100%  
+	    New File  		   22528	Menu Soft Thursday.xls  0%  100%  
+	    New File  		   21504	Menu Soft Tuesday.xls  0%  100%  
+	    New File  		   21504	Menu Soft Wednesday.xls  0%  100%  
+	    New File  		   18944	NON SELECT FRIDAY.xls  0%  100%  
+	    New File  		   24576	Non Select Menu Entr‚e Rotation.doc  0%  100%  
+	    New File  		   19456	NON SELECT MONDAY.xls  0%  100%  
+	    New File  		   22016	NON SELECT SATURDAY.xls  0%  100%  
+	    New File  		   19456	NON SELECT SUNDAY.xls  0%  100%  
+	    New File  		   19456	NON SELECT THURSDAY.xls  0%  100%  
+	    New File  		   22528	NON SELECT TUESDAY.xls  0%  100%  
+	    New File  		   19968	NON SELECT WEDNESDAY.xls  0%  100%  
+	    New File  		   24064	Pediatric Heart Healthy.xls  0%  100%  
+	    New File  		   24064	Pediatric LMD.xls  0%  100%  
+	    New File  		   24576	Pediatric Menu Changes June 2007.doc  0%  100%  
+	    New File  		   25088	Pediatric Regular 2007.xls  0%  100%  
+	    New File  		   25088	Pediatric Regular 6-07.xls  0%  100%  
+	    New File  		   24064	Pediatric Renal.xls  0%  100%  
+	    New File  		   24064	Pediatric Soft.xls  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0001294\s0001294\My Documents\My eBooks\
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0001294\s0001294\My Documents\My eBooks\nutrient analysis\
+	    New File  		   16384	Custom food.xls  0%  100%  
+	    New File  		  126464	Food database.xls  0%  100%  
+	    New File  		   60416	Menu Regular Saturday.xls  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0001294\s0001294\My Documents\My Pictures\
+	    New File  		   22420	cranberry_sample.jpg  0%  100%  
+	    New File  		     438	Desktop.ini  0%  100%  
+	    New File  		    9894	Sample.jpg  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0001294\s0001294\My Documents\nutrient analysis\
+	    New File  		   16384	Custom food.xls  0%  100%  
+	    New File  		  126464	Food database.xls  0%  100%  
+	    New File  		  140800	Menu Regular Monday.xls  0%  100%  
+	    New File  		   60416	Menu Regular Saturday.xls  0%  100%  
+	    New File  		   3.5 m	Nutrient.mdb  0%  100%  
+	    New File  		    1028	Regular_Sat_Bft.dqy  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0001294\s0001294\My Documents\Outlook\
+	    New File  		  12.0 m	archive.pst  0.0%100%  
+	    New File  		  25.5 m	backup.pst  0.0% 62.5%100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0001294\s0001294\My Documents\SUMC IT Network & Application Form_files\
+	    New File  		    6562	intranet.css  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0001294\SUMC IT Network & Application Form_files\
+	    New File  		    6562	intranet.css  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0001294\WebEx\
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0001294\WINDOWS\
+	    New File  		      54	inifile.upd  0%  100%  
+	    New File  		     477	win.ctx  0%  100%  
+	    New File  		     477	win.ini  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0001294\WINDOWS\system\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        90        90         0         0         0         0
+   Files :      1986      1986         0         0         0         0
+   Bytes :   8.823 g   8.823 g         0         0         0         0
+   Times :   0:15:54   0:15:36                       0:00:00   0:00:18
+
+
+   Speed :            10115699 Bytes/sec.
+   Speed :             578.824 MegaBytes/min.
+
+   Ended : Sun Mar 27 09:46:01 2016

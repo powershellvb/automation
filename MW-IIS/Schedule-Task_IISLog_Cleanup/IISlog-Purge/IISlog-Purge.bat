@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy remotesigned -File  "C:\scripts\IISLog-Purge\IISlog-cleanup.ps1"

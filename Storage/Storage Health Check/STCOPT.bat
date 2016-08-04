@@ -1,0 +1,1 @@
+Powershell.exe -File  C:\Users\s0193253-A\Automation\STCOPT.ps1

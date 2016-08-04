@@ -1,0 +1,138 @@
+# ******
+# Script for EPIC ID Creation
+#
+#This script opt the user to select the type of server and the type of user in which the users need to be created and what kind of users needs to be created respectively.This requires the user to enter the #username ,Gecos and password to be entered the input files
+# Runs on kourne shell
+# 
+# 
+# 
+# 
+#
+# History:
+#  13-07-2016: Original created by Karthick priya A
+#  
+#  
+# ******
+
+
+#! /bin/bash
+echo -e "Please select your server type \n\t\t 1) Non-Cluster Node \n \t\t 2) Cluster Node  \n\t\t 3) Exit"
+while read opt
+do
+case $opt in
+         1)
+
+echo -e "Please select your server name \n\t\t 1) SHEPICTEMDH202 \n \t\t 2) SHEPICTEMDH203 \n\t\t 3) Exit"
+
+while read nc_serv
+do
+case $nc_serv in
+         1)
+echo -e "Please select type of user \n\t\t 1) EPIC \n \t\t 2) GENERIC \n\t\t 3) Exit"
+while read usrtype1
+do
+case $usrtype1 in
+         1)
+           /usr/local/custom/bin/EPIC_ID_Create/SHEPICTEMDH202/Master.sh >> /usr/local/custom/bin/EPIC_ID_Create/SHEPICTEMDH202/log.txt
+            ;;
+         2)
+           /usr/local/custom/bin/EPIC_ID_Create/SHEPICTEMDH202/Master_Generic.sh >> /usr/local/custom/bin/EPIC_ID_Create/SHEPICTEMDH202/log.txt
+            ;;
+        3)
+            exit
+            ;;
+        *) echo invalid option;;
+    esac
+
+done
+
+            ;;
+         2)
+           echo -e "Please select type of user \n\t\t 1) EPIC \n \t\t 2) GENERIC \n\t\t 3) Exit"
+while read usrtype2
+do
+case $usrtype2 in
+         1)
+           /usr/local/custom/bin/EPIC_ID_Create/SHEPICTEMDH203/Master.sh >> /usr/local/custom/bin/EPIC_ID_Create/SHEPICTEMDH203/log.txt
+            ;;
+         2)
+           /usr/local/custom/bin/EPIC_ID_Create/SHEPICTEMDH203/Master_Generic.sh >> /usr/local/custom/bin/EPIC_ID_Create/SHEPICTEMDH203/log.txt
+            ;;
+        3)
+            exit
+            ;;
+        *) echo invalid option;;
+    esac
+
+done
+
+            ;;
+        3)
+            exit
+            ;;
+        *) echo invalid option;;
+    esac
+
+done
+            ;;
+         2)
+            echo -e "Please select your server name \n\t\t 1) SHEPICPEMDH501 \n \t\t 2) SHEPICWEMAP501 \n\t\t 3) Exit"
+while read c_serv
+do
+case $c_serv in
+         1)
+            echo -e "Please select type of user \n\t\t 1) EPIC \n \t\t 2) GENERIC \n\t\t 3) Exit"
+while read usrtype3
+do
+case $usrtype3 in
+         1)
+        /usr/local/custom/bin/EPIC_ID_Create/SHEPICPEMDH501/Master.sh >> /usr/local/custom/bin/EPIC_ID_Create/SHEPICPEMDH501/log.txt
+            ;;
+         2)
+            /usr/local/custom/bin/EPIC_ID_Create/SHEPICPEMDH501/Master_Generic.sh >> /usr/local/custom/bin/EPIC_ID_Create/SHEPICPEMDH501/log.txt
+            ;;
+        3)
+            exit
+            ;;
+        *) echo invalid option;;
+    esac
+
+done
+
+            ;;
+         2)
+            echo -e "Please select type of user \n\t\t 1) EPIC \n \t\t 2) GENERIC \n\t\t 3) Exit"
+while read usrtype4
+do
+case $usrtype4 in
+         1)
+           /usr/local/custom/bin/EPIC_ID_Create/SHEPICWEMDH501/Master.sh >> /usr/local/custom/bin/EPIC_ID_Create/SHEPICWEMDH501/log.txt
+             ;;
+         2)
+/usr/local/custom/bin/EPIC_ID_Create/SHEPICWEMDH501/Master_Generic.sh >> /usr/local/custom/bin/EPIC_ID_Create/SHEPICWEMDH501/log.txt
+            ;;
+        3)
+            exit
+            ;;
+        *) echo invalid option;;
+    esac
+
+done
+
+            ;;
+        3)
+            exit
+            ;;
+        *) echo invalid option;;
+    esac
+
+done
+            ;;
+        3)
+            exit
+            ;;
+        *) echo invalid option;;
+    esac
+
+done
+

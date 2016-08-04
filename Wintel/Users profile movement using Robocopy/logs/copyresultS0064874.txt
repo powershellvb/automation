@@ -1,0 +1,983 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Sun Mar 27 11:02:04 2016
+
+   Source : \\shintnpscfs116\T$\Users7\S0064874\
+     Dest : \\shintnpscfs116\W$\T_drive(disabled_users)_users7\users7\S0064874\
+
+    Files : *.*
+	    
+  Options : *.* /TEE /S /E /COPY:DATS /DCOPY:T /ZB /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	  New Dir         13	\\shintnpscfs116\T$\Users7\S0064874\
+	    New File  		  867612	2015 Kety Leadership presentation draft.pptx  0%  100%  
+	    New File  		   21223	AA MRK Employee Mailings by Date.docx  0%  100%  
+	    New File  		     416	ChatLog New meeting 2011_06_07 11_45.rtf  0%  100%  
+	    New File  		    1736	ChatLog Stanford_Health Benefits Collaborative Application Training 2010_10_21 11_56.rtf  0%  100%  
+	    New File  		   14077	Copy of RP Relief 4 multiple change folks with Deb comments in red.xlsx  0%  100%  
+	    New File  		     566	desktop.ini  0%  100%  
+	    New File  		   44657	Draft of Kety Duron Letter to TIAA-CREF formal notification May 7.docx  0%  100%  
+	    New File  		   13824	No email.xls  0%  100%  
+	    New File  		   2.4 g	Personal Folders(1).pst  0.0%  0.6%  1.2%  1.9%  2.5%  3.1%  3.8%  4.4%  5.0%  5.7%  6.3%  6.9%  7.6%  8.2%  8.8%  9.5% 10.1% 10.7% 11.4% 12.0% 12.6% 13.3% 13.9% 14.5% 15.2% 15.8% 16.5% 17.1% 17.7% 18.4% 19.0% 19.6% 20.3% 20.9% 21.5% 22.2% 22.8% 23.4% 24.1% 24.7% 25.3% 26.0% 26.6% 27.2% 27.9% 28.5% 29.1% 29.8% 30.4% 31.0% 31.7% 32.3% 33.0% 33.6% 34.2% 34.9% 35.5% 36.1% 36.8% 37.4% 38.0% 38.7% 39.3% 39.9% 40.6% 41.2% 41.8% 42.5% 43.1% 43.7% 44.4% 45.0% 45.6% 46.3% 46.9% 47.5% 48.2% 48.8% 49.5% 50.1% 50.7% 51.4% 52.0% 52.6% 53.3% 53.9% 54.5% 55.2% 55.8% 56.4% 57.1% 57.7% 58.3% 59.0% 59.6% 60.2% 60.9% 61.5% 62.1% 62.8% 63.4% 64.0% 64.7% 65.3% 66.0% 66.6% 67.2% 67.9% 68.5% 69.1% 69.8% 70.4% 71.0% 71.7% 72.3% 72.9% 73.6% 74.2% 74.8% 75.5% 76.1% 76.7% 77.4% 78.0% 78.6% 79.3% 79.9% 80.5% 81.2% 81.8% 82.5% 83.1% 83.7% 84.4% 85.0% 85.6% 86.3% 86.9% 87.5% 88.2% 88.8% 89.4% 90.1% 90.7% 91.3% 92.0% 92.6% 93.2% 93.9% 94.5% 95.1% 95.8% 96.4% 97.0% 97.7% 98.3% 99.0% 99.6%100%  
+	    New File  		     600	PUTTY.RND  0%  100%  
+	    New File  		   39936	q.xls  0%  100%  
+	    New File  		     652	SWWATER.INI  0%  100%  
+	    New File  		  111104	trace32.exe  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\Announcement\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\Announcement\2009\
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0064874\Announcement\2009\Organization\
+	    New File  		   40448	HR Connection for Managers Aug 2009.doc  0%  100%  
+	    New File  		   55808	HR Connection for Managers July 2009.doc  0%  100%  
+	    New File  		  168960	HR Connnection for Managers Sept 2009.doc  0%  100%  
+	    New File  		   50176	HR Leadership Transition Plan_032709.doc  0%  100%  
+	    New File  		   46080	Opening of Stanford Medicine Outpatient Center_021109.doc  0%  100%  
+	    New File  		   46080	Overview of SHCLPCHUHW Bargaining Process & Trusteeship_021009.doc  0%  100%  
+	    New File  		   47104	School of Medicine Construction Update_021309.doc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\Announcement\2009\Recruitment\
+	    New File  		   64512	Hiring Manager Go-Live Tuesday, Feb 17_021209.doc  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\
+	  New Dir         28	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\
+	    New File  		  271360	archive.pst  0%  100%  
+	    New File  		  271360	archive1.pst  0%  100%  
+	    New File  		  271360	archive2.pst  0%  100%  
+	    New File  		     455	BENEFITS.lnk  0%  100%  
+	    New File  		  34.2 m	Mercer Census Data_as of 3-19-14_SHC_LPCH.xls  0.0% 46.7% 93.5%100%  
+	    New File  		       0	New Adobe LiveCycle Designer Document.xdp100%  
+	    New File  		  27.8 m	OJ8600_Basicx86_1315.exe  0.0% 57.4%100%  100%  100%  
+	    New File  		  271360	Personal Folders(1).pst  0%  100%  
+	    New File  		   1.3 m	PT-10496 Stanford and LPCH First Newsletter - Final mail 0713.zip  0%  100%  
+	    New File  		   13297	Ret Merger Dashboard 042214.xlsx  0%  100%  
+	    New File  		   18028	Ret Merger Project Plan.xlsx  0%  100%  
+	    New File  		   1.2 m	Ret Plan Merger  introductory letter 4-28-14 .docx  0%  100%  
+	    New File  		   1.2 m	Ret Plan Merger RC introductory letter 4-23-14 CL.docx  0%  100%  
+	    New File  		   1.2 m	Ret Plan Merger RC introductory letter 4-23-14 MP.docx  0%  100%  
+	    New File  		   1.2 m	Ret Plan Merger RC memo 04-23-14 draft.docx  0%  100%  
+	    New File  		  267366	Retirement Committee 05-14-14 dRAFT.pptx  0%  100%  
+	    New File  		  268744	Retirement Committee Update 05-14-14 DRAFT from Deb.pptx  0%  100%  
+	    New File  		  278198	Retirement Committee Update 05-14-14 Last two slides revised by Deb.pptx  0%  100%  
+	    New File  		   2.8 m	RETIREMENT PLAN DOCUMENT 1-1-11.pdf  0%  100%  
+	    New File  		    1534	S0064874.zip  0%  100%  
+	    New File  		  19.2 m	Setup_IP4[10_0_0_13]_H[NPIBE36FB].exe  0.0% 82.9%100%  100%  100%  
+	    New File  		   1.2 m	SHCLPCH - Notice cover ltr - actives DRAFT 042914 with Deb comments.docx  0%  100%  
+	    New File  		   1.2 m	SHCLPCH - Notice cover ltr - actives DRAFT 042914.docx  0%  100%  
+	    New File  		     445	Shortcut to RetMed Packet materials.lnk  0%  100%  
+	    New File  		   18962	Stanford 2014 Plan Updates - Detailed Comm Draft 042414 with Deb notes.docx  0%  100%  
+	    New File  		   16559	Stanford 2014 Plan Updates -Chrono Comm Plan Update 042414 with Deb notes in red.docx  0%  100%  
+	    New File  		   16619	Stanford 2014 Plan Updates -Chrono Comm Plan Update 042414.docx  0%  100%  
+	    New File  		     799	Windows Media Player.lnk  0%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\2014 OE Guides & SPDs\
+	    New File  		   6.3 m	2014 HouseStaff OE Guide.pdf  0.0%100%  
+	    New File  		  316594	2014 OE -- 2013 Over65 AARP Plan Comparison.pdf  0%  100%  
+	    New File  		  202041	2014 SHCLPCH CRONA OE Form.pdf  0%  100%  
+	    New File  		   5.4 m	2014 SHC-LPCH OE Guide -- Actives (not CRONA not housestaff).pdf  0%  100%  
+	    New File  		  332693	2014 SHCLPCH Retiree Cover Letter.pdf  0%  100%  
+	    New File  		   1.0 m	2014 SHCLPCH Retiree OE Guide.pdf  0%  100%  
+	    New File  		      22	New Compressed (zipped) Folder.zip  0%  100%  
+	    New File  		   1.6 m	SHCA_Brochure Oct 2013.pdf  0%  100%  
+	    New File  		   93046	SHCA_CEO_Cover letter Oct 2013.pdf  0%  100%  
+	    New File  		  289927	SHC-LPCH FAQ for SHCA brochure - FINAL - 10 03 13.pdf  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\2014 OE Guides & SPDs\SPDs\
+	    New File  		  573207	SHC_Booklet A_FINAL.pdf  0%  100%  
+	    New File  		   1.0 m	SHC_Booklet B_Draft FINAL.pdf  0%  100%  
+	    New File  		  549405	SHC_Booklet E_Draft 3_09 03 12_DA.DOCX  0%  100%  
+	    New File  		  430187	SHC_Booklet I - v3 - 12 20 2012.docx  0%  100%  
+	    New File  		  523785	SHC_SPD_Booklet C_FINAL.pdf  0%  100%  
+	    New File  		  419875	SHC_SPD_Booklet D_FINAL.pdf  0%  100%  
+	    New File  		  550404	SHC_SPD_Booklet F_060612.docx  0%  100%  
+	    New File  		  665053	Stanford Hospital_SPD_Booklet J_Draft 3_10 09 2012.docx  0%  100%  
+	    New File  		   4.0 m	Stanford Hospital_SPD_Booklets some final and some draft.zip  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\IA docs\
+	    New File  		     216	ATT00004.htm  0%   89%   89%  100%  
+	    New File  		  202140	IA SHC Project Plan 10022013 (Revised).pdf  0%  100%  
+	    New File  		  198546	IA SHC Project Plan 10022013.pdf  0%  100%  
+	    New File  		  129169	SHC IA Ben Admin Discovery Document.docx  0%  100%  
+	    New File  		  259463	SHC IA Requirements Matrix.docx  0%  100%  
+	    New File  		   87552	SHC Provider Briefing Decision-Matrix.xls  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\IA docs\RFP Final Docs\
+	    New File  		  332907	1_-_SHC_LPCH_RFP_Overview_FINAL_11112013.pdf  0%   99%   99%  100%  
+	    New File  		  915456	2_-_SHC_LPCH_RFP_Questions_FINAL_11112013.doc  0%   99%   99%  100%  
+	    New File  		   14747	3_-_SHC_LPCH_Benefits_Administration_Provider_Fees.xlsx  0%   99%   99%  100%  
+	    New File  		  221547	4_-_SHC_LPCH_Benefits_Administration_Client_Reference_Form.docx  0%   99%   99%  100%  
+	    New File  		   5.8 m	Attachments.zip  0.0%100%  100%  100%  
+	    New File  		   1.3 m	LPCH SPDs.zip  0%   99%   99%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\IA docs\RFP responses\
+	    New File  		   25386	C1 - Sample - Vendor Security Questionnaire (Businessolver).xlsx  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\IA docs\RFP responses\Businessolver\
+	    New File  		   1.1 m	2 - SHC LPCH RFP Questions (Businessolver).pdf  0%  100%  
+	    New File  		  214528	SHC - LPCH Executive Summary (Businessolver).pdf  0%   99%   99%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\IA docs\RFP responses\Businessolver\Attachments 1\
+	    New File  		  263680	Attachment B -SHC-LPCH Services Agreement.doc  0%  100%  
+	    New File  		  175098	Attachment C - Performance Guarantees 2013 - Sample.pdf  0%  100%  
+	  New Dir         13	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\IA docs\RFP responses\Businessolver\Attachments 1\Attachment A - Businessolver Technology Overview\
+	    New File  		   1.0 m	Appendix A EdgeBCC Overview.pdf  0%  100%  
+	    New File  		  293772	Appendix B LightEdge - Altoona  SOC 1 Type II  (SSAE 16) Report.pdf  0%  100%  
+	    New File  		  281236	Appendix C - LightEdge - KC SOC I Type II (SSAE 16) Report.pdf  0%  100%  
+	    New File  		  226159	Appendix D Businessolver Data Policy.pdf  0%  100%  
+	    New File  		  470828	Appendix E  Businessolver SOC 1 Type II (SSAE 16) Report.pdf  0%  100%  
+	    New File  		   1.7 m	Appendix F 2013  Businessolver Application Pen Testing.pdf  0%  100%  
+	    New File  		   2.5 m	Appendix G 2013 Businessolver External Network Pen Testing.pdf  0%  100%  
+	    New File  		   58561	Appendix H Data Flow Diagram.pdf  0%  100%  
+	    New File  		  155998	Appendix I SDLC Policy.pdf  0%  100%  
+	    New File  		  287717	Appendix J Incident Response Procedures 10 15 2012.pdf  0%  100%  
+	    New File  		  341160	Appendix K Disaster Recovery Plan.pdf  0%  100%  
+	    New File  		  823390	Appendix L Disaster Recovery Test Results.pdf  0%  100%  
+	    New File  		  446268	Businessolver Technology Overview.pdf  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\IA docs\RFP responses\Businessolver\Attachments 2\
+	    New File  		  915448	Attachment D - Reports, Analytics, and  Logs.pdf  0%  100%  
+	    New File  		   25163	Attachment E - Implementation Timeline.pdf  0%  100%  
+	    New File  		   5.6 m	Attachment F - Redlined Business Associate Addendum.pdf  0%  100%  
+	    New File  		  850729	Attachment G - Rethinking Voluntary.pdf  0%  100%  
+	    New File  		  929074	Attachment H - Benefitsolver Single Sign-On.pdf  0%  100%  
+	    New File  		   95455	Attachment I - Client Centric Team.pdf  0%  100%  
+	    New File  		   1.0 m	Attachment K - Process Excellence.pdf  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\IA docs\RFP responses\Businessolver\Attachments 2\Attachment J - Fulfillment Services examples\
+	    New File  		   1.6 m	Enrollment Flyer.pdf  0%  100%  
+	    New File  		  704100	Enrollment Postcard sample.pdf  0%  100%  
+	    New File  		   32748	Total Compensation Statement.pdf  0%  100%  
+	    New File  		   26958	Transition Letter.docx  0%  100%  
+	    New File  		  984654	Transition Poster.pdf  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\IA docs\RFP responses\Empyrean\
+	    New File  		   65194	Empyrean Response - SHC and LPCH HW RFP Executive Summary  12.03.13.docx  0%  100%  
+	    New File  		   1.3 m	Empyrean Response - SHC and LPCH RFP Questions 12.03.13.doc  0%   99%   99%  100%  
+	  New Dir         12	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\IA docs\RFP responses\Empyrean\Attachments\
+	    New File  		  236041	Attachment A - Empyrean Financial Review.zip  0%  100%  
+	    New File  		  128000	Attachment B - Master Services Agreement Sample.doc  0%  100%  
+	    New File  		   73216	Attachment C - Service Level Agreement.doc  0%  100%  
+	    New File  		  563250	Attachment D - Empyrean SOC 1.pdf  0%  100%  
+	    New File  		   1.1 m	Attachment E - Sample Reports and Premiums.zip  0%  100%  
+	    New File  		   12859	Attachment F - Empyrean Service Center 3 Year Statistics.xlsx  0%  100%  
+	    New File  		  308127	Attachment G - Implementation Timeline.pdf  0%  100%  
+	    New File  		  724270	Attachment H - Network Architecture.pdf  0%  100%  
+	    New File  		   92207	Attachment I - Change Control.pptx  0%  100%  
+	    New File  		  165888	Attachment J - Disaster Recovery Plan.doc  0%  100%  
+	    New File  		   7.3 m	Attachment K - Empyrean IT Review.ppt  0.0%100%  
+	    New File  		   1.2 m	Attachment L - Technology RoadMap.ppt  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\IA docs\RFP responses\Mercer\
+	    New File  		   26420	RFP Part 1 - Mercer's Cover Letter for SHC.LPCH.pdf  0%   99%   99%  100%  
+	    New File  		  422066	RFP Part 1 - Mercer's Executive Summary to SHC LPCH.pdf  0%  100%  
+	    New File  		   2.9 m	RFP Part 2 - Mercer's Response to SHC_LPCH RFP Questions.doc  0%   99%   99%  100%  
+	    New File  		    5646	RFP Part 4 -  Implementation Milestones.pdf  0%  100%  
+	    New File  		  159232	RFP Part 5 - Appendix B - Mercer ASA RFP  Template_7-10-2013 (#20).doc  0%  100%  
+	    New File  		  153096	RFP Part 6 - SHC LPCH Benefits Administration Client Reference Form_Mercer.docx  0%  100%  
+	    New File  		   38719	RFP Part 7 - SHC.LPCH Vendor Security Questionnaire.xlsx  0%  100%  
+	    New File  		   3.3 m	RFP Part 8 - Mercer Appendices for SCH.LPCH.zip  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\IA docs\RFP responses\Reference Checks\
+	    New File  		  120614	4 - SHC LPCH Benefits Administration Client Reference Form (Businessolve....pdf  0%  100%  
+	    New File  		   37364	BSolver Reference Ann Edelman.docx  0%  100%  
+	    New File  		  154955	Empyrean Response - SHC LPCH Benefits Administration Client Reference Form.docx  0%  100%  
+	    New File  		   90853	Reference Check Template.docx  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\LPCH\
+	    New File  		   13321	LPCH 1000 Hour data reconciliation File 1 Mar 25 2014.xlsx  0%  100%  
+	    New File  		   17237	LPCH 1000 hour Data Reconciliation request 2 supercedes request 1.xlsx  0%  100%  
+	    New File  		   17957	LPCH 2013 1000 hours data reconciliation 3.xlsx  0%  100%  
+	    New File  		  204288	LPCH 2013 RP Relief Project Master file 4-10-14 V2.xlsx  0%  100%  
+	    New File  		  496037	LPCH Memo to Employees receiving a 2013 relief contribution  DRAFT v2.docx  0%  100%  
+	    New File  		  496039	LPCH Memo to EMployees receiving a 2013 relief contribution  DRAFT.docx  0%  100%  
+	    New File  		   27261	Ltrfor2012Contribution.docx  0%  100%  
+	  New Dir         11	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\LPCH\Sent\
+	    New File  		   68927	2014 Aurelio Owen Exec Contribution Worksheet.xlsx  0%  100%  
+	    New File  		   68527	2014 Carmack Timothy Exec Contribution Worksheet.xlsx  0%  100%  
+	    New File  		   68923	2014 D'Addario Jeannine Exec Contribution Worksheet.xlsx  0%  100%  
+	    New File  		   68928	2014 Dawes Christopher Exec Contribution Worksheet.xlsx  0%  100%  
+	    New File  		   68928	2014 Hrast Michael Exec Contribution Worksheet.xlsx  0%  100%  
+	    New File  		   69348	2014 Kelsey Bret Exec Contribution Worksheet.xlsx  0%  100%  
+	    New File  		   68898	2014 Kopetsky Edward Exec Contribution Worksheet.xlsx  0%  100%  
+	    New File  		   68965	2014 McCaughey James Exec Contribution Worksheet.xlsx  0%  100%  
+	    New File  		   68929	2014 Roberts Kim Exec Contribution Worksheet.xlsx  0%  100%  
+	    New File  		   68907	2014 Souza Gregory Exec Contribution Worksheet.xlsx  0%  100%  
+	    New File  		   68958	2014 Sullivan Jill Ann Exec Contribution Worksheet.xlsx  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\Mercer RetPlan Merger\
+	    New File  		   80896	High Level RP Timetable and issues log 4-7-14.xls  0%  100%  
+	    New File  		   38667	Plan Merger comparison and ideas March 28 brainstorming.docx  0%  100%  
+	    New File  		   36675	Plan Merger comparison and ideas.docx  0%  100%  
+	    New File  		   16230	Ret Plans Merger and Fund Reduction Communications high level 041714 .docx  0%  100%  
+	    New File  		   49280	RP Design 4-4-2014 Objective Discussion.pdf  0%  100%  
+	    New File  		   36603	SHC LPCH - plan merge comparison 032014.docx  0%  100%  
+	    New File  		  926536	SHC Ret Plan Merger and redesign SOW.pdf  0%  100%  
+	    New File  		   23409	Stanford University TDA into RP.docx  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\Misc Shortcuts\
+	  New Dir         12	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\MRK mailings\
+	    New File  		   21223	AA MRK Employee Mailings by Date.docx  0%  100%  
+	    New File  		   15892	Headlines & Packard Progress Update on Retirement Program Changes 8.5.11.docx  0%  100%  
+	    New File  		   31891	MRK ACTION ITEM LIST - PHASE II.docx  0%  100%  
+	    New File  		   13978	MRK Dashboard Timeline 032811.xlsx  0%  100%  
+	    New File  		   32326	MRK Internal Action Item  List - Open - FINAL.docx  0%  100%  
+	    New File  		   41623	Plan Merger comparison and ideas 04042014.docx  0%  100%  
+	    New File  		  834816	PT-10496 Stanford and LPCH First Newsletter - Final mail 0713.pdf  0%  100%  
+	    New File  		  372938	Retirement Article - HRConnection_Spring2011.pdf  0%  100%  
+	    New File  		   80896	RP design issues log 4-3-14.xls  0%  100%  
+	    New File  		   42494	SHC LPCH PLANS - MONEY TYPES.docx  0%  100%  
+	    New File  		 1005214	Stanford and LPCH - Second Diversified Newsletter - FINAL Revised Print File 0804.pdf  0%  100%  
+	    New File  		   95744	Stanford MRK Contacts 012512.doc  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\Ret Merger\
+	    New File  		   76800	debs timetable 04 08 14 draft.xls  0%  100%  
+	    New File  		   16177	Project Sponsor Agenda 4-18-14.docx  0%  100%  
+	    New File  		   16977	Project Sponsor Agenda 4-22-14.docx  0%  100%  
+	    New File  		   12908	RP TDA Merger Dashboard 041814.xlsx  0%  100%  
+	  New Dir         18	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\RetMed Packet materials\
+	    New File  		  177926	2009 SPP SPD .pdf  0%  100%  
+	    New File  		  278016	2013 Retiree Medical Workshop revised.ppt  0%  100%  
+	    New File  		  160891	2013 UMR-Medicare(2012)-AARP Plan Comparison 10-2012 - UHC  SHC edits for 2013v2 (2).docx  0%  100%  
+	    New File  		  553459	2013_Retiree_Medical_Comparison_chart.pdf  0%  100%  
+	    New File  		   49152	Copy of A Retiree Medical Calculation form.xls  0%  100%  
+	    New File  		   1.0 m	Copy of A Retiree Medical Calculation form.zip  0%  100%  
+	    New File  		   91648	HR Directory.xls  0%  100%  
+	    New File  		   31232	hrispaycal2013 - color.xls  0%  100%  
+	    New File  		   40960	Liz' label template.doc  0%  100%  
+	    New File  		   19789	LPCH HR Phone List.xlsx  0%  100%  
+	    New File  		   14144	Misc Contact info.docx  0%  100%  
+	    New File  		   65536	SHC SPP Beneficiary Form 2008.doc  0%  100%  
+	    New File  		   36352	SHC SPP Beneficiary Form 2013.doc  0%  100%  
+	    New File  		  430412	SHC_Booklet I draft.docx  0%  100%  
+	    New File  		  103368	SPP Pre-retirement Beneficiary form.pdf  0%  100%  
+	    New File  		  262053	stanford_contribution_B.PDF  0%  100%  
+	    New File  		  249060	stanford_contribution_C.PDF  0%  100%  
+	    New File  		   76174	Tesseract Benefits Codes.pdf  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\SHC Misc\
+	    New File  		   14935	Deb to do list.docx  0%  100%  
+	    New File  		   39936	Liz' label template.doc  0%  100%  
+	    New File  		   14369	Misc Access info.docx  0%  100%  
+	    New File  		   67584	SHC-LPCH PLANS.DOC  0%  100%  
+	    New File  		   85233	shclpchletterhead.docx  0%  100%  
+	    New File  		   60416	Stanford MRK Contacts updated.doc  0%  100%  
+	    New File  		  100352	Stanford MRK Contacts.doc  0%  100%  
+	    New File  		   2.3 m	tesseract.xps  0%  100%  
+	    New File  		   22644	Vendor Contacts 2012.docx  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\Shortcuts I use\
+	    New File  		     442	Lmino.lnk  0%  100%  
+	    New File  		    1051	Shortcut to Controlled Group Master Spreadsheet  Shared.xls.lnk  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Desktop\SV Consulting\
+	    New File  		   27648	SV Consulting Letterhead.doc  0%  100%  
+	    New File  		   28160	SV Consulting Notice of Subcontractor letter April 9 2013.doc  0%  100%  
+	    New File  		   24681	SV Consulting proposal to SHC ongoing SPP services.docx  0%  100%  
+	    New File  		   22854	SV Consulting proposal to Stanford Hospital and Clinics March 26 2013.docx  0%  100%  
+	    New File  		   28672	SV Consulting Subcontractor Agreement letter April 9 2013.doc  0%  100%  
+	    New File  		   55956	SV Consulting_SHC Consulting Agreement with BAA_2013.docx  0%  100%  
+	    New File  		   1.2 m	SV Consulting_SHC Consulting Agreement_040113_FINAL.pdf  0%  100%  
+	  New Dir         32	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Favorites\
+	    New File  		     241	AnswerKey.url  0%  100%  
+	    New File  		     801	BA Access.url  0%  100%  
+	    New File  		     211	BenCalX.url  0%  100%  
+	    New File  		    2641	Constant Contact  Login.url  0%  100%  
+	    New File  		     122	Desktop.ini  0%  100%  
+	    New File  		     280	Gmail login.url  0%    4%    4%  100%  
+	    New File  		     215	Google.url  0%    3%    3%  100%  
+	    New File  		     235	HealthySteps.url  0%   14%   14%  100%  
+	    New File  		    3548	HR Library.url  0%   39%   39%  100%  
+	    New File  		     843	Lawson portal.url  0%   21%   21%  100%  
+	    New File  		     163	Lexicomp.url  0%  100%  
+	    New File  		     221	LPCH HR.url  0%  100%  
+	    New File  		     179	Mercer Connect.url  0%  100%  
+	    New File  		     164	Micromedex.url  0%  100%  
+	    New File  		      81	MSDN.url  0%  100%  
+	    New File  		     146	MSDS-Chemquik.url  0%  100%  
+	    New File  		     141	MSOnet.url  0%  100%  
+	    New File  		     278	My Health Online - PAMF.url  0%   19%   19%  100%  
+	    New File  		     172	Pediatric Heart Center Database.url  0%  100%  
+	    New File  		     275	Pension Benefit Information Linda Mino 65851.url  0%    3%    3%  100%  
+	    New File  		     244	Ravelry.url  0%   43%   43%  100%  
+	    New File  		     144	Scalpel.url  0%  100%  
+	    New File  		     149	Self service portal.url  0%  100%  
+	    New File  		     166	SHC CMS.url  0%  100%  
+	    New File  		     180	Smart Page.url  0%  100%  
+	    New File  		     140	Stanford Campus Downtime Reports.url  0%  100%  
+	    New File  		     140	Stanford Offsite Clinics Downtime Reports.url  0%  100%  
+	    New File  		     140	Stanford Pharmacy Downtime Reports.url  0%  100%  
+	    New File  		      84	Support.url  0%  100%  
+	    New File  		     141	TEST.url  0%  100%  
+	    New File  		     195	Web Budgeting Tool.url  0%  100%  
+	    New File  		     151	Workforce Management (IWork4SHC).url  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Favorites\CV Med-CT Surg Clinic Favorites\
+	    New File  		     140	ECG.url  0%  100%  
+	    New File  		     150	Echo Lab.url  0%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Favorites\Links\
+	    New File  		      84	desktop.ini  0%  100%  
+	    New File  		     146	MSDS-Chemquik.url  0%  100%  
+	    New File  		     164	MSOnet.url  0%  100%  
+	    New File  		     164	MSOW Priv Inquiry.url  0%  100%  
+	    New File  		     172	Pediatric Heart Center Database.url  0%  100%  
+	    New File  		     140	Stanford Campus Downtime Reports.url  0%  100%  
+	    New File  		     140	Stanford Offsite Clinics Downtime Reports.url  0%  100%  
+	    New File  		     140	Stanford Pharmacy Downtime Reports.url  0%  100%  
+	    New File  		     195	Web Budgeting Tool.url  0%  100%  
+	    New File  		     226	Web Slice Gallery.url  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Favorites\LPCH Sites to Explore\
+	    New File  		     321	LPCH Community Physician Directory.url  0%  100%  
+	    New File  		     318	LPCH Faculty Physician Directory.url  0%  100%  
+	    New File  		     147	LPCH Nursing Education.url  0%  100%  
+	    New File  		     287	LPCH Web Site.url  0%  100%  
+	    New File  		     305	Vaccine Information Statements.url  0%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Favorites\LPCH Web Based Applications\
+	    New File  		     321	Cerner.url  0%  100%  
+	    New File  		     301	Hospital Paging.url  0%  100%  
+	    New File  		     147	LPCH Nursing Education.url  0%  100%  
+	    New File  		     296	MD Paging.url  0%  100%  
+	    New File  		     150	Medical Center Directory.url  0%  100%  
+	    New File  		     151	Quantros.url  0%  100%  
+	    New File  		     166	Reference - PEDBASE.url  0%  100%  
+	    New File  		     166	Referene - PEDBASE.url  0%  100%  
+	    New File  		     181	SHC Learning Management System.url  0%  100%  
+	    New File  		     318	Trust Commerce.url  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Favorites\Microsoft Websites\
+	    New File  		     160	IE Add-on site.url  0%  100%  
+	    New File  		     160	IE site on Microsoft.com.url  0%  100%  
+	    New File  		     160	Marketplace.url  0%  100%  
+	    New File  		     160	Microsoft At Home.url  0%  100%  
+	    New File  		     160	Microsoft At Work.url  0%  100%  
+	    New File  		     161	Microsoft Store.url  0%  100%  
+	    New File  		     160	Welcome to IE7.url  0%  100%  
+	  New Dir         32	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Favorites\SMG-SFM Favorites\
+	    New File  		     143	AAFP - American Family Physician.url  0%  100%  
+	    New File  		     158	AAFP Clin Policy.url  0%  100%  
+	    New File  		     292	AAP - American Academy of Pediatrics.url  0%  100%  
+	    New File  		     310	AAP Clin Policy.url  0%  100%  
+	    New File  		     162	Adult Immunization.url  0%  100%  
+	    New File  		     143	AFP.url  0%  100%  
+	    New File  		     139	CA Internet Formulary Reference.url  0%  100%  
+	    New File  		     177	CDC - Adult Immunization.url  0%  100%  
+	    New File  		     177	CDC - Child Immunization.url  0%  100%  
+	    New File  		     155	CDC - Travel Advise.url  0%  100%  
+	    New File  		     169	CDC Prevent Guides.url  0%  100%  
+	    New File  		     162	Child Immunization PDF.url  0%  100%  
+	    New File  		     185	Child Immunization.url  0%  100%  
+	    New File  		     167	Healinx User.url  0%  100%  
+	    New File  		     139	HMO Formulary.url  0%  100%  
+	    New File  		     162	Medem Health Info.url  0%  100%  
+	    New File  		     159	Natl Guideline Clearing House.url  0%  100%  
+	    New File  		     317	NHLBI Health Info -  National Heart, Lung, and Blood Institute.url  0%  100%  
+	    New File  		     157	NHLBI Health Info.url  0%  100%  
+	    New File  		     138	Nicholas Institute of Sports Medicine .url  0%  100%  
+	    New File  		     138	Nichol's Institute.url  0%  100%  
+	    New File  		     136	Palo Alto Medical Foundation - PAMF.url  0%  100%  
+	    New File  		     149	PDR - Physicians' Desk Reference.url  0%  100%  
+	    New File  		     149	PDR.url  0%  100%  
+	    New File  		     290	SFM - Stanford Family Medicine .url  0%  100%  
+	    New File  		     140	SFP Home.url  0%  100%  
+	    New File  		     189	SHC Contracts.url  0%  100%  
+	    New File  		     339	SHC Managed Care Contracts.url  0%  100%  
+	    New File  		     301	SMG - Stanford Medical Group.url  0%  100%  
+	    New File  		     151	SMG Home.url  0%  100%  
+	    New File  		     141	Travel Advise.url  0%  100%  
+	    New File  		     140	Trip Prep.url  0%  100%  
+	  New Dir         15	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Favorites\Stanford Sites to Explore\
+	    New File  		     148	Hospital url.url  0%  100%  
+	    New File  		     327	ICD 9 Coding.url  0%  100%  
+	    New File  		     303	Lane Library.url  0%  100%  
+	    New File  		     150	Medical Center Directory.url  0%  100%  
+	    New File  		     164	Medical Staff Roster.url  0%  100%  
+	    New File  		     163	Oncore url.url  0%  100%  
+	    New File  		     199	School of Medicine.url  0%   14%   14%  100%  
+	    New File  		     184	SHC Community Physician Directory.url  0%  100%  
+	    New File  		     181	SHC Faculty Physician Directory.url  0%  100%  
+	    New File  		     319	SHC Physician Directory.url  0%  100%  
+	    New File  		     148	SHC Web Site.url  0%  100%  
+	    New File  		     148	Stanford Intranet.url  0%  100%  
+	    New File  		     298	Stanford Intranets.url  0%  100%  
+	    New File  		     309	Stanford University Medical Center.url  0%  100%  
+	    New File  		     295	Stanford University.url  0%  100%  
+	  New Dir         23	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Favorites\Stanford Web Based Applications\
+	    New File  		     148	BOB (Knowledgebase).url  0%  100%  
+	    New File  		     148	Emerg-Med.url  0%  100%  
+	    New File  		     142	Ether.url  0%  100%  
+	    New File  		     315	HealthStream.url  0%  100%  
+	    New File  		     149	HIPAA Information.url  0%  100%  
+	    New File  		     305	Lexicomp.url  0%  100%  
+	    New File  		     166	lifeIMAGE Inbox Login.url  0%  100%  
+	    New File  		     141	MICROMEDEX(R) Healthcare Series.url  0%  100%  
+	    New File  		     141	MSOnet.url  0%  100%  
+	    New File  		     145	PAMF - portal.url  0%  100%  
+	    New File  		     140	PAMF Sutter Health Citrix Portal.url  0%  100%  
+	    New File  		     144	Portal Backup Site.url  0%  100%  
+	    New File  		     305	Profee Ontrac.url  0%  100%  
+	    New File  		     301	Radiology Images.url  0%  100%  
+	    New File  		     152	SHC Carecast Online Learning Center.url  0%  100%  
+	    New File  		     154	SHC Learning Management System.url  0%  100%  
+	    New File  		     305	Spheris Clarity Care and Complete.url  0%  100%  
+	    New File  		     143	Stanford Lab.url  0%  100%  
+	    New File  		     153	Stanford Physician Portal.url  0%  100%  
+	    New File  		     303	SUMC Outlook Web Access.url  0%  100%  
+	    New File  		     153	Teletracking Dashboard.url  0%  100%  
+	    New File  		     147	TissueTrackCore.url  0%  100%  
+	    New File  		     318	Trust Commerce.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Favorites\Stanford Web Based Applications\Smart Paging\
+	    New File  		     146	Smart Paging Application.url  0%  100%  
+	    New File  		     172	Smart Paging Help - Introduction.url  0%  100%  
+	    New File  		     146	Smart Paging Help - Placing Pages & Using Features.url  0%  100%  
+	    New File  		     172	Smart Paging Help - Using Smart Paging.url  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Favorites\Stanford Web Based Applications\SmartPage\
+	    New File  		     303	Smart Page Portal.url  0%  100%  
+	    New File  		     301	Smart Paging Application.url  0%  100%  
+	    New File  		     327	Smart Paging Help - Introduction.url  0%  100%  
+	    New File  		     301	Smart Paging Help - Placing Pages.url  0%  100%  
+	    New File  		     327	Smart Paging Help - Using Features.url  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Signatures\
+	    New File  		   24488	full signature.htm  0%  100%  
+	    New File  		   31039	full signature.rtf  0%  100%  
+	    New File  		     362	full signature.txt  0%  100%  
+	    New File  		   22743	reply signature.htm  0%  100%  
+	    New File  		   28943	reply signature.rtf  0%  100%  
+	    New File  		     158	reply signature.txt  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Signatures\full signature_files\
+	    New File  		     314	colorschememapping.xml  0%  100%  
+	    New File  		     218	filelist.xml  0%  100%  
+	    New File  		    3104	themedata.thmx  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0064874\Backup 04302014\Signatures\reply signature_files\
+	    New File  		     314	colorschememapping.xml  0%  100%  
+	    New File  		     219	filelist.xml  0%  100%  
+	    New File  		    3104	themedata.thmx  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\BACKUP 7-12-13\
+	  New Dir         26	\\shintnpscfs116\T$\Users7\S0064874\BACKUP 7-12-13\Desktop\
+	    New File  		     776	2012 relief project completed in April 2013.lnk  0%  100%  
+	    New File  		  215040	2013 Active Benefit Statement - LP (Client).xls  0%   99%   99%  100%  
+	    New File  		     831	Audit Selection Documents.lnk  0%  100%  
+	    New File  		  280064	BenCalxReport[2].doc  0%  100%  
+	    New File  		     455	BENEFITS.lnk  0%  100%  
+	    New File  		  279552	Exh_2013 Active Benefit Statement 2013-06-10_client.xls  0%   99%   99%  100%  
+	    New File  		   1.1 m	Exh_2013 Active Suspended Benefit Statement 2013-06-18_client.xls  0%  100%  100%  100%  
+	    New File  		  592896	Exh_2013 VT Benefit Statement 2013-06-27_client.xls  0%   99%   99%  100%  
+	    New File  		     579	HRBC Operations.lnk  0%  100%  
+	    New File  		   40960	Liz' label template.doc  0%  100%  
+	    New File  		     442	Lmino.lnk  0%  100%  
+	    New File  		    2501	Microsoft Word 2010.lnk  0%  100%  
+	    New File  		  348334	PaperVision ElAskary.pdf  0%  100%  
+	    New File  		   6.2 m	PaperVision June Parker.pdf  0.0%100%  
+	    New File  		   8.4 m	PaperVision Martin xxx-xx-9718.pdf  0.0%100%  
+	    New File  		   7.8 m	PaperVision Sebald.pdf  0.0%100%  
+	    New File  		   38400	SHC Logo.doc  0%  100%  
+	    New File  		    1151	Shortcut to Controlled Group Master Spreadsheet  Shared.xls.lnk  0%  100%  
+	    New File  		     965	Shortcut to SHC -- SPP and RetMed Tracking -- Master File.xlsx.lnk  0%  100%  
+	    New File  		     668	Shortcut to VTfile.xls.lnk  0%  100%  
+	    New File  		  184310	SPP Active Benefit Statement with SHC Status Needs LPCH status.xlsx  0%  100%  
+	    New File  		  676356	SPP Active Suspended Benefit Statement with SHC status Needs LPCH status.xlsx  0%  100%  
+	    New File  		     735	SPP AFN 2013 project.lnk  0%  100%  
+	    New File  		   41984	Tesfaye SPP estimate for QDRO purposes.doc  0%  100%  
+	    New File  		   2.3 m	tesseract.xps  0%  100%  
+	    New File  		     799	Windows Media Player.lnk  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0064874\BACKUP 7-12-13\Desktop\PBI addresses\
+	    New File  		    5225	65851_03012013.PDF  0%  100%  
+	    New File  		    5329	65851_03082013.PDF  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\BACKUP 7-12-13\Desktop\QDRO Procedures\
+	    New File  		  145920	SHC_LPCH Updated QDRO Procedures (4) found on S drive with 7-16-12 modify date.doc  0%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0064874\BACKUP 7-12-13\Desktop\RetMed Packet materials\
+	    New File  		  177926	2009 SPP SPD .pdf  0%  100%  
+	    New File  		  278016	2013 Retiree Medical Workshop revised.ppt  0%  100%  
+	    New File  		  160891	2013 UMR-Medicare(2012)-AARP Plan Comparison 10-2012 - UHC  SHC edits for 2013v2 (2).docx  0%  100%  
+	    New File  		  553459	2013_Retiree_Medical_Comparison_chart.pdf  0%  100%  
+	    New File  		   49152	Copy of A Retiree Medical Calculation form.xls  0%  100%  
+	    New File  		   1.0 m	Copy of A Retiree Medical Calculation form.zip  0%  100%  
+	    New File  		   91648	HR Directory.xls  0%  100%  
+	    New File  		   31232	hrispaycal2013 - color.xls  0%  100%  
+	    New File  		   40960	Liz' label template.doc  0%  100%  
+	    New File  		   19789	LPCH HR Phone List.xlsx  0%  100%  
+	    New File  		   14144	Misc Contact info.docx  0%  100%  
+	    New File  		  463758	Retiree Medical Plan SPD Booklet I w supplement.pdf  0%  100%  
+	    New File  		  430412	SHC_Booklet I draft.docx  0%  100%  
+	    New File  		  103368	SPP Pre-retirement Beneficiary form.pdf  0%  100%  
+	    New File  		  262053	stanford_contribution_B.PDF  0%  100%  
+	    New File  		  249060	stanford_contribution_C.PDF  0%  100%  
+	    New File  		   76174	Tesseract Benefits Codes.pdf  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0064874\BACKUP 7-12-13\Desktop\SHC Misc\
+	    New File  		   14935	Deb to do list.docx  0%  100%  
+	    New File  		   14438	Misc Access info.docx  0%  100%  
+	    New File  		   67584	SHC-LPCH PLANS.DOC  0%  100%  
+	    New File  		   85233	shclpchletterhead.docx  0%  100%  
+	    New File  		   60416	Stanford MRK Contacts updated.doc  0%  100%  
+	    New File  		  100352	Stanford MRK Contacts.doc  0%  100%  
+	    New File  		   22644	Vendor Contacts 2012.docx  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0064874\BACKUP 7-12-13\Desktop\SV Consulting\
+	    New File  		   27648	SV Consulting Letterhead.doc  0%  100%  
+	    New File  		   28160	SV Consulting Notice of Subcontractor letter April 9 2013.doc  0%  100%  
+	    New File  		   28672	SV Consulting Subcontractor Agreement letter April 9 2013.doc  0%  100%  
+	    New File  		   1.2 m	SV Consulting_SHC Consulting Agreement_040113_FINAL.pdf  0%  100%  
+	  New Dir         18	\\shintnpscfs116\T$\Users7\S0064874\BACKUP 7-12-13\Favorites\
+	    New File  		     241	AnswerKey.url  0%  100%  
+	    New File  		     801	BA Access.url  0%  100%  
+	    New File  		     211	BenCalX.url  0%  100%  
+	    New File  		    2641	Constant Contact  Login.url  0%  100%  
+	    New File  		     122	Desktop.ini  0%  100%  
+	    New File  		     280	Gmail login.url  0%    4%    4%  100%  
+	    New File  		     235	HealthySteps.url  0%   14%   14%  100%  
+	    New File  		    3548	HR Library.url  0%   39%   39%  100%  
+	    New File  		     843	Lawson portal.url  0%   21%   21%  100%  
+	    New File  		     221	LPCH HR.url  0%  100%  
+	    New File  		     179	Mercer Connect.url  0%  100%  
+	    New File  		      81	MSDN.url  0%  100%  
+	    New File  		     274	My Health Online - PAMF.url  0%   16%   16%  100%  
+	    New File  		     275	Pension Benefit Information Linda Mino 65851.url  0%    3%    3%  100%  
+	    New File  		     244	Ravelry.url  0%   43%   43%  100%  
+	    New File  		     149	Self service portal.url  0%  100%  
+	    New File  		      84	Support.url  0%  100%  
+	    New File  		     151	Workforce Management (IWork4SHC).url  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0064874\BACKUP 7-12-13\Favorites\Links\
+	    New File  		     160	Customize Links.url  0%  100%  
+	    New File  		     146	MSDS-Chemquik.url  0%  100%  
+	    New File  		     141	MSOnet.url  0%  100%  
+	    New File  		     172	Pediatric Heart Center Database.url  0%  100%  
+	    New File  		     140	Stanford Campus Downtime Reports.url  0%  100%  
+	    New File  		     140	Stanford Offsite Clinics Downtime Reports.url  0%  100%  
+	    New File  		     140	Stanford Pharmacy Downtime Reports.url  0%  100%  
+	    New File  		     169	Windows Marketplace.url  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0064874\BACKUP 7-12-13\Favorites\LPCH Sites to Explore\
+	    New File  		     321	LPCH Community Physician Directory.url  0%  100%  
+	    New File  		     318	LPCH Faculty Physician Directory.url  0%  100%  
+	    New File  		     147	LPCH Nursing Education.url  0%  100%  
+	    New File  		     287	LPCH Web Site.url  0%  100%  
+	    New File  		     305	Vaccine Information Statements.url  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0064874\BACKUP 7-12-13\Favorites\LPCH Web Based Applications\
+	    New File  		     321	Cerner.url  0%  100%  
+	    New File  		     301	Hospital Paging.url  0%  100%  
+	    New File  		     147	LPCH Nursing Education.url  0%  100%  
+	    New File  		     296	MD Paging.url  0%  100%  
+	    New File  		     150	Medical Center Directory.url  0%  100%  
+	    New File  		     151	Quantros.url  0%  100%  
+	    New File  		     166	Referene - PEDBASE.url  0%  100%  
+	    New File  		     181	SHC Learning Management System.url  0%  100%  
+	    New File  		     318	Trust Commerce.url  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0064874\BACKUP 7-12-13\Favorites\Microsoft Websites\
+	    New File  		     160	IE Add-on site.url  0%  100%  
+	    New File  		     160	IE site on Microsoft.com.url  0%  100%  
+	    New File  		     160	Marketplace.url  0%  100%  
+	    New File  		     160	Microsoft At Home.url  0%  100%  
+	    New File  		     160	Microsoft At Work.url  0%  100%  
+	    New File  		     160	Welcome to IE7.url  0%  100%  
+	  New Dir         28	\\shintnpscfs116\T$\Users7\S0064874\BACKUP 7-12-13\Favorites\SMG-SFM Favorites\
+	    New File  		     143	AAFP - American Family Physician.url  0%  100%  
+	    New File  		     158	AAFP Clin Policy.url  0%  100%  
+	    New File  		     292	AAP - American Academy of Pediatrics.url  0%  100%  
+	    New File  		     310	AAP Clin Policy.url  0%  100%  
+	    New File  		     162	Adult Immunization.url  0%  100%  
+	    New File  		     139	CA Internet Formulary Reference.url  0%  100%  
+	    New File  		     177	CDC - Adult Immunization.url  0%  100%  
+	    New File  		     177	CDC - Child Immunization.url  0%  100%  
+	    New File  		     155	CDC - Travel Advise.url  0%  100%  
+	    New File  		     169	CDC Prevent Guides.url  0%  100%  
+	    New File  		     162	Child Immunization PDF.url  0%  100%  
+	    New File  		     185	Child Immunization.url  0%  100%  
+	    New File  		     167	Healinx User.url  0%  100%  
+	    New File  		     139	HMO Formulary.url  0%  100%  
+	    New File  		     162	Medem Health Info.url  0%  100%  
+	    New File  		     159	Natl Guideline Clearing House.url  0%  100%  
+	    New File  		     317	NHLBI Health Info -  National Heart, Lung, and Blood Institute.url  0%  100%  
+	    New File  		     298	Nicholas Institute of Sports Medicine .url  0%  100%  
+	    New File  		     138	Nichol's Institute.url  0%  100%  
+	    New File  		     136	Palo Alto Medical Foundation - PAMF.url  0%  100%  
+	    New File  		     149	PDR - Physicians' Desk Reference.url  0%  100%  
+	    New File  		     149	PDR.url  0%  100%  
+	    New File  		     290	SFM - Stanford Family Medicine .url  0%  100%  
+	    New File  		     140	SFP Home.url  0%  100%  
+	    New File  		     339	SHC Managed Care Contracts.url  0%  100%  
+	    New File  		     301	SMG - Stanford Medical Group.url  0%  100%  
+	    New File  		     141	Travel Advise.url  0%  100%  
+	    New File  		     140	Trip Prep.url  0%  100%  
+	  New Dir         14	\\shintnpscfs116\T$\Users7\S0064874\BACKUP 7-12-13\Favorites\Stanford Sites to Explore\
+	    New File  		     148	Hospital url.url  0%  100%  
+	    New File  		     327	ICD 9 Coding.url  0%  100%  
+	    New File  		     303	Lane Library.url  0%  100%  
+	    New File  		     150	Medical Center Directory.url  0%  100%  
+	    New File  		     164	Medical Staff Roster.url  0%  100%  
+	    New File  		     163	Oncore url.url  0%  100%  
+	    New File  		     199	School of Medicine.url  0%   14%   14%  100%  
+	    New File  		     184	SHC Community Physician Directory.url  0%  100%  
+	    New File  		     181	SHC Faculty Physician Directory.url  0%  100%  
+	    New File  		     319	SHC Physician Directory.url  0%  100%  
+	    New File  		     148	SHC Web Site.url  0%  100%  
+	    New File  		     298	Stanford Intranets.url  0%  100%  
+	    New File  		     309	Stanford University Medical Center.url  0%  100%  
+	    New File  		     295	Stanford University.url  0%  100%  
+	  New Dir         23	\\shintnpscfs116\T$\Users7\S0064874\BACKUP 7-12-13\Favorites\Stanford Web Based Applications\
+	    New File  		     148	BOB (Knowledgebase).url  0%  100%  
+	    New File  		     148	Emerg-Med.url  0%  100%  
+	    New File  		     142	Ether.url  0%  100%  
+	    New File  		     315	HealthStream.url  0%  100%  
+	    New File  		     149	HIPAA Information.url  0%  100%  
+	    New File  		     305	Lexicomp.url  0%  100%  
+	    New File  		     166	lifeIMAGE Inbox Login.url  0%  100%  
+	    New File  		     141	MICROMEDEX(R) Healthcare Series.url  0%  100%  
+	    New File  		     141	MSOnet.url  0%  100%  
+	    New File  		     145	PAMF - portal.url  0%  100%  
+	    New File  		     140	PAMF Sutter Health Citrix Portal.url  0%  100%  
+	    New File  		     144	Portal Backup Site.url  0%  100%  
+	    New File  		     305	Profee Ontrac.url  0%  100%  
+	    New File  		     301	Radiology Images.url  0%  100%  
+	    New File  		     152	SHC Carecast Online Learning Center.url  0%  100%  
+	    New File  		     154	SHC Learning Management System.url  0%  100%  
+	    New File  		     305	Spheris Clarity Care and Complete.url  0%  100%  
+	    New File  		     143	Stanford Lab.url  0%  100%  
+	    New File  		     153	Stanford Physician Portal.url  0%  100%  
+	    New File  		     303	SUMC Outlook Web Access.url  0%  100%  
+	    New File  		     153	Teletracking Dashboard.url  0%  100%  
+	    New File  		     147	TissueTrackCore.url  0%  100%  
+	    New File  		     318	Trust Commerce.url  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0064874\BACKUP 7-12-13\Favorites\Stanford Web Based Applications\SmartPage\
+	    New File  		     303	Smart Page Portal.url  0%  100%  
+	    New File  		     301	Smart Paging Application.url  0%  100%  
+	    New File  		     327	Smart Paging Help - Introduction.url  0%  100%  
+	    New File  		     301	Smart Paging Help - Placing Pages.url  0%  100%  
+	    New File  		     327	Smart Paging Help - Using Features.url  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\Bluetooth Exchange Folder\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\cache\
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0064874\Craford\
+	    New File  		   1.3 m	MASTER COPY HR Care Center Playbook v 2_1.doc  0%  100%  
+	    New File  		   65024	User Manual Catalog (3).xls  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\
+	  New Dir         11	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\A MASTER Play Book OVERVIEW AND ANALYSIS FILES\
+	    New File  		   1.1 m	HR Business Center Overview and Measures of Success.ppt  0%  100%  
+	    New File  		   1.4 m	MASTER COPY HR Care Center Playbook v 1.doc  0%  100%  
+	    New File  		   1.3 m	MASTER COPY HR Care Center Playbook v 1_5.doc  0%  100%  
+	    New File  		   1.3 m	MASTER COPY HR Care Center Playbook v 2_0.doc  0%  100%  
+	    New File  		   1.3 m	MASTER COPY HR Care Center Playbook v 2_1.doc  0%  100%  
+	    New File  		  133120	MASTER High Level Process Review Notes.xls  0%  100%  
+	    New File  		   1.7 m	MASTER HRBC Proposal_August 15_FINAL.ppt  0%  100%  
+	    New File  		   1.4 m	MASTER HRBC Proposal_July 17.ppt  0%  100%  
+	    New File  		  120320	MASTER of All Group Tally Sheet AND Short List P1 Tally.xls  0%  100%  
+	    New File  		   52736	MASTER What is being announced rev 3.doc  0%  100%  
+	    New File  		   26624	New Staffing Process Pilot Plan (Occ Health and New Hire Audit Form and programs).doc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\B USER MANUAL CATALOG (ADMINISTRATIVE MANUAL)\
+	    New File  		   69632	User Manual Catalog.xls  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\BFS Program\
+	    New File  		   1.0 m	BFS Administrative Program Kit.pdf  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\Compensation\
+	    New File  		   30208	Bonus Check Request.doc  0%  100%  
+	    New File  		   39936	Compensation Auditing Process-in progress.doc  0%  100%  
+	    New File  		  305110	Documentation on Staff Nurse 1 Progression.pdf  0%  100%  
+	    New File  		   32768	Doing Mass supervisor changes using Lawson upload wizard.doc  0%  100%  
+	    New File  		  215552	Lawson Data Entry Action Definitions.doc  0%  100%  
+	    New File  		   54784	Relief in Higher Classification Adjustments.doc  0%  100%  
+	    New File  		   50688	Retro Pay Instructions and Exceptions.doc  0%  100%  
+	    New File  		   56832	Step Upload Process (3).doc  0%  100%  
+	    New File  		   39936	Termination notes.doc  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\CRM Tools\
+	    New File  		  173056	Active Call Log.xls  0%  100%  
+	    New File  		  415744	Screen shots of CRM.doc  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\eConnect Benefits Handbook\
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\eConnect Benefits Handbook\HouseStaff\
+	    New File  		  573863	HSspdA.pdf  0%  100%  
+	    New File  		  383294	HSspdB.pdf  0%  100%  
+	    New File  		  478549	HSspdC.pdf  0%  100%  
+	    New File  		  245667	HSspdD.pdf  0%  100%  
+	    New File  		  190107	HSspdE.pdf  0%  100%  
+	    New File  		  304816	HSspdF.pdf  0%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\eConnect Benefits Handbook\Regular\
+	    New File  		  978551	spdBookletA.pdf  0%  100%  
+	    New File  		  513857	spdBookletB.pdf  0%  100%  
+	    New File  		  397132	spdBookletC.pdf  0%  100%  
+	    New File  		  371041	spdBookletD.pdf  0%  100%  
+	    New File  		  296802	spdBookletE.pdf  0%  100%  
+	    New File  		  159945	spdBookletF.pdf  0%  100%  
+	    New File  		  230297	spdBookletG.pdf  0%  100%  
+	    New File  		  107901	spdBookletH.pdf  0%  100%  
+	    New File  		  206398	spdBookletI.pdf  0%  100%  
+	    New File  		  304550	spdBookletJ.pdf  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\Education Assistance_Education Reimbursement\
+	    New File  		  268453	Education Assistance Process.pdf  0%  100%  
+	    New File  		  135196	Emails.pdf  0%  100%  
+	    New File  		   1.7 m	Tuition Reimbursement Log .xls  0%  100%  
+	  New Dir         11	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\Employment\
+	    New File  		   50688	CHANGING NEW HIRE STATUS.doc  0%  100%  
+	    New File  		   35328	Daily Procedures.doc  0%  100%  
+	    New File  		   28160	DAILY ROUTINE.doc  0%  100%  
+	    New File  		   33280	FRIDAY.doc  0%  100%  
+	    New File  		   72192	HR Audit Checklist for New Hires.doc  0%  100%  
+	    New File  		   52736	INSERVICE NEW HIRE ORIENTATION DAY.doc  0%  100%  
+	    New File  		   28160	INTERDEPARTMENTAL CONTACT PERSONS.doc  0%  100%  
+	    New File  		   30208	INTERFACING LAWSON NEW HIRE FORM.doc  0%  100%  
+	    New File  		   32768	New hire process starts when recruiter makes job offer.doc  0%  100%  
+	    New File  		   62464	NHI DAY Checklist.doc  0%  100%  
+	    New File  		   28160	ORIENTATION DAY.doc  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\ESS\
+	    New File  		  605845	e-ConnectUserGuide-ExecNewHire.pdf  0%  100%  
+	    New File  		  605922	e-ConnectUserGuide-HousestaffNewHire.pdf  0%  100%  
+	    New File  		  740599	e-ConnectUserGuide-LifeEvents.pdf  0%  100%  
+	    New File  		  606168	e-ConnectUserGuide-RegularNewHire.pdf  0%  100%  
+	    New File  		  539071	e-ConnectUserGuide-ReliefNewHire.pdf  0%  100%  
+	    New File  		   58458	tdahelp.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\Healthstream\
+	    New File  		  254702	Healthstream_Instructions.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\iGT\
+	    New File  		   1.0 m	iGreentree Basic Procedures Manual.pdf  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\JDs, Leveling Matrix, Q&A, Training Matrix\
+	    New File  		   44544	JOB AUDIT RECRUITER_Updated.doc  0%  100%  
+	    New File  		   28672	JOB AUDIT_Benefits_Updated.doc  0%  100%  
+	    New File  		   31744	JOB AUDIT_HR Admin_Updated.doc  0%  100%  
+	    New File  		   28160	JOB AUDIT_Receptionist.doc  0%  100%  
+	    New File  		   41984	Leveling Criteria Matrix.doc  0%  100%  
+	    New File  		   58368	MASTER HR BP Description and LEVELING MATRIX_V4.doc  0%  100%  
+	    New File  		   50176	MASTER HRBC Manager job description.doc  0%  100%  
+	    New File  		   30208	Summary of Job Audit Findings.doc  0%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\Lawson\
+	    New File  		  610349	Contractors in Lawson Procedures.pdf  0%  100%  
+	    New File  		  845644	ERP HR Inquiry Manual - Portal LSF9 - 07212008.pdf  0%  100%  
+	    New File  		   35840	HRBC Weekly Reports.doc  0%  100%  
+	    New File  		   99959	Lawson Hire Dates definition.pdf  0%  100%  
+	    New File  		  259580	Lawson M70 Screen Instructions.pdf  0%  100%  
+	    New File  		  493284	Mass NSR changes 04222004.pdf  0%  100%  
+	    New File  		  359075	NPR Mass Load (PA26-1) Procedures REV20070529.pdf  0%  100%  
+	    New File  		   1.3 m	OPERATORS MANUAL (Lawson 8.0.3) 03212008.pdf  0%  100%  
+	    New File  		  436543	Simplified Lawson Upload 9POSDEPT Procedures.pdf  0%  100%  
+	    New File  		   40054	Term Reason Code codes V and I.pdf  0%  100%  
+	  New Dir         35	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\Lawson Benefits\
+	    New File  		   11264	Adding a Beneficiary.doc  0%  100%  
+	    New File  		   14336	Adding a Legal Plan.doc  0%  100%  
+	    New File  		   11264	Adding a Reimbursement Account.doc  0%  100%  
+	    New File  		   13312	Adding a Retirement Plan.doc  0%  100%  
+	    New File  		   12800	Adding a Supplemental Life or Disability Insurance Plan.doc  0%  100%  
+	    New File  		   82432	Adding Dependent including New Born - no option chg.DOC  0%  100%  
+	    New File  		  115200	Adding Domestic Partner .doc  0%  100%  
+	    New File  		   38400	Adding QDRO and MCSO Flag.doc  0%  100%  
+	    New File  		  121856	Adding Spouse.DOC  0%  100%  
+	    New File  		   31744	Lawson Procedures Adding  Retiree B Premium Payments.doc  0%  100%  
+	    New File  		   12800	Lawson Procedures Adding a Retirement Plan.doc  0%  100%  
+	    New File  		  101888	Lawson Procedures Adding Domestic Partner .doc  0%  100%  
+	    New File  		   32256	Lawson Procedures Adding QDRO and MCSO Flag.doc  0%  100%  
+	    New File  		   30720	Lawson Procedures Changing Dependent's Demographic Information.doc  0%  100%  
+	    New File  		   34304	Lawson Procedures Changing Employee to Leave Status - L1.doc  0%  100%  
+	    New File  		   34304	Lawson Procedures Changing Employee to Leave Status - L2.doc  0%  100%  
+	    New File  		   30720	Lawson Procedures Changing Employee to Return from Leave.doc  0%  100%  
+	    New File  		   23552	Lawson Procedures Changing Employee's Demographic Information.doc  0%  100%  
+	    New File  		   56832	Lawson Procedures Enrolling B-Commitment New Hire Purchase Plan.doc  0%  100%  
+	    New File  		   64512	Lawson Procedures Enrolling C and D Commitment New Hire (new).doc  0%  100%  
+	    New File  		   66048	Lawson Procedures Enrolling Dependents.doc  0%  100%  
+	    New File  		   61440	Lawson Procedures Enrolling Executive  New Hire (Employee Only) (new).doc  0%  100%  
+	    New File  		   60416	Lawson Procedures Enrolling House Staff New Hire  (new).doc  0%  100%  
+	    New File  		   81920	Lawson Procedures Enrolling New Hire with Domestic Partner (latest).doc  0%  100%  
+	    New File  		   91648	Lawson Procedures Enrolling New Retiree in Ret Med (new).doc  0%  100%  
+	    New File  		   68608	Lawson Procedures Enrolling Regular Benefited New Hire (latest).doc  0%  100%  
+	    New File  		   62976	Lawson Procedures Enrolling ReHire .doc  0%  100%  
+	    New File  		   46592	Lawson Procedures Enrolling Rehire Retiree as Relief Retiree - A2.doc  0%  100%  
+	    New File  		   45056	Lawson Procedures Enrolling Relief New Hire Inc CRONA A, B, and L.doc  0%  100%  
+	    New File  		   93184	Lawson Procedures Enrolling Survivor of Retiree and Dependent.doc  0%  100%  
+	    New File  		   31744	Lawson Procedures Processing Retiree B Premium Payments.doc  0%  100%  
+	    New File  		   31232	Lawson Procedures Reversing a Dependent .doc  0%  100%  
+	    New File  		   33792	Lawson Procedures Reversing a Spouse.doc  0%  100%  
+	    New File  		   51200	Lawson Procedures Terminating Domestic Partner from Benefits.doc  0%  100%  
+	    New File  		   37888	Lawson Procedures Terminating Spouse Overage Dependent in Benefits.doc  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\OrgPlus\
+	    New File  		  403307	Orgplus Enterprise Basics for Managers v2-01.pdf  0%  100%  
+	    New File  		   61869	OrgPlus Quick Sheet.pdf  0%  100%  
+	    New File  		  601834	OrgProfile Basics for HR v1-01.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\Performance Appraisal Input\
+	    New File  		   47104	Performance Appraisal Input Process.doc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\Policy\
+	    New File  		  351656	EmployeeHandbook-January2005.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\SAMPLE HR Approval Matrix\
+	    New File  		  117760	Signature Approval Matrix for Payroll_expanded.doc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\Subpoena Procedures\
+	    New File  		   37376	Subpoena Procedure Work Instructions.doc  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0064874\Craford\MASTER DOCUMENT SET - COMPLETE PLAYBOOK\Who To Contact in HR\
+	    New File  		   20480	Comp Analyst Assignments_2008.xls  0%  100%  
+	    New File  		   80896	ELR Assignments 07.09.08.xls  0%  100%  
+	    New File  		   37888	HRIS contact.doc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\Craford\Process Mapping\
+	    New File  		  260096	SHCLP_Onboarding_Revised.vsd  0%  100%  
+	  New Dir         28	\\shintnpscfs116\T$\Users7\S0064874\eFax Messenger 4.4\
+	    New File  		   14716	Announcing 1.efx  0%  100%  
+	    New File  		    8960	Announcing 2.efx  0%  100%  
+	    New File  		   17348	Appointment Reminder.efx  0%  100%  
+	    New File  		   12036	Ball.efx  0%  100%  
+	    New File  		       0	CMID.DBF100%  
+	    New File  		    8236	Confidential 1.efx  0%  100%  
+	    New File  		   36060	Confidential 2.efx  0%  100%  
+	    New File  		    1049	confidential.gif  0%  100%  
+	    New File  		     778	copy.gif  0%  100%  
+	    New File  		    9576	Default.efx  0%  100%  
+	    New File  		     737	draft.gif  0%  100%  
+	    New File  		    4388	Fax 1.efx  0%  100%  
+	    New File  		    6792	Fax 2.efx  0%  100%  
+	    New File  		   34808	Fax 3.efx  0%  100%  
+	    New File  		   18696	Fax 4.efx  0%  100%  
+	    New File  		     811	faxed.gif  0%  100%  
+	    New File  		     695	final.gif  0%  100%  
+	    New File  		   12328	Hey!.efx  0%  100%  
+	    New File  		     683	paid.gif  0%  100%  
+	    New File  		      98	PBOOK.ADG  0%  100%  
+	    New File  		     642	PBOOK.ADR  0%  100%  
+	    New File  		   28632	Pen.efx  0%  100%  
+	    New File  		   29588	Phone.efx  0%  100%  
+	    New File  		   54196	QuickTip.efx  0%  100%  
+	    New File  		   82061	StartPage.mht  0%  100%  
+	    New File  		    1252	txtstmps.dat  0%  100%  
+	    New File  		     934	urgent.gif  0%  100%  
+	    New File  		     926	wink.gif  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0064874\HRBC\
+	    New File  		   40960	Behavioral Interviewing HRBC HR Gen II.doc  0%  100%  
+	    New File  		   22016	Business marketing research plan1.xls  0%  100%  
+	    New File  		   55808	HRBC Project Book Dec 4.xls  0%  100%  
+	    New File  		   37376	HRBC Project Book Nov 12.xls  0%  100%  
+	    New File  		   53760	HRBC Project Book Nov 14.xls  0%  100%  
+	    New File  		   53760	HRBC Project Book Nov 30.xls  0%  100%  
+	    New File  		  150528	January 2008.doc  0%  100%  
+	    New File  		   29184	Process Cheat Sheet.doc  0%  100%  
+	    New File  		   65024	User Manual Catalog (3).xls  0%  100%  
+	  New Dir         23	\\shintnpscfs116\T$\Users7\S0064874\HRBC Big Picture\
+	    New File  		   68096	200528_HR Gen III _4-26-09.doc  0%  100%  
+	    New File  		  116224	Copy of HRBC Project Book Jan 22.xls  0%  100%  
+	    New File  		   30720	HR Business Center Go Live List Feb 25.doc  0%  100%  
+	    New File  		   31744	HR Business Center Go Live List March 12.doc  0%  100%  
+	    New File  		   32256	HR Business Center Go Live List March 20.doc  0%  100%  
+	    New File  		   31744	HR Business Center Go Live List March 9.doc  0%  100%  
+	    New File  		  553472	HR Business Center Overview and Measures of Success One Year Later.ppt  0%  100%  
+	    New File  		   1.1 m	HR Business Center Overview and Measures of Success.ppt  0%  100%  
+	    New File  		  116736	HRBC Assignments Feb 3.xls  0%  100%  
+	    New File  		   27136	HRBC Charter.doc  0%  100%  
+	    New File  		   24064	HRBC checklist.doc  0%  100%  
+	    New File  		   55296	HRBC Dashboard Timeline Feb 20 2009.xls  0%  100%  
+	    New File  		   41472	HRBC Inquiry Impact 2010 planning.xls  0%  100%  
+	    New File  		   32768	HRBC Manager Goals with Deb highlights.doc  0%  100%  
+	    New File  		   32256	HRBC Manager Goals.doc  0%  100%  
+	    New File  		   31744	HRBC Phase II Ideas.doc  0%  100%  
+	    New File  		   36864	HRBC Phase III Ideas.doc  0%  100%  
+	    New File  		   30208	HRBC Project Assignments.xls  0%  100%  
+	    New File  		   45568	HRBC Projects 2010.xls  0%  100%  
+	    New File  		   31232	HRBC Team Assignments Feb 2009.xls  0%  100%  
+	    New File  		   19968	Performance Review Date_020410_status_v2.xls  0%  100%  
+	    New File  		  771584	Playbook excerpts.ppt  0%  100%  
+	    New File  		   31232	Stabilization Period Jan to September 2010.doc  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0064874\My Data Sources\
+	    New File  		     190	+Connect to New Data Source.odc  0%  100%  
+	    New File  		     196	+NewSQLServerConnection.odc  0%  100%  
+	    New File  		      70	DESKTOP.INI  0%  100%  
+	    New File  		    4710	FOLDER.ICO  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0064874\My Music\
+	    New File  		     662	Desktop.ini  0%  100%  
+	    New File  		     644	Sample Music.lnk  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\My Music\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0064874\My Music\iTunes\
+	    New File  		   12288	iTunes Library Extras.itdb  0%  100%  
+	    New File  		   32768	iTunes Library Genius.itdb  0%  100%  
+	    New File  		   14110	iTunes Library.itl  0%  100%  
+	    New File  		   21609	iTunes Music Library.xml  0%  100%  
+	    New File  		       8	sentinel  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\My Music\iTunes\Album Artwork\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\My Music\iTunes\Album Artwork\Cache\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\My Music\iTunes\Album Artwork\Download\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\My Music\iTunes\iTunes Media\
+	    New File  		     305	.iTunes Preferences.plist  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\My Music\iTunes\iTunes Media\Automatically Add to iTunes\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\My Music\iTunes\iTunes Media\Downloads\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\My Music\iTunes\iTunes Media\Mobile Applications\
+	    New File  		  10.6 m	Mr.Space!! 1.1.1.ipa  0.0%100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\My Music\iTunes\iTunes Media\Music\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\My Music\iTunes\iTunes Media\Music\Ludwig van Beethoven, composer. Seattle\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\My Music\iTunes\iTunes Media\Music\Ludwig van Beethoven, composer. Seattle\Unknown Album\
+	    New File  		   2.0 m	01 Symphony No. 9 (Scherzo).m4a  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\My Music\iTunes\iTunes Media\Music\Marc Seales, composer. New Stories. Erni\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\My Music\iTunes\iTunes Media\Music\Marc Seales, composer. New Stories. Erni\Speakin' Out\
+	    New File  		   2.8 m	01 _Highway Blues_.m4a  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\My Music\iTunes\iTunes Media\Podcasts\
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0064874\My Music\iTunes\iTunes Media\Podcasts\Mercer Select HRadio\
+	    New File  		  13.5 m	Business conditions in Africa (Frenc.mp3  0.0%100%  
+	    New File  		   1.8 m	HHS provides guidance on HIPAA HITEC.mp3  0%  100%  
+	    New File  		   6.8 m	US weekly news, July 19.mp3  0.0%100%  
+	    New File  		   6.8 m	US weekly news, July 6.mp3  0.0%100%  
+	    New File  		   6.3 m	US weekly news, June 28.mp3  0.0%100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0064874\My Music\iTunes\Previous iTunes Libraries\
+	    New File  		    3281	iTunes Library 2010-06-21.itl  0%  100%  
+	    New File  		   13037	iTunes Library 2010-10-07.itl  0%  100%  
+	    New File  		   14103	iTunes Library 2010-11-22.itl  0%  100%  
+	    New File  		   14099	iTunes Library 2011-03-31.itl  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\My Music\Playlists\
+	    New File  		     174	desktop.ini  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0064874\My Pictures\
+	    New File  		     668	Desktop.ini  0%  100%  
+	    New File  		     674	Sample Pictures.lnk  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\My Pictures\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\My Pictures\Slide Shows\
+	    New File  		     174	desktop.ini  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\My Received Files\
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0064874\My Shapes\
+	    New File  		   81920	Basic Flowchart Shapes (US units).vss  0%  100%  
+	    New File  		     105	desktop.ini  0%  100%  
+	    New File  		       0	Favorites.vss100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\My Shapes\_private\
+	    New File  		   29926	folder.ico  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\My Videos\
+	    New File  		     664	Desktop.ini  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0064874\My Videos\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0064874\Outlook Files\
+	    New File  		   2.0 g	archive.pst  0.0%  0.7%  1.5%  2.2%  3.0%  3.8%  4.5%  5.3%  6.0%  6.8%  7.6%  8.3%  9.1%  9.9% 10.6% 11.4% 12.1% 12.9% 13.7% 14.4% 15.2% 16.0% 16.7% 17.5% 18.2% 19.0% 19.8% 20.5% 21.3% 22.1% 22.8% 23.6% 24.3% 25.1% 25.9% 26.6% 27.4% 28.1% 28.9% 29.7% 30.4% 31.2% 32.0% 32.7% 33.5% 34.2% 35.0% 35.8% 36.5% 37.3% 38.1% 38.8% 39.6% 40.3% 41.1% 41.9% 42.6% 43.4% 44.2% 44.9% 45.7% 46.4% 47.2% 48.0% 48.7% 49.5% 50.2% 51.0% 51.8% 52.5% 53.3% 54.1% 54.8% 55.6% 56.3% 57.1% 57.9% 58.6% 59.4% 60.2% 60.9% 61.7% 62.4% 63.2% 64.0% 64.7% 65.5% 66.3% 67.0% 67.8% 68.5% 69.3% 70.1% 70.8% 71.6% 72.3% 73.1% 73.9% 74.6% 75.4% 76.2% 76.9% 77.7% 78.4% 79.2% 80.0% 80.7% 81.5% 82.3% 83.0% 83.8% 84.5% 85.3% 86.1% 86.8% 87.6% 88.4% 89.1% 89.9% 90.6% 91.4% 92.2% 92.9% 93.7% 94.4% 95.2% 96.0% 96.7% 97.5% 98.3% 99.0% 99.8%100%  
+	    New File  		  19.6 m	archive1.pst  0.0% 81.4%100%  
+	    New File  		  48.6 m	archive2.pst  0.0% 32.8% 65.7% 98.5%100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\RECYCLER\
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0064874\RECYCLER\S-1-5-21-1292407741-3760857420-1411248183-87433\
+	    New File  		      65	desktop.ini  0%  100%  
+	    New File  		      20	INFO2  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\Reflection\
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0064874\Snagit\
+	    New File  		   77848	SampleSNAG1.snag  0%  100%  
+	    New File  		   61464	SampleSNAG2.snag  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\Snagit\Program\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\Watson Wyatt\
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0064874\Watson Wyatt\Binder Presentation\
+	    New File  		  153633	AK Resource Guidelines V3.3 .pdf  0%  100%  
+	    New File  		  177407	AK Stanford Kickoff Agenda 10.8.08.pdf  0%  100%  
+	    New File  		   1.2 m	AK Stanford Kickoffv3.pdf  0%  100%  
+	    New File  		  141312	AK SUMC Project Team Contact List.v2.xls  0%  100%  
+	    New File  		  146944	AK SUMC Project Team Contact List.v3_101008.xls  0%  100%  
+	    New File  		   4.4 m	AKSCSuccess_Rev4_4.pdf  0%  100%  
+	    New File  		  26.5 m	AnswerKey Functional Description Master v6.1.5b.pdf  0.0% 60.1%100%  
+	    New File  		   2.1 m	Client Technical Architecture 2008.04.pdf  0%  100%  
+	  New Dir         15	\\shintnpscfs116\T$\Users7\S0064874\Watson Wyatt\Configuration\
+	    New File  		   31031	Admin Call Types v2.pdf  0%  100%  
+	    New File  		   35967	Admin Case Types.v2.pdf  0%  100%  
+	    New File  		    9308	Admin FulfillTypes v2.pdf  0%  100%  
+	    New File  		   16896	AK Tech Info.v2.xls  0%  100%  
+	    New File  		   24576	AKESS Stanford_Setup.xls  0%  100%  
+	    New File  		   59904	AKFulfillmentConfiguration.doc  0%  100%  
+	    New File  		   18432	AKFulfillmentMatrix.xls  0%  100%  
+	    New File  		   19456	AKSystemParameters.v2.xls  0%  100%  
+	    New File  		   19456	AKSystemParameters.v3.xls  0%  100%  
+	    New File  		   19456	AKSystemParameters.v4.xls  0%  100%  
+	    New File  		   19456	AKSystemParameters.v5.xls  0%  100%  
+	    New File  		   55808	AKUsersConfiguration.v2.xls  0%  100%  
+	    New File  		   55296	AKUsersConfiguration.v3.xls  0%  100%  
+	    New File  		   56320	AKUsersConfiguration.v4.xls  0%  100%  
+	    New File  		   1.0 m	AnswerKeyFulfillment_v5.1.pdf  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0064874\Watson Wyatt\Data Layout\
+	    New File  		  210366	AKData Layout v10.pdf  0%  100%  
+	    New File  		   96768	AKData Layout v10.xls  0%  100%  
+	    New File  		  234139	AKData Layout v8.pdf  0%  100%  
+	    New File  		  113152	AKData Layout v8.xls  0%  100%  
+	    New File  		  104960	AKData Layout v9.xls  0%  100%  
+	    New File  		   68096	AKData Layout.v2.xls  0%  100%  
+	    New File  		   69632	AKData Layout.v3.xls  0%  100%  
+	    New File  		   94720	AKData Layout.v4.xls  0%  100%  
+	    New File  		   98304	AKData Layout.v5.xls  0%  100%  
+	  New Dir         12	\\shintnpscfs116\T$\Users7\S0064874\Watson Wyatt\Training\
+	    New File  		  734208	module1_v4.doc  0%  100%  
+	    New File  		  972800	module1_v4.ppt  0%  100%  
+	    New File  		  640512	module2_v4.doc  0%  100%  
+	    New File  		   1.3 m	module2_v4.ppt  0%  100%  
+	    New File  		  556032	module3_v4.doc  0%  100%  
+	    New File  		  912896	module3_v4.ppt  0%  100%  
+	    New File  		  444928	module4_v4.doc  0%  100%  
+	    New File  		  763904	module4_v4.ppt  0%  100%  
+	    New File  		  425472	module5_v4.doc  0%  100%  
+	    New File  		  905216	module5_v4.ppt  0%  100%  
+	    New File  		  377856	module6_v4.doc  0%  100%  
+	    New File  		  690176	module6_v4.ppt  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\WINDOWS\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0064874\WINDOWS\system\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :       133       133         0         0         0         0
+   Files :       820       820         0         0         0         0
+   Bytes :   4.928 g   4.928 g         0         0         0         0
+   Times :   0:09:30   0:09:18                       0:00:00   0:00:11
+
+
+   Speed :             9470916 Bytes/sec.
+   Speed :             541.930 MegaBytes/min.
+
+   Ended : Sun Mar 27 11:11:35 2016

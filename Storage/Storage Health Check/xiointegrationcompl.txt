@@ -1,0 +1,265 @@
+PS C:\Users\s0193253-A> $user= "admin"
+PS C:\Users\s0193253-A> $Pword = ConvertTo-SecureString -String "Stanford@123123" -AsPlainText -Force
+PS C:\Users\s0193253-A> $Credential = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList $User, $PWord
+PS C:\Users\s0193253-A> New-XIOStoredCred -Credential $credential
+VERBOSE: Credentials encrypted (via Windows Data Protection API) and saved to: 'C:\Users\S01932~1\AppData\Local\Temp\3\xioCred_by_s0193253-a_on_SHINTNPEMIS116.enc.
+PS C:\Users\s0193253-A> get-help Set-XIOAPIConnectionInfo
+
+NAME
+    Set-XIOAPIConnectionInfo
+
+SYNOPSIS
+    Set XtremIO Connection Information
+
+
+SYNTAX
+    Set-XIOAPIConnectionInfo -Username <String> -PasswordFile <String> -Hostname <String> [<CommonParameters>]
+
+    Set-XIOAPIConnectionInfo -Credential <PSCredential> -Hostname <String> [<CommonParameters>]
+
+
+DESCRIPTION
+    Stores XtremIO REST API connection and authentication information
+
+
+RELATED LINKS
+
+REMARKS
+    To see the examples, type: "get-help Set-XIOAPIConnectionInfo -examples".
+    For more information, type: "get-help Set-XIOAPIConnectionInfo -detailed".
+    For technical information, type: "get-help Set-XIOAPIConnectionInfo -full".
+
+
+
+PS C:\Users\s0193253-A> Set-XIOAPIConnectionInfo -Credential $Credential -Hostname 10.248.132.227
+PS C:\Users\s0193253-A> Get-XIOAlert
+Invoke-RestMethod : The underlying connection was closed: Could not establish trust relationship for the SSL/TLS secure channel.
+At C:\Users\s0193253-A\Documents\WindowsPowerShell\Modules\MTSXtremIO\MTSXtremIO.psm1:630 char:5
++     Invoke-RestMethod -Method Get -Uri ($Global:XIOAPIBaseUri + $UriString) -Hea ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+
+Invoke-RestMethod : The underlying connection was closed: Could not establish trust relationship for the SSL/TLS secure channel.
+At C:\Users\s0193253-A\Documents\WindowsPowerShell\Modules\MTSXtremIO\MTSXtremIO.psm1:2588 char:78
++             (Get-XIOItem -UriString $UriObject).$UriObject | ForEach-Object{(Inv ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+
+PS C:\Users\s0193253-A> import-module XtremIO.Utils
+PS C:\Users\s0193253-A> Get-XIOAlert
+WARNING: no XIO connections; connect first, and then try something
+PS C:\Users\s0193253-A> get-help Connect-XIOServer
+
+NAME
+    Connect-XIOServer
+
+SYNOPSIS
+
+
+SYNTAX
+    Connect-XIOServer [-Credential <PSCredential>] [-ComputerName] <String[]> [-Port <Int32>] [-TrustAllCert] [<CommonParameters>]
+
+
+DESCRIPTION
+    Function to make a "connection" to an XtremIO XMS machine, such that subsequent interactions with that XMS machine will not require additional credentials be s
+
+
+RELATED LINKS
+
+REMARKS
+    To see the examples, type: "get-help Connect-XIOServer -examples".
+    For more information, type: "get-help Connect-XIOServer -detailed".
+    For technical information, type: "get-help Connect-XIOServer -full".
+
+
+
+PS C:\Users\s0193253-A> Connect-XIOServer -Credential $Credential -ComputerName 10.248.132.227 -port 443 -TrustAllCert
+
+ComputerName
+------------
+10.248.132.227
+
+
+PS C:\Users\s0193253-A>
+
+
+
+Disconnect-XIOServer -ComputerName 10.248.132.227
+
+Get-Help Get-XIOClusterPerformance -examples
+
+Get-Command Invoke-SshCommand -examples
+
+
+
+Import-Module Posh-SSH
+Import-Module C:\Users\s0193253-A\test\SshShellModule\SshShell\SshShell.psd1
+Posh-SSH\New-SSHSession -ComputerName 10.248.132.204 -Credential
+$user= "admin"
+$Pword = ConvertTo-SecureString -String "Stanford@123123" -AsPlainText -Force
+$Credential = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList $User, $PWord
+Posh-SSH\New-SSHSession -ComputerName 10.248.132.204 -Credential $Credential
+send
+
+Server SSH Fingerprint
+Do you want to trust the fingerprint 97:15:9d:1f:d6:a6:7d:8c:59:4f:1:18:4d:c3:8c:d
+[] Y  [] N  [?] Help (default is "N"): y
+
+SessionId  Host
+---------  ----
+    0      10.248.132.204
+
+
+PS C:\Users\s0193253-A\test> get-command Invoke-SshCommand
+
+CommandType     Name                                               ModuleName
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PS C:\Users\s0193253-A\test> get-command -Module Posh-SSH
+
+CommandType     Name                                               ModuleName
+-----------     ----                                               ----------
+Function        Get-PoshSSHModVersion                              Posh-SSH
+Function        Get-SFTPChildItem                                  Posh-SSH
+Function        Get-SFTPContent                                    Posh-SSH
+Function        Get-SFTPCurrentDirectory                           Posh-SSH
+Function        Get-SFTPDirectoryList                              Posh-SSH
+Function        Get-SFTPLocation                                   Posh-SSH
+Function        Get-SFTPPathAttribute                              Posh-SSH
+Function        Get-SFTPSession                                    Posh-SSH
+Function        Get-SshSession                                     Posh-SSH
+Function        Get-SSHTrustedHost                                 Posh-SSH
+Function        Invoke-SshCommand                                  Posh-SSH
+Function        Invoke-SSHCommandStream                            Posh-SSH
+Function        Invoke-SSHStreamExpectAction                       Posh-SSH
+Function        Invoke-SSHStreamExpectSecureAction                 Posh-SSH
+Function        New-SFTPDirectory                                  Posh-SSH
+Function        New-SFTPFileStream                                 Posh-SSH
+Function        New-SFTPItem                                       Posh-SSH
+Function        New-SFTPSymlink                                    Posh-SSH
+Function        New-SSHShellStream                                 Posh-SSH
+Function        New-SSHTrustedHost                                 Posh-SSH
+Function        Remove-SFTPDirectory                               Posh-SSH
+Function        Remove-SFTPFile                                    Posh-SSH
+Function        Remove-SFTPItem                                    Posh-SSH
+Function        Remove-SFTPSession                                 Posh-SSH
+Function        Remove-SshSession                                  Posh-SSH
+Function        Remove-SSHTrustedHost                              Posh-SSH
+Function        Rename-SFTPFile                                    Posh-SSH
+Function        Set-SFTPContent                                    Posh-SSH
+Function        Set-SFTPCurrentDirectory                           Posh-SSH
+Function        Set-SFTPLocation                                   Posh-SSH
+Function        Test-SFTPPath                                      Posh-SSH
+Cmdlet          Get-SCPFile                                        Posh-SSH
+Cmdlet          Get-SCPFolder                                      Posh-SSH
+Cmdlet          Get-SFTPFile                                       Posh-SSH
+Cmdlet          New-SFTPSession                                    Posh-SSH
+Cmdlet          New-SSHSession                                     Posh-SSH
+Cmdlet          Set-SCPFile                                        Posh-SSH
+Cmdlet          Set-SCPFolder                                      Posh-SSH
+Cmdlet          Set-SFTPFile                                       Posh-SSH
+
+-----------     ----                                               ----------
+Function        Invoke-SshCommand                                  Posh-SSH
+
+
+
+
+
+AVAMAR
+
+
+
+Import-Module Posh-SSH
+$user= "admin"
+$Pword = ConvertTo-SecureString -String "changeme1" -AsPlainText -Force
+$Credential = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList $User, $PWord
+$ssh=Posh-SSH\New-SSHSession -ComputerName 10.254.216.191 -Credential $Credential
+$s=$(Invoke-SshCommand -SSHSession $ssh -Command "status.dpn").output
+$t=$(Invoke-SshCommand -SSHSession $ssh -Command "mccli server show-prop").output
+$u=$(Invoke-SshCommand -SSHSession $ssh -Command "avmaint nodelist | grep -i fs-perc").output
+$v=$(Invoke-SshCommand -SSHSession $ssh -Command "./2replcnt.pl --dpnname=shavampemsu401-01.enterprise.stanfordmed.org --dstaddr=10.248.216.191 --dstid=repluser --dstpassword=changeme1 --showall").output
+$s
+$t
+$u
+$v
+Remove-SSHSession -SSHSession $ssh
+Remove-variable ssh
+
+
+
+
+Import-Module Posh-SSH
+$user= "admin"
+$Pword = ConvertTo-SecureString -String "changeme1" -AsPlainText -Force
+$Credential = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList $User, $PWord
+$ssh=Posh-SSH\New-SSHSession -ComputerName 10.248.216.191 -Credential $Credential
+$s=$(Invoke-SshCommand -SSHSession $ssh -Command "status.dpn").output
+$t=$(Invoke-SshCommand -SSHSession $ssh -Command "mccli server show-prop").output
+$u=$(Invoke-SshCommand -SSHSession $ssh -Command "avmaint nodelist | grep -i fs-perc").output
+$v=$(Invoke-SshCommand -SSHSession $ssh -Command "./2replcnt.pl --dpnname=shavampscsu401-01.enterprise.stanfordmed.org --dstaddr=10.254.216.191 --dstid=repluser --dstpassword=changeme1 --showall").output
+$s
+$t
+$u
+$v
+Remove-SSHSession -SSHSession $ssh
+Remove-variable ssh
+
+
+
+Import-Module Posh-SSH
+$user= "admin"
+$Pword = ConvertTo-SecureString -String "Admin#123" -AsPlainText -Force
+$Credential = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList $User, $PWord
+$ssh=Posh-SSH\New-SSHSession -ComputerName 10.243.83.82 -Credential $Credential
+$s=$(Invoke-SshCommand -SSHSession $ssh -Command "status.dpn").output
+$t=$(Invoke-SshCommand -SSHSession $ssh -Command "mccli server show-prop").output
+$u=$(Invoke-SshCommand -SSHSession $ssh -Command "avmaint nodelist | grep -i fs-perc").output
+$v=$(Invoke-SshCommand -SSHSession $ssh -Command "./2replcnt.pl --dpnname=shavampemsu401-01.enterprise.stanfordmed.org --dstaddr=10.254.216.191 --dstid=repluser --dstpassword=changeme1 --showall").output
+$s
+$t
+$u
+$v
+Remove-SSHSession -SSHSession $ssh
+Remove-variable ssh
+
+
+
+
+
+
+
+
+Status.dpn
+mccli server show-prop
+avmaint nodelist | grep -i fs-perc
+./2replcnt.pl --dpnname=shavampscsu401-01.enterprise.stanfordmed.org --dstaddr=10.254.216.191 --dstid=repluser --dstpassword=changeme1 --showall
+./2replcnt.pl --dpnname=shavampemsu401-01.enterprise.stanfordmed.org --dstaddr=10.248.216.191 --dstid=repluser --dstpassword=changeme1 --showall
+./2replcnt.pl --dpnname=shavampemsu401-01.enterprise.stanfordmed.org --dstaddr=10.248.216.191 --dstid=repluser --dstpassword=changeme1 --showall
+
+
+
+Admin#123
+
+
+
+

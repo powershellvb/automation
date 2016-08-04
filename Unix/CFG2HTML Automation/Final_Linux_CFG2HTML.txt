@@ -1,0 +1,145 @@
+# ******
+# Script for config to HTML scrotp
+#
+# This script is to convert the current configuration details as html format and to get centralized stored in a webserver which can be accessed via browser
+# Runs on bash shell
+# 
+# 
+# 
+# 
+#
+# History:
+#  13-07-2016: Original created by Karthick priya A
+#  
+#  
+# ******
+
+
+
+
+#! /bin/bash
+
+host=`uname -n`
+
+timestamp=`date +%Y%m%d`
+
+cd /usr/bin
+
+./cfg2html-linux
+
+
+if [[ `echo $?` == 0 ]]
+
+then
+
+cp $host.html $host.html_$timestamp
+
+Mon=`ls -ltr | tail | grep $host.html | awk '{print $6}'`
+
+
+[ -d /mksysbbackup/backup ] || mkdir -p /mksysbbackup/backup
+
+mount -o rw,bg 10.248.251.115:/cfg2html/Redhat /mksysbbackup/backup
+
+cd /mksysbbackup/backup/$Mon
+
+cp /usr/bin/$host.html_$timestamp .
+
+cd /usr/bin
+
+rm $host.html $host.txt $host.partitions.save $host.err $host.html_$timestamp
+umount /mksysbbackup/backup
+
+else
+
+echo "cfg2html of $host failed" | mail dl-hcl-unix@stanfordhealthcare.org
+
+fi
+
+
+
+*********************
+
+for hostname issue edit script as below (make sure no *.html is available in /usr/bin
+**************
+
+
+#! /bin/bash
+
+host=`uname -n`
+
+timestamp=`date +%Y%m%d`
+
+cd /usr/bin
+
+./cfg2html-linux
+
+
+if [[ `echo $?` == 0 ]]
+
+then
+
+cp $host.html $host.html_$timestamp
+
+Mon=`ls -ltr | tail | grep $host.html | awk '{print $6}'`
+
+
+[ -d /mksysbbackup/backup ] || mkdir -p /mksysbbackup/backup
+
+mount -o rw,bg 10.248.251.115:/cfg2html/Redhat /mksysbbackup/backup
+
+cd /mksysbbackup/backup/$Mon
+
+cp /usr/bin/*.html_$timestamp .
+
+cd /usr/bin
+
+rm *.html *.txt *.partitions.save *.err *.html_$timestamp
+umount /mksysbbackup/backup
+
+else
+
+echo "cfg2html of $host failed" | mail dl-hcl-unix@stanfordhealthcare.org
+
+fi
+
+
+
+
+
+
+
+
+Implement Plan
+*********
+
+Move the rpm to the server to /tmp.
+
+install the rpm.
+
+cd /usr/local/custom/bin
+
+vi cfg2html.sh
+
+chmod 755 cfg2html.sh
+
+
+crontab Entry
+*************
+
+30 00 1 * * /usr/local/custom/bin/cfg2html.sh > /usr/local/custom/logs/cfg2html.`date +\%Y\%m\%d` 2>&1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

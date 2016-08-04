@@ -1,0 +1,224 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Sun Mar 27 11:24:09 2016
+
+   Source : \\shintnpscfs116\T$\Users7\S0063445\
+     Dest : \\shintnpscfs116\W$\T_drive(disabled_users)_users7\users7\S0063445\
+
+    Files : *.*
+	    
+  Options : *.* /TEE /S /E /COPY:DATS /DCOPY:T /ZB /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	  New Dir         24	\\shintnpscfs116\T$\Users7\S0063445\
+	    New File  		  10.6 m	archive.pst  0.0%100%  
+	    New File  		   2.8 m	Backup-(2010-01-29).ipd  0%    2%    4%    6%    8%   10%   13%   15%   17%   19%   21%   24%   26%   28%   30%   32%   34%   37%   39%   41%   43%   45%   48%   50%   52%   54%   56%   58%   61%   63%   65%   67%   69%   72%   74%   76%   78%   80%   82%   85%   87%   89%   91%   93%   96%   98%  100%  
+	    New File  		   2.6 m	Backup-(2010-01-29)-1.ipd  0%    2%    4%    7%    9%   11%   14%   16%   18%   21%   23%   26%   28%   30%   33%   35%   37%   40%   42%   45%   47%   49%   52%   54%   56%   59%   61%   64%   66%   68%   71%   73%   75%   78%   80%   83%   85%   87%   90%   92%   94%   97%   99%  100%  
+	    New File  		   2.8 m	Backup-(2010-01-29)-2.ipd  0%    2%    4%    6%    8%   10%   13%   15%   17%   19%   21%   24%   26%   28%   30%   32%   34%   37%   39%   41%   43%   45%   48%   50%   52%   54%   56%   58%   61%   63%   65%   67%   69%   72%   74%   76%   78%   80%   82%   85%   87%   89%   91%   93%   96%   98%  100%  
+	    New File  		   17602	BMG 2012 budget and expenses.xlsx  0%  100%  
+	    New File  		   31232	COW Repair Check Lists.doc  0%  100%  
+	    New File  		   30575	cpoe203076-temp.JPG  0%  100%  
+	    New File  		    1718	Default.rdp  0%  100%  
+	    New File  		      79	desktop.ini  0%  100%  
+	    New File  		   26624	Flo Healthcare Sticker.doc  0%  100%  
+	    New File  		  156672	Inventory.fp5  0%  100%  
+	    New File  		  113152	Kevin Lin's weekending 3-17-12.xls  0%  100%  
+	    New File  		  113664	Kevin Lin's weekending 3-24-12.xls  0%  100%  
+	    New File  		   3.2 m	LoaderBackup-(2010-01-29).ipd  0%    1%    3%    5%    7%    9%   11%   13%   15%   17%   19%   20%   22%   24%   26%   28%   30%   32%   34%   36%   38%   39%   41%   43%   45%   47%   49%   51%   53%   55%   57%   58%   60%   62%   64%   66%   68%   70%   72%   74%   76%   77%   79%   81%   83%   85%   87%   89%   91%   93%   95%   96%   98%  100%  
+	    New File  		   1.6 m	member_enrollment_form-new.prn  0%  100%  
+	    New File  		  271360	Personal Folders(1) (s0063445 v1).pst  0%  100%  
+	    New File  		  271360	Personal Folders(1) (S0063445 v2).pst  0%  100%  
+	    New File  		   1.7 m	Personal Folders(1).pst  0%  100%  
+	    New File  		     256	pool.bin  0%  100%  
+	    New File  		  729421	RMA 9269 Stanford Univ Med Ctr 12-30-08 (2).prn  0%  100%  
+	    New File  		   82944	Updated Flo-Cart Repair Documentation.xls  0%  100%  
+	    New File  		   21565	Virus 2012 US Tour.xlsx  0%  100%  
+	    New File  		   29696	wireless upgrade lists.xls  0%  100%  
+	    New File  		   1.3 m	wrar393.exe  0%   99%   99%  100%  
+	  New Dir         66	\\shintnpscfs116\T$\Users7\S0063445\backup\
+	    New File  		  161329	2010-11_permit-app.pdf  0%  100%  
+	    New File  		   50104	2011-07-25_19.48.56.jpg  0%  100%  
+	    New File  		  592882	401238REVB_MANUAL_USERS_ELC_DRAWER_1001.pdf  0%  100%  
+	    New File  		  103429	402944REVB(SW) ASSY VSM MONITOR MOUNT DK.PDF  0%  100%  
+	    New File  		   5.5 m	403068REVB, Assembly Photo Traveller.pdf  0%  100%  
+	    New File  		   43656	Aiden.jpg  0%  100%  
+	    New File  		 1036854	aiden2.bmp  0%  100%  
+	    New File  		   1.0 m	aiden3.bmp  0%  100%  
+	    New File  		   1.1 m	aiden4.bmp  0%  100%  
+	    New File  		   69682	aiden4.jpg  0%  100%  
+	    New File  		   40797	aiden5.jpg  0%  100%  
+	    New File  		   1.1 m	aiden6.bmp  0%  100%  
+	    New File  		   12510	Aug 2011 New power supply replacement.xlsx  0%  100%  
+	    New File  		   49664	Brian's Fresno Community Medical Center Scanner Bracket Installation Toughlock Removal.xls  0%  100%  
+	    New File  		   31068	Craddock memo.pdf  0%  100%  
+	    New File  		    5069	droid.jpg  0%  100%  
+	    New File  		  417881	February 17, 2010.pdf  0%  100%  
+	    New File  		   13374	FW  heng.htm  0%  100%  
+	    New File  		  924736	InfoSec-PrivacyAwarenessPaperVersionFinal.pdf  0%  100%  
+	    New File  		  412632	July 21, 2010.pdf  0%  100%  
+	    New File  		   6.0 m	kl1.bmp  0.0%100%  
+	    New File  		   6.0 m	kl2.bmp  0.0%100%  
+	    New File  		   6.0 m	kl3.bmp  0.0%100%  
+	    New File  		   6.0 m	kl4.bmp  0.0%100%  
+	    New File  		   6.0 m	kl5.bmp  0.0%100%  
+	    New File  		   6.0 m	kl6.bmp  0.0%100%  
+	    New File  		   6.0 m	kl7.bmp  0.0%100%  
+	    New File  		   14340	kyaw htain lin cover letter.docx  0%  100%  
+	    New File  		   44032	Kyaw Lin resume.doc  0%  100%  
+	    New File  		  767444	latch mechanism.jpg  0%  100%  
+	    New File  		  268926	Mail.PDF  0%  100%  
+	    New File  		  315433	Mail0010.PDF  0%  100%  
+	    New File  		   70749	MCW Work Order.pdf  0%  100%  
+	    New File  		   1.2 m	Medical devices data sheets info.pptx  0%  100%  
+	    New File  		   26370	MET3___.PFB  0%  100%  
+	    New File  		  410624	Monthly FSR for Santa Clara.xls  0%  100%  
+	    New File  		  331024	Nationwide service.pdf  0%  100%  
+	    New File  		  471820	Oct 1 2009.pdf  0%  100%  
+	    New File  		  941854	oct 1, 2009 and Oct 15, 2009.pdf  0%  100%  
+	    New File  		  423952	Oct 15, 2009.pdf  0%  100%  
+	    New File  		  472135	patrick_Sha[1].pdf  0%  100%  
+	    New File  		  581455	photo 1.jpg  0%  100%  
+	    New File  		  327437	pickup1-11-12.PDF  0%  100%  
+	    New File  		  850407	power cord photo1.jpg  0%  100%  
+	    New File  		 1036847	power cord photo2.jpg  0%  100%  
+	    New File  		 1038170	power cord photo3.jpg  0%  100%  
+	    New File  		  482304	Publication1.pub  0%  100%  
+	    New File  		    4629	reno.pdf  0%  100%  
+	    New File  		   32256	RETURN ADDRESS TEMP.doc  0%  100%  
+	    New File  		  327950	RMA320031.PDF  0%  100%  
+	    New File  		  151319	Santa Clara Quote 3-8-12.pdf  0%  100%  
+	    New File  		   55500	SCRIPTBL.TTF  0%  100%  
+	    New File  		  424404	Sept 16, 2009.pdf  0%  100%  
+	    New File  		  394849	Sept 17, 2009.pdf  0%  100%  
+	    New File  		  434482	Sept 22, 2009.pdf  0%  100%  
+	    New File  		  414049	Sept 29,2009.pdf  0%  100%  
+	    New File  		  169984	SFVA monthly SFR.xls  0%  100%  
+	    New File  		     821	Shortcut to Attachments_2011_11_3.zip.lnk  0%  100%  
+	    New File  		   28160	Sponsorship Packages.doc  0%  100%  
+	    New File  		   32369	Stanford Hospital Quote 10-6-11.pdf  0%  100%  
+	    New File  		  150411	Stanford Hospital Quote 3-5-12.pdf  0%  100%  
+	    New File  		   11619	Sub-contract.xlsx  0%  100%  
+	    New File  		     799	Windows Media Player.lnk  0%  100%  
+	    New File  		   61873	WM_Assignment_1025275504.pdf  0%  100%  
+	    New File  		   62489	WM_Assignment_1036639379.pdf  0%  100%  
+	    New File  		   14528	word.docx  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063445\backup\LPCH\
+	    New File  		   71168	LPCH FSR.xls  0%  100%  
+	    New File  		   52224	LPCH Monitor Refresh Project.xls  0%  100%  
+	    New File  		   68096	LPCH002.xls  0%  100%  
+	    New File  		   74752	LPCH003.xls  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063445\backup\San Mateo County Hospital\
+	    New File  		   14599	1st visit.docx  0%  100%  
+	    New File  		  117248	SMMC Siemens 16th Amendment Flo 07-26-2011V1.doc  0%  100%  
+	  New Dir         19	\\shintnpscfs116\T$\Users7\S0063445\backup\Santa Clara FSR\
+	    New File  		   9.0 m	1.bmp  0.0%100%  
+	    New File  		   9.0 m	2.bmp  0.0%100%  
+	    New File  		   9.0 m	3.bmp  0.0%100%  
+	    New File  		  500524	InterMetro Standard Battery Warranty.pdf  0%  100%  
+	    New File  		  117920	monthly FSR for Santa Clara.xlsx  0%  100%  
+	    New File  		  311756	New Flo Series Warranty Announcement 0311.pdf  0%  100%  
+	    New File  		  523821	New_Active Sync (New).pdf  0%  100%  
+	    New File  		   31232	RMA paperwork STOP doc 2011.doc  0%  100%  
+	    New File  		   30208	Santa Clara FSR on 09-28-10.xls  0%  100%  
+	    New File  		   23260	Santa Clara Valley Hospital FSR 10-15-10.xlsx  0%  100%  
+	    New File  		   22812	Santa Clara Valley Hospital FSR 10-22-10.xlsx  0%  100%  
+	    New File  		   23180	Santa Clara Valley Hospital FSR 11-12-10.xlsx  0%  100%  
+	    New File  		   49819	Santa Clara Valley Medical Center 10-1-2010 weekly report.xlsx  0%  100%  
+	    New File  		   50011	Santa Clara Valley Medical Center 10-8-2010 weekly report.xlsx  0%  100%  
+	    New File  		   28672	Santa Clara Valley Medical Center 8-14-10 weekly report.xls  0%  100%  
+	    New File  		   27136	Santa Clara Valley Medical Center 8-21-10 weekly report.xls  0%  100%  
+	    New File  		   22528	Santa Clara Valley Medical Center 8-7-10 weekly report.xls  0%  100%  
+	    New File  		  12.0 m	scanner bracket mounting bolt.bmp  0.0%100%  
+	    New File  		   86624	scanner bracket mounting bolt.JPG  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063445\backup\SFVA\
+	    New File  		   40448	Battery Inventory.xls  0%  100%  
+	    New File  		   42947	monthly SFR.xlsx  0%  100%  
+	    New File  		   49152	SFVA Battery Replacement.xls  0%  100%  
+	    New File  		   22887	SFVA FSR 11-12-10.xlsx  0%  100%  
+	    New File  		   16425	SFVA monthly FSR.xlsx  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063445\LPCH\
+	    New File  		   40960	LPCH Retrofit Project.xls  0%  100%  
+	    New File  		   13824	wireless xr71 cards records.xls  0%  100%  
+	  New Dir         12	\\shintnpscfs116\T$\Users7\S0063445\LPCH Field Service Record\
+	    New File  		   31232	form.xls  0%  100%  
+	    New File  		   34816	Lpch001 (s0063445 v1).xls  0%  100%  
+	    New File  		   35840	LPCH001.xls  0%  100%  
+	    New File  		   34816	Lpch002 (s0063445 v1).xls  0%  100%  
+	    New File  		   39424	lpch002.xls  0%  100%  
+	    New File  		   34816	Lpch003 (s0063445 v1).xls  0%  100%  
+	    New File  		   39424	lpch003.xls  0%  100%  
+	    New File  		   34816	Lpch004 (s0063445 v1).xls  0%  100%  
+	    New File  		   44544	Lpch004.xls  0%  100%  
+	    New File  		   31744	Lpch005.xls  0%  100%  
+	    New File  		   40960	Lpch006.xls  0%  100%  
+	    New File  		   34816	Lpch007.xls  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063445\My Data Sources\
+	    New File  		     190	+Connect to New Data Source.odc  0%  100%  
+	    New File  		     196	+NewSQLServerConnection.odc  0%  100%  
+	    New File  		      70	DESKTOP.INI  0%  100%  
+	    New File  		    4710	FOLDER.ICO  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063445\My Music\
+	    New File  		     184	Desktop.ini  0%  100%  
+	    New File  		     768	Sample Music (s0063445 v1).lnk  0%  100%  
+	    New File  		     773	Sample Music.lnk  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063445\My Pictures\
+	    New File  		     186	Desktop.ini  0%  100%  
+	    New File  		    7258	Old School Cow.jpg  0%  100%  
+	    New File  		     791	Sample Pictures.lnk  0%  100%  
+	    New File  		    5120	Thumbs.db  0%  100%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063445\My Videos\
+	    New File  		     185	Desktop.ini  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063445\Outlook Files\
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063445\outlook.pst\
+	    New File  		 193.7 m	outlook.ost  0.0%  8.2% 16.5% 24.7% 33.0% 41.2% 49.5% 57.8% 66.0% 74.3% 82.5% 90.8% 99.0%100%  
+	    New File  		 200.3 m	outlook0.ost  0.0%  7.9% 15.9% 23.9% 31.9% 39.9% 47.9% 55.9% 63.9% 71.8% 79.8% 87.8% 95.8%100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063445\PGP\
+	    New File  		       0	pubring.pkr100%  
+	    New File  		       0	secring.skr100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063445\RECYCLER\
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063445\RECYCLER\S-1-5-21-1292407741-3760857420-1411248183-86147\
+	    New File  		      65	desktop.ini  0%  100%  
+	    New File  		      20	INFO2  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063445\Reflection\
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0063445\TRK\
+	    New File  		   5.4 m	347CompTIA_A_.rar  0%  100%  100%  100%  
+	    New File  		   15973	Book1.xlsx  0%  100%  
+	    New File  		  846367	CompTIA A+ 2009 Q&A[1].pdf  0%  100%  
+	    New File  		   45568	Mileage reimbursement for Feb, 2011.xls  0%  100%  
+	    New File  		   5.3 m	Panel.rar  0%  100%  100%  100%  
+	    New File  		 134.3 m	Probability_and_Random_Processes_for_Electrical_Engineering_2nd_ed.rar  0.0% 11.9% 23.8% 35.7% 47.6% 59.5% 71.4% 83.3% 95.2%100%  100%  100%  
+	  New Dir         16	\\shintnpscfs116\T$\Users7\S0063445\TRK\A+ Testout\
+	    New File  		 199.0 m	BlackVinta.TestOut.CompTIA.2009.A.PLUS.Essentials.220.701.DVD-iNKiSO.part01.rar  0.0%  8.0% 16.0% 24.1% 32.1% 40.2% 48.2% 56.2% 64.3% 72.3% 80.4% 88.4% 96.4%100%  100%  100%  
+	    New File  		 199.0 m	BlackVinta.TestOut.CompTIA.2009.A.PLUS.Essentials.220.701.DVD-iNKiSO.part02.rar  0.0%  8.0% 16.0% 24.1% 32.1% 40.2% 48.2% 56.2% 64.3% 72.3% 80.4% 88.4% 96.4%100%  100%  100%  
+	    New File  		 199.0 m	BlackVinta.TestOut.CompTIA.2009.A.PLUS.Essentials.220.701.DVD-iNKiSO.part03.rar  0.0%  8.0% 16.0% 24.1% 32.1% 40.2% 48.2% 56.2% 64.3% 72.3% 80.4% 88.4% 96.4%100%  100%  100%  
+	    New File  		 199.0 m	BlackVinta.TestOut.CompTIA.2009.A.PLUS.Essentials.220.701.DVD-iNKiSO.part04.rar  0.0%  8.0% 16.0% 24.1% 32.1% 40.2% 48.2% 56.2% 64.3% 72.3% 80.4% 88.4% 96.4%100%  100%  100%  
+	    New File  		 199.0 m	BlackVinta.TestOut.CompTIA.2009.A.PLUS.Essentials.220.701.DVD-iNKiSO.part05.rar  0.0%  8.0% 16.0% 24.1% 32.1% 40.2% 48.2% 56.2% 64.3% 72.3% 80.4% 88.4% 96.4%100%  100%  100%  
+	    New File  		 199.0 m	BlackVinta.TestOut.CompTIA.2009.A.PLUS.Essentials.220.701.DVD-iNKiSO.part06.rar  0.0%  8.0% 16.0% 24.1% 32.1% 40.2% 48.2% 56.2% 64.3% 72.3% 80.4% 88.4% 96.4%100%  100%  100%  
+	    New File  		 199.0 m	BlackVinta.TestOut.CompTIA.2009.A.PLUS.Essentials.220.701.DVD-iNKiSO.part07.rar  0.0%  8.0% 16.0% 24.1% 32.1% 40.2% 48.2% 56.2% 64.3% 72.3% 80.4% 88.4% 96.4%100%  100%  100%  
+	    New File  		 199.0 m	BlackVinta.TestOut.CompTIA.2009.A.PLUS.Essentials.220.701.DVD-iNKiSO.part08.rar  0.0%  8.0% 16.0% 24.1% 32.1% 40.2% 48.2% 56.2% 64.3% 72.3% 80.4% 88.4% 96.4%100%  100%  100%  
+	    New File  		 199.0 m	BlackVinta.TestOut.CompTIA.2009.A.PLUS.Essentials.220.701.DVD-iNKiSO.part09.rar  0.0%  8.0% 16.0% 24.1% 32.1% 40.2% 48.2% 56.2% 64.3% 72.3% 80.4% 88.4% 96.4%100%  100%  100%  
+	    New File  		 199.0 m	BlackVinta.TestOut.CompTIA.2009.A.PLUS.Essentials.220.701.DVD-iNKiSO.part10.rar  0.0%  8.0% 16.0% 24.1% 32.1% 40.2% 48.2% 56.2% 64.3% 72.3% 80.4% 88.4% 96.4%100%  100%  100%  
+	    New File  		 199.0 m	BlackVinta.TestOut.CompTIA.2009.A.PLUS.Essentials.220.701.DVD-iNKiSO.part11.rar  0.0%  8.0% 16.0% 24.1% 32.1% 40.2% 48.2% 56.2% 64.3% 72.3% 80.4% 88.4% 96.4%100%  100%  100%  
+	    New File  		 199.0 m	BlackVinta.TestOut.CompTIA.2009.A.PLUS.Essentials.220.701.DVD-iNKiSO.part12.rar  0.0%  8.0% 16.0% 24.1% 32.1% 40.2% 48.2% 56.2% 64.3% 72.3% 80.4% 88.4% 96.4%100%  100%  100%  
+	    New File  		 199.0 m	BlackVinta.TestOut.CompTIA.2009.A.PLUS.Essentials.220.701.DVD-iNKiSO.part13.rar  0.0%  8.0% 16.0% 24.1% 32.1% 40.2% 48.2% 56.2% 64.3% 72.3% 80.4% 88.4% 96.4%100%  100%  100%  
+	    New File  		 199.0 m	BlackVinta.TestOut.CompTIA.2009.A.PLUS.Essentials.220.701.DVD-iNKiSO.part14.rar  0.0%  8.0% 16.0% 24.1% 32.1% 40.2% 48.2% 56.2% 64.3% 72.3% 80.4% 88.4% 96.4%100%  100%  100%  
+	    New File  		 199.0 m	BlackVinta.TestOut.CompTIA.2009.A.PLUS.Essentials.220.701.DVD-iNKiSO.part15.rar  0.0%  8.0% 16.0% 24.1% 32.1% 40.2% 48.2% 56.2% 64.3% 72.3% 80.4% 88.4% 96.4%100%  100%  100%  
+	    New File  		 147.1 m	BlackVinta.TestOut.CompTIA.2009.A.PLUS.Essentials.220.701.DVD-iNKiSO.part16.rar  0.0% 10.8% 21.7% 32.6% 43.5% 54.3% 65.2% 76.1% 87.0% 97.8%100%  100%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        20        20         0         0         0         0
+   Files :       174       174         0         0         0         0
+   Bytes :   3.720 g   3.720 g         0         0         0         0
+   Times :   0:03:26   0:03:24                       0:00:00   0:00:01
+
+
+   Speed :            19512713 Bytes/sec.
+   Speed :            1116.526 MegaBytes/min.
+
+   Ended : Sun Mar 27 11:27:36 2016

@@ -1,0 +1,38 @@
+
+#  DB Alert Email notification for offline,Readonly,Suspect and Emergency mode.
+#
+#  This script  is used to find out to check all the database server in each and every database if any one of the database goes to offline it will generate the alert and send mail to our DL. .
+
+# This Power shell will  works on  above 2.0  version .
+
+# History:
+#  07-14-2016: Original created by Nataraja Moorthy
+
+DECLARE @p_subject NVARCHAR(500)
+SET @p_subject = N'Database OFFLINE on '  + ( CAST((SELECT  SERVERPROPERTY('ServerName')) AS NVARCHAR)) 
+BEGIN
+SET NOCOUNT ON 
+--4==suscpect,5=emergency,6=offline
+---Send the mail as table Formate
+IF(SELECT COUNT(*) FROM sys.databases WHERE state=6)>0
+BEGIN
+DECLARE @table  NVARCHAR(MAX) ;
+SET @table =
+    
+	N' <span  style="  font-size: 16px;" >Following Database is not online, DBA team to check the status of the same </span>' +
+    N'<table border="1">' +
+    N'<tr><th>Database Name</th><th>Database Status</th></tr>' +
+    CAST ( ( SELECT td=name, '',td=state_desc FROM sys.databases WHERE state_desc='offline'
+              FOR XML PATH('tr'), TYPE
+    ) AS NVARCHAR(MAX) )    +
+    N'</table>' ;
+	
+EXEC msdb.dbo.sp_send_dbmail
+     @profile_name ='DL-HCL-SQL',
+     @recipients='DL-HCL-SQL@stanfordhealthcare.org',
+     @subject = @p_subject , 
+     @body = @table,
+	 @body_format = 'HTML'
+	END 
+ELSE PRINT 'All Databases are Online'
+END

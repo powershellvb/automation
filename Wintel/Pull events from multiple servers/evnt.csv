@@ -1,0 +1,69 @@
+"EventID","MachineName","Index","Category","EntryType","Message","Source","InstanceId","TimeGenerated","TimeWritten","UserName"
+"1704","SHINFRPEMET101.Enterprise.stanfordmed.org","2429941","(0)","Information","Security policy in the Group policy objects has been applied successfully.","SceCli","1073743528","10/10/2015 11:51:58 AM","10/10/2015 11:51:58 AM",
+"1000","SHINFRPEMET101.Enterprise.stanfordmed.org","2429940","(0)","Information","Microsoft Security Client successfully applied security policy: ""Default Client Antimalware Policy
+Endpoint Protection Policy - Server - Generic
+Stanford"".","Microsoft Security Client","1000","10/10/2015 10:01:49 AM","10/10/2015 10:01:49 AM",
+"256","shinfrpemet102.Enterprise.stanfordmed.org","186176","General","0","The ""vmStatsProvider"" is successfully initialized for this Virtual Machine.
+WMI namespace: ""root\cimv2"".","vmStatsProvider","131328","10/10/2015 11:34:34 AM","10/10/2015 11:34:34 AM",
+"258","shinfrpemet102.Enterprise.stanfordmed.org","186175","Guest Library API","0","The ""vmGuestLibrary"" is successfully initialized for this Virtual Machine.","vmStatsProvider","131330","10/10/2015 11:34:34 AM","10/10/2015 11:34:34 AM",
+"1001","shinfrpemet102.Enterprise.stanfordmed.org","186174","(0)","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: econtagt.exe
+P2: 11.7.0.62
+P3: 4eba2c8e
+P4: StackHash_6bb5
+P5: 6.1.7601.18839
+P6: 553e8bfa
+P7: c0000374
+P8: 00000000000bfc22
+P9: 
+P10: 
+
+Attached files:
+
+These files may be available here:
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_econtagt.exe_a7e33785f327eaf73caa7e6a21bb8cb86d6781e_ae6ec136
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 856bb629-6f7d-11e5-85f7-0050569313c0
+Report Status: 0","Windows Error Reporting","1001","10/10/2015 11:34:24 AM","10/10/2015 11:34:24 AM",
+"1001","shinfrpemet102.Enterprise.stanfordmed.org","186173","(0)","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: econtagt.exe
+P2: 11.7.0.62
+P3: 4eba2c8e
+P4: StackHash_6bb5
+P5: 6.1.7601.18839
+P6: 553e8bfa
+P7: c0000374
+P8: 00000000000bfc22
+P9: 
+P10: 
+
+Attached files:
+
+These files may be available here:
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_econtagt.exe_a7e33785f327eaf73caa7e6a21bb8cb86d6781e_ae6ec136
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 856bb629-6f7d-11e5-85f7-0050569313c0
+Report Status: 4","Windows Error Reporting","1001","10/10/2015 11:34:24 AM","10/10/2015 11:34:24 AM",
+"1000","shinfrpemet102.Enterprise.stanfordmed.org","186172","Application Crashing Events","Error","Faulting application name: econtagt.exe, version: 11.7.0.62, time stamp: 0x4eba2c8e
+Faulting module name: ntdll.dll, version: 6.1.7601.18839, time stamp: 0x553e8bfa
+Exception code: 0xc0000374
+Fault offset: 0x00000000000bfc22
+Faulting process id: 0x7b2c
+Faulting application start time: 0x01d1023bb60245ba
+Faulting application path: C:\Program Files\Compuware\Server Monitoring\bin\econtagt.exe
+Faulting module path: C:\Windows\SYSTEM32\ntdll.dll
+Report Id: 856bb629-6f7d-11e5-85f7-0050569313c0","Application Error","1000","10/10/2015 11:34:21 AM","10/10/2015 11:34:21 AM",

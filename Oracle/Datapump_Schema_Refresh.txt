@@ -1,0 +1,94 @@
+EXPORT
+========
+
+$ cat expdp.sh
+#!/bin/bash
+
+# Get the directory path to store the dump files
+echo ---------------------------------------
+echo "Please enter the path for the dump files > "
+read EXPDIR
+mkdir -p ${EXPDIR}
+
+
+# Get the source database name
+echo ---------------------------------------
+echo "Please enter the SID of source database > "
+read EXP_DBNAME
+
+
+# Enter the Schema name
+echo ---------------------------------------
+echo "Please enter the Schema for the export > "
+read EXP_SCHEMANAME
+
+
+export ORACLE_SID=${EXP_DBNAME}
+sqlplus / as sysdba<<EOF
+create or replace directory dbexport as '${EXPDIR}';
+exit;
+EOF
+
+# Create a shell script to perform the export
+echo "export ORACLE_SID=${EXP_DBNAME}" >${EXP_DBNAME}_EXPORT.sh
+echo "expdp \"/ as sysdba\" DIRECTORY=dbexport SCHEMAS=${EXP_SCHEMANAME} JOB_NAME=${EXP_SCHEMANAME}_EXPORT FILESIZE=10G DUMPFILE=${EXP_SCHEMANAME}_EXPORT_%U.dmp COMPRESSION=ALL LOGFILE=${EXP_SCHEMANAME}_export.log PARALLEL=5" >>${EXP_SCHEMANAME}_EXPORT.sh
+chmod 755 ${EXP_SCHEMANAME}_EXPORT.sh
+chmod 755 ${EXP_SCHEMANAME}_EXPORT.sh
+
+
+# Tell user to run the DataPump Export
+echo "Please run ${EXP_USERNAME}_EXPORT.sh to export the database"
+$
+
+IMPORT
+=======
+
+#!/bin/bash
+
+# Get the source database name
+echo ---------------------------------------
+echo "Please enter the SID of source database > "
+read IMP_DBNAME
+echo " "
+
+echo "Please enter the path for the dump files > "
+echo --------------------------------------------
+read EXPDIR
+echo " "
+
+echo "Enter the Schema name, If its need to remap please enter it like (Source_Schema1:Dest_Schema1,Source_Schema2:Dest_Schema2)> "
+echo -------------------------------------------------------------------------------------------------------------------------
+read IMP_SCHEMANAME
+echo ""
+
+echo "Enter the tablespace name, If its need to remap please enter it like (Source_TS1:Dest_TS1,Source_TS2:Dest_TS2) > "
+echo --------------------------------------------------------------------------------------------------------------------
+read IMP_TSNAME
+echo ""
+
+echo "Please Enter the source schema dumpfile name like SCHEMANAME_EXPORT_%U.dmp > "
+echo -------------------------------------------------------------------------------
+read IMP_DUMPFILE
+echo ""
+
+echo "Please Enter TABLE_EXISTS_ACTION option (SKIP | APPEND | TRUNCATE | REPLACE) > "
+echo --------------------------------------------------------------------------------
+read TABLE_EXISTS
+echo ""
+
+export ORACLE_SID=${IMP_DBNAME}
+sqlplus / as sysdba<<EOF
+create or replace directory DBIMPORT as '${EXPDIR}';
+exit;
+EOF
+
+# Create a shell script to perform the export
+
+echo "impdp \"/ as sysdba\" DIRECTORY=DBIMPORT REMAP_SCHEMA=${IMP_SCHEMANAME} REMAP_TABLESPACE=${IMP_TSNAME} DUMPFILE=${IMP_DUMPFILE} LOGFILE=${IMP_DBNAME}_$DATE_import.log PARALLEL=5 TABLE_EXISTS_ACTION=${TABLE_EXISTS}" >>${IMP_DBNAME}_IMPORT.sh
+chmod 755 ${IMP_DBNAME}_IMPORT.sh
+
+
+# Tell user to run the DataPump Import
+echo "Please run ${IMP_DBNAME}_IMPORT.sh to export the database"
+
+

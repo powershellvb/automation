@@ -1,0 +1,2382 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Sun Mar 27 11:31:46 2016
+
+   Source : \\shintnpscfs116\T$\Users7\S0016400\
+     Dest : \\shintnpscfs116\W$\T_drive(disabled_users)_users7\users7\S0016400\
+
+    Files : *.*
+	    
+  Options : *.* /TEE /S /E /COPY:DATS /DCOPY:T /ZB /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	  New Dir         98	\\shintnpscfs116\T$\Users7\S0016400\
+	    New File  		  139776	091210.xls  0%  100%  
+	    New File  		   27838	10  Dos and Donts 2010.docx  0%  100%  
+	    New File  		   1.8 m	100-1504_Proof.pdf  0%  100%  
+	    New File  		  672473	11_January_PHC_Newsletter.pdf  0%  100%  
+	    New File  		  376476	20101014130652167.pdf  0%  100%  
+	    New File  		   52192	2011 Hospital NPSGs Revisions_Deletions (3).docx  0%  100%  
+	    New File  		  237056	Advance schedules FY 2011.xls  0%  100%  
+	    New File  		   71168	Agenda Template.doc  0%  100%  
+	    New File  		    7010	Anesth keys.tif  0%  100%  
+	    New File  		   67586	Anesthesia Record.pdf  0%  100%  
+	    New File  		  547763	Ansell Latex Free Symbol 1-24-11.pdf  0%  100%  
+	    New File  		  358943	Bird-QuinTron.pdf  0%  100%  
+	    New File  		  565760	Blank Competencies.shs  0%  100%  
+	    New File  		   1.4 m	BNX Proposal Stanford (2).xls  0%  100%  
+	    New File  		   35328	Breath Test.doc  0%  100%  
+	    New File  		   11363	Bullet points.docx  0%  100%  
+	    New File  		   36864	call november - february.xls  0%  100%  
+	    New File  		   13611	Can you lower your salt intake by just throwing away the salt shaker and avoiding foods with obvious salt on top.docx  0%  100%  
+	    New File  		  476672	Charge Router Reconciliation Report.doc  0%  100%  
+	    New File  		  675562	Cleaning Procedures_OR.pdf  0%  100%  
+	    New File  		   39936	CLOSING DUTIES.xls  0%  100%  
+	    New File  		   38400	Consult Call schedule JANUARY 2011 (2).xls  0%  100%  
+	    New File  		  523160	CSB_ED_RNs_09 26 13.docx  0%  100%  
+	    New File  		   2.4 m	December Nursing Newsletter.pdf  0%  100%  
+	    New File  		    1992	Default.rdp  0%  100%  
+	    New File  		     556	desktop.ini  0%  100%  
+	    New File  		  181058	Doc1Dr B DB.docx  0%  100%  
+	    New File  		    7010	Document1.tif  0%  100%  
+	    New File  		    7010	Document10001.tif  0%  100%  
+	    New File  		    7238	Document10002.tif  0%  100%  
+	    New File  		   52857	DONATED NON CASH TANGIBLE ASSETS FORM-Exhibit A.docx  0%  100%  
+	    New File  		   63621	ENDO 7 Day Anomalous Usage Report by Med Class.pdf  0%  100%  
+	    New File  		    9303	Endoscopy Audit 1114 1127.xlsx  0%  100%  
+	    New File  		   56320	Endoscopy Block Time Assignment 11162009.xls  0%  100%  
+	    New File  		   57344	Endoscopy Block Time Assignment PHASE 2.xls  0%  100%  
+	    New File  		  703488	ENDOSCOPY DEPARTMENT CASES UNDER GA AUGUST 2010.xls  0%  100%  
+	    New File  		  415744	ENDOSCOPY DEPARTMENT, CASES UNDER GA, SEPTEMBER 2010.xls  0%  100%  
+	    New File  		   26569	Endoscopy On Call P&P.docx  0%  100%  
+	    New File  		  289903	EPIC REVENUE AND USAGE REPORT.docx  0%  100%  
+	    New File  		   10234	FDSI-Step by Step Guide.txt  0%  100%  
+	    New File  		  109056	Flier_2011.ppt  0%  100%  
+	    New File  		  198950	flushot.pdf  0%  100%  
+	    New File  		   60416	Form W4_Cell_Gift 2010.doc  0%  100%  
+	    New File  		   13394	FujiFilm supplies.docx  0%  100%  
+	    New File  		   2.4 m	Given Addendum.pdf  0%  100%  
+	    New File  		  748152	GuestCall.pdf  0%  100%  
+	    New File  		  408551	Guide for MRSA Documentation Review.pdf  0%  100%  
+	    New File  		   11637	Guidelines for go home early wish list.docx  0%  100%  
+	    New File  		  682487	HB EPIC Charge reconliation reports-KC.pptx  0%  100%  
+	    New File  		   1.4 m	IMG_0020.JPG  0%  100%  
+	    New File  		   1.2 m	IMG_20110707_054616.jpg  0%  100%  
+	    New File  		   1.6 m	Interview RN Guide A 10-09 (2).doc  0%  100%  
+	    New File  		   1.0 m	Interview RN Guide B 10-09 (2).doc  0%  100%  
+	    New File  		  299211	ISMP_11 01 27.pdf  0%  100%  
+	    New File  		  644121	ISMP_11 02 25.pdf  0%  100%  
+	    New File  		   48583	jconline_Oct_20_10.pdf  0%  100%  
+	    New File  		  197730	Job Action SheetsMeds1.pdf  0%  100%  
+	    New File  		  189440	Labels - Anes IV bags (version 2).xls  0%  100%  
+	    New File  		   12901	Let.docx  0%  100%  
+	    New File  		   13430	Maliena version.XLSX  0%  100%  
+	    New File  		   51712	MANAGER MASTER TIMECARD.xls  0%  100%  
+	    New File  		   55808	Medication Pass Observation Tool - 10-20-2010.doc  0%  100%  
+	    New File  		   16667	MERP Audit Template 2010.docx  0%  100%  
+	    New File  		   43008	Minutes Template.doc  0%  100%  
+	    New File  		   79818	NEW ENDOSCOPY SUPPLY LIST.xlsx  0%  100%  
+	    New File  		   79818	NEW ENDOSCOPY SUPPLY LIST-2014-08-13T102509.xlsx  0%  100%  
+	    New File  		   79818	NEW ENDOSCOPY SUPPLY LIST-2014-08-13T102509-2014-09-03T194056.xlsx  0%  100%  
+	    New File  		   61235	New Image.JPG  0%  100%  
+	    New File  		   26965	NEW VENDOR FORM.docx  0%  100%  
+	    New File  		   33792	OUTSTANDING EVAL'S.xls  0%  100%  
+	    New File  		   26112	OUTSTANDING LICENSES.xls  0%  100%  
+	    New File  		  215183	P.O..pdf  0%  100%  
+	    New File  		   62464	Periop Capital Projection.xls  0%  100%  
+	    New File  		   36522	photo (2).JPG  0%  100%  
+	    New File  		  117147	QIPSC OR Region Universal Protocol Results.xlsx  0%  100%  
+	    New File  		  580065	Quality Alert 2010 11 17.pdf  0%  100%  
+	    New File  		   29184	RECALL FORM.DOC  0%  100%  
+	    New File  		   19545	Resume 2.docx  0%  100%  
+	    New File  		    9860	RN Senority List.xlsx  0%  100%  
+	    New File  		   10150	RS.docx  0%  100%  
+	    New File  		   1.9 m	SBAR.pdf  0%  100%  
+	    New File  		   14682	schedling.xlsx  0%  100%  
+	    New File  		   30720	Schedule Cut-Off 2011.xls  0%  100%  
+	    New File  		   16647	Server Schedule for Thanks from the Heart.docx  0%  100%  
+	    New File  		  126917	Specimen Tracking QA Audit.docx  0%  100%  
+	    New File  		  559616	Supply and Service Pricing  Policy APR 2011 Final-1.doc  0%  100%  
+	    New File  		   72704	Survey EOC Daily Checklist Main OR 5 10.doc  0%  100%  
+	    New File  		   96628	synthes settlement letter.pdf  0%  100%  
+	    New File  		   78848	template - workplan blank.doc  0%  100%  
+	    New File  		   14702	thosani.xlsx  0%  100%  
+	    New File  		   12800	Thumbs.db  0%  100%  100%  
+	    New File  		  111104	trace32.exe  0%  100%  
+	    New File  		   52305	Universal Protocol Audit_OR  0%  100%  
+	    New File  		   13238	Viabil non latex balloons .xlsx  0%  100%  
+	    New File  		   13253	Viabil stents  non latex balloons.xlsx  0%  100%  
+	    New File  		   20272	WeekDay on call.docx  0%  100%  
+	    New File  		   19387	Weekend On Call Template cont.docx  0%  100%  
+	    New File  		   17111	Workplan David.doc.docx  0%  100%  
+	  New Dir         44	\\shintnpscfs116\T$\Users7\S0016400\$RECYCLE.BIN\
+	    New File  		     544	$I1GBI2D.docx  0%  100%  
+	    New File  		     544	$I3SFA5J.pdf  0%  100%  
+	    New File  		     544	$I5EIMUH.pdf  0%  100%  
+	    New File  		     544	$I5Q12G4.pdf  0%  100%  
+	    New File  		     544	$I6HBGTZ.docx  0%  100%  
+	    New File  		     544	$I9GRKBE.xlsx  0%  100%  
+	    New File  		     544	$I9ISAV3  0%  100%  
+	    New File  		     544	$IBO12EW.docx  0%  100%  
+	    New File  		     544	$IGSL65Y.pdf  0%  100%  
+	    New File  		     544	$IHEQX5T.exe  0%  100%  
+	    New File  		     544	$IHJAHPC.pdf  0%  100%  
+	    New File  		     544	$IJW9X7T  0%  100%  
+	    New File  		     544	$IMRJ71U.pdf  0%  100%  
+	    New File  		     544	$INILDUI.xlsx  0%  100%  
+	    New File  		     544	$IODYCTV.pdf  0%  100%  
+	    New File  		     544	$IPLDNYX.jpg  0%  100%  
+	    New File  		     544	$IPXOA7S  0%  100%  
+	    New File  		     544	$IQS3JXZ.docx  0%  100%  
+	    New File  		     544	$ISWQSL1.docx  0%  100%  
+	    New File  		     544	$IUXFY0D  0%  100%  
+	    New File  		     544	$IWO84SE.pdf  0%  100%  
+	    New File  		     544	$IZN7INW.pdf  0%  100%  
+	    New File  		     544	$IZUPLE0.pdf  0%  100%  
+	    New File  		   20272	$R1GBI2D.docx  0%  100%  
+	    New File  		    7924	$R3SFA5J.pdf  0%  100%  
+	    New File  		  152476	$R5EIMUH.pdf  0%  100%  
+	    New File  		    9249	$R5Q12G4.pdf  0%  100%  
+	    New File  		   20382	$R6HBGTZ.docx  0%  100%  
+	    New File  		   79721	$R9GRKBE.xlsx  0%  100%  
+	    New File  		   19129	$RBO12EW.docx  0%  100%  
+	    New File  		   34602	$RGSL65Y.pdf  0%  100%  
+	    New File  		   1.6 m	$RHEQX5T.exe  0%  100%  
+	    New File  		   26511	$RHJAHPC.pdf  0%  100%  
+	    New File  		  218399	$RMRJ71U.pdf  0%  100%  
+	    New File  		   12500	$RNILDUI.xlsx  0%  100%  
+	    New File  		   85303	$RODYCTV.pdf  0%  100%  
+	    New File  		   75073	$RPLDNYX.jpg  0%  100%  
+	    New File  		   19407	$RQS3JXZ.docx  0%  100%  
+	    New File  		   19387	$RSWQSL1.docx  0%  100%  
+	    New File  		   26557	$RWO84SE.pdf  0%  100%  
+	    New File  		   93807	$RZN7INW.pdf  0%  100%  
+	    New File  		  196911	$RZUPLE0.pdf  0%  100%  
+	    New File  		     129	desktop.ini  0%  100%  
+	    New File  		   19456	Thumbs.db  0%  100%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\$RECYCLE.BIN\$R9ISAV3\
+	    New File  		   36352	Gathering Application.doc  0%  100%  
+	    New File  		   24094	Grounds Report.docx  0%  100%  
+	    New File  		   23836	May Grounds Report.docx  0%  100%  
+	    New File  		  277439	SSC.PDF  0%  100%  
+	  New Dir         18	\\shintnpscfs116\T$\Users7\S0016400\$RECYCLE.BIN\$R9ISAV3\pictures\
+	    New File  		  400175	0110001905.jpg  0%  100%  
+	    New File  		  280842	0114000729.jpg  0%  100%  
+	    New File  		  363928	0126001850b.jpg  0%  100%  
+	    New File  		  638675	0130001230.jpg  0%  100%  
+	    New File  		  593482	0130001237.jpg  0%  100%  
+	    New File  		  644336	0130001302.jpg  0%  100%  
+	    New File  		  578590	0130001302a.jpg  0%  100%  
+	    New File  		  470268	0130001303.jpg  0%  100%  
+	    New File  		  588805	0130001305.jpg  0%  100%  
+	    New File  		  573330	0130001305a.jpg  0%  100%  
+	    New File  		  607513	0130001306.jpg  0%  100%  
+	    New File  		  557012	0130001318.jpg  0%  100%  
+	    New File  		  426965	0130001321.jpg  0%  100%  
+	    New File  		  336024	0130001323.jpg  0%  100%  
+	    New File  		  539869	0130001325.jpg  0%  100%  
+	    New File  		  541772	0130001325a.jpg  0%  100%  
+	    New File  		  538965	0130001334.jpg  0%  100%  
+	    New File  		  537717	0130001334a.jpg  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\$RECYCLE.BIN\$RJW9X7T\
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\$RECYCLE.BIN\$RPXOA7S\
+	    New File  		  476358	Groundbreaking Flyer Main Hospital.pdf  0%  100%  
+	    New File  		  125144	SOP Initial thoughts 3_1_13.pptx  0%  100%  
+	    New File  		   12288	Thumbs.db  0%  100%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0016400\$RECYCLE.BIN\$RUXFY0D\
+	    New File  		  287744	AccountsMay2014.xls  0%  100%  
+	    New File  		   1.2 m	AZ.docx  0%  100%  
+	    New File  		  515672	Itinerary.docx  0%  100%  
+	    New File  		   43520	Restaurant.com.xls  0%  100%  
+	    New File  		  178176	Thumbs.db  0%  100%  100%  
+	    New File  		  237568	TSI Pick Up Slip.doc  0%  100%  
+	    New File  		  240640	UA 2014 PM.xls  0%  100%  
+	    New File  		   8.5 m	UA ProperCareHandling.ppt  0.0%100%  
+	    New File  		  118053	VA campus_map.jpg  0%  100%  
+	    New File  		   3.2 m	Weather.docx  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0016400\$RECYCLE.BIN\$RUXFY0D\Pics\
+	    New File  		  156850	10150582_10152063972938994_6737121800393391434_n.jpg  0%  100%  
+	    New File  		   99295	1962693_10151984890758994_634517056_n.jpg  0%  100%  
+	    New File  		   2.4 m	Acacia_Pool_El_Conquistador_9805d4.jpg  0%  100%  
+	    New File  		  734090	Main_Pool_Hilton_El_Conquistador_65e7f8.jpg  0%  100%  
+	    New File  		   3.5 m	Main_Pool-Daylight_El_Conquistador_6d5c57.jpg  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\5S\
+	    New File  		  319960	30-Day Action Bulletin_2012 11 06.docx  0%  100%  
+	    New File  		  170349	5S Endoscopy _Front Desk_Storage Planning Guide_2012 10 25.pptx  0%  100%  
+	    New File  		   62164	Copy of Lean Leader Assessment.xlsx  0%  100%  
+	    New File  		   15360	Thumbs.db  0%  100%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\A3 & SOPS\
+	    New File  		  173741	4 Block A3 Pre-Proc info.pptx  0%  100%  
+	    New File  		   13715	A3 Data Collection Grid.docx  0%  100%  
+	    New File  		   17359	Copy of FY15 SOPS_Gun_Harris-Ponti_Endoscopy 071814.xlsx  0%  100%  
+	    New File  		   4.9 m	MH A3_vsd.mht  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0016400\Agenda\
+	    New File  		   71168	agenda Feb  0%  100%  
+	    New File  		   67584	Agenda Jan.doc  0%  100%  
+	    New File  		   38400	Agenda June 27, 2012 doc..doc  0%  100%  
+	    New File  		   70656	agenda template.doc  0%  100%  
+	    New File  		   72192	Agenda Template.doc june  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0016400\AIP\
+	    New File  		   27542	AIP Leadership Template FY13 080312 DW.xlsx  0%  100%  
+	    New File  		   27737	AIP Template Leadership FY14_2013 08 22.xlsx  0%  100%  
+	    New File  		   27874	Copy of David Woodley AIP Template Leadership FY14_2013 08 22 (2).xlsx  0%  100%  
+	    New File  		   22732	David AIP Leadership Template102313 FY13 080312 (5).xlsx  0%  100%  
+	    New File  		   30056	FY2015 AIP Mgmt Template PH-P.xlsx  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0016400\Algorythms\
+	    New File  		  280255	adult_arrest.pdf  0%  100%  
+	    New File  		  234119	adult_brady.pdf  0%  100%  
+	    New File  		  265689	adult_post_arrest.pdf  0%  100%  
+	    New File  		  307739	adult_tachy_pulse.pdf  0%  100%  
+	    New File  		  425233	arrest_diagram.pdf  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\AMA Pt's\
+	    New File  		   51200	Algorithm DRAFT 2 2 17 14.doc  0%  100%  
+	    New File  		  153179	AMA insurance implications study.pdf  0%  100%  
+	    New File  		   1.6 m	Moderate Sedation 2014.ppt  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\AMT\
+	    New File  		    7056	p-form1LAYOUTLANDSCAPEREPORT_OWNERnwest.pdf  0%  100%  
+	  New Dir         13	\\shintnpscfs116\T$\Users7\S0016400\Anesthesia\
+	    New File  		  546187	5 30 14_Stanford_PRE-SIGNED PAS Expansion Agreement_ENDO.pdf  0%  100%  
+	    New File  		   16875	Adding cases in endoscopy.docx  0%  100%  
+	    New File  		   57856	Copy of Anes  Resident List 11-12.xls  0%  100%  
+	    New File  		   20154	Endoscopy Department SHC GA Cases Protocol V1 9 12 docx.docx  0%  100%  
+	    New File  		  912853	Endoscopy Surgery Scheduler SGRs pptx.pptx  0%  100%  
+	    New File  		  259262	Finding the Anesthesia Report.docx  0%  100%  
+	    New File  		  156558	Intake and Output Documentation (Anesthesia).dotx  0%  100%  
+	    New File  		  532129	Intraop Spotlights March 2013 v2.pdf  0%  100%  
+	    New File  		  105221	Manual device validation.docx  0%  100%  
+	    New File  		   12695	OOR Anesthesia Coverage Distribution as of 09 01 12.xlsx  0%  100%  
+	    New File  		   18909	Scheduling for Endoscopy GA cases.docx  0%  100%  
+	    New File  		   10752	Thumbs.db  0%  100%  100%  
+	    New File  		  131763	Tip Sheet_Anesthesia Intake and Output Report.pdf  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\Apps & resume's\
+	    New File  		  127571	Resume-stanford.docx  0%  100%  
+	    New File  		    5120	Thumbs.db  0%  100%  100%  
+	  New Dir         23	\\shintnpscfs116\T$\Users7\S0016400\Audit\
+	    New File  		   31748	_2012_OR_Region UP audit.xlsx  0%  100%  
+	    New File  		   34613	_2012_OR_Region_Universal_Protocol(1).xlsx  0%  100%  
+	    New File  		  200320	2013 01.docx  0%  100%  
+	    New File  		   90410	2013 ENDO Audit Data.xlsx  0%  100%  
+	    New File  		  208745	2013 Universal Protocol Audit ENDOSCOPY.pdf  0%  100%  
+	    New File  		  247878	2013 Universal Protocol.pdf  0%  100%  
+	    New File  		   16779	audit cover sheet.docx  0%  100%  
+	    New File  		   42060	Audit Tool.docx  0%  100%  
+	    New File  		   14686	Clinical Alarms and Hand Washing Observation in OR 1 11.docx  0%  100%  
+	    New File  		   34731	Copy of _2012_Medication Labeling audits.xlsx  0%  100%  
+	    New File  		  127886	Copy of 2013 Universal Protocol Data.xlsx  0%  100%  
+	    New File  		   34714	December_2012_Medication Labeling.xlsx  0%  100%  
+	    New File  		  337887	Endoscopy Nursing Documentation Audits_2013 version.pdf  0%  100%  
+	    New File  		   28164	EOC_POST.DOCX  0%  100%  
+	    New File  		   26623	EOC_PRE.DOCX  0%  100%  
+	    New File  		   59071	Hand Hygiene AND Clinical Alarms_INTRAOP.DOCX  0%  100%  
+	    New File  		   55669	Hand Hygiene AND Clinical Alarms_PRE POST.DOCX  0%  100%  
+	    New File  		   19094	Labeling of Medications Audit OR 1 11 xlsx xlsx.xlsx  0%  100%  
+	    New File  		   19534	Labeling of Medications Audit PACU 1 11 xlsx.xlsx  0%  100%  
+	    New File  		   41472	Monthly summary report blank.doc  0%  100%  
+	    New File  		  152460	Universal Protocol Audit_OR.docx  0%  100%  
+	    New File  		   53747	Universal Protocol Audit_pre-op.docx  0%  100%  
+	    New File  		   55660	universal-protocol-audit-tool_5-19-2011.pdf  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\backup\
+	  New Dir         19	\\shintnpscfs116\T$\Users7\S0016400\backup\Desktop\
+	    New File  		   67584	agenda template.doc  0%  100%  
+	    New File  		   28234	Benner In Hospital  Classes_vs2_ 6-20-11.docx  0%  100%  
+	    New File  		    1492	Calculator.lnk  0%  100%  
+	    New File  		   44544	Controlled substance monitoring monthly summary report 2011.doc  0%  100%  
+	    New File  		   29184	Copy of 2011 HOLIDAY CALENDAR .xls  0%  100%  
+	    New File  		   24250	Endoscopy On Call P&P.docx  0%  100%  
+	    New File  		   59392	GREYBAR FOR ONCL.xls  0%  100%  
+	    New File  		   20123	JCR Mock Survey Agenda_ 05-2011_FINAL.docx  0%  100%  
+	    New File  		    2473	Microsoft Office Excel 2007.lnk  0%  100%  
+	    New File  		    2521	Microsoft Office Outlook 2007.lnk  0%  100%  
+	    New File  		    2515	Microsoft Office Word 2007.lnk  0%  100%  
+	    New File  		  110080	NEW GRAY BAR   (font 9).xls  0%  100%  
+	    New File  		   19192	Performance Improvement Action Plan Diane Ralph (2).docx  0%  100%  
+	    New File  		   32469	Philips Healthcare - The Philips Learning Center May 2011.docx  0%  100%  
+	    New File  		   16918	Requesting and Escalating IT Service_IT only v2.docx  0%  100%  
+	    New File  		   17069	Server Schedule for Ice Cream Social June 15, 2011.docx  0%  100%  
+	    New File  		   50688	STAFF MASTER TIMECARD.xls  0%  100%  
+	    New File  		   72704	Survey EOC Daily Checklist Main OR 5 10.doc  0%  100%  
+	    New File  		     788	Windows Media Player.lnk  0%  100%  
+	  New Dir         41	\\shintnpscfs116\T$\Users7\S0016400\backup\Favorites\
+	    New File  		     170	ABCGN Certification Center.url  0%  100%  
+	    New File  		     255	AK Inquiry.url  0%  100%  
+	    New File  		     216	Banking Palo Alto  Stanford Federal Credit Union  Stanford, Palo Alto, Silicon Valley.url  0%   15%   15%  100%  
+	    New File  		     202	Centers for Medicare & Medicaid Services.url  0%   18%   18%  100%  
+	    New File  		     616	DAVE Project - Gastroenterology.url  0%   14%   14%  100%  
+	    New File  		     260	Department Details.url  0%  100%  
+	    New File  		     122	Desktop.ini  0%  100%  
+	    New File  		     272	Endoscopy P&Ps.url  0%  100%  
+	    New File  		     266	Endoscopy.url  0%  100%  
+	    New File  		     164	EPSi.url  0%  100%  
+	    New File  		     656	Go Live.url  0%  100%  
+	    New File  		     211	Google.url  0%   15%   15%  100%  
+	    New File  		     442	Greentree Systems Candidate Self-Service.url  0%   36%   36%  100%  
+	    New File  		    1639	HealthStream Learning Center.url  0%   53%   53%  100%  
+	    New File  		     270	Healthy Steps.url  0%   16%   16%  100%  
+	    New File  		     202	http--portal.stanfordmed.org-depts-PerformanceImprovement-Documents-Wk%2001%20Oct%2011_Medication%20Labeling.pdf.url  0%  100%  
+	    New File  		     228	Job Search.url  0%  100%  
+	    New File  		     842	Lawson portal.url  0%   43%   43%  100%  
+	    New File  		     247	Log In.url  0%  100%  
+	    New File  		     275	MedAssets Compliance Technologies - Login.url  0%   20%   20%  100%  
+	    New File  		     188	medassets Healthcare Supply Chain Management & Revenue Cycle Management Services.url  0%  100%  
+	    New File  		    1416	MEDASSETS INC. WebEx Enterprise Site.url  0%   55%   55%  100%  
+	    New File  		      81	MSDN.url  0%  100%  
+	    New File  		     146	MSDS-Chemquik.url  0%  100%  
+	    New File  		     141	MSOnet.url  0%  100%  
+	    New File  		     246	Overview Hospital Outpatient PPS.url  0%   21%   21%  100%  
+	    New File  		     172	Pediatric Heart Center Database.url  0%  100%  
+	    New File  		     252	Performance Management.url  0%  100%  
+	    New File  		     215	SEG.url  0%   15%   15%  100%  
+	    New File  		     304	SHC Transformation Scholarship Program.url  0%  100%  
+	    New File  		     144	Stand.url  0%  100%  
+	    New File  		     761	Stanford - Log In.url  0%  100%  
+	    New File  		     140	Stanford Campus Downtime Reports.url  0%  100%  
+	    New File  		     140	Stanford Offsite Clinics Downtime Reports.url  0%  100%  
+	    New File  		     140	Stanford Pharmacy Downtime Reports.url  0%  100%  
+	    New File  		     144	Stanfordmed.org.url  0%  100%  
+	    New File  		     244	SuccessFactors Business Execution Suite.url  0%   17%   17%  100%  
+	    New File  		     716	Topic Details.url  0%   38%   38%  100%  
+	    New File  		     206	University HealthSystem Consortium.url  0%    0%    0%  100%  
+	    New File  		     195	Web Budgeting Tool.url  0%  100%  
+	    New File  		     180	Welcome to Parking & Transportation Services at Stanford University.url  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\backup\Favorites\CV Med-CT Surg Clinic Favorites\
+	    New File  		     140	ECG.url  0%  100%  
+	    New File  		     150	Echo Lab.url  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\backup\Favorites\Downtime forms\
+	    New File  		     140	Stanford Campus Downtime Reports.url  0%  100%  
+	    New File  		     140	Stanford Offsite Clinics Downtime Reports.url  0%  100%  
+	    New File  		     140	Stanford Pharmacy Downtime Reports.url  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\backup\Favorites\Links\
+	    New File  		     160	Customize Links.url  0%  100%  
+	    New File  		      84	Support.url  0%  100%  
+	    New File  		     169	Windows Marketplace.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\backup\Favorites\LPCH Sites to Explore\
+	    New File  		     170	LPCH Community Physician Directory.url  0%  100%  
+	    New File  		     167	LPCH Faculty Physician Directory.url  0%  100%  
+	    New File  		     136	LPCH Web Site.url  0%  100%  
+	    New File  		     143	Vaccine Information Statements.url  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0016400\backup\Favorites\LPCH Web Based Applications\
+	    New File  		     161	Cerner.url  0%  100%  
+	    New File  		     146	Hospital Paging.url  0%  100%  
+	    New File  		     147	LPCH Nursing Education.url  0%  100%  
+	    New File  		     141	MD Paging.url  0%  100%  
+	    New File  		     150	Medical Center Directory.url  0%  100%  
+	    New File  		     151	Quantros.url  0%  100%  
+	    New File  		     166	Reference - PEDBASE.url  0%  100%  
+	    New File  		     181	SHC Learning Management System.url  0%  100%  
+	    New File  		     158	Trust Commerce.url  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0016400\backup\Favorites\Microsoft Websites\
+	    New File  		     160	IE Add-on site.url  0%  100%  
+	    New File  		     160	IE site on Microsoft.com.url  0%  100%  
+	    New File  		     160	Marketplace.url  0%  100%  
+	    New File  		     160	Microsoft At Home.url  0%  100%  
+	    New File  		     160	Microsoft At Work.url  0%  100%  
+	    New File  		     160	Welcome to IE7.url  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\backup\Favorites\Personal\
+	    New File  		     257	lawroom Course.url  0%   23%   23%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\backup\Favorites\Smart Paging\
+	    New File  		     146	Smart Paging Application.url  0%  100%  
+	    New File  		     172	Smart Paging Help - Introduction.url  0%  100%  
+	    New File  		     146	Smart Paging Help - Placing Pages & Using Features.url  0%  100%  
+	    New File  		     172	Smart Paging Help - Using Smart Paging.url  0%  100%  
+	  New Dir         19	\\shintnpscfs116\T$\Users7\S0016400\backup\Favorites\SMG-SFM Favorites\
+	    New File  		     158	AAFP Clin Policy.url  0%  100%  
+	    New File  		     153	AAP Clin Policy.url  0%  100%  
+	    New File  		     162	Adult Immunization.url  0%  100%  
+	    New File  		     143	AFP.url  0%  100%  
+	    New File  		     169	CDC Prevent Guides.url  0%  100%  
+	    New File  		     162	Child Immunization PDF.url  0%  100%  
+	    New File  		     185	Child Immunization.url  0%  100%  
+	    New File  		     167	Healinx User.url  0%  100%  
+	    New File  		     139	HMO Formulary.url  0%  100%  
+	    New File  		     162	Medem Health Info.url  0%  100%  
+	    New File  		     158	Natl Guideline Clearing House.url  0%  100%  
+	    New File  		     157	NHLBI Health Info.url  0%  100%  
+	    New File  		     138	Nichol's Institute.url  0%  100%  
+	    New File  		     149	PDR.url  0%  100%  
+	    New File  		     140	SFP Home.url  0%  100%  
+	    New File  		     189	SHC Contracts.url  0%  100%  
+	    New File  		     151	SMG Home.url  0%  100%  
+	    New File  		     141	Travel Advise.url  0%  100%  
+	    New File  		     140	Trip Prep.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\backup\Favorites\Stanford Clinical Laboratory\
+	    New File  		     218	DISASTER PLAN - Stanford Clinical Lab and Anatomic Pathology.url  0%  100%  
+	    New File  		     143	Lab Internet Site.url  0%  100%  
+	    New File  		     155	Lab Intranet Site.url  0%  100%  
+	    New File  		     165	Sharepoint Lab Home Site.url  0%  100%  
+	  New Dir         12	\\shintnpscfs116\T$\Users7\S0016400\backup\Favorites\Stanford Sites to Explore\
+	    New File  		     171	Find Cancer Clinical Trials.url  0%  100%  
+	    New File  		     169	ICD 9 Coding.url  0%  100%  
+	    New File  		     148	Lane Library.url  0%  100%  
+	    New File  		     150	Medical Center Directory.url  0%  100%  
+	    New File  		     164	Medical Staff Roster.url  0%  100%  
+	    New File  		     144	School of Medicine.url  0%  100%  
+	    New File  		     184	SHC Community Physician Directory.url  0%  100%  
+	    New File  		     181	SHC Faculty Physician Directory.url  0%  100%  
+	    New File  		     148	SHC Web Site.url  0%  100%  
+	    New File  		     148	Stanford Intranet.url  0%  100%  
+	    New File  		     154	Stanford University Medical Center.url  0%  100%  
+	    New File  		     140	Stanford University.url  0%  100%  
+	  New Dir         15	\\shintnpscfs116\T$\Users7\S0016400\backup\Favorites\Stanford Web Based Applications\
+	    New File  		     148	BOB (Knowledgebase).url  0%  100%  
+	    New File  		     148	Emerg-Med.url  0%  100%  
+	    New File  		     156	HealthStream.url  0%  100%  
+	    New File  		     147	Hill-Rom On Demand.url  0%  100%  
+	    New File  		     149	HIPAA Information.url  0%  100%  
+	    New File  		     150	Lexicomp.url  0%  100%  
+	    New File  		     141	MICROMEDEX(R) Healthcare Series.url  0%  100%  
+	    New File  		     145	PAMF - portal.url  0%  100%  
+	    New File  		     144	Portal Backup Site.url  0%  100%  
+	    New File  		     150	Profee Ontrac.url  0%  100%  
+	    New File  		     146	Radiology Images.url  0%  100%  
+	    New File  		     144	Spheris Clarity Care and Complete.url  0%  100%  
+	    New File  		     153	Stanford Physician Portal.url  0%  100%  
+	    New File  		     147	SUMC Outlook Web Access.url  0%  100%  
+	    New File  		     158	Trust Commerce.url  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\backup\Favorites\Supplies\
+	    New File  		     154	Burlington X-Ray Lead Aprons  Lead Glasses  Thyroid Shields.url  0%  100%  
+	    New File  		     146	MSDS-Chemquik.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\Best Practice\
+	    New File  		  475365	20120109122458252.pdf  0%  100%  
+	    New File  		  205349	BEST Meeting Webex Connection Instructions 01_19_12.pdf  0%  100%  
+	    New File  		  110996	Jan 2012 Mock Survey Announcement.pdf  0%  100%  
+	    New File  		  497284	Stanford 2012_New_Requirements_and_Hot_Topics_KE v2.pdf  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0016400\Bill Nelson\
+	    New File  		  111228	Bracco CO2Efficient Quote - Stanford Medical Center -3-11-2014.pdf  0%  100%  
+	    New File  		   21401	ConsignmentAgreement-generalformat12-01-11.docx  0%  100%  
+	    New File  		   13676	GI SUPPLY MM TEMPLATE.XLSX  0%  100%  
+	    New File  		  103774	OVESCO - Stanford Quote.pdf  0%  100%  
+	    New File  		   12101	OVESCO TEMPLATE.XLSX  0%  100%  
+	    New File  		   12547	SECOND OVESCO TEMPLATE.XLSX  0%  100%  
+	    New File  		  205886	Stanford MC Taewoong Medical TTS docx.pdf  0%  100%  
+	  New Dir         27	\\shintnpscfs116\T$\Users7\S0016400\Billing\
+	    New File  		  211715	2011_Full_CCode_Reference_Guide.pdf  0%  100%  
+	    New File  		  603101	Attachments Manual Pt Charge procedure.pdf  0%  100%  
+	    New File  		  269777	CCode_Reference Guide_03Jan2012.pdf  0%  100%  
+	    New File  		   1.5 m	CDM Master Workflow Training Manual.pdf  0%  100%  
+	    New File  		   13618	CDM relink in PMM.XLSX  0%  100%  
+	    New File  		  200135	Clinical Area Workflow_Draft_3.pdf  0%  100%  
+	    New File  		   90955	Copy of CDMLAWSNEAPactvq.xlsx  0%  100%  
+	    New File  		  203264	Copy of Endoscopy New Charge Master 4-7-11.xls  0%  100%  
+	    New File  		   3.2 m	CROSSWALK LINK VALIDATION.pdf  0%  100%  
+	    New File  		   44518	Endo CDM March 2011.xlsx  0%  100%  
+	    New File  		   32351	ENDO_GICDM.xlsb  0%  100%  
+	    New File  		   47887	ENDO306CrosswalkExport 1 .xlsb  0%  100%  
+	    New File  		   12476	ENDOINVNTORYwaiting4correction.xlsx  0%  100%  
+	    New File  		  284062	ENDOLnkValwrksht D306 1-26-11.xlsx  0%  100%  
+	    New File  		   13813	EndoscopyRoutineSupplyunlinkedMay2012.xlsb  0%  100%  
+	    New File  		   36918	FY13 Ten-Level Approved Supply Mark-up Xwalk.xlsx  0%  100%  
+	    New File  		  810615	GIPROCEDvschrgs.xlsx  0%  100%  
+	    New File  		   33287	HCPCPASSTHRULIST.xlsx  0%  100%  
+	    New File  		  628224	PP Charge Capture  Reconciliation manual.doc  0%  100%  
+	    New File  		   14487	Re-linked Crosswalk.xltx  0%  100%  
+	    New File  		   17521	Scanning Endoscopy Patient Charges to Data Control.docx  0%  100%  
+	    New File  		  231518	Stanford Clinical Area Workflow_Draft_4.pdf  0%  100%  
+	    New File  		   1.5 m	Stanford CrossWalk Project Kickoff_Jan2011 (2).pdf  0%  100%  
+	    New File  		   51206	Stanford Dashboard 030211_AChapman.xlsx  0%  100%  
+	    New File  		   2.7 m	Sub project cost for payment.pdf  0%  100%  
+	    New File  		  342016	Supply and Service Pricing  Policy AUG08.doc  0%  100%  
+	    New File  		   72704	SurgeryIVNTRYCHRGMAP.vsd  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\Billing & shipping errors\
+	    New File  		  259709	BS and Medivatiors.pdf  0%  100%  
+	    New File  		  107601	Cath lab.pdf  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0016400\Bird\
+	    New File  		  419650	A3 Endo charges 102513.pdf  0%  100%  
+	    New File  		  711464	A3 Throughput Endo 2013 102513.pdf  0%  100%  
+	    New File  		   21586	Copy of Attendance 2014 45.xlsx  0%  100%  
+	    New File  		   47299	Copy of Endo Likelihood.xlsx  0%  100%  
+	    New File  		   58074	Copy of FY14 Endoscopy Monthly Report.xlsx  0%  100%  
+	    New File  		   29193	Copy of Sears Quote 24593.xlsx  0%  100%  
+	    New File  		   14769	Endo Rad procedure calcs.xlsx  0%  100%  
+	    New File  		  352382	Periop overview May 2013.pdf  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\BLS\
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0016400\BosSci\
+	    New File  		   41646	Boston Scientific - SHC SpyGlass Service Agmt 2013.pdf  0%  100%  
+	    New File  		   12360	Copy of JAGTOME 39.xlsx  0%  100%  
+	    New File  		   4.1 m	enteral_access_family_brochure (2).pdf  0%  100%  
+	    New File  		   4.1 m	enteral_access_family_brochure.pdf  0%  100%  
+	    New File  		   13720	ENTERNAL FEEDING TUBES PMM TEMPLATE.XLSX  0%  100%  
+	    New File  		  243770	MC91.docx  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\Breath Test\
+	    New File  		   14659	Copy of Endo Breath Test Trend Jan 2011 - Feb 2013 .xlsx  0%  100%  
+	    New File  		   52204	Lactulose Breath Test_4 15 11.docx  0%  100%  
+	    New File  		  337240	QTL0086 Rev A (1-UP) - Lit Simple Operation BreathTracker.pdf  0%  100%  
+	  New Dir         18	\\shintnpscfs116\T$\Users7\S0016400\Bronch\
+	    New File  		  163761	Bronch hours 3-14.pdf  0%  100%  
+	    New File  		   38912	BRONCH PRIVILEGES.XLS  0%  100%  
+	    New File  		   65231	Bronchoscopy Scheduling 2012 pdf.pdf  0%  100%  
+	    New File  		   38400	Bronchoscopy Scheduling Draft.doc  0%  100%  
+	    New File  		   47616	BRONCHOSCOPY SCHEDULING FORM 2011 V.01.doc  0%  100%  
+	    New File  		   39936	Bronchoscopy Scheduling Guideline V.0 2.2011.doc  0%  100%  
+	    New File  		   14069	Bronchoscopy Scheduling Meeting Minutes 9-27-11.docx  0%  100%  
+	    New File  		   23390	BRONCHOSCOPY TRANSITION WORKPLAN 3 15 11.docx  0%  100%  
+	    New File  		   25417	BRONCHOSCOPY TRANSITION WORKPLAN 4 11 11.docx  0%  100%  
+	    New File  		   26221	BRONCHOSCOPY TRANSITION WORKPLAN 4 15 11.docx  0%  100%  
+	    New File  		   25924	BRONCHOSCOPY TRANSITION WORKPLAN 4 18 11 revised.docx  0%  100%  
+	    New File  		   16977	Bronchoscopy Work Flow.docx  0%  100%  
+	    New File  		   19578	Bronchs in Endo FY13 (2).xlsx  0%  100%  
+	    New File  		   31744	Pulmonary Service Proceure + Mnemonics as of 03.30.11.xls  0%  100%  
+	    New File  		  181947	Scheduling Procedure Form.pdf  0%  100%  
+	    New File  		   54953	Stanford_Univ_Med_Ctr-used_6001_table.pdf  0%  100%  
+	    New File  		   18177	Surgical Section of Cleaning P&P Manual.docx  0%  100%  
+	    New File  		   18033	Treatment and Examination Rooms.docx  0%  100%  
+	  New Dir         13	\\shintnpscfs116\T$\Users7\S0016400\Ca. Endoscopy\
+	    New File  		   51346	3-7  201306600023.pdf  0%  100%  
+	    New File  		   50565	7-15  201319600009.pdf  0%  100%  
+	    New File  		   50542	7-2  201318300013.pdf  0%  100%  
+	    New File  		  196588	CA Endo ext. cont.pdf  0%  100%  
+	    New File  		  286991	Contract Proposal 7-8-13.pdf  0%  100%  
+	    New File  		   15961	Fluid Invasion Report.docx  0%  100%  
+	    New File  		   49452	ReqisitionWO201317100002.pdf  0%  100%  
+	    New File  		   50816	ReqisitionWO201406600009.pdf  0%  100%  
+	    New File  		   51136	ReqisitionWO201406600017 (2).pdf  0%  100%  
+	    New File  		   51311	ReqisitionWO201407200015.pdf  0%  100%  
+	    New File  		   51439	ReqisitionWO201410800006.pdf  0%  100%  
+	    New File  		  101657	RequisitionForApproval Stanford.pdf  0%  100%  
+	    New File  		  100037	ShowPdf Val.pdf  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0016400\Ca. Endoscopy\Flash drive\
+	    New File  		  12.2 m	2ndStanford ProperCareHandling - Copy.ppt  0.0%100%  
+	    New File  		   17291	CA Endoscopy Logo.jpg  0%  100%  
+	    New File  		  214007	CA Endoscopy Pick Up Slip.pdf  0%  100%  
+	    New File  		   1.3 m	CAL Logo.jpg  0%  100%  
+	    New File  		   14024	Stanford GI.xlsx  0%  100%  
+	    New File  		   9.1 m	Stanford ProperCareHandling.ppt  0.0%100%  
+	    New File  		  280576	StanfordGI 2014 PM.xls  0%  100%  
+	    New File  		  274931	StanfordOrg.docx  0%  100%  
+	    New File  		   60416	Thumbs.db  0%  100%  100%  
+	  New Dir         12	\\shintnpscfs116\T$\Users7\S0016400\Ca. Endoscopy\Flash drive\Pics\
+	    New File  		   90073	57575559.jpg  0%  100%  
+	    New File  		  221272	Half Moon Bay.jpg  0%  100%  
+	    New File  		  524951	Half_Moon_Bay_California.jpg  0%  100%  
+	    New File  		  160567	HMB.jpg  0%  100%  
+	    New File  		  123376	SHCofficial.jpg  0%  100%  
+	    New File  		  235458	Stanford.jpg  0%  100%  
+	    New File  		  12.2 m	Stanford_Oval_May_2011_panorama.jpg  0.0%100%  
+	    New File  		  187518	stanford-1392172342073-Stanford-Tree-Logo-Mascot-stanford-logo-pictures (1).jpg  0%  100%  
+	    New File  		  738076	Stanford-University-Hoover-Tower1.jpg  0%  100%  
+	    New File  		  708636	stanny clearest.jpg  0%  100%  
+	    New File  		  167246	Sunset HMB.jpg  0%  100%  
+	    New File  		   96768	Thumbs.db  0%  100%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\Canceled cases\
+	    New File  		  255399	7-14-14.docx  0%  100%  
+	    New File  		  255029	7-15-14.docx  0%  100%  
+	    New File  		  258051	7-16-14.docx  0%  100%  
+	    New File  		  251621	7-16-2014.xlsx  0%  100%  
+	  New Dir         12	\\shintnpscfs116\T$\Users7\S0016400\CDM\
+	    New File  		  728258	10-1-13 RPIW Follow Up Agenda (3).pptx  0%  100%  
+	    New File  		  830512	CDM-MMIS RPIW Action Items and Reference Material - Sep 2013.pptx  0%  100%  
+	    New File  		   19911	Copy of CDMs added by users with no Item Link in Project File.xlsx  0%  100%  
+	    New File  		   59220	Copy of Countdown Timeline.xlsx  0%  100%  
+	    New File  		   3.1 m	Copy of Crosswalked CDMs and New 280.xlsx  0%  100%  
+	    New File  		   2.3 m	Copy of EAP TEST CROSSWALKED TO 03 FILE WITH CURRENT STATE CDM CODES.xlsx  0%  100%  
+	    New File  		   30831	Copy of Supply CDM Countdown Timeline v5 (2).xlsx  0%  100%  
+	    New File  		   31396	Copy of Supply CDM Countdown Timeline v5.xlsx  0%  100%  
+	    New File  		   31990	Copy of Supply CDM Countdown Timeline v8.xlsx  0%  100%  
+	    New File  		   16526	ENDOtimebasedchrgs.xlsb  0%  100%  
+	    New File  		   24363	Interim Period FAQ.docx  0%  100%  
+	    New File  		  188928	Option 3 - Expedited Item & CDM Maintenance Workflow - DRAFT.vsd  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Cellvizio\
+	    New File  		   1.0 m	Brochure-_Nov2012 copy.pdf  0%  100%  
+	  New Dir         24	\\shintnpscfs116\T$\Users7\S0016400\C-I-Care\
+	    New File  		   2.1 m	C-I-CARE Dashboard - July 2013.pdf  0%  100%  
+	    New File  		   78912	C-I-CARE dashboard 2012 08.xls  0%  100%  
+	    New File  		  189440	C-I-CARE dashboard 2012.06.xls  0%  100%  
+	    New File  		  284991	C-I-CARE dashboard notes 2012 07 10.pdf  0%  100%  
+	    New File  		  203835	C-I-CARE dashboard notes 2012 08 08.pdf  0%  100%  
+	    New File  		  282813	C-I-CARE Department Rounding Process.pdf  0%  100%  
+	    New File  		  200325	C-ICare Recovery Tip Sheet.pdf  0%  100%  
+	    New File  		   78827	CICARE Template_Endoscopy.docx  0%  100%  
+	    New File  		   59154	Copy of calendar template (2).xlsx  0%  100%  
+	    New File  		   28847	Copy of C-I-CARE Recognition Tracking Form.xlsx  0%  100%  
+	    New File  		   97315	Department Rounds - Frequently Asked Questions.pdf  0%  100%  
+	    New File  		  640553	Evening Management Round Registration in Healthstream.pdf  0%  100%  
+	    New File  		  136285	FY 12 AIP Statistics_CICARE_2012.08.31.docx  0%  100%  
+	    New File  		   82626	FY13 C-I-CARE Management Round FAQs.pdf  0%  100%  
+	    New File  		  444310	M106 Classroom Alway.docx  0%  100%  
+	    New File  		   35031	Management Rounds Staff Interaction.pdf  0%  100%  
+	    New File  		  524417	Recovery Service.pdf  0%  100%  
+	    New File  		  118203	Register for Spring Training.pdf  0%  100%  
+	    New File  		   99127	Run Assignment Completion Report for CICARE overview.pdf  0%  100%  
+	    New File  		   82708	SEA_48 pdf Healthworker fatigue.pdf  0%  100%  
+	    New File  		  937219	SHC C-I-CARE Dashboard User Guide.pdf  0%  100%  
+	    New File  		   60125	Visit One Patient.xlsx  0%  100%  
+	    New File  		   1.2 m	Workflow for printing your templates.pptx  0%  100%  
+	    New File  		   3.0 m	Workflow for pulling your staff roster.pptx  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0016400\Classes\
+	    New File  		   1.9 m	CC.JPG  0%  100%  
+	    New File  		   21401	How to Register for CE Classes v3 May 11 11.docx  0%  100%  
+	    New File  		  182784	Information Literacy Flyer.ppt  0%  100%  
+	    New File  		   21446	Instructions Oline Registrations_ v3 May 11 11.docx  0%  100%  
+	    New File  		   29696	Skills Day dec 10-17-2011 schedule.doc  0%  100%  
+	    New File  		   35797	Teaching 101.docx  0%  100%  
+	    New File  		    5632	Thumbs.db  0%  100%  100%  
+	    New File  		   26514	Top Drugs.docx  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\Competencies\
+	    New File  		  128000	ENDO Competency Pre procedure.doc  0%  100%  
+	    New File  		   25692	Guideline for Competency Assessment-122712.docx  0%  100%  
+	    New File  		  142063	SPH Annual (2).pdf  0%  100%  
+	    New File  		   31083	Zoll - OR - Competency 2-4-13.docx  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Confocal\
+	    New File  		   18896	Stanford Endoscopy Confocal Work Flow.docx  0%  100%  
+	  New Dir         11	\\shintnpscfs116\T$\Users7\S0016400\ConMed\
+	    New File  		   42345	Conmed - SHC Consignment Agmt ADDENDUM Draft 2013-04-18.docx  0%  100%  
+	    New File  		  465429	ConMed - SHC Consignment Agmt.pdf  0%  100%  
+	    New File  		   11888	Copy of vIABIL 10X10xlsx.xlsx  0%  100%  
+	    New File  		   2.0 m	IMG_0006.JPG  0%  100%  
+	    New File  		   1.9 m	IMG_0007.JPG  0%  100%  
+	    New File  		   2.2 m	IMG_0008.JPG  0%  100%  
+	    New File  		   1.1 m	IMG_0009.JPG  0%  100%  
+	    New File  		  195303	PO#5540.pdf  0%  100%  
+	    New File  		  593229	SFinance Co14052111300 (3).pdf  0%  100%  
+	    New File  		  465429	stanford.pdf  0%  100%  
+	    New File  		   34304	Thumbs.db  0%  100%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\Consent\
+	    New File  		  260551	EGD consent page 1.pdf  0%  100%  
+	    New File  		  192499	EGD consent page 2.pdf  0%  100%  
+	    New File  		  458189	EGD consent.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Consignment\
+	    New File  		   21402	ConsignmentAgreement-generalformat12-01-11.docx  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\Contracts and agreements\
+	    New File  		  111733	Berchtold Invoice.pdf  0%  100%  
+	    New File  		  337547	Contract Approval Form 10.14.11.docx  0%  100%  
+	    New File  		  215346	LRA-SRA.pdf  0%  100%  
+	    New File  		  113515	Pentax long term loaner.pdf  0%  100%  
+	  New Dir         49	\\shintnpscfs116\T$\Users7\S0016400\Controlled substance monitoring\
+	    New File  		   3.2 m	ASPAN Standards357.pdf  0%  100%  
+	    New File  		   14416	cont subst in-depth audit form 04_2011.docx  0%  100%  
+	    New File  		   14418	Controlled Substance Audit 1 11.docx  0%  100%  
+	    New File  		   44544	Controlled Substance Monitoring Blank.doc  0%  100%  
+	    New File  		   44032	Controlled substance monitoring December-2013.doc  0%  100%  
+	    New File  		   44544	Controlled substance monitoring monthly summary report 10-2011.doc  0%  100%  
+	    New File  		   43520	Controlled substance monitoring monthly summary report 10-2012.doc  0%  100%  
+	    New File  		   44032	Controlled substance monitoring monthly summary report 11-2011.doc  0%  100%  
+	    New File  		   43520	Controlled substance monitoring monthly summary report 11-2012.doc  0%  100%  
+	    New File  		   42496	Controlled substance monitoring monthly summary report 12- 2010.doc  0%  100%  
+	    New File  		   44544	Controlled substance monitoring monthly summary report 12- 2011.doc  0%  100%  
+	    New File  		   43008	Controlled substance monitoring monthly summary report 1-2011.doc  0%  100%  
+	    New File  		   44032	Controlled substance monitoring monthly summary report 1-2012.doc  0%  100%  
+	    New File  		   45056	Controlled substance monitoring monthly summary report 2009.doc  0%  100%  
+	    New File  		   17067	Controlled substance monitoring monthly summary report 2011.docx  0%  100%  
+	    New File  		   43008	Controlled substance monitoring monthly summary report 2-2011.doc  0%  100%  
+	    New File  		   17067	Controlled substance monitoring monthly summary report 2-2012.docx  0%  100%  
+	    New File  		   41984	Controlled substance monitoring monthly summary report 3-2011.doc  0%  100%  
+	    New File  		   44544	Controlled substance monitoring monthly summary report 3-2012.doc  0%  100%  
+	    New File  		   42496	Controlled substance monitoring monthly summary report 4-2011.doc  0%  100%  
+	    New File  		   44032	Controlled substance monitoring monthly summary report 4-2012.doc  0%  100%  
+	    New File  		   44032	Controlled substance monitoring monthly summary report 5-2011.doc  0%  100%  
+	    New File  		   44032	Controlled substance monitoring monthly summary report 5-2012.doc  0%  100%  
+	    New File  		   43520	Controlled substance monitoring monthly summary report 6-2011.doc  0%  100%  
+	    New File  		   43520	Controlled substance monitoring monthly summary report 6-2012.doc  0%  100%  
+	    New File  		   44032	Controlled substance monitoring monthly summary report 7-2012.doc  0%  100%  
+	    New File  		   44032	Controlled substance monitoring monthly summary report 8-2011.doc  0%  100%  
+	    New File  		   43520	Controlled substance monitoring monthly summary report 8-2012.doc  0%  100%  
+	    New File  		   43520	Controlled substance monitoring monthly summary report 9-2011.doc  0%  100%  
+	    New File  		   43520	Controlled substance monitoring monthly summary report 9-2012.doc  0%  100%  
+	    New File  		   44544	Controlled substance monitoring monthly summary report April 2013.doc  0%  100%  
+	    New File  		   44032	Controlled substance monitoring monthly summary report August 2013.doc  0%  100%  
+	    New File  		   44032	Controlled substance monitoring monthly summary report July 2013.doc  0%  100%  
+	    New File  		   44544	Controlled substance monitoring monthly summary report June 2013.doc  0%  100%  
+	    New File  		   44544	Controlled substance monitoring monthly summary report March 2013.doc  0%  100%  
+	    New File  		   44544	Controlled substance monitoring monthly summary report May 2013.doc  0%  100%  
+	    New File  		   44544	Controlled substance monitoring monthly summary report Oct 2011.doc  0%  100%  
+	    New File  		   44032	Controlled Substance Monthly summary report 5-14.doc  0%  100%  
+	    New File  		   44032	Controlled Substance Monthly summary report 6-14.doc  0%  100%  
+	    New File  		   44032	Controlled Substance Monthly summary report 7-14.doc  0%  100%  
+	    New File  		   44032	Controlled Substance Monthly summary report April 2014.doc  0%  100%  
+	    New File  		   44032	Controlled Substance Monthly summary report Feb 2014.doc  0%  100%  
+	    New File  		   44032	Controlled Substance Monthly summary report Jan 2014.doc  0%  100%  
+	    New File  		   44032	Controlled Substance Monthly summary report March 2014.doc  0%  100%  
+	    New File  		  102726	Copy of 2013 Controlled Substance Monitoring.xlsx  0%  100%  
+	    New File  		   85492	Endoscopy Nursing Documentation Audits.pdf  0%  100%  
+	    New File  		   44544	Monthly summary report November 2013.doc  0%  100%  
+	    New File  		   86309	PCA info.docx  0%  100%  
+	    New File  		  291760	Sept 9-15, pg 17 of 19.pdf  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\Controlled substance monitoring\2011\
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\Controlled substance monitoring\Checks\
+	    New File  		  354931	Cheryl Patalano30D-Addon.xlsx  0%  100%  
+	    New File  		   44032	Controlled Substance Monthly summary report blank.doc  0%  100%  
+	    New File  		   41803	Copy of endo audit 12-8-11 revised.xlsx  0%  100%  
+	    New File  		   49152	Copy of Project Tracker.xls  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\COVIDIEN\
+	    New File  		  684795	BARRX contract.pdf  0%  100%  
+	    New File  		   14175	Copy of NEW%20ITEM%20TEMPLATE(1).XLSX  0%  100%  
+	    New File  		  109578	Covidien.pdf  0%  100%  
+	    New File  		   13822	PRICELISTCHANGE.XLSX  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0016400\CRNA\
+	    New File  		   51346	3-7  201306600023.pdf  0%  100%  
+	    New File  		   99755	CRNA applicant Selerio.rtf  0%  100%  
+	    New File  		   15966	CRNA Weekly Schedule.docx  0%  100%  
+	    New File  		   1.5 m	Master Daily Schedule.pdf  0%  100%  
+	    New File  		  382246	Page 2 - K Troutman CRNA.pdf  0%  100%  
+	    New File  		   52162	Page 2 - S Schaffer CRNA.pdf  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\CRONA\
+	    New File  		   63398	CRONA Negotiations FAQ.pdf  0%  100%  
+	    New File  		   14920	There is a difference in regard to scheduling between a relief nurse and a regular nurse.docx  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\Cross Country\
+	    New File  		    4596	Confirmaneubaue.htm  0%  100%  
+	    New File  		  122887	Jinsu eval form.pdf  0%  100%  
+	    New File  		   59325	Performance Evalution Form.pdf  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0016400\Crosswalk\
+	    New File  		   2.2 m	Crosswalk Reporting Final.pptx  0%  100%  
+	    New File  		   1.8 m	Crosswalk User Group - December 2 Final.pptx  0%  100%  
+	    New File  		  857533	Crosswalk User Group Presentation & Notes 18AUG11.pptx  0%  100%  
+	    New File  		  836789	CROSSWALK_USER_GROUPFINAL.pptx  0%  100%  
+	    New File  		   4.9 m	Med Assets Toolkit Final v4 1.ppsx  0%  100%  
+	    New File  		   97881	MedAssets CW Supply System Specific Data Request 20111209.docx  0%  100%  
+	  New Dir         15	\\shintnpscfs116\T$\Users7\S0016400\Desktop\
+	    New File  		    1740	Adobe Reader X.lnk  0%  100%  
+	    New File  		   67584	agenda template.doc  0%  100%  
+	    New File  		  140422	Coastal Dist.pdf  0%  100%  
+	    New File  		   43520	Controlled substance monitoring monthly summary report.doc  0%  100%  
+	    New File  		   56320	David Woodley MASTER TIMECARD.xls  0%  100%  
+	    New File  		   18552	Endoscopy Department SHC GA Cases Protocol V1.9.12 docx.docx  0%  100%  
+	    New File  		  219648	Endoscopy New Charge Master 4-7-11.xls  0%  100%  
+	    New File  		  152412	Endoscopy PACU.pptx  0%  100%  
+	    New File  		   1.3 m	FMT.pdf  0%  100%  
+	    New File  		   59392	GREYBAR FOR ONCL.xls  0%  100%  
+	    New File  		  110080	NEW GRAY BAR   (font 9).xls  0%  100%  
+	    New File  		   13448	NEW ITEM TEMPLATE.XLSX  0%  100%  
+	    New File  		   16918	Requesting and Escalating IT Service_IT only v2.docx  0%  100%  
+	    New File  		   56832	STAFF MASTER TIMECARD.xls  0%  100%  
+	    New File  		   72704	Survey EOC Daily Checklist Main OR 5 10.doc  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\Disaster drill\
+	    New File  		  399813	Department Damage Report.pdf  0%  100%  
+	    New File  		  244184	Evacuation Triage and Tracking Form.pdf  0%  100%  
+	    New File  		   1.1 m	LPCH Toolkit Final Version pdf.pdf  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\Downtime\
+	    New File  		   13115	Downtime Forms Assessment.xlsx  0%  100%  
+	    New File  		   23509	Epic Downtime_RN Checklist.docx  0%  100%  
+	    New File  		   20771	Epic Upgrade Downtime_Unit Readiness Checklist.docx  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\Dr B\
+	    New File  		  137846	Case tracking.docx  0%  100%  
+	    New File  		   19229	Contingency Capital CO2 Insufflator.docx  0%  100%  
+	    New File  		  133041	Lab spec..docx  0%  100%  
+	    New File  		  138760	MAR.docx  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Drug Shortages\
+	    New File  		  373081	Drug Shortages - 07 23 12.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\ED\
+	    New File  		   13637	Copy of Draft Endo Standard Work 10-11-13.xlsx  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0016400\Education\
+	    New File  		   16605	HLC_Endo_Record_of_Educ_Offerings_2011-12 9-13-12.docx  0%  100%  
+	    New File  		   24539	How to give and recieve criticism.docx  0%  100%  
+	    New File  		  237568	Inservice_Sign_in__Sheet_Endoscopy_122009.xls  0%  100%  
+	    New File  		   14581	Instructions for Registering Staff to attend Preceptor Training.docx  0%  100%  
+	    New File  		  331264	Precep  class flyer 2 - 2012.PPT  0%  100%  
+	    New File  		   82708	SEA_48 pdf Healthworker fatigue.pdf  0%  100%  
+	    New File  		  149560	Summer 2013 flyer FOR SHC employees.pdf  0%  100%  
+	    New File  		    5632	Thumbs.db  0%  100%  100%  
+	    New File  		  226130	Tip Sheet_Transdermal Patch Removal.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Endo Dashboard\
+	    New File  		   15637	Weekly Update Dashboard June 30th 2014.docx  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0016400\Endo lab\
+	    New File  		  122832	20120118145819851.pdf  0%  100%  
+	    New File  		  513098	201204201357.pdf  0%  100%  
+	    New File  		  936364	201204251232.pdf  0%  100%  
+	    New File  		  120832	Endo Fluoro Orders.doc  0%  100%  
+	    New File  		   59177	IP GI ENDOSCOPY orderset revisions 1-2012.docx  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0016400\EndoChoice\
+	    New File  		  364138	BedsideKitEnzymeTest.pdf  0%  100%  
+	    New File  		   2.8 m	Compliance-EndoKit-Sell-Sheet_.pdf  0%  100%  
+	    New File  		   28664	New Stanford Kit Quotes.pdf  0%  100%  
+	    New File  		  281695	Safestart-Spongecomp.pdf  0%  100%  
+	    New File  		   27844	Stanford CPO 160 quote.pdf  0%  100%  
+	    New File  		   28493	Stanford CPO 180 quote.pdf  0%  100%  
+	  New Dir        164	\\shintnpscfs116\T$\Users7\S0016400\Endoscopy\
+	    New File  		   19054	001750_NGUYEN.pdf  0%  100%  
+	    New File  		   68096	2 DAY AM or PM PEG-Dulcolax 3-22-2011.doc  0%  100%  
+	    New File  		   68096	2 DAY AM or PM PEG-Mg Citrate 3-22-11.doc  0%  100%  
+	    New File  		   3.2 m	2010 OpTime NVT.docx  0%  100%  
+	    New File  		   47148	2011 Final Rule - APC Offset File - 112210cc.xlsx  0%  100%  
+	    New File  		   19531	2011.05.26_Labeling_of_Medications_Audit_PACU_1_11(1).xlsx  0%  100%  
+	    New File  		   59392	2011.08.16_Clinical_Alarms_and_Hand_Washing_Observation_in_OR_1_11[1].doc  0%  100%  
+	    New File  		  317952	2013 Periop capital request.doc  0%  100%  
+	    New File  		  226004	5.10QuickReferenceGuide.pdf  0%  100%  
+	    New File  		   29696	600260 Periop Charges JD.doc  0%  100%  
+	    New File  		   41984	A day tracking.doc  0%  100%  
+	    New File  		   67584	AM PEG-dulcolax finalSPANISH (2).doc  0%  100%  
+	    New File  		   23048	AnalSphincter NP-Pelvic.pdf  0%  100%  
+	    New File  		   15970	AnalSphincter.pdf  0%  100%  
+	    New File  		   21482	Anesthesia Data from February 28th-March 31st.docx  0%  100%  
+	    New File  		   17118	Anesthesia report for 2-28..3-4-11.docx  0%  100%  
+	    New File  		   16975	Anesthesia report March 7th-11th.docx  0%  100%  
+	    New File  		   58939	April Executive Summary.pdf  0%  100%  
+	    New File  		  504168	ASGE safety guideline.pdf  0%  100%  
+	    New File  		   28433	Attendance 2011.xlsx  0%  100%  
+	    New File  		   30372	Attendance 2012.xlsx  0%  100%  
+	    New File  		   31528	Attendance 2013.xlsx  0%  100%  
+	    New File  		  334823	BBW flyer.docx  0%  100%  
+	    New File  		   19944	BBW meds for back of flyer.docx  0%  100%  
+	    New File  		   14405	BCA Device Validation.xlsx  0%  100%  
+	    New File  		   11392	Bronchoscopy Concerns.docx  0%  100%  
+	    New File  		   59151	calendar template.xlsx  0%  100%  
+	    New File  		   36352	call FEBRUARY TO MAY 2011(1).xls  0%  100%  
+	    New File  		   51214	Case Tracking Events and Flow sheet  for ENDO.docx  0%  100%  
+	    New File  		  149297	Case tracking events.xlsx  0%  100%  
+	    New File  		   2.8 m	CET Product Catalog.pdf  0%  100%  
+	    New File  		   80896	Change Summary - June 2011.doc  0%  100%  
+	    New File  		   72704	Change Summary - May 2011.doc  0%  100%  
+	    New File  		  354931	Cheryl Patalano30D-Addon.xlsx  0%  100%  
+	    New File  		   29011	Clinical Inpatient Access Patient Placement Matrix.pdf  0%  100%  
+	    New File  		   59904	Clinical_Alarms_and_Hand_Hygiene_in_OR_1_11[1].doc  0%  100%  
+	    New File  		   62464	Clinical_Alarms_and_Hand_Washing_Observation_in_OR_1_11[1].doc  0%  100%  
+	    New File  		   1.8 m	CoEfficient Brochure.pdf  0%  100%  
+	    New File  		   4.4 m	combined_slides_stakeholdercall.pptx  0%  100%  
+	    New File  		  119755	CommunityEngagement-8-25-11.pdf  0%  100%  
+	    New File  		   61184	consent-to-photograph-form.docx  0%  100%  
+	    New File  		  165376	Copy of Endo 2014 Q1 (2).xls  0%  100%  
+	    New File  		   10295	Cow Numbers.docx  0%  100%  
+	    New File  		   12847	COW WORK STATIONS.xlsx  0%  100%  
+	    New File  		   43520	daily assignment(08052009).xls  0%  100%  
+	    New File  		   16432	Draft Policies for Scheduling.docx  0%  100%  
+	    New File  		   98763	Drug Shortages - 02 20 12.pdf  0%  100%  
+	    New File  		   20556	Educational Assistance Eligibility and Covered Expense Chart.docx  0%  100%  
+	    New File  		   58880	EGD Prep 3-22-2011.doc  0%  100%  
+	    New File  		   58880	EGD-EUS Prep 3-22-2011.doc  0%  100%  
+	    New File  		   1.6 m	ENDO  PROCEDURES W MEMONINCS YEAR 2013.xlsx  0%  100%  
+	    New File  		   30720	ENDO AND OR SPRING 2011 STANFORD.doc  0%  100%  
+	    New File  		   41803	endo audit 12-8-11 revised.xlsx  0%  100%  
+	    New File  		   78652	ENDO Audits 2011.xlsx  0%  100%  
+	    New File  		  246784	ENDO call utilage.xls  0%  100%  
+	    New File  		  253576	Endo Case Tracking screenshots.docx  0%  100%  
+	    New File  		   67757	Endo Dashboard 2011.xlsx  0%  100%  
+	    New File  		   45562	Endo growth.xlsx  0%  100%  
+	    New File  		   1.5 m	Endo Mar-Aug 2011.xls  0%  100%  
+	    New File  		   20656	Endo Par Form.pdf  0%  100%  
+	    New File  		  39.0 m	Endo Pocket Reference 2-1-12.pub  0.0% 40.9% 81.9%100%  
+	    New File  		   34304	Endo STAFF LIST IN abc (2).xls  0%  100%  
+	    New File  		   66341	Endo time charge conversion 072512_sb.xlsx  0%  100%  
+	    New File  		   67477	Endo time charge conversion 2-7-13 update.xlsx  0%  100%  
+	    New File  		   62464	Endoscopy Block Time Assignment new 11-13-13.xls  0%  100%  
+	    New File  		   62464	Endoscopy Block Time Assignment new 7-18-2013.xls  0%  100%  
+	    New File  		   10897	Endoscopy Certification Letter.docx  0%  100%  
+	    New File  		   12228	Endoscopy Committee Attendance Record.docx  0%  100%  
+	    New File  		   18651	Endoscopy FY13 case load summary  xlsx.xlsx  0%  100%  
+	    New File  		   12149	Endoscopy Inpatient Report Sheet 2.docx  0%  100%  
+	    New File  		   14979	Endoscopy Inpatient Report Sheet 2[1].docx  0%  100%  
+	    New File  		  219648	Endoscopy New Charge Master 4-7-11.xls  0%  100%  
+	    New File  		   24250	Endoscopy On Call P&P.docx  0%  100%  
+	    New File  		   13831	Endoscopy Sign in form.docx  0%  100%  
+	    New File  		   41472	Endoscopy Staff list.new.xls  0%  100%  
+	    New File  		  306176	ENDOSCOPY SURGERY SCHEDULER SCHEDULING RESPONSE GUIDELINES (SSRG).doc  0%  100%  
+	    New File  		  912929	Endoscopy Surgery Scheduler SGRs pptx.pptx  0%  100%  
+	    New File  		   11302	Endoscopy WKS.docx  0%  100%  
+	    New File  		  558684	Endoscopy_Card_v4.pdf  0%  100%  
+	    New File  		  908765	Endoscopy_FLD_v5.pdf  0%  100%  
+	    New File  		   87798	Epic Upgrade Playground Instructions.docx  0%  100%  
+	    New File  		   57856	ERCP Prep 3-22-2011.doc  0%  100%  
+	    New File  		  353330	Eye glass case.BMP  0%  100%  
+	    New File  		  180918	FentanylPatch.pdf  0%  100%  
+	    New File  		   66798	First Case Start On Time.pptx  0%  100%  
+	    New File  		  398982	Flyer Nurse Shadowing 2011.pdf  0%  100%  
+	    New File  		   16696	FY 12 Periop Approved Capital.xlsx  0%  100%  
+	    New File  		   59007	Gallup 2010 Endo revised.pdf  0%  100%  
+	    New File  		  383721	Gallup 2010 Endo.xlsx  0%  100%  
+	    New File  		  293228	GI procedure volume 2011 2012.pdf  0%  100%  
+	    New File  		   11839	Guidelines for go home early wish list.docx  0%  100%  
+	    New File  		   12557	HAND HYGIENE.docx  0%  100%  
+	    New File  		   58368	In-service template (3-2011).doc  0%  100%  
+	    New File  		  237568	Inservice_Sign_in__Sheet_Endoscopy_122009.xls  0%  100%  
+	    New File  		  110996	Jan 2012 Mock Survey Announcement.pdf  0%  100%  
+	    New File  		   39670	Lactulose Breath Test_4 15 11.docx  0%  100%  
+	    New File  		  158431	Letter workflow for Endo.docx  0%  100%  
+	    New File  		  398530	Li Ka Shing Driving Directions.pdf  0%  100%  
+	    New File  		  157184	Long Term Agree_stanford06oct11.doc  0%  100%  
+	    New File  		   17269	May_15_to_August_6_2011Mine(1).xlsx  0%  100%  
+	    New File  		   11247	MD work flow.docx  0%  100%  
+	    New File  		  545280	MSONet How to Look Up Privileges.doc  0%  100%  
+	    New File  		  159167	MTGeducationalTool20091.pdf  0%  100%  
+	    New File  		   62464	NEW Endoscopy Block Time Assignment BEGINNING  5-26-14.xls  0%  100%  
+	    New File  		   57344	NEW GREYBAR FOR ONCALL.xls  0%  100%  
+	    New File  		  762476	newsletter012012.pdf  0%  100%  
+	    New File  		  489913	NPSG poster_8.5x11.pdf  0%  100%  
+	    New File  		 1025176	Open Enrollment Newsletter.pdf  0%  100%  
+	    New File  		   17978	ORA PP.docx  0%  100%  
+	    New File  		   57626	organization chart_4_11 endoscopy.pptx  0%  100%  
+	    New File  		   57344	Orientation Evaluation Tool.doc  0%  100%  
+	    New File  		  176251	Outpatient Clinical Services Dashboard_20110110.pdf  0%  100%  
+	    New File  		  102343	Pain assessment changes.docx  0%  100%  
+	    New File  		  105772	Performance Appraisal Presentation.ppsx  0%  100%  
+	    New File  		   17390	Performance Improvement Action Plan.docx  0%  100%  
+	    New File  		   49664	Periop-Cath holiday sched.xls  0%  100%  
+	    New File  		  168475	personalAppearance.pdf  0%  100%  
+	    New File  		  661955	Position analysis questionare.pdf  0%  100%  
+	    New File  		   92869	Position Analysis Questionnaire (2).docx  0%  100%  
+	    New File  		  322048	Position Analysis Questionnaire.doc  0%  100%  
+	    New File  		   87552	Position review form  Position Evaluation Form FY 2011 UPDATED.XLS  0%  100%  
+	    New File  		   97171	Position Review Form FY 2012 ENDO.xlsm  0%  100%  
+	    New File  		   70216	preceptor time tracking2011.docx  0%  100%  
+	    New File  		   65024	Project Tracker.xls  0%  100%  
+	    New File  		  368375	Proposed Standard Operating Procedure for Fecal Microbiota Transplantation.docx  0%  100%  
+	    New File  		   15021	Purpose and Expectations of the Rounder.docx  0%  100%  
+	    New File  		  12.3 m	Pyxis PPT.pptx  0.0%100%  
+	    New File  		   31199	QI.pdf  0%  100%  
+	    New File  		  429332	Quality Alert 2011 06 08.pdf  0%  100%  
+	    New File  		   62784	Remember.docx  0%  100%  
+	    New File  		    9788	RN Senority List.xlsx  0%  100%  
+	    New File  		   60602	SAFE data.docx  0%  100%  
+	    New File  		   18789	Schedule change form Endo.xlsx  0%  100%  
+	    New File  		   11693	Schedule cut-off dates 2011.xlsx  0%  100%  
+	    New File  		   33792	Senority list.xls  0%  100%  
+	    New File  		   90624	Sharon Bird Endoscopy Block Time Assign 2-4-2013.xls  0%  100%  
+	    New File  		   37600	SHC AIP FY12 v6.xlsx  0%  100%  
+	    New File  		   27022	SHC AIP VP and Director FY12 Template_v8.xlsx  0%  100%  
+	    New File  		   1.6 m	SHC ENCDOSCOPY DEPARTMENT ROOM TURNOVER BY ROOM AND DOW, SEPT 2010 - JAN 2011.xls  0%  100%  
+	    New File  		   15578	SHC NEO AGENDA.DOCX  0%  100%  
+	    New File  		   16102	SHC_Blood Type Verification.docx  0%  100%  
+	    New File  		   7.8 m	SPH Champion Meeting 3-23-12 pdf.pdf  0.0%100%  
+	    New File  		   54272	Spyglass.doc  0%  100%  
+	    New File  		  232145	Staff Addresses.pdf  0%  100%  
+	    New File  		   46080	Staff Phone list.xls  0%  100%  
+	    New File  		  228556	StaffConsentFormPhoto.pdf  0%  100%  
+	    New File  		   14497	Stop Payment Request FY11.xlsx  0%  100%  
+	    New File  		  706483	Stryker tr Dt 6-24-11 SHC Switch Point Infinity 3 Audio System Failure 067800100.pdf  0%  100%  
+	    New File  		  275456	SUMC Update # 67.doc  0%  100%  
+	    New File  		  540160	TAT Endo 2011.xls  0%  100%  
+	    New File  		    5632	Thumbs.db  0%  100%  100%  
+	    New File  		  418297	TIP Sheet 101- SAFE Event Entry Basics.pdf  0%  100%  
+	    New File  		  467968	Tip Sheet_Case Tracking Documentation .doc  0%  100%  
+	    New File  		  236518	Tip Sheet_Fentanyl Patch_Early Removal Documentation Instructions.docx  0%  100%  
+	    New File  		   26514	Top Drugs.docx  0%  100%  
+	    New File  		  477938	Town Hall Meetimg.JPG  0%  100%  
+	    New File  		   2.1 m	Turnaround_project_presentation.ppt  0%  100%  
+	    New File  		   54203	Two Tank Shuttle Valves and Cart photo.pdf  0%  100%  
+	    New File  		   51712	Types of Legally Mandated Leaves in California - 2010-01-12.doc  0%  100%  
+	    New File  		   97302	User Report Processing Instructions - Endoscopy Equip Flat File.docx  0%  100%  
+	    New File  		  210729	Vaccine Screening for Preop 2012.docx  0%  100%  
+	    New File  		   37775	Verification of Correct Surgical Site V 22 03.pdf  0%  100%  
+	    New File  		  131929	Visiting Observer Policy.pdf  0%  100%  
+	    New File  		  159600	Voice Mail quick guide.pdf  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\Endoscopy\A3\
+	    New File  		   1.7 m	A3 Template_NL.VSD  0%  100%  
+	    New File  		   63137	A3_Power Point_NL.PPTX  0%  100%  
+	    New File  		   1.3 m	Training Module_Creating an A3_2011 12 09.pdf  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\Endoscopy\Pt dismissal\
+	    New File  		   30208	Behvioral Contract.doc  0%  100%  
+	    New File  		   49335	dismissalPatientCare.pdf  0%  100%  
+	    New File  		   49335	dismissalPatientCare1.pdf  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0016400\Endoscopy audit\
+	    New File  		   14686	Clinical Alarms and Hand Washing Observation in OR 1 11.docx  0%  100%  
+	    New File  		   14418	Controlled Substance Audit 1 11.docx  0%  100%  
+	    New File  		   12755	Copy of April 2011Endoscopy Audit .xlsx  0%  100%  
+	    New File  		   10478	Copy of Endoscopy audit 0601 0611.xlsx  0%  100%  
+	    New File  		    9779	Endoscopy Audit 0508 0521.xlsx  0%  100%  
+	    New File  		   17818	Endoscopy Audit 1205 1218.xlsx  0%  100%  
+	    New File  		   12884	Endoscopy audit for May 2011.xlsx  0%  100%  
+	    New File  		   25871	EOC Ongoing Compliance ENDO 1 11.docx  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Env Rounds\
+	    New File  		  190976	Copy of Rounds SHC 2014 3rd Qtr (3).xls  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0016400\EOC\
+	    New File  		   25994	EOC Compliance MAIN OR 1 11.docx  0%  100%  
+	    New File  		   1.1 m	EOC Rev 1-13.pdf  0%  100%  
+	    New File  		   59904	EverReady Checklist 2012.doc.doc  0%  100%  
+	    New File  		   72801	EverReady Checklist 2012.pdf  0%  100%  
+	    New File  		   47616	Manager's EverReady Checklist 2012.doc.doc  0%  100%  
+	  New Dir         53	\\shintnpscfs116\T$\Users7\S0016400\EPIC\
+	    New File  		   1.3 m	20110628153353024.pdf  0%  100%  
+	    New File  		  463727	2012 Technical Upgrade Changes.Endo.docx  0%  100%  
+	    New File  		  234426	Accessing EPIC Preview Environment.pdf  0%  100%  
+	    New File  		   1.4 m	CA00292720_Endoscopy Documentation_mailed 04 24 2012.pdf  0%  100%  
+	    New File  		  388376	Change Summary Bulletin May_June Changes 2013.pdf  0%  100%  
+	    New File  		  220385	Change Summary Bulletin_OpTime May 2013.pdf  0%  100%  
+	    New File  		  162042	Changes to Vaccine Assessment.pdf  0%  100%  
+	    New File  		  490972	Clin Doc_Orders_Epic Enhancements QRG_August 2012.pdf  0%  100%  
+	    New File  		  182860	CSB Intra-op Nurses 08_08_13.docx  0%  100%  
+	    New File  		  203775	CSB Pre-op HP Interval Note for Inpatient and Periop Nurses_Final.docx  0%  100%  
+	    New File  		  130055	CSB_ Pre-Post and Intraop Nurses_07-25-2013_ Final.docx  0%  100%  
+	    New File  		  261766	CSB_ENDO_4_24_2014 dotx.pdf  0%  100%  
+	    New File  		  854605	CSB_IP_RNs_9 26 13.docx  0%  100%  
+	    New File  		  351594	CSB_Nursing_Intraop-Final_07-11-2013KB.pdf  0%  100%  
+	    New File  		  251228	CSB_Periop Nurses_09 12 13.docx  0%  100%  
+	    New File  		  621435	CSB_Periop_Nurses_09 26 13.docx  0%  100%  
+	    New File  		  115428	CSB_SHC_OR Additional Verification Checks_5_8_14.docx  0%  100%  
+	    New File  		  262872	Device Integration OpTime.docx  0%  100%  
+	    New File  		   79451	Documenting  Procedure Description.docx  0%  100%  
+	    New File  		  921375	Downtime Lab Requisitions - How to Access.docx  0%  100%  
+	    New File  		   28160	Epic 09 Update Tasks and Timelines for Managers_Revised 2-7-2011.xls  0%  100%  
+	    New File  		  352130	Epic 2010 Upgrade  - Documenting Vital Signs - Integriti.pdf  0%  100%  
+	    New File  		  326162	Epic 2010 Upgrade  - Documenting Vital Signs - Philips Monitors.pdf  0%  100%  
+	    New File  		  335218	Epic 2010 Upgrade - DocFlowsheet.pdf  0%  100%  
+	    New File  		  301029	Epic 2010 Upgrade - LDA.pdf  0%  100%  
+	    New File  		  343163	Epic 2010 Upgrade - Releasing Sign Held Orders.pdf  0%  100%  
+	    New File  		  148619	Epic Enhancement Updates Inpatient_LDA Change.pdf  0%  100%  
+	    New File  		   45369	Epic Upgrade Downtime for RNs_v2.docx  0%  100%  
+	    New File  		  317230	Fall Risk Changes May 2012.pdf  0%  100%  
+	    New File  		  241624	Flowsheet and MAR Changes May 2012.pdf  0%  100%  
+	    New File  		   65086	HELP DESK INCIDENT TICKET PRIORITY CLASSIFICATION.docx  0%  100%  
+	    New File  		  110450	IP AVS Communication_CDS revision.docx  0%  100%  
+	    New File  		  171947	IP AVS Communication_FINAL.pdf  0%  100%  
+	    New File  		   41826	KSA for Inpatient RN SuperUser Upgrade 2011.docx  0%  100%  
+	    New File  		  111118	Manage Orders Exercise.pdf  0%  100%  
+	    New File  		  117972	New Log Verification Process.docx  0%  100%  
+	    New File  		   1.6 m	OpTime RWB .docx  0%  100%  
+	    New File  		   4.0 m	OpTime RWB v02 03.23.2011.docx  0%  100%  
+	    New File  		 1032206	OR Manager Upgrade Update_2-16-2011.pptx  0%  100%  
+	    New File  		  120338	Pain documentation.docx  0%  100%  
+	    New File  		  127524	Pain Reassessment.pdf  0%  100%  
+	    New File  		  797744	Patient Discharge Phone Call Cheat Sheet.docx  0%  100%  
+	    New File  		   86614	Personal theme options.docx  0%  100%  
+	    New File  		  231312	Procedure Description 2013.pdf  0%  100%  
+	    New File  		   45568	Quality colonoscopy indicators for Epic 2011_3.doc  0%  100%  
+	    New File  		  146445	Screen shots of SHC and future..docx  0%  100%  
+	    New File  		   1.8 m	SHC Epic Help Center.mht  0%  100%  
+	    New File  		   18514	SU classes_Jan2011.xlsx  0%  100%  
+	    New File  		  148992	Tip Sheet_Intraop Side Bar issue.doc  0%  100%  
+	    New File  		  763633	TipSheet_ClinDoc_PhillipsDevice.docx  0%  100%  
+	    New File  		  100128	Training Login IDs for EPIC Playground and Preview.pdf  0%  100%  
+	    New File  		  151040	Upgrade Go live Status 041111v3.doc  0%  100%  
+	    New File  		   90833	Upgrade Playground Instructions.docx  0%  100%  
+	  New Dir         66	\\shintnpscfs116\T$\Users7\S0016400\Equipment\
+	    New File  		  135989	11302091-S1 Blanket.pdf  0%  100%  
+	    New File  		  131003	11302091-S1 single use.pdf  0%  100%  
+	    New File  		   1.1 m	46-7215X-C1.pdf  0%  100%  
+	    New File  		  734087	5000 DKE Lock Instructions.pdf  0%  100%  
+	    New File  		   19045	586833.pdf  0%  100%  
+	    New File  		  338671	AccuVein AV400 Stanford Hospital  Clinics David Woodley.pdf  0%  100%  
+	    New File  		  220542	AccuView Software.pdf  0%  100%  
+	    New File  		  127488	Addendum to Stanford Confocal Endomicroscopy LTL v2.doc  0%  100%  
+	    New File  		   26352	Appendix F POCT Program Agreement SHC 2012.docx  0%  100%  
+	    New File  		   11882	BARRX Halo.XLSX  0%  100%  
+	    New File  		  208495	Beacon EUS.pdf  0%  100%  
+	    New File  		  102896	BMB-102799 Endo K Troutman F17 glasses x3.htm  0%  100%  
+	    New File  		   1.4 m	BNX Proposal Stanford.xls  0%  100%  
+	    New File  		   23209	Canister Ring.pdf  0%  100%  
+	    New File  		   68096	CleverCap Clinical Evaluation Feedback Form.doc  0%  100%  
+	    New File  		  469129	Clevercap Product Brochure.pdf  0%  100%  
+	    New File  		   2.8 m	Compliance-EndoKit-Sell-Sheet_.pdf  0%  100%  
+	    New File  		   1.6 m	Confocal Endomicroscopy executed documents.pdf  0%  100%  
+	    New File  		   35840	Contingency Questions EUS.doc  0%  100%  
+	    New File  		   27582	DEHP accounts mandates.pdf  0%  100%  
+	    New File  		  215696	DEHP-free letter 07-25-2011.pdf  0%  100%  
+	    New File  		   31537	document.pdf  0%  100%  
+	    New File  		   21260	Endo_Visible Light System RFP rqmts summary.xlsx  0%  100%  
+	    New File  		   13084	EndoChoice.XLSX  0%  100%  
+	    New File  		   14888	Endoscopy New equipment list in Epic 12-2013 (2).xlsx  0%  100%  
+	    New File  		   12410	ENDOSCOPY WORK STATIONS.xlsx  0%  100%  
+	    New File  		   16528	EPKi.pdf  0%  100%  
+	    New File  		   88576	FY13 CAP COVER SHEET.doc  0%  100%  
+	    New File  		  220542	Given AccuView contract.pdf  0%  100%  
+	    New File  		   13447	Given, QuinTron, BS.XLSX  0%  100%  
+	    New File  		  133526	Glidescope Cobalt - Stanford Hospital.pdf  0%  100%  
+	    New File  		   89494	Glidescope Cobalt - Stanford.pdf  0%  100%  
+	    New File  		  262208	Hitachi Aloka.pdf  0%  100%  
+	    New File  		   63873	hobbs med spray catheter_201309271424.pdf  0%  100%  
+	    New File  		  290916	Item#'s.pdf  0%  100%  
+	    New File  		   37376	Laptop Request Form.xls  0%  100%  
+	    New File  		   51200	Lawson Password Request Form 4-10-12 (2).doc  0%  100%  
+	    New File  		   1.5 m	Manometric Pump Manual - Rev2 - March 2 2012.pdf  0%  100%  
+	    New File  		   1.4 m	MUI SCIENTIFIC (MANOMETRIC PUMP).pdf  0%  100%  
+	    New File  		  338673	New AccuVein AV400 Stanford Hospital  Clinics David Woodley.pdf  0%  100%  
+	    New File  		   79743	NEW ENDOSCOPY SUPPLY LIST.xlsx  0%  100%  
+	    New File  		   1.5 m	nmbeale-product-catalog-052011.pdf  0%  100%  
+	    New File  		   1.2 m	Olive OVS1 all-in-one Brochure v1.pdf  0%  100%  
+	    New File  		   39523	Olympus scope.pdf  0%  100%  
+	    New File  		  904683	PannusSling_QRG_Final.pdf  0%  100%  
+	    New File  		   37685	peg tube form.docx  0%  100%  
+	    New File  		    7052	p-form13LAYOUTLANDSCAPEREPORT_OWNERnwest.pdf  0%  100%  
+	    New File  		  181493	QUINTRON - Retail Price List.pdf  0%  100%  
+	    New File  		  672846	REQUISITIONING INSTRUCTIONSl.docx  0%  100%  
+	    New File  		   10777	Russell Gastrostomy.docx  0%  100%  
+	    New File  		   29221	Sears Quote 24596 (2).xlsx  0%  100%  
+	    New File  		   7.8 m	SPH Champion Meeting 3-23-12.pdf  0.0%100%  
+	    New File  		  109723	SR# 300223235 - Catheter AAN0399 Retirement Letter.pdf  0%  100%  
+	    New File  		   41374	STANDARDIZED Footswitch Repair  Exchange Program 8-26-11.docx  0%  100%  
+	    New File  		  302304	Stanford Test Tubes Quote.pdf  0%  100%  
+	    New File  		  134656	Stanford_Endoscopy_MicroStream CO2_3-19-12.doc  0%  100%  
+	    New File  		  135680	Stanford_Endoscopy_Respironics CO2_3-19-12.doc  0%  100%  
+	    New File  		   44032	Stanford_EUS_Scope_with_Trade-149112-.pdf  0%  100%  
+	    New File  		   14127	Stents, scope knives, water bottle.XLSX  0%  100%  
+	    New File  		    9030	Tara Petitto.htm  0%  100%  
+	    New File  		  321927	US Manometry - pH and pH-Z Price List - April 2012 xls.pdf  0%  100%  
+	    New File  		   13274	Viabil stents & non latex balloons.XLSX  0%  100%  
+	    New File  		   6.2 m	ViabilBrochure 8 08.pdf  0.0%100%  
+	    New File  		   13107	WALLFLEX ESOPHAGEAL FC 18.docx  0%  100%  
+	    New File  		  350156	Warehouse Operations.pdf  0%  100%  
+	    New File  		   43008	Who's Who.xls  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\Equipment\BMB-102799 Endo K Troutman F17 glasses x3_files\
+	    New File  		     314	colorschememapping.xml  0%  100%  
+	    New File  		     255	filelist.xml  0%  100%  
+	    New File  		    3104	themedata.thmx  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\ERBE\
+	    New File  		  177142	Endo CO2 insufflator quote.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\ERGO\
+	    New File  		  254149	Ergo-Step Stool(2).pdf  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\Evals\
+	    New File  		   41984	Copy of OUTSTANDING EVAL'S.xls  0%  100%  
+	    New File  		   44544	OUTSTANDING EVAL'S.xls  0%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0016400\Exception sheets\
+	    New File  		  280418	5-8 and ATO-PTO.pdf  0%  100%  
+	    New File  		  280418	5-8 and ATO-PTO-2014-08-13T102547.pdf  0%  100%  
+	    New File  		  280418	5-8 and ATO-PTO-2014-08-13T102547-2014-09-03T194106.pdf  0%  100%  
+	    New File  		  312955	6-10-14.pdf  0%  100%  
+	    New File  		  312955	6-10-14-2014-08-13T102547.pdf  0%  100%  
+	    New File  		  312955	6-10-14-2014-08-13T102547-2014-09-03T194106.pdf  0%  100%  
+	    New File  		  300770	6-12 & 13-14.pdf  0%  100%  
+	    New File  		  289455	6-14 & 16-14.pdf  0%  100%  
+	    New File  		  289455	6-14 & 16-14-2014-08-13T102547.pdf  0%  100%  
+	    New File  		  289455	6-14 & 16-14-2014-08-13T102547-2014-09-03T194106.pdf  0%  100%  
+	    New File  		  155479	6-19-14.pdf  0%  100%  
+	    New File  		  157626	6-24 exc. sheet.pdf  0%  100%  
+	    New File  		  147529	6-6-14.pdf  0%  100%  
+	    New File  		  304739	8-11 & 12 excepton sheets.pdf  0%  100%  
+	    New File  		  165218	Endo 8-4 exception sheet.pdf  0%  100%  
+	    New File  		  269044	Endo exception sheet..pdf  0%  100%  
+	    New File  		  263842	ex. sh. 5-6 and 7.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\FAQ\
+	    New File  		  726266	Perioperative services.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Fecal transplant\
+	    New File  		   62021	3249-7762-40.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Float\
+	    New File  		  124052	FLOAT.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Form\
+	    New File  		   33792	Copy of PC_Laptop Request Form.xls  0%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0016400\FujiFilm\
+	    New File  		   14099	fujiScopeUrgentRequest.docx  0%  100%  
+	    New File  		   56855	PO#1100010520 SCAP.pdf  0%  100%  
+	    New File  		  111300	Stanford Hosp QT15071.pdf  0%  100%  
+	    New File  		   31815	Stanford Hosp QT15071rev2.pdf  0%  100%  
+	    New File  		   31984	Stanford Hosp QT15071rev3.pdf  0%  100%  
+	    New File  		   34466	Stanford Hosp QT15963rev2.pdf  0%  100%  
+	    New File  		   26714	Stanford QT 16177.pdf  0%  100%  
+	    New File  		   13388	Supplies price list.docx  0%  100%  
+	    New File  		   28170	uQuote-Quote__152-Stanford_Service_Quote_3yr 7-24-14.pdf  0%  100%  
+	    New File  		   28188	uQuote-Quote__153-Stanford_Service_Quote_5yr 7-24-14.pdf  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\Gerson\
+	    New File  		   45789	Interview Request.pdf  0%  100%  
+	    New File  		   64941	Stanford Protocol.pdf  0%  100%  
+	    New File  		   70144	VCE and Pacemakers 11.3.2010.doc  0%  100%  
+	    New File  		   34304	VCE HIPAA 2010.doc  0%  100%  
+	  New Dir         31	\\shintnpscfs116\T$\Users7\S0016400\Given\
+	    New File  		  262195	20121107170134979.pdf  0%  100%  
+	    New File  		  856395	201212311647.pdf  0%  100%  
+	    New File  		  294958	Accutrac Stanford.pdf  0%  100%  
+	    New File  		   5.6 m	CAE signed agreement with legal addendum.pdf  0%  100%  
+	    New File  		   81918	Catheter SC Installation sr 300261203 .docx  0%  100%  
+	    New File  		   2.4 m	CCF11042012_00000.pdf  0%  100%  
+	    New File  		  295000	Endo Mano quote.pdf  0%  100%  
+	    New File  		  217025	Given.pdf  0%  100%  
+	    New File  		  266494	Quote 1017050459.pdf  0%  100%  
+	    New File  		  266271	Quote ARM.pdf  0%  100%  
+	    New File  		  294970	Sensor Array Stanford.pdf  0%  100%  
+	    New File  		   17429	Service Quotation SR # 300259365.pdf  0%  100%  
+	    New File  		   97170	SR# 300239692 - Catheter (sn EAN1297) Retirement Letter.pdf  0%  100%  
+	    New File  		   96580	SR# 300261202 - Catheter Retirement Letter (sn AAN0764).pdf  0%  100%  
+	    New File  		   98423	SR# 300265468 FINAL NOTICE (EAN1569).pdf  0%  100%  
+	    New File  		   79206	sr300234302.docx  0%  100%  
+	    New File  		   21207	SRQuote - SR13-056.pdf  0%  100%  
+	    New File  		   19737	SRQuote - SR13-134.pdf  0%  100%  
+	    New File  		   19815	SRQuote - SR13-145.pdf  0%  100%  
+	    New File  		   68794	SRQuote_SR12-019 (2).pdf  0%  100%  
+	    New File  		  295234	Stanford 3 7 12.pdf  0%  100%  
+	    New File  		  266336	Stanford AR Catheter 4 16 17.pdf  0%  100%  
+	    New File  		  304984	Stanford Bravo Pump.pdf  0%  100%  
+	    New File  		  295004	Stanford Catheter Quotation.pdf  0%  100%  
+	    New File  		  266215	Stanford Digi 2nd 3 12 14.pdf  0%  100%  
+	    New File  		  266217	Stanford Digi 3 12 14.pdf  0%  100%  
+	    New File  		  295062	Stanford Digitrapper Promo.pdf  0%  100%  
+	    New File  		  297304	Stanford Mano Quote Final 6 10 14.pdf  0%  100%  
+	    New File  		  282107	Stanford PillCam Final 6 10 14.pdf  0%  100%  
+	    New File  		   12732	Test Tubes Given.docx  0%  100%  
+	    New File  		  161589	Warranty Catheter Repair 300261203 .docx  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\Healthstream\
+	    New File  		   47616	How to Give Credit in Healthstream.doc  0%  100%  
+	    New File  		   92594	PM-HealthstreamInstructions-Managers.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\HIPAA\
+	    New File  		  326270	20130516102903922.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Hitachi Aloka\
+	    New File  		   82549	Stanford Hospital  Clinics   pm.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Holiday\
+	    New File  		   51431	Server Schedule holiday treats.docx  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\HR\
+	    New File  		   55429	APP_New_Applicant_Request_Form_6_12.pdf  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0016400\Huddle\
+	    New File  		  178578	Emergency Release of Blood Products Huddle 4 15  2013.pptx  0%  100%  
+	    New File  		   14482	Endoscopy 0730 Daily Huddle Sheet.docx  0%  100%  
+	    New File  		  192944	HUDDLE 12-3-12 Infection Control Huddle.docx  0%  100%  
+	    New File  		   17758	Huddle Forms2.docx  0%  100%  
+	    New File  		   21904	huddle.docx  0%  100%  
+	    New File  		  158208	Policies Links Huddle VSurvey03 18 2013.doc  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\Inervices\
+	    New File  		   16664	HLC_Endo_Record_of_Educ_Offerings_2011-12 9-13-12.docx  0%  100%  
+	    New File  		   90111	Inservice Sign in  Sheet Endoscopy 092013xlsx.xps  0%   99%   99%  100%  
+	    New File  		  246272	Inservice Sign in  Sheet Endoscopy 52012.xls  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\Infection control\
+	    New File  		   4.1 m	Central Line Maintenance Bundle Observation Form-3-12-13.docx  0%  100%  
+	    New File  		  172102	CFR-2011-title49-vol2-sec173-199.pdf  0%  100%  
+	    New File  		   69120	Small Poster - Hand Hygiene.doc  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\Infinity\
+	    New File  		   2.2 m	INSTRUCTIONS ON HOW TO USE THE INFINITY IN ENDO CONF ROOM.pptx  0%  100%  
+	    New File  		    9728	Thumbs.db  0%  100%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Insurance\
+	    New File  		   43573	Covered California FAQ v3 0.docx  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Invoice\
+	    New File  		   96963	BN - 30899.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\iTunes\
+	    New File  		 141.9 m	iTunes64Setup.exe  0.0% 11.2% 22.5% 33.8% 45.0% 56.3% 67.6% 78.8% 90.1%100%  100%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0016400\IWORK4SHC\
+	    New File  		  467010	Attendance Transactions Report via Iwork4SHC.pdf  0%  100%  
+	    New File  		  542802	Daily Roster By List Report via Iwork4SHC v1.pdf  0%  100%  
+	    New File  		  426542	Daily Schedule Maintenance Tricks and Tips v1.pdf  0%  100%  
+	    New File  		  582756	Employee Self Scheduling One Page v1.pdf  0%  100%  
+	    New File  		   27162	Iwork4SHC Finger Scanning Sessions_ Phase 4.docx  0%  100%  
+	    New File  		   20614	Iwork4SHC Phase 4 Go-Live Announcement.docx  0%  100%  
+	    New File  		  210594	Phase 4 GoLive Support v1.pdf  0%  100%  
+	    New File  		   1.5 m	Steps for printing off daily roster.docx  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0016400\JACHO\
+	    New File  		  530334	20120719174850741.pdf  0%  100%  
+	    New File  		  227057	AR Post In-Service Quiz_Answer Key_2013.pdf  0%  100%  
+	    New File  		  276992	CSR Mock_Inpatient Nursing_06.25.2012.ppt  0%  100%  
+	    New File  		   1.9 m	CSR_Compass_Hospital_Vol-8_No-1_FINAL.pdf  0%  100%  
+	    New File  		   72613	Joint Commission CSR Mock Survey Agenda_ 06 25-26 2012.pdf  0%  100%  
+	    New File  		   68920	R47SOMA date and time.pdf  0%  100%  
+	    New File  		  104352	Sept 2012 Mock Survey announcement.pdf  0%  100%  
+	    New File  		   86258	TJC_Sentinel Event Alert_Retained Foreign Objects_10 17 2013.pdf  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0016400\JU\
+	    New File  		  119087	CLASS GRADE.pdf  0%  100%  
+	    New File  		   68726	Customer_Invoice.pdf  0%  100%  
+	    New File  		   65354	grade.docx  0%  100%  
+	    New File  		  218048	JU.pdf  0%  100%  
+	    New File  		  920385	JU_Overview_T1.pdf  0%  100%  
+	    New File  		  269086	Spring one 2014.pdf  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0016400\Julie\
+	    New File  		   5.7 m	Ch10 Skeletal Muscle Tissue Lecture.ppt  0.0%100%  
+	    New File  		   4.6 m	Ch11 Muscles LectureI (3).ppt  0%  100%  
+	    New File  		   3.5 m	Ch11 Muscles LectureII.ppt  0%  100%  
+	    New File  		   7.1 m	Ch12 Nervous Tissue.ppt  0.0%100%  
+	    New File  		   7.3 m	Ch13 Central Nervous System.ppt  0.0%100%  
+	    New File  		  11.4 m	Ch14-15 PNS ANS.ppt  0.0%100%  
+	    New File  		   7.0 m	Ch2 Cells Lecture.ppt  0.0%100%  
+	    New File  		   8.6 m	Ch9 Joints Lecture.ppt  0.0%100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\Kimberly Clarck\
+	    New File  		   1.2 m	Kimberly Clark Introducer Kit.pdf  0%  100%  
+	    New File  		  769892	MIC Feeding Tube Brochure All Tubes.pdf  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0016400\Lab\
+	    New File  		  597968	Change Summary September 2013.pdf  0%  100%  
+	    New File  		  227141	Find Blood Product Availability.docx  0%  100%  
+	    New File  		  114171	New path form.pdf  0%  100%  
+	    New File  		  387749	Printing Labels doc (2).docx  0%  100%  
+	    New File  		   91113	requisition 2013-2 28-1.pptx  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Lance\
+	    New File  		   56832	Lance STAFF MASTER TIMECARD.xls  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\Lawson\
+	    New File  		    6371	EProManager  6-20-14.pdf  0%  100%  
+	    New File  		  103681	MC91 INSTRUCTIONS.DOCX  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Lean\
+	    New File  		   62269	Lean Leader Assessment.xlsx  0%  100%  
+	  New Dir         20	\\shintnpscfs116\T$\Users7\S0016400\Magnet\
+	    New File  		   3.5 m	20111102143750048.pdf  0%  100%  
+	    New File  		  359189	20111102143923581.pdf  0%  100%  
+	    New File  		   66450	2012.03.07_OR Region MAGNET Dashboard 2012_.xlsx  0%  100%  
+	    New File  		   64661	2012.03.09_OR Region MAGNET Dashboard 2012_.xlsx  0%  100%  
+	    New File  		   2.0 m	Ancillary Department Presentation Magnet 2011.ppt  0%  100%  
+	    New File  		  110113	BHaag-Heitman Stanford Magnet Mock Survey Consultation.pdf  0%  100%  
+	    New File  		   22617	EP11 - ANA Staffing Principles.docx  0%  100%  
+	    New File  		   17409	Issue 66 May 2011 Magnet Champions.docx  0%  100%  
+	    New File  		   98816	MASTER_Staff Questions_v.3_ FINAL.doc  0%  100%  
+	    New File  		   18063	NDNQI Unit Based Action Plan Template 2013 (2).docx  0%  100%  
+	    New File  		   1.4 m	Nursing_Quality_Dashboard_FINAL.pdf  0%  100%  
+	    New File  		   5.5 m	Retreat Overview_Final.ppt  0%  100%  
+	    New File  		   40448	Roles and Responsibilities of Unit Greeters_v.1.doc  0%  100%  
+	    New File  		  148323	Save the Date_Magnet Celebration.pdf  0%  100%  
+	    New File  		   15403	Staff_Notice_Magnet_Redesignation (2).pdf  0%  100%  
+	    New File  		   15403	Staff_Notice_Magnet_Redesignation.pdf  0%  100%  
+	    New File  		  119296	Stanford_Agenda_draft_3.doc  0%  100%  
+	    New File  		   14710	SUMMARY OF MAGNET CHAMPION MEETING WITH MAGNET CONSULTANT.docx  0%  100%  
+	    New File  		    5632	Thumbs.db  0%  100%  100%  
+	    New File  		   62464	Unit Preparation for Managers_v.2.doc  0%  100%  
+	  New Dir         49	\\shintnpscfs116\T$\Users7\S0016400\Management\
+	    New File  		   30262	2010 EVER READY CHECKLIST.pdf  0%  100%  
+	    New File  		   31924	2012_OR_Region_Universal_Protocol(1).xlsx  0%  100%  
+	    New File  		  343872	A3 Revenue Cycle Revised 2-13-2012.pdf  0%  100%  
+	    New File  		   1.7 m	A3 Template_NL.VSD  0%  100%  
+	    New File  		   63137	A3_Power Point_NL.PPTX  0%  100%  
+	    New File  		   23307	AIP FY12 David Woodley.xlsx  0%  100%  
+	    New File  		   23263	AIP FY12 for Pam Harris-Ponti Final 09232011.xlsx  0%  100%  
+	    New File  		   29075	AIP Leadership Template FY13 080312 (5).xlsx  0%  100%  
+	    New File  		   29075	AIP Leadership Template FY13 080312 DW.xlsx  0%  100%  
+	    New File  		   24197	ANM Sept 2013.docx  0%  100%  
+	    New File  		   13273	Attendance Attestation.docx  0%  100%  
+	    New File  		   50255	Attendance Policy Training Schedule.pdf  0%  100%  
+	    New File  		   32788	Attendance Template 1 to 1 Meeting.docx  0%  100%  
+	    New File  		  195540	BEST Meeting Webex Connection Instructions 05_17_12.pdf  0%  100%  
+	    New File  		  120832	BEST Meeting Webex Connection Instructions 7_21_11.doc  0%  100%  
+	    New File  		  230989	Blood Transfusions.pdf  0%  100%  
+	    New File  		   48009	Change Summary - January 2013 V2.docx  0%  100%  
+	    New File  		   44475	Code Triage FSE Envelope Drill.docx  0%  100%  
+	    New File  		  229134	COIDS.pdf  0%  100%  
+	    New File  		   81388	Daily_Questions_Article.pdf  0%  100%  
+	    New File  		   96406	Drug Shortages - 02 6 12.pdf  0%  100%  
+	    New File  		  374300	Employee Attendance-Tardiness Compliance Policy-070112.pdf  0%  100%  
+	    New File  		   59904	EverReady Checklist 2012.doc  0%  100%  
+	    New File  		  136285	FY 12 AIP Statistics_CICARE_2012.08.31.docx  0%  100%  
+	    New File  		   22972	FY12 AIP  Final 09232011 Pam.xlsx  0%  100%  
+	    New File  		   1.2 m	HCWfatigue.pdf  0%  100%  
+	    New File  		  190065	Intermittent Absence Reporting FAQ.pdf  0%  100%  
+	    New File  		  189707	Intermittent LOA New Process Details.pdf  0%  100%  
+	    New File  		   45788	Interview Request.pdf  0%  100%  
+	    New File  		  494734	JCR_BreakfastBrieifng_MedicationManagement_PRINT FRIENDLY FINAL.pdf  0%  100%  
+	    New File  		   15585	JY_edits_SUMMM IT UP 02 16.docx  0%  100%  
+	    New File  		   14741	JY_edits_SUMMM IT UP 1-13-12.docx  0%  100%  
+	    New File  		   43008	Letter_of_Appointment_as_Authorized_Signer.doc  0%  100%  
+	    New File  		   47616	Manager's EverReady Checklist 2012.doc  0%  100%  
+	    New File  		   1.8 m	MAY 2012 Nursing Newsletter.pdf  0%  100%  
+	    New File  		   40448	O.R. REGION ADMINISTRATOR  ON-CALL revised 2.doc  0%  100%  
+	    New File  		   22391	OR  Region Internal Phone Numbers July 2013.pdf  0%  100%  
+	    New File  		  123276	PAQ_2009_11_30 (SHC).docm  0%  100%  
+	    New File  		   50716	Personalization of Patient Instructions toolbar.pdf  0%  100%  
+	    New File  		   88408	Position Review Form FY 2012 ENDO.xlsm(travelers)  0%  100%  
+	    New File  		  914950	SPH Safety Faire June2012 (2).pdf  0%  100%  
+	    New File  		   51210	Standard Work Jan.docx  0%  100%  
+	    New File  		   1.0 m	stryker neptune_201401021024.pdf  0%  100%  
+	    New File  		   6.5 m	SUMMM IT UP_2012 10 11.pptx  0.0%100%  
+	    New File  		   1.4 m	SUMMM IT UP_2013_01_10.pptx  0%  100%  
+	    New File  		   16085	The Shared Governance Quality Council conducted a structured focused review of patient voiding patterns as a contributor to patient falls during hospitalization.docx  0%  100%  
+	    New File  		   90147	tr_sfguide_m.pdf  0%  100%  
+	    New File  		   1.3 m	Training Module_Creating an A3_2011 12 09.pdf  0%  100%  
+	    New File  		  185150	Vendor.pdf  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\Management\Warning Templates\
+	    New File  		   35573	Final Written Warning Template.docx  0%  100%  
+	    New File  		   44544	Verbal Warning Template .doc  0%  100%  
+	    New File  		   36580	Written Warning Template.docx  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Mano\
+	    New File  		   1.5 m	Manometric Pump Manual - Rev2 - March 2 2012.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Map\
+	    New File  		  355664	SHCMap_October2013.pdf  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\MD\
+	    New File  		   59925	Categorization of Behavioral SAFE Incidents 032411.pdf  0%  100%  
+	    New File  		   61592	Procedure Review MD Behavioral Incidents.pdf  0%  100%  
+	    New File  		  217336	Rajan.pdf  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\MD'S\
+	    New File  		   44032	Copy of Consult Call Schedule November 2013.xls  0%  100%  
+	    New File  		  237793	Copy of Endoscopy Department TAT 07 01 -09 30 12 Summaryxlsx.xlsx  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0016400\Med Assets\
+	    New File  		  124890	MedAssets Product Name and Case Type Reference Sheet.pdf  0%  100%  
+	    New File  		  332776	Request Form Explanation.pdf  0%  100%  
+	    New File  		  987735	Request Master - Route Setup.pdf  0%  100%  
+	    New File  		  207838	Request Only User.docx  0%  100%  
+	    New File  		  832978	RequestMasterUserGuide.pdf  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\Med Safety Alert\
+	    New File  		  205948	ISMP_13 05 02 (3).pdf  0%  100%  
+	    New File  		   41984	Upgrade flyer 2013.doc  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0016400\Medivators\
+	    New File  		  232388	Endostratus Checklist 11x17.pdf  0%  100%  
+	    New File  		   93539	Stanford CO2 only.pdf  0%  100%  
+	    New File  		   93492	Stanford CO2 Stand quote.pdf  0%  100%  
+	    New File  		   93914	Stanford CO2.pdf  0%  100%  
+	    New File  		   93494	Stanford Tubing only.pdf  0%  100%  
+	    New File  		   93494	Stanford Tubing only-2014-08-13T102537.pdf  0%  100%  
+	    New File  		   93494	Stanford Tubing only-2014-08-13T102537-2014-09-03T194057.pdf  0%  100%  
+	    New File  		  893362	Veriscan LT Product Brochure  (April 2009).pdf  0%  100%  
+	  New Dir         18	\\shintnpscfs116\T$\Users7\S0016400\Meeting Min\
+	    New File  		   60928	03-30 Process Improvement-Turnaround times-11.doc  0%  100%  
+	    New File  		   40448	Education Minutes 09-16.doc  0%  100%  
+	    New File  		   41984	Education Minutes 09-30.doc  0%  100%  
+	    New File  		   42496	Jan Minutes.doc  0%  100%  
+	    New File  		   43520	July Minutes.doc  0%  100%  
+	    New File  		   59392	June 27, 2012 Meeting minutes for QI Council.doc  0%  100%  
+	    New File  		   43008	June Minutes.doc  0%  100%  
+	    New File  		   19292	Minutes 5-18-11.docx  0%  100%  
+	    New File  		   45568	Minutes March 2, 2011.doc  0%  100%  
+	    New File  		   12871	MINUTES ON CALL COMMITTEE.docx  0%  100%  
+	    New File  		   43008	Minutes Template.doc  0%  100%  
+	    New File  		   42496	Oct min.doc  0%  100%  
+	    New File  		   61440	Process Improvement-Turnaround times-.doc  0%  100%  
+	    New File  		   54272	Scheduling Committee Meeting Minute 06152011.doc  0%  100%  
+	    New File  		   43008	Sept Minutes.doc  0%  100%  
+	    New File  		   51200	Staff meeting agenda 01062010.doc  0%  100%  
+	    New File  		   43520	Staff Meeting Mins 10-7-09.doc  0%  100%  
+	    New File  		   41472	staff meeting minutes form jan08.doc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Melanie\
+	    New File  		   13062	Investigation.docx  0%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0016400\MERP\
+	    New File  		   32259	20120111174034500.pdf  0%  100%  
+	    New File  		  527643	ISMP_12 08 23.pdf  0%  100%  
+	    New File  		   57856	MERP  2010 - Revision #2.doc  0%  100%  
+	    New File  		   16620	MERP Audit Template.docx  0%  100%  
+	    New File  		   49664	MERP audit.doc  0%  100%  
+	    New File  		   18207	MERP audit.docx  0%  100%  
+	    New File  		  106746	MERP FAQ's 2012.pdf  0%  100%  
+	    New File  		   29558	MERP Medication Test Endoscopy 1-11-12.docx  0%  100%  
+	    New File  		   56675	MERP Medication Test Endoscopy 9-30-10.docx  0%  100%  
+	    New File  		   18324	SHC SURVEY READINESS INFORMATION from Wednesday January 11 2012.docx  0%  100%  
+	  New Dir         19	\\shintnpscfs116\T$\Users7\S0016400\MH Cart\
+	    New File  		   73728	2012 12 18_Malignant Hyperthermia M 13 01.doc  0%  100%  
+	    New File  		  209920	2012.11.29_Malignant Hyperthermia M 13 01.doc  0%  100%  
+	    New File  		   73728	2012.12.18_Malignant Hyperthermia M 13 01.doc  0%  100%  
+	    New File  		   37507	2013 01 24_Malignant Hyperthermia M 13 01.docx  0%  100%  
+	    New File  		   46138	BINDER_SPINE.docx  0%  100%  
+	    New File  		   30006	Malignant Hyperthermia Cart Daily Check Log 1-7-14.docx  0%  100%  
+	    New File  		   29091	Malignant Hyperthermia Cart Daily Check Log 2-25-13.docx  0%  100%  
+	    New File  		   31987	Malignant Hyperthermia Cart Daily Check Log 2-26-13.docx  0%  100%  
+	    New File  		  159744	Malignant Hyperthermia Cart Daily checklist 11-14-12 #3.doc  0%  100%  
+	    New File  		   21138	MALIGNANT HYPERTHERMIA Dosage  Mixing ReferencePharmacy.docx  0%  100%  
+	    New File  		   60416	Meeting Minutes  8-20-13.doc  0%  100%  
+	    New File  		   1.7 m	MH A3.vsd  0%  100%  
+	    New File  		   46616	MH Binder cover sheet Endo.docx  0%  100%  
+	    New File  		   25791	MH Cart Monthly checklist 10-23-13.docx  0%  100%  
+	    New File  		   23183	MH Cart Monthly checklist 2-19-13.docx  0%  100%  
+	    New File  		   24698	MH Cart Monthly checklist 3-19-13.docx  0%  100%  
+	    New File  		   25021	MH Cart Monthly checklist 5-21-13.docx  0%  100%  
+	    New File  		   1.1 m	MH JAS Endo.pdf  0%  100%  
+	    New File  		   48004	MH Table of Contents.docx  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\Migrated_WKS22958\
+	  New Dir         14	\\shintnpscfs116\T$\Users7\S0016400\Migrated_WKS22958\xp_Desktop\
+	    New File  		   67584	agenda template.doc  0%  100%  
+	    New File  		  116936	BEST Meeting Webex Connection Instructions_June 202013.pdf  0%  100%  
+	    New File  		  140422	Coastal Dist.pdf  0%  100%  
+	    New File  		   44032	Controlled substance monitoring monthly summary report.doc  0%  100%  
+	    New File  		   17203	Copy of Employee Engagement 110113.xlsx  0%  100%  
+	    New File  		   18552	Endoscopy Department SHC GA Cases Protocol V1.9.12 docx.docx  0%  100%  
+	    New File  		  219648	Endoscopy New Charge Master 4-7-11.xls  0%  100%  
+	    New File  		  152412	Endoscopy PACU.pptx  0%  100%  
+	    New File  		   48949	Exceptions log.pdf  0%  100%  
+	    New File  		   1.3 m	FMT.pdf  0%  100%  
+	    New File  		   16918	Requesting and Escalating IT Service_IT only v2.docx  0%  100%  
+	    New File  		  311288	Staff numbers.pdf  0%  100%  
+	    New File  		   72704	Survey EOC Daily Checklist Main OR 5 10.doc  0%  100%  
+	    New File  		  130770	WelchAllyn.pdf  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0016400\MM\
+	    New File  		   11882	BARRX Halo.XLSX  0%  100%  
+	    New File  		  325727	Boston Scientific EndoVive.pdf  0%  100%  
+	    New File  		   14127	BS, Given,  0%  100%  
+	    New File  		   13107	EndoChoice.xlsx  0%  100%  
+	    New File  		   15577	ENTERNAL FEEDING TUBES PMM TEMPLATE from Malieana Rothenbuesher.XLSX  0%  100%  
+	    New File  		   13698	ENTERNAL FEEDING TUBES PMM TEMPLATE.XLSX  0%  100%  
+	    New File  		   12003	Kim. Clark.XLSX  0%  100%  
+	    New File  		   14127	Stents, scope knives, water bottle.XLSX  0%  100%  
+	    New File  		   13277	Viabil stents and non latex balloons.xlsx  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0016400\Mod Sed\
+	    New File  		   51200	Algorithm DRAFT 2 2 17 14.doc  0%  100%  
+	    New File  		  153179	AMA insurance implications study.pdf  0%  100%  
+	    New File  		  196911	Minimum Staffing Requirements for the performance of GI Endoscopy.pdf  0%  100%  
+	    New File  		  467540	mod sed letter.pdf  0%  100%  
+	    New File  		   1.6 m	Moderate Sedation 2014.ppt  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\MTG\
+	    New File  		   64896	FAQ Document Blood Administration9 10 13.docx  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\MUI\
+	    New File  		   27845	901W2F2 - product performance form.pdf  0%  100%  
+	    New File  		  113905	MUI PPF.pdf  0%  100%  
+	    New File  		  386589	MUI Scientific.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\My Epic\
+	    New File  		   82393	Copy of endo.xlsm  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\My Music\
+	    New File  		     652	Desktop.ini  0%  100%  
+	    New File  		     644	Sample Music.lnk  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\My Music\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\
+	    New File  		   16384	iTunes Library Extras.itdb  0%  100%  
+	    New File  		   16384	iTunes Library Extras-2014-08-13T130517.itdb  0%  100%  
+	    New File  		   32768	iTunes Library Genius.itdb  0%  100%  
+	    New File  		    9617	iTunes Library.itl  0%  100%  
+	    New File  		    9616	iTunes Library-2014-08-13T130517.itl  0%  100%  
+	    New File  		   11413	iTunes Music Library.xml  0%  100%  
+	    New File  		   11142	iTunes Music Library-2014-08-13T130517.xml  0%  100%  
+	    New File  		       8	sentinel  0%  100%  
+	    New File  		       8	sentinel-2014-08-13T130517  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\01\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\01\08\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\01\08\08\
+	    New File  		  295065	779AEF8B3312719F-F810A4B53625C881.itc2  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\01\14\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\01\14\13\
+	    New File  		  174798	779AEF8B3312719F-F55B3584B77F2DE1.itc2  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\05\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\05\08\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\05\08\07\
+	    New File  		  168776	779AEF8B3312719F-F129EFF8981D4785.itc2  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\06\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\06\06\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\06\06\13\
+	    New File  		  109478	779AEF8B3312719F-F79B1E0D609B6D66.itc2  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\07\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\07\04\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\07\04\02\
+	    New File  		  322543	779AEF8B3312719F-026387583A8B2247.itc2  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\10\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\10\12\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\10\12\15\
+	    New File  		  204904	779AEF8B3312719F-3242E513268A5FCA.itc2  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\10\15\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cache\779AEF8B3312719F\10\15\07\
+	    New File  		   92963	779AEF8B3312719F-3903256B781D87FA.itc2  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Cloud Purchases\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\Album Artwork\Download\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\iTunes Media\
+	    New File  		     305	.iTunes Preferences.plist  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\iTunes Media\Automatically Add to iTunes\
+	  New Dir         13	\\shintnpscfs116\T$\Users7\S0016400\My Music\iTunes\iTunes Media\Mobile Applications\
+	    New File  		  12.0 m	AirWatch 4.9.1110.ipa  0.0%100%  
+	    New File  		  16.7 m	Dictionary 4.5.ipa  0.0% 95.6%100%  
+	    New File  		   7.1 m	Find iPhone 3.0.ipa  0.0%100%  
+	    New File  		  35.8 m	Google 3.2.1.ipa  0.0% 44.6% 89.3%100%  
+	    New File  		  35.8 m	Google 3.2.1-2014-08-13T102516.ipa  0.0% 44.6% 89.3%100%  
+	    New File  		  35.8 m	Google 3.2.1-2014-08-13T102516-2014-09-03T194106.ipa  0.0% 44.6% 89.3%100%  
+	    New File  		  26.3 m	Haiku 3.0.2.ipa  0.0% 60.6%100%  
+	    New File  		  26.3 m	Haiku 3.0.2-2014-08-13T102516.ipa  0.0% 60.6%100%  
+	    New File  		  26.3 m	Haiku 3.0.2-2014-08-13T102516-2014-09-03T194106.ipa  0.0% 60.6%100%  
+	    New File  		   8.6 m	Marguerite 1.21.ipa  0.0%100%  
+	    New File  		  66.8 m	Stratus 1.10.ipa  0.0% 23.9% 47.8% 71.7% 95.7%100%  
+	    New File  		  66.8 m	Stratus 1.10-2014-08-13T102516.ipa  0.0% 23.9% 47.8% 71.7% 95.7%100%  
+	    New File  		  66.8 m	Stratus 1.10-2014-08-13T102516-2014-09-03T194106.ipa  0.0% 23.9% 47.8% 71.7% 95.7%100%  
+	  New Dir         61	\\shintnpscfs116\T$\Users7\S0016400\My Pictures\
+	    New File  		    9119	bernard_renee_headshot.jpg  0%  100%  
+	    New File  		  108116	Betty.jpg  0%  100%  
+	    New File  		  983094	BM.bmp  0%  100%  
+	    New File  		  983094	CB.bmp  0%  100%  
+	    New File  		    9290	denise_rodriguez_headshot.jpg  0%  100%  
+	    New File  		   21543	denise_rodriguez_inside.jpg  0%  100%  
+	    New File  		     658	Desktop.ini  0%  100%  
+	    New File  		   47003	DSCN1555.jpg  0%  100%  
+	    New File  		   55058	DSCN1557.jpg  0%  100%  
+	    New File  		   4.2 m	Endo PG 1.JPG  0%  100%  
+	    New File  		   4.2 m	Endo PG 2.JPG  0%  100%  
+	    New File  		   4.0 m	Endo PG 3.JPG  0%  100%  
+	    New File  		   3.8 m	Endo PG 6.JPG  0%  100%  
+	    New File  		   3.8 m	Endo PG 7.JPG  0%  100%  
+	    New File  		  983094	ET.bmp  0%  100%  
+	    New File  		   1.6 m	IMG_3580.JPG  0%  100%  
+	    New File  		   1.6 m	IMG_3581.JPG  0%  100%  
+	    New File  		   1.5 m	IMG_3582.JPG  0%  100%  
+	    New File  		   1.5 m	IMG_3584.JPG  0%  100%  
+	    New File  		   1.5 m	IMG_3585.JPG  0%  100%  
+	    New File  		   1.2 m	IMG_3586.JPG  0%  100%  
+	    New File  		   1.4 m	IMG_3588.JPG  0%  100%  
+	    New File  		   1.8 m	IMG_3589.JPG  0%  100%  
+	    New File  		   1.1 m	IMG_3591.JPG  0%  100%  
+	    New File  		   1.1 m	IMG_3599.jpg  0%  100%  
+	    New File  		 1037968	IMG_3600.jpg  0%  100%  
+	    New File  		 1004065	IMG_3601.jpg  0%  100%  
+	    New File  		   1.0 m	IMG_3602.jpg  0%  100%  
+	    New File  		  870704	IMG_3603.jpg  0%  100%  
+	    New File  		 1015104	IMG_3604.jpg  0%  100%  
+	    New File  		  893106	IMG_3605.jpg  0%  100%  
+	    New File  		  914004	IMG_3606.jpg  0%  100%  
+	    New File  		   1.1 m	IMG_3607.jpg  0%  100%  
+	    New File  		  784711	IMG_3608.jpg  0%  100%  
+	    New File  		  735027	IMG_3609.jpg  0%  100%  
+	    New File  		  868603	IMG_3610.jpg  0%  100%  
+	    New File  		  821623	IMG_3611.jpg  0%  100%  
+	    New File  		   4.8 m	Mexico 218.JPG  0%  100%  
+	    New File  		   2.4 m	photo (3).JPG  0%  100%  
+	    New File  		  124405	photo.jpg  0%  100%  
+	    New File  		  152086	photo1.jpg  0%  100%  
+	    New File  		  158632	photo2.jpg  0%  100%  
+	    New File  		  110650	photoDiane.jpg  0%  100%  
+	    New File  		  154313	photoVon, TO, GC.jpg  0%  100%  
+	    New File  		     674	Sample Pictures.lnk  0%  100%  
+	    New File  		  716376	STAFF 001.jpg  0%  100%  
+	    New File  		  686975	STAFF 002.jpg  0%  100%  
+	    New File  		  948488	STAFF 003.jpg  0%  100%  
+	    New File  		  857449	STAFF 004.jpg  0%  100%  
+	    New File  		  725145	STAFF 005.jpg  0%  100%  
+	    New File  		  843902	STAFF 006.jpg  0%  100%  
+	    New File  		  787049	STAFF 007.jpg  0%  100%  
+	    New File  		  868603	STAFF 008.jpg  0%  100%  
+	    New File  		  821623	STAFF 009.jpg  0%  100%  
+	    New File  		  898281	STAFF 011.jpg  0%  100%  
+	    New File  		  683796	STAFF.jpg  0%  100%  
+	    New File  		  395264	Thumbs.db  0%  100%  100%  
+	    New File  		  983094	TM1.bmp  0%  100%  
+	    New File  		  983094	TM2.bmp  0%  100%  
+	    New File  		  198462	Von#2.JPG  0%  100%  
+	    New File  		   2.0 m	Von.JPG  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\My Pictures\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\My Videos\
+	    New File  		     654	Desktop.ini  0%  100%  
+	    New File  		  51.9 m	EndoscopyPhoto Album.ppt  0.0% 30.7% 61.5% 92.3%100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\My Videos\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir         18	\\shintnpscfs116\T$\Users7\S0016400\Olympus\
+	    New File  		   17410	13077947.pdf  0%  100%  
+	    New File  		   41865	165439_2_STANFORD_HOSPITAL___CLINICS_Stanford_GI_Slim_Scope.pdf  0%  100%  
+	    New File  		   41962	187429__STANFORD_HOSPITAL___CLINICS_EUS_Scopes (3).pdf  0%  100%  
+	    New File  		   42170	187436__STANFORD_HOSPITAL___CLINICS_Single_Balloon.pdf  0%  100%  
+	    New File  		   41763	199674__STANFORD_HOSPITAL___CLINICS_Distal_Attachments.pdf  0%  100%  
+	    New File  		   41303	199679__STANFORD_HOSPITAL___CLINICS_Electrosurgical_Knife.pdf  0%  100%  
+	    New File  		   41466	203493__STANFORD_HOSPITAL___CLINICS_Water_Resistant_Caps.pdf  0%  100%  
+	    New File  		   45644	265608__STANFORD_HOSPITAL___CLINICS_Scopes_and_Equipment.pdf  0%  100%  
+	    New File  		   42336	274980__STANFORD_HOSPITAL_AND_CLINICS_Stanford_Loop_Cutter.pdf  0%  100%  
+	    New File  		   13801	Copy of FRIEDLAND%2520AND%2520WINTER%2520of%2520NEW%2520ITEM%2520TEMPLATE%281%29(1).XLSX  0%  100%  
+	    New File  		   42326	Endo ultrathin gastroscope quote.pdf  0%  100%  
+	    New File  		   12504	Olympus equipment inventory.xlsx  0%  100%  
+	    New File  		   16060	OLYMPUS SCOPES.xlsx  0%  100%  
+	    New File  		   41987	Olympus SHC Approved Lgl Addendum Form  CLEAN 2012 0827.docx  0%  100%  
+	    New File  		   42494	Quote_Stanford_ESD_Knives.pdf  0%  100%  
+	    New File  		   45623	Stanford EUS Probe System.pdf  0%  100%  
+	    New File  		   82802	Stanford Hospital  Clinics   E.pdf  0%  100%  
+	    New File  		   42386	Stanford Ultrathin Gastroscope.pdf  0%  100%  
+	  New Dir         12	\\shintnpscfs116\T$\Users7\S0016400\On Call\
+	    New File  		   66048	9 06 13 Minutes.doc  0%  100%  
+	    New File  		   16057	Call Pick June 9 to August 31 night shift.xlsx  0%  100%  
+	    New File  		   14366	Call Pick June 9 to August 31 Weekend Day Shift.xlsx  0%  100%  
+	    New File  		  246784	ENDO call utilage.xls  0%  100%  
+	    New File  		   63488	NEW GREYBAR FOR ONCL.xls  0%  100%  
+	    New File  		   21348	On Call Staffing-Endoscopy 05072014 with final Updates.docx  0%  100%  
+	    New File  		   21704	On Call Staffing-Endoscopy 05272014 with CRONA updates.docx  0%  100%  
+	    New File  		   40960	Oncall_staff[1].doc  0%  100%  
+	    New File  		   15037	Shift to shift.docx  0%  100%  
+	    New File  		   20229	Week Day On Call Template.docx  0%  100%  
+	    New File  		   18368	Week Day Weekend  On Call staff Phone Numbers.docx  0%  100%  
+	    New File  		   19288	Weekend On Call Template.docx  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\On call temp\
+	    New File  		   19903	WeekDay on call.docx  0%  100%  
+	    New File  		   19096	Weekend On Call.docx  0%  100%  
+	  New Dir         83	\\shintnpscfs116\T$\Users7\S0016400\OR\
+	    New File  		   60928	2012.01.31_Positioning of Surgical Patients P 16 06.doc  0%  100%  
+	    New File  		   1.2 m	20120202174418628.pdf  0%  100%  
+	    New File  		   39424	4-2013 OR coverage.doc  0%  100%  
+	    New File  		   36352	6-2011 revised.doc  0%  100%  
+	    New File  		   5.9 m	Annual Report 2010.doc  0.0%100%  
+	    New File  		   64000	ASC OR PRECEPTING LOG RECORD.doc  0%  100%  
+	    New File  		  158208	AYR algorithm rev.ppt  0%  100%  
+	    New File  		   26425	AYR Menu Grams of CHO 8-2011.docx  0%  100%  
+	    New File  		   76800	Change Summary - August 2011.doc  0%  100%  
+	    New File  		  692473	Change Summary - December 2011.rtf  0%  100%  
+	    New File  		   48086	Change Summary - May 2012 V2.docx  0%  100%  
+	    New File  		   40460	Change Summary - September 2012 V2.docx  0%  100%  
+	    New File  		   64705	CICARE Template_ASC.docx  0%  100%  
+	    New File  		   62130	CICARE Template_Endoscopy.docx  0%  100%  
+	    New File  		   64389	CICARE Template_MainOR.docx  0%  100%  
+	    New File  		  159645	clinical pract watch 2nd edition - vol 2(1) April 2012.docx  0%  100%  
+	    New File  		  146470	Copy of 2011 12_OR_Region_TJC_Universal_Protocol(1).xlsx  0%  100%  
+	    New File  		   38400	Copy of 2011 HOLIDAY CALENDAR  (2) (3).xls  0%  100%  
+	    New File  		   53528	Copy of 2012 06 21.xlsx  0%  100%  
+	    New File  		   26574	Copy of Copy of MOR Staff Attendance sheets.xlsx  0%  100%  
+	    New File  		  161657	Copy of Copy of SHC Crowding Prevention and Response Plan DRAFT 6 21 11 (2).xlsx  0%  100%  
+	    New File  		  133373	Copy of OR_Region_TJC_Universal_Protocol(1).xlsx  0%  100%  
+	    New File  		   29142	Copy of SHC AIP Maki FY12 v6.xlsx  0%  100%  
+	    New File  		  113244	Copy of SHC Crowding Prevention and Response Plan DRAFT 6 21 11 (2).xlsx  0%  100%  
+	    New File  		   34816	CPR Dates and Orientation Dates 2013.doc  0%  100%  
+	    New File  		   35328	DAISY Award Letter for Rhonda Hart 0508.doc  0%  100%  
+	    New File  		   85444	DAISY Award Summary revised (2).pdf  0%  100%  
+	    New File  		  113962	duet locations.pdf  0%  100%  
+	    New File  		  249983	DVC Medical Research Summary June 2011.pdf  0%  100%  
+	    New File  		   47777	DVRO Clinic Brochure Spanish.pdf  0%  100%  
+	    New File  		   47263	DVRO Clinic Brochure.pdf  0%  100%  
+	    New File  		   16174	DVRO Clinic FlierSpan.pdf  0%  100%  
+	    New File  		   1.5 m	ED Dept. Practices 3.14 C-I-CARE.XLS  0%  100%  
+	    New File  		   80354	EPIC Abuse Screening summary to 5 11.pdf  0%  100%  
+	    New File  		   29159	FY12 AIP Jerry Maki081611.xlsx  0%  100%  
+	    New File  		   40448	Gonda Nomination Form 2012.doc  0%  100%  
+	    New File  		   22172	How to Document an Error.docx  0%  100%  
+	    New File  		   21446	Instructions Oline Registrations_ v3 May 11 11.docx  0%  100%  
+	    New File  		  327886	Intra Meds Augustv2 2012.pdf  0%  100%  
+	    New File  		  299834	ISMP_11 05 19.pdf  0%  100%  
+	    New File  		  193346	ISMP_11 07 14.pdf  0%  100%  
+	    New File  		  168446	ISMP_11 08 11.pdf  0%  100%  
+	    New File  		  227252	ISMP_11 10 20.pdf  0%  100%  
+	    New File  		 1003545	ISMP_12 01 26.pdf  0%  100%  
+	    New File  		  334093	medtronic synchromed battery upd 2009 notice.pdf  0%  100%  
+	    New File  		  241939	MTG Update with ERBP Form May 2012.docx  0%  100%  
+	    New File  		 1008647	October 2013 Patient Care Manual Change Summary.pdf  0%  100%  
+	    New File  		   22118	OR  Region Internal Phone Number Feb 2013.pdf  0%  100%  
+	    New File  		   24055	OR  Region Internal Phone Numbers_rev 2 2014.pdf  0%  100%  
+	    New File  		   49664	OR  Region Internal Phone Numbers_rev010511.xls  0%  100%  
+	    New File  		   44301	OR  Region Internal Phone Numbers_rev0112011.pdf  0%  100%  
+	    New File  		   41572	OR  Region Internal Phone Numbers_rev021611.pdf  0%  100%  
+	    New File  		   43986	OR  Region Internal Phone Numbers_rev021711.pdf  0%  100%  
+	    New File  		   44409	OR  Region Internal Phone Numbers_rev022012.pdf  0%  100%  
+	    New File  		   18570	OR  Region Internal Phone Numbers_rev052012.pdf  0%  100%  
+	    New File  		   40852	OR  Region Internal Phone Numbers_rev092011.pdf  0%  100%  
+	    New File  		  103489	OR Performance Improvement Project Memo 62811.docx  0%  100%  
+	    New File  		   63799	OR Region MAGNET Dashboard 2011_.xlsx  0%  100%  
+	    New File  		  112780	Perioperative Region Education Handout on Preventing Hospital Acquired Pressure Ulcers.docx  0%  100%  
+	    New File  		  349009	Policy Updates Jan.pdf  0%  100%  
+	    New File  		   23072	Pre-op Patient Phone Call Workflow.docx  0%  100%  
+	    New File  		   2.6 m	PUP Presentation6-30-11.ppt  0%  100%  
+	    New File  		   81435	Quality at the Bedside.docx  0%  100%  
+	    New File  		  175794	Renoir Engagement Memo 062811.docx  0%  100%  
+	    New File  		   19346	Resident Emails & Pagers 12-13.xlsx  0%  100%  
+	    New File  		  353378	RX Updates - Education and Practice Councils 051011.pdf  0%  100%  
+	    New File  		   1.0 m	SAVE THE DATE Perinatal DepressionFINAL.pdf  0%  100%  
+	    New File  		  202644	Screen shots for Prevention LDA.docx  0%  100%  
+	    New File  		   33203	SHC AIP FY12 v6.xlsx  0%  100%  
+	    New File  		  195584	SHC Pain Management Checklist 8-5-2011  draft.doc  0%  100%  
+	    New File  		  547669	SHC Patient Care Manual Change Summary July - August 2013.pdf  0%  100%  
+	    New File  		   46761	SHC_OR Region_Anesthesia Workroom Service Level Agreement_2010.docx  0%  100%  
+	    New File  		   47435	SHC_OR Region_ASC Service Level Agreement_2010.docx  0%  100%  
+	    New File  		   44167	SHC_OR Region_SPD Service Level Agreement_2010.docx  0%  100%  
+	    New File  		  195955	Sock Product Change.pdf  0%  100%  
+	    New File  		  286510	Solid Organ Transplant Surgical Consent.pdf  0%  100%  
+	    New File  		   1.0 m	stryker neptune_201401021024.pdf  0%  100%  
+	    New File  		   62976	SUMC Update # 66.doc  0%  100%  
+	    New File  		   67072	SUMC Update # 74 distribution.doc  0%  100%  
+	    New File  		   63488	Transporting and Administration of Blood and Blood Products T 20 05 doc.doc  0%  100%  
+	    New File  		  355201	Ulcer LDAs.pdf  0%  100%  
+	    New File  		   99736	Wound Care Procedures Update 12-11.docx  0%  100%  
+	    New File  		   17176	Wound Class Reference Oct 2011.docx  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\Osha\
+	    New File  		   14457	Cal-Osha mtg notes.docx  0%  100%  
+	    New File  		   1.4 m	Final Appeals Order Docket 13-R1D3-1738.pdf  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\Outlook\
+	    New File  		  323516	20120712131512892.pdf  0%  100%  
+	    New File  		  323516	201207121315128921.pdf  0%  100%  
+	    New File  		  295829	20120712131529716.pdf  0%  100%  
+	    New File  		   1.0 g	archive.pst  0.0%  1.4%  2.8%  4.2%  5.7%  7.1%  8.5% 10.0% 11.4% 12.8% 14.3% 15.7% 17.1% 18.5% 20.0% 21.4% 22.8% 24.3% 25.7% 27.1% 28.6% 30.0% 31.4% 32.8% 34.3% 35.7% 37.1% 38.6% 40.0% 41.4% 42.9% 44.3% 45.7% 47.1% 48.6% 50.0% 51.4% 52.9% 54.3% 55.7% 57.2% 58.6% 60.0% 61.5% 62.9% 64.3% 65.7% 67.2% 68.6% 70.0% 71.5% 72.9% 74.3% 75.8% 77.2% 78.6% 80.0% 81.5% 82.9% 84.3% 85.8% 87.2% 88.6% 90.1% 91.5% 92.9% 94.3% 95.8% 97.2% 98.6%100%  
+	  New Dir         49	\\shintnpscfs116\T$\Users7\S0016400\P&P\
+	    New File  		   51200	2012 01 11 2_Malignant_Hyperthermia_Cart_Contents_MOR_Rev1-12.doc  0%  100%  
+	    New File  		   50688	2012 01 31_Vacation In the OR Region revised.doc  0%  100%  
+	    New File  		   67072	2012 06 13_Dress Attire and Traffic Pattern D 4 18.doc  0%  100%  
+	    New File  		   69803	2012 09 17_Dress Attire and Traffic Pattern D 04 18.pdf  0%  100%  
+	    New File  		   35608	2012 09 21_Dress Attire and Traffic Pattern D 04 18.docx  0%  100%  
+	    New File  		   35794	2012 10 30_Dress Attire and Traffic Pattern D 04 18.docx  0%  100%  
+	    New File  		  125440	2012 11 07_Specimen Documentation Care and Disposition S 19 04.doc  0%  100%  
+	    New File  		   35830	2012 11 08_Dress Attire and Traffic Pattern D 04 18.docx  0%  100%  
+	    New File  		   37805	2012 12 03_Dress Attire and Traffic Pattern D 04 18.docx  0%  100%  
+	    New File  		   51200	2012.01.11.3_Malignant_Hyperthermia_Cart_Contents_MOR_Rev1-12.doc  0%  100%  
+	    New File  		   53248	2012.02.21_Endoscopy Procedure Scheduling in Epic P 16 09 EN revised.doc  0%  100%  
+	    New File  		   24854	2013 01 23_Respiratory Treatment in PACU R 18 10.docx  0%  100%  
+	    New File  		   28430	2013 06 13_Monitoring Temperature and Humidity in the Operating Rooms.docx  0%  100%  
+	    New File  		   37641	2013 06 18_F 06 03_Fire Safety.docx  0%  100%  
+	    New File  		   37541	2013.01.23_Dress Attire and Traffic Pattern D 04 18.docx  0%  100%  
+	    New File  		  467540	201302131329.pdf  0%  100%  
+	    New File  		   48334	Admission to SAU ASC Pre Op A 1 03.pdf  0%  100%  
+	    New File  		  101958	associates.pdf  0%  100%  
+	    New File  		   32349	Boarding Pass  Documentation GO Stickers B 2 06.pdf  0%  100%  
+	    New File  		   15638	Cell phone policy.docx  0%  100%  
+	    New File  		   40424	Change Summary - September 2012 V2.docx  0%  100%  
+	    New File  		  149960	Code of Conduct.pdf  0%  100%  
+	    New File  		   50176	Colonoscopy C 3 04 EN.doc  0%  100%  
+	    New File  		   29480	Colonoscopy PP final version 2.docx  0%  100%  
+	    New File  		   28001	Colonoscopy PP version 2.docx  0%  100%  
+	    New File  		   28001	Colonoscopy PP version 2-2014-08-13T102533.docx  0%  100%  
+	    New File  		   28001	Colonoscopy PP version 2-2014-08-13T102533-2014-09-03T194102.docx  0%  100%  
+	    New File  		   51898	Copy of 2012 09 17.xlsx  0%  100%  
+	    New File  		   4.2 m	Dicharge after moderate sedation.pdf  0%  100%  
+	    New File  		   70439	Dress Attire and Traffic Pattern D 04 18.pdf  0%  100%  
+	    New File  		   24250	Endoscopy On Call P&P.docx  0%  100%  
+	    New File  		   53248	Endoscopy Procedure Scheduling in Epic P 16 09 EN revised.doc  0%  100%  
+	    New File  		   28328	Endoscopy Procedure Scheduling in Epic P 16 09 EN.pdf  0%  100%  
+	    New File  		   37641	Fire Safety.docx 2013 06 18_F 06 03_.docx  0%  100%  
+	    New File  		  167665	harassmentPolicy[1].pdf  0%  100%  
+	    New File  		   81901	Med Rec documentation.pdf  0%  100%  
+	    New File  		  880811	Moderate Sedation policy- Stanford.pdf  0%  100%  
+	    New File  		  149835	moderateSedation.pdf  0%  100%  
+	    New File  		   37888	P&P 2010 Update Tracking_endoscopy.xls  0%  100%  
+	    New File  		  109532	performanceManagementSHCOnlineSystem.pdf  0%  100%  
+	    New File  		  102292	Policy Conflict of Interest and Committment-SHC 010111.pdf  0%  100%  
+	    New File  		  133900	Preference Cards Creating Revising a Preference Card P 16 14 A.pdf  0%  100%  
+	    New File  		  172953	ProVation_Proceduredocumetnation.pdf  0%  100%  
+	    New File  		   66173	P-Tube_USER PROCEDURES STANFORD HOSPITAL 12-20-12_1 0 docx.docx  0%  100%  
+	    New File  		  461716	Recall Process in the OR Region R 18 01.pdf  0%  100%  
+	    New File  		   67072	Transporting and Administration of Blood and Blood Products T 20 05.doc.doc  0%  100%  
+	    New File  		  466872	Untitled.pdf  0%  100%  
+	    New File  		   37775	Verification of Correct Surgical Site V 22 03.pdf  0%  100%  
+	    New File  		  131929	Visiting Observer Policy.pdf  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\Pam\
+	    New File  		   26192	AIP DW.xlsx  0%  100%  
+	    New File  		   26193	AIP PHP.xlsx  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0016400\Parking tix\
+	    New File  		  231266	Parking Citation.pdf  0%  100%  
+	    New File  		   57044	photo (1).JPG  0%  100%  
+	    New File  		   52981	photo (2).JPG  0%  100%  
+	    New File  		   30605	photo (3).JPG  0%  100%  
+	    New File  		   47621	photo (4).JPG  0%  100%  
+	    New File  		   61112	photo (5).JPG  0%  100%  
+	    New File  		   38400	Thumbs.db  0%  100%  100%  
+	  New Dir         37	\\shintnpscfs116\T$\Users7\S0016400\Past time cards\
+	    New File  		  165273	20120430144711156.pdf  0%  100%  
+	    New File  		   32381	20120515140616332.pdf  0%  100%  
+	    New File  		   56832	David Woodley MASTER TIMECARD July 7-20, 2013.xls  0%  100%  
+	    New File  		   56832	David Woodley MASTER TIMECARD June-23 to July-6, 2013.xls  0%  100%  
+	    New File  		   32768	Intermittent Timesheet.xls  0%  100%  
+	    New File  		   53248	STAFF MASTER TIMECARD 0CT 28-DEC 11.xls  0%  100%  
+	    New File  		   51200	STAFF MASTER TIMECARD April 1-14.xls  0%  100%  
+	    New File  		   50688	STAFF MASTER TIMECARD aPRIL 15-28.xls  0%  100%  
+	    New File  		   53248	STAFF MASTER TIMECARD April 17-29.xls  0%  100%  
+	    New File  		   51200	STAFF MASTER TIMECARD April 29-May 12.xls  0%  100%  
+	    New File  		   50688	STAFF MASTER TIMECARD Aug 20-31, 2012.xls  0%  100%  
+	    New File  		   53248	STAFF MASTER TIMECARD Aug 7-Aug 20.xls  0%  100%  
+	    New File  		   53248	STAFF MASTER TIMECARD DEC 12-25.xls  0%  100%  
+	    New File  		   53248	STAFF MASTER TIMECARD Dec12-Jan 8.xls  0%  100%  
+	    New File  		   57344	STAFF MASTER TIMECARD Feb 17-March 2, 2013 .xls  0%  100%  
+	    New File  		   56832	STAFF MASTER TIMECARD Feb 3-16,2013.xls  0%  100%  
+	    New File  		   56832	STAFF MASTER TIMECARD Jan 20-feb 2, 2013 .xls  0%  100%  
+	    New File  		   50688	STAFF MASTER TIMECARD Jan 22-Feb 4.xls  0%  100%  
+	    New File  		   53248	STAFF MASTER TIMECARD Jan 24-Feb 4.xls  0%  100%  
+	    New File  		   53248	STAFF MASTER TIMECARD July 10-23.xls  0%  100%  
+	    New File  		   53248	STAFF MASTER TIMECARD July 24-Aug 5.xls  0%  100%  
+	    New File  		   50688	STAFF MASTER TIMECARD July 8-21.xls  0%  100%  
+	    New File  		   50688	STAFF MASTER TIMECARD June 10-23.xls  0%  100%  
+	    New File  		   53248	STAFF MASTER TIMECARD June 12-25.xls  0%  100%  
+	    New File  		   53248	STAFF MASTER TIMECARD June 26-July 9.xls  0%  100%  
+	    New File  		   53248	STAFF MASTER TIMECARD Marc 6-March 19.xls  0%  100%  
+	    New File  		   51200	STAFF MASTER TIMECARD March 18-31-12.xls  0%  100%  
+	    New File  		   53248	STAFF MASTER TIMECARD March 21- April 1.xls  0%  100%  
+	    New File  		   50688	STAFF MASTER TIMECARD May 13-26 2012.xls  0%  100%  
+	    New File  		   53248	STAFF MASTER TIMECARD May 15-28.xls  0%  100%  
+	    New File  		   53248	STAFF MASTER TIMECARD May 1-May 14.xls  0%  100%  
+	    New File  		   50176	STAFF MASTER TIMECARD Nov 13-Nov 27  0%  100%  
+	    New File  		   50176	STAFF MASTER TIMECARD Nov 13-Nov 27.xls  0%  100%  
+	    New File  		   50176	STAFF MASTER TIMECARD OCT 14-27.xls  0%  100%  
+	    New File  		   50688	STAFF MASTER TIMECARD Oct 28-Nov 10.xls  0%  100%  
+	    New File  		   50688	STAFF MASTER TIMECARD Sept 4-17.xls  0%  100%  
+	    New File  		   78124	Timecard correction.pdf  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\Path 10\
+	    New File  		  122172	Doc1.docx  0%  100%  
+	    New File  		  140800	Entering Pathology 10 Order.doc  0%  100%  
+	    New File  		   95744	Surg Path Order-Path10.doc  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\Payroll\
+	    New File  		   19550	form_payroll_exceptions_log.xlsx  0%  100%  
+	    New File  		   20506	Payroll_exceptions_log.xlsx  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\PEG\
+	    New File  		  232407	21491 AMT MiniONE Rx Pads1.pdf  0%  100%  
+	  New Dir         18	\\shintnpscfs116\T$\Users7\S0016400\Pentax\
+	    New File  		   61669	10079483.pdf  0%  100%  
+	    New File  		   67448	10084324 Stanford.pdf  0%  100%  
+	    New File  		   25411	10085000.pdf  0%  100%  
+	    New File  		   65184	10085486 (2).pdf  0%  100%  
+	    New File  		   26112	10087215.pdf  0%  100%  
+	    New File  		  698362	2012_PENTAX_Price_List_MK026_revL.pdf  0%  100%  
+	    New File  		   31037	300064581 Stanford Hospital.pdf  0%  100%  
+	    New File  		   31412	bulbs.pdf  0%  100%  
+	    New File  		   35721	document.pdf  0%  100%  
+	    New File  		  870924	Fluid Invation No Leak.pdf  0%  100%  
+	    New File  		  148379	Leak Test Log.pdf  0%  100%  
+	    New File  		  178942	Pentax Bios quote.pdf  0%  100%  
+	    New File  		   54272	Pentax Inventory List.xls  0%  100%  
+	    New File  		  622299	Pentax_Equipment Loan Agmt_fully executed.pdf  0%  100%  
+	    New File  		  216609	Stanford Hosp 16020 Contract 40002453 Utilization Report.pdf  0%  100%  
+	    New File  		  795574	Stanford Hosp 19748 2Y CC Contract Offer pdf - Adobe Acrobat (2).pdf  0%  100%  
+	    New File  		  401062	Stanford Pentax addendum to Confocal Long Term loaner.pdf  0%  100%  
+	    New File  		  107205	WARNING scope with leak.pdf  0%  100%  
+	  New Dir         29	\\shintnpscfs116\T$\Users7\S0016400\Personal\
+	    New File  		   26325	AIP DW.xlsx  0%  100%  
+	    New File  		   26326	AIP PHP.xlsx  0%  100%  
+	    New File  		  330328	AIP.pdf  0%  100%  
+	    New File  		  120832	BEST Meeting Webex Connection Instructions 8_18_11.doc  0%  100%  
+	    New File  		  119087	CLASS GRADE.pdf  0%  100%  
+	    New File  		  239489	Conflict Of Interest Disclosure Statement 1-23-13.pdf  0%  100%  
+	    New File  		   25158	Conflict.docx  0%  100%  
+	    New File  		   61178	consent-to-photograph-form.docx  0%  100%  
+	    New File  		   23079	Copy of FY12 AIP for David Woodley Final 09232011.xlsx  0%  100%  
+	    New File  		   50446	Customer_Invoice.pdf  0%  100%  
+	    New File  		   69254	Customer_Invoice2 oct18-12-10.pdf  0%  100%  
+	    New File  		   50688	Endoscopy department contact list.xls  0%  100%  
+	    New File  		   28239	Form-Conflict-of-Interest Disclosure Statement-Form Fill 011312.docx  0%  100%  
+	    New File  		   28774	Form-Conflict-of-Interest Disclosure Statement-Form Fill 020114.docx  0%  100%  
+	    New File  		   23094	FY12 AIP for David Woodley Final 09232011.xlsx  0%  100%  
+	    New File  		  114363	missing hours.pdf  0%  100%  
+	    New File  		   13656	Occurance.docx  0%  100%  
+	    New File  		   10015	OT.docx  0%  100%  
+	    New File  		   15025	passwords.docx  0%  100%  
+	    New File  		  102292	Policy Conflict of Interest and Committment-SHC 011312.pdf  0%  100%  
+	    New File  		   1.5 m	Pulling from PROVATION.docx  0%  100%  
+	    New File  		   15667	Resignation letter.docx  0%  100%  
+	    New File  		   45818	Resume.wps.rtf  0%  100%  
+	    New File  		   84480	RSN Competencies 8-04.doc  0%  100%  
+	    New File  		  102292	SHC Policy-Conflict of Interest and Committment-020111.pdf  0%  100%  
+	    New File  		   27847	time card.pdf  0%  100%  
+	    New File  		   10453	To whom it may concern.docx  0%  100%  
+	    New File  		   98816	Woodley (X-fr Reg Ex APCM SH Endosc 2-20-11).doc  0%  100%  
+	    New File  		   96216	WritingExemplars.pdf  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\Personal\School\
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0016400\Pharmacy\
+	    New File  		  303882	2014 4 24 14.pdf  0%  100%  
+	    New File  		  403553	Drug Shortages - 4 22 13.pdf  0%  100%  
+	    New File  		   1.5 m	et.pdf  0%  100%  
+	    New File  		   33496	MINI-BAG PLUS SCHEDULE ROLLOUT 2014 v10.docx  0%  100%  
+	    New File  		  183934	view_frequencies_for_sched_med_admin.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Phone calls\
+	    New File  		  689970	Discharge Phone Calls Standard Process Follow-Up Meeting 9 11 13.pptx  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\Photos\
+	    New File  		   2.6 m	IMG_0022.JPG  0%  100%  
+	    New File  		   12800	Thumbs.db  0%  100%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\PI\
+	    New File  		   12448	PI Questionaire.docx  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0016400\PNDP\
+	    New File  		   26112	Instructions for Registering  to attend PNDP part 3  training 2011.doc  0%  100%  
+	    New File  		   25088	Instructions for Registering  to attend PNDP training 2011.doc  0%  100%  
+	    New File  		   2.3 m	NursesToNurses[1]-1.docx  0%  100%  
+	    New File  		  163833	PNDP_Bascis_of_Benner.pdf  0%  100%  
+	    New File  		  181250	PNDP_P Review_Delegation.pdf  0%  100%  
+	    New File  		  159736	PNDP_Personal_Coaching.pdf  0%  100%  
+	    New File  		   22860	Professional Nurse Development Program.docx  0%  100%  
+	  New Dir         18	\\shintnpscfs116\T$\Users7\S0016400\POCT\
+	    New File  		  288437	01-2012 ENDO.pdf  0%  100%  
+	    New File  		  289463	01-2013 ENDO.pdf  0%  100%  
+	    New File  		  282484	02-2013 ENDO.pdf  0%  100%  
+	    New File  		   37611	03-2012 ENDO.docm  0%  100%  
+	    New File  		  282818	03-2013 ENDO.pdf  0%  100%  
+	    New File  		   41105	03-2014 ENDO.docm  0%  100%  
+	    New File  		   41076	04-2013 ENDO.docm  0%  100%  
+	    New File  		   37666	05-2012 ENDO.docm  0%  100%  
+	    New File  		   41076	05-2013 ENDO.docm  0%  100%  
+	    New File  		  287787	06-2012 ENDO.pdf  0%  100%  
+	    New File  		  289496	07-2012 ENDO.pdf  0%  100%  
+	    New File  		   38518	09-2012 ENDO.docm  0%  100%  
+	    New File  		  290729	11-2012 ENDO.pdf  0%  100%  
+	    New File  		  287024	12-2012 ENDO.pdf  0%  100%  
+	    New File  		   26352	Appendix F POCT Program Agreement SHC 2012.docx  0%  100%  
+	    New File  		  809424	Memo for Precision Xceed Pro strip.pdf  0%  100%  
+	    New File  		  288714	POCT 08-2012 ENDO.pdf  0%  100%  
+	    New File  		  498872	Screen Shot of SHC POCT Crtical Values on the instruments.pdf  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\PRC\
+	    New File  		   72421	Copy of FY13 Position Evaluation Form ENDO.xlsx  0%  100%  
+	    New File  		   61635	Position Evaluation Form Dec 12 (3).xlsx  0%  100%  
+	    New File  		  531456	PRCProcessFlow Dec 12.ppt  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Prep\
+	    New File  		  349186	Split dose bowel prep.pdf  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0016400\Press Ganey\
+	    New File  		   55523	A3_Low Press-Ganey Scores  Endoscopy.pptx  0%  100%  
+	    New File  		   37630	Copy of Endo Likelihood.xlsx  0%  100%  
+	    New File  		   11352	Endo April 2011.pdf  0%  100%  
+	    New File  		   35482	Endo Likelihood.xlsx  0%  100%  
+	    New File  		   66822	Endo Likelihood.xlsx11-12  0%  100%  
+	    New File  		  314755	Endo solutions ALL.pdf  0%  100%  
+	    New File  		  106275	Endo solutions LTR.pdf  0%  100%  
+	    New File  		   30243	Jan-Mar 2013 all.pdf  0%  100%  
+	    New File  		  188462	SHC ASC_MAY_NSI.pdf  0%  100%  
+	  New Dir         16	\\shintnpscfs116\T$\Users7\S0016400\Provation\
+	    New File  		  389387	030414 Provation PP.pdf  0%  100%  
+	    New File  		  537796	5 0 Gastroenterology and Pulmonology User Manual_schduling.pdf  0%  100%  
+	    New File  		  134151	5 0_GI_Travel_Cart_QRG.pdf  0%  100%  
+	    New File  		   83456	5 0_Offline_Procedure_QRG.doc  0%  100%  
+	    New File  		   24993	Copy of 030714 ProVation Live Plan (living document).xlsx  0%  100%  
+	    New File  		   28339	Copy of 031314 ProVation Live Plan (living document).xlsx  0%  100%  
+	    New File  		   31232	Copy of Copy of OBR 4 1-3 Code Spreadsheet ORU - v5 0.xls  0%  100%  
+	    New File  		   11877	Copy of Endo - On-site list.xlsx  0%  100%  
+	    New File  		   12109	Copy of Endoscopy Verified List.xlsx  0%  100%  
+	    New File  		   11606	Copy of ProVation - Test Scripts.xlsx  0%  100%  
+	    New File  		   14146	Copy of Provation_workstations.xlsx  0%  100%  
+	    New File  		   13739	Hello Everyone.docx  0%  100%  
+	    New File  		   11360	Issue Tracking Log_032511.xlsx  0%  100%  
+	    New File  		   13388	PROVATION ACTIVITY.docx  0%  100%  
+	    New File  		  177189	Provation_ICD9_10.docx  0%  100%  
+	    New File  		  259518	Provation_MD Phase II workflow_updated72814.docx  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\Pt complaints\
+	    New File  		   83456	5 0_Offline_Procedure_QRG.doc  0%  100%  
+	    New File  		  304710	Patrick Quintana.pdf  0%  100%  
+	    New File  		  304710	Untitled.pdf  0%  100%  
+	    New File  		  868302	Vlach Darlene Art.pdf  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\QI\
+	    New File  		   39424	AgendaJune 262013 doc .doc  0%  100%  
+	    New File  		   67584	May 22 2013 Meeting minutes for QI Council.doc  0%  100%  
+	    New File  		  196911	Minimum Staffing Requirements for the performance of GI Endoscopy.pdf  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0016400\QuinTron\
+	    New File  		  181493	120709 - Retail Price List.pdf  0%  100%  
+	    New File  		  358943	CAF, Pre-Auth, Legal Addendum.pdf  0%  100%  
+	    New File  		  215346	LRA-SRA.pdf  0%  100%  
+	    New File  		  337240	QTL0086 Rev A (1-UP) - Lit Simple Operation BreathTracker.pdf  0%  100%  
+	    New File  		  504103	QuinTron Req.pdf  0%  100%  
+	  New Dir         61	\\shintnpscfs116\T$\Users7\S0016400\Quotes\
+	    New File  		   19881	10061582.pdf  0%  100%  
+	    New File  		   19908	10061583.pdf  0%  100%  
+	    New File  		   20781	11986501.pdf  0%  100%  
+	    New File  		   13654	11990966.pdf  0%  100%  
+	    New File  		   20727	12007128 (2).pdf  0%  100%  
+	    New File  		  343596	121228 Pre-Authorization Estimate (Serial No 10134).pdf  0%  100%  
+	    New File  		  222975	Agile Procedure Laminated Guide.pdf  0%  100%  
+	    New File  		   41103	Airpalquote.pdf  0%  100%  
+	    New File  		   41381	Airpalquote2.pdf  0%  100%  
+	    New File  		  302840	Bravo Receiver Promotion (2).pdf  0%  100%  
+	    New File  		   47295	CA Endo 9-4  201224800014.pdf  0%  100%  
+	    New File  		   47678	CA Endo9-4  201224800009.pdf  0%  100%  
+	    New File  		   47899	CA Endoscopy 9-4  201224800014.pdf  0%  100%  
+	    New File  		  202337	Cal Endo Ser Con Quote.pdf  0%  100%  
+	    New File  		   35840	Contingency Questions EUS.doc  0%  100%  
+	    New File  		   1.4 m	Copy of BNX Proposal Stanford.xls  0%  100%  
+	    New File  		  229047	Discrepanc Acct#16020 Stanford Hosp inv 91912772.pdf  0%  100%  
+	    New File  		   48274	EG 2990I.pdf  0%  100%  
+	    New File  		  177141	Endo CO2 insufflator quote.pdf  0%  100%  
+	    New File  		   42326	Endo ultrathin gastroscope quote.pdf  0%  100%  
+	    New File  		   27253	EndoChoice Stanford Kit Quote.pdf  0%  100%  
+	    New File  		   31367	ERBE foot pedal.pdf  0%  100%  
+	    New File  		   1.3 m	GF-UCT180_Brochure_Olympus.pdf  0%  100%  
+	    New File  		  654263	GF-UE160-AL5_Sales_Literature_Olympus.pdf  0%  100%  
+	    New File  		  422283	Given Bravo pH Receiver.pdf  0%  100%  
+	    New File  		  129720	Given Imaging CAF.pdf  0%  100%  
+	    New File  		  262195	Given Legal Addendum.pdf  0%  100%  
+	    New File  		  505310	Given Rapid Access.pdf  0%  100%  
+	    New File  		  311201	Given-FOR EVIDENCE ONLY-2.pdf  0%  100%  
+	    New File  		  311345	Given-LOIC.pdf  0%  100%  
+	    New File  		   20582	Given-PRODUCT LIABILITY Certificate of Insurance (GENERAL) for $5000000 for 12 months April 1st 2010 - March 31st 2011.pdf  0%  100%  
+	    New File  		  290916	Item#'s.pdf  0%  100%  
+	    New File  		   40960	Olympus_Quote_04_10_2012.pdf  0%  100%  
+	    New File  		  244737	Pentax Endo service agreement.pdf  0%  100%  
+	    New File  		   42483	Pentax Service Quotation Stanford.pdf  0%  100%  
+	    New File  		   53349	POCopy.pdf  0%  100%  
+	    New File  		   55109	POCopy2.pdf  0%  100%  
+	    New File  		   23489	Pro_Forma_Invoice_7231566.pdf  0%  100%  
+	    New File  		   53240	S11-113041.pdf  0%  100%  
+	    New File  		   53240	S11-113041x.pdf  0%  100%  
+	    New File  		  111756	Sensor Array Stanford(2).pdf  0%  100%  
+	    New File  		  326771	SmartPill lanyard and belt clip.pdf  0%  100%  
+	    New File  		   69694	SRQuote_SR12-121.pdf  0%  100%  
+	    New File  		  302840	Stanford AccuView Promo Quote.pdf  0%  100%  
+	    New File  		  302304	Stanford AR Catheter Quote.pdf  0%  100%  
+	    New File  		   37765	Stanford Balloon quotation.pdf  0%  100%  
+	    New File  		   39541	Stanford balloon quote.pdf  0%  100%  
+	    New File  		  302840	Stanford Bravo Receiver Discount(4).pdf  0%  100%  
+	    New File  		  302840	Stanford Digitrapper Promo.pdf  0%  100%  
+	    New File  		   45625	Stanford EUS Probe System.pdf  0%  100%  
+	    New File  		  257791	Stanford EUS quote 1-20-12.pdf  0%  100%  
+	    New File  		   87176	Stanford Hospital  Clinics   pm.pdf  0%  100%  
+	    New File  		   56765	Stanford Hospital  Clinics - Olympus.pdf  0%  100%  
+	    New File  		  255252	Stanford Interventional Serice Contract  36 mths presite needed Draft 1 xls.pdf  0%  100%  
+	    New File  		  331784	Stanford Rapid Access 6 5.pdf  0%  100%  
+	    New File  		   83791	Stanford University Omega Deluxe CS-50FP ERCP 80kW - CMIQ2292.pdf  0%  100%  
+	    New File  		   52605	Stanford_209111-Q0-0_Snares_6-1-11.pdf  0%  100%  
+	    New File  		   44032	Stanford_EUS_Scope_with_Trade-149112-.pdf  0%  100%  
+	    New File  		   37888	Stanford_GI_Video_Cable-138266-.pdf  0%  100%  
+	    New File  		   38912	Stanford_IT_Knives_and_Grasper-126072-.pdf  0%  100%  
+	    New File  		  321927	US Manometry - pH and pH-Z Price List - April 2012 xls.pdf  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0016400\Recall\
+	    New File  		  551752	baxter viaflex solutions_201306031203.pdf  0%  100%  
+	    New File  		  138626	biosense webster mobicath device corr labelinguse.pdf  0%  100%  
+	    New File  		   1.6 m	Biosense Webster.pdf  0%  100%  
+	    New File  		  123977	Bravo Recall Letter Final 010312.pdf  0%  100%  
+	    New File  		  883693	edwards femflexii_201404071352.pdf  0%  100%  
+	    New File  		  599904	ethicon evicel recall.pdf  0%  100%  
+	    New File  		  174726	hospira solution recall.pdf  0%  100%  
+	    New File  		  254787	ISMP_13 01 24.pdf  0%  100%  
+	    New File  		   1.3 m	stryker penadapt_201404071121.pdf  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\RECYCLER\
+	  New Dir         62	\\shintnpscfs116\T$\Users7\S0016400\RECYCLER\S-1-5-21-1292407741-3760857420-1411248183-80266\
+	    New File  		  133853	D@100.pdf  0%  100%  
+	    New File  		   13238	D@40.XLSX  0%  100%  
+	    New File  		   84993	D@42.pdf  0%  100%  
+	    New File  		  788538	D@43.pdf  0%  100%  
+	    New File  		  100042	D@44.pdf  0%  100%  
+	    New File  		  100042	D@45.pdf  0%  100%  
+	    New File  		  400498	D@46.pdf  0%  100%  
+	    New File  		   1.2 m	D@47.pdf  0%  100%  
+	    New File  		   89802	D@48.pdf  0%  100%  
+	    New File  		  255667	D@49.pdf  0%  100%  
+	    New File  		  502851	D@50.pdf  0%  100%  
+	    New File  		  208495	D@51.pdf  0%  100%  
+	    New File  		  287979	D@52.pdf  0%  100%  
+	    New File  		  533966	D@53.pdf  0%  100%  
+	    New File  		  199001	D@54.pdf  0%  100%  
+	    New File  		   92544	D@55.pdf  0%  100%  
+	    New File  		  377200	D@56.pdf  0%  100%  
+	    New File  		  390449	D@57.pdf  0%  100%  
+	    New File  		  389682	D@58.pdf  0%  100%  
+	    New File  		    4836	D@59.pdf  0%  100%  
+	    New File  		  310992	D@60.pdf  0%  100%  
+	    New File  		  788538	D@61.pdf  0%  100%  
+	    New File  		    1333	D@62.lnk  0%  100%  
+	    New File  		    1333	D@63.lnk  0%  100%  
+	    New File  		   61235	D@64.JPG  0%  100%  
+	    New File  		  333837	D@65.docx  0%  100%  
+	    New File  		  311201	D@66.pdf  0%  100%  
+	    New File  		  311345	D@67.pdf  0%  100%  
+	    New File  		   20582	D@68.pdf  0%  100%  
+	    New File  		   12992	D@69.XLSX  0%  100%  
+	    New File  		   13253	D@70.XLSX  0%  100%  
+	    New File  		  343596	D@71.pdf  0%  100%  
+	    New File  		  333884	D@72.docx  0%  100%  
+	    New File  		   1.4 m	D@73.pdf  0%  100%  
+	    New File  		  152460	D@74.docx  0%  100%  
+	    New File  		   26033	D@75.docx  0%  100%  
+	    New File  		   24566	D@76.docx  0%  100%  
+	    New File  		  251109	D@77.pdf  0%  100%  
+	    New File  		   13699	D@78.XLSX  0%  100%  
+	    New File  		  103776	D@79.pdf  0%  100%  
+	    New File  		   13448	D@80.XLSX  0%  100%  
+	    New File  		   62464	D@81.xls  0%  100%  
+	    New File  		   62464	D@82.xls  0%  100%  
+	    New File  		   56832	D@83.xls  0%  100%  
+	    New File  		   56832	D@84.xls  0%  100%  
+	    New File  		   62976	D@85.xls  0%  100%  
+	    New File  		   14302	D@86.xlsx  0%  100%  
+	    New File  		   18267	D@87.xlsx  0%  100%  
+	    New File  		   24025	D@88.docx  0%  100%  
+	    New File  		  589562	D@89.pdf  0%  100%  
+	    New File  		  198804	D@90.pdf  0%  100%  
+	    New File  		  197798	D@91.pdf  0%  100%  
+	    New File  		  198730	D@92.pdf  0%  100%  
+	    New File  		  198759	D@93.pdf  0%  100%  
+	    New File  		  197737	D@94.pdf  0%  100%  
+	    New File  		  198698	D@95.pdf  0%  100%  
+	    New File  		  197844	D@96.pdf  0%  100%  
+	    New File  		  105379	D@97.docx  0%  100%  
+	    New File  		  101413	D@98.docx  0%  100%  
+	    New File  		  124052	D@99.pdf  0%  100%  
+	    New File  		      65	desktop.ini  0%  100%  
+	    New File  		   48820	INFO2  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\RECYCLER\S-1-5-21-1292407741-3760857420-1411248183-80266\D@41\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Recycling\
+	    New File  		   12192	Copy of MOR Recycling Daily Audit .xlsx  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\Reflection\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Reports\
+	    New File  		   18668	Copy of Endoscopy FY13 case load summary  xlsx.xlsx  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0016400\Resource\
+	    New File  		   15540	CAPR RSN SW.docx  0%  100%  
+	    New File  		   16369	Copy of Endoscopy PRE RSN TRACKING TOOL.xlsx  0%  100%  
+	    New File  		   58282	device notification.pdf  0%  100%  
+	    New File  		   67170	resourse nurse time tracking2011.docx  0%  100%  
+	    New File  		  107314	Turnover time.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\RMA\
+	    New File  		   59758	Pentax 11-1-12.pdf  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\RPIW\
+	    New File  		  169356	Charter - DRAFT- 9-11-13.pptx  0%  100%  
+	    New File  		  167897	Charter - FINAL - 9-13-13.pptx  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\Safe\
+	    New File  		  534729	Manager Review FAQ's.pdf  0%  100%  
+	    New File  		  236008	SAFE Downtime Event Entry Form_2012_04_19.pdf  0%  100%  
+	    New File  		   91452	SAFE eval Template.docx  0%  100%  
+	  New Dir         13	\\shintnpscfs116\T$\Users7\S0016400\Scan docs\
+	    New File  		   90326	201302071441.pdf  0%  100%  
+	    New File  		  135821	5-5 exception sheet.pdf  0%  100%  
+	    New File  		  843728	ACLS-BLS.pdf  0%  100%  
+	    New File  		  314977	CAF,COIF, CA.pdf  0%  100%  
+	    New File  		  165917	Epic.pdf  0%  100%  
+	    New File  		  135409	fLOAT.pdf  0%  100%  
+	    New File  		  113515	Pentax long term loaner.pdf  0%  100%  
+	    New File  		  247407	Pentax US scope.pdf  0%  100%  
+	    New File  		   98844	Pre Breath Test.pdf  0%  100%  
+	    New File  		  438279	Rapid Access Purchase Req.pdf  0%  100%  
+	    New File  		  156550	Spyglass cable.pdf  0%  100%  
+	    New File  		  170060	Ticket.pdf  0%  100%  
+	    New File  		  134796	Traveler and CBW.pdf  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\Scheduling committee\
+	    New File  		   43008	Meeting Minutes Self-scheduling committee (12-21-2010).doc  0%  100%  
+	    New File  		   33280	Scheduling Committee Guideline 01022011.doc  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0016400\Scholarship\
+	    New File  		   40269	SHCRenewalApp.pdf  0%  100%  
+	    New File  		   29522	shcTransformationScholarshipConsiderationForm.pdf  0%  100%  
+	    New File  		   59073	transformationScholarshipApplicationSHC.pdf  0%  100%  
+	    New File  		   43327	transformationScholarshipGuidelinesSHC.pdf  0%  100%  
+	    New File  		   59300	transformationScholarshipReimbursementSHC.pdf  0%  100%  
+	  New Dir         18	\\shintnpscfs116\T$\Users7\S0016400\Scopes\
+	    New File  		   9.0 m	CA Endo PO.pdf  0.0%100%  
+	    New File  		   8.6 m	Cal Endo contract.pdf  0.0%100%  
+	    New File  		  214007	Cal Endo Pick Up Slip.pdf  0%  100%  
+	    New File  		  202337	Cal Endo Ser Con Quote.pdf  0%  100%  
+	    New File  		   16349	Copy of RAFEALEndoscopy New equipment list in Epic  WITH ERP'S.xlsx  0%  100%  
+	    New File  		   35429	Endoscopy_scopes_012013_012014.xlsx  0%  100%  
+	    New File  		  131072	Legal edits Pentax updated Addendum to Stanford Confocal Endomicroscopy LTL v 3 September 6 2012.doc  0%  100%  
+	    New File  		  502851	Loaner agreement.pdf  0%  100%  
+	    New File  		  168179	non latex balloon ad.pdf  0%  100%  
+	    New File  		   16340	OLYMPUS SCOPES.xlsx  0%  100%  
+	    New File  		   40960	Olympus_Quote_04_10_2012.pdf  0%  100%  
+	    New File  		   1.5 m	Owner's Manual for Confocal Imaging System ISC-1000(Z793-R06).pdf  0%  100%  
+	    New File  		   66048	Pentax Inventory List.xls  0%  100%  
+	    New File  		   14127	Pentax MPS tutorial.docx  0%  100%  
+	    New File  		  166655	Scanned from a Xerox multifunction device001.pdf  0%  100%  
+	    New File  		   39541	Stanford balloon quote.pdf  0%  100%  
+	    New File  		  255252	Stanford Interventional Serice Contract  36 mths presite needed Draft 1 xls.pdf  0%  100%  
+	    New File  		   3.6 m	Z792-R06_OP.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Screenshots\
+	    New File  		   82215	Endo Case Tracking screenshots.docx  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Signs\
+	    New File  		   10235	Out.docx  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\SOP\
+	    New File  		   14540	Goal.docx  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0016400\Staff complaints\
+	    New File  		   13235	Grace 3.docx  0%  100%  
+	    New File  		   17662	Grace.docx  0%  100%  
+	    New File  		   14362	Grace2.docx  0%  100%  
+	    New File  		   15532	Safe report by Brett Higham PACU.docx  0%  100%  
+	    New File  		   13839	Teresita again.docx  0%  100%  
+	    New File  		   13748	Teresita.docx  0%  100%  
+	    New File  		   14312	Teresita-Mini.docx  0%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0016400\Staff Evals\
+	    New File  		   20546	Carpenter, Jane.docx  0%  100%  
+	    New File  		  309248	Compensation Summary For Nursing Personne1 S B .doc  0%  100%  
+	    New File  		  309248	Compensation Summary For Nursing Personne1 S.B..doc  0%  100%  
+	    New File  		  307200	Compensation Summary For Nursing Personnel.doc  0%  100%  
+	    New File  		   42057	Endo Tech RC.docx Raul  0%  100%  
+	    New File  		   22044	Keller, Joanne 2011.docx  0%  100%  
+	    New File  		   20197	Keller, Joanne.docx  0%  100%  
+	    New File  		   59392	Ralph,DianeJA.doc  0%  100%  
+	    New File  		   21779	SN Performance Summary Master.docx  0%  100%  
+	    New File  		   1.0 m	TK.pdf  0%  100%  
+	  New Dir         12	\\shintnpscfs116\T$\Users7\S0016400\Staff excused\
+	    New File  		   82740	20130805104840270.pdf  0%  100%  
+	    New File  		   80206	20130823112341816.pdf  0%  100%  
+	    New File  		  211137	20130917152934777.pdf  0%  100%  
+	    New File  		   77007	20140325081027138.pdf  0%  100%  
+	    New File  		   75541	20140326094700779.pdf  0%  100%  
+	    New File  		   77146	20140414160506922.pdf  0%  100%  
+	    New File  		   15412	CESLA Allowance Chart.xlsx  0%  100%  
+	    New File  		   81064	Deb Gilman.pdf  0%  100%  
+	    New File  		   20447	Medical re broken arm  0%  100%  
+	    New File  		  569392	NilarKhaing_MedicalTreatmentVerification.pdf  0%  100%  
+	    New File  		   35516	SREO - New Form.htm  0%  100%  
+	    New File  		  287615	T. Keith.pdf  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\Staff Meetings\
+	    New File  		   65927	Endoscopy Staff Meeting 11613.pptx  0%  100%  
+	    New File  		   70251	Endoscopy Staff Meeting June 5 .pptx  0%  100%  
+	    New File  		   45056	Staff Meeting 05-25-2011 (2).doc  0%  100%  
+	    New File  		  501490	Staff Meeting 2 6 2013.pptx  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Staff numbers\
+	    New File  		  311288	Staff numbers.pdf  0%  100%  
+	  New Dir         38	\\shintnpscfs116\T$\Users7\S0016400\Staff Photos\
+	    New File  		   2.8 m	1 (1).jpg  0%  100%  
+	    New File  		   3.1 m	1 (10).jpg  0%  100%  
+	    New File  		   2.7 m	1 (11).jpg  0%  100%  
+	    New File  		   2.4 m	1 (12).jpg  0%  100%  
+	    New File  		   2.1 m	1 (13).jpg  0%  100%  
+	    New File  		   2.7 m	1 (14).jpg  0%  100%  
+	    New File  		   3.0 m	1 (15).jpg  0%  100%  
+	    New File  		   2.7 m	1 (16).jpg  0%  100%  
+	    New File  		   2.8 m	1 (17).jpg  0%  100%  
+	    New File  		   3.2 m	1 (18).jpg  0%  100%  
+	    New File  		   3.1 m	1 (19).jpg  0%  100%  
+	    New File  		   3.1 m	1 (2).jpg  0%  100%  
+	    New File  		   3.0 m	1 (20).jpg  0%  100%  
+	    New File  		   2.8 m	1 (21).jpg  0%  100%  
+	    New File  		   2.5 m	1 (22).jpg  0%  100%  
+	    New File  		   2.5 m	1 (23).jpg  0%  100%  
+	    New File  		   3.0 m	1 (24).jpg  0%  100%  
+	    New File  		   2.6 m	1 (25).jpg  0%  100%  
+	    New File  		   2.5 m	1 (26).jpg  0%  100%  
+	    New File  		   2.7 m	1 (27).jpg  0%  100%  
+	    New File  		   2.6 m	1 (28).jpg  0%  100%  
+	    New File  		   2.9 m	1 (3).jpg  0%  100%  
+	    New File  		   2.9 m	1 (4).jpg  0%  100%  
+	    New File  		   3.1 m	1 (5).jpg  0%  100%  
+	    New File  		   2.9 m	1 (6).jpg  0%  100%  
+	    New File  		   2.8 m	1 (7).jpg  0%  100%  
+	    New File  		   3.1 m	1 (8).jpg  0%  100%  
+	    New File  		   2.8 m	1 (9).jpg  0%  100%  
+	    New File  		   2.9 m	1.jpg  0%  100%  
+	    New File  		   1.3 m	18786 Stanford Endoscopy 2013.pdf  0%  100%  
+	    New File  		  209845	Mexico.JPG  0%  100%  
+	    New File  		  138976	New Image.JPG  0%  100%  
+	    New File  		  156841	New Image2.JPG  0%  100%  
+	    New File  		  155950	New Image3.JPG  0%  100%  
+	    New File  		  137787	New Image4.JPG  0%  100%  
+	    New File  		  171354	New Image5.JPG  0%  100%  
+	    New File  		  829221	New Image6.JPG  0%  100%  
+	    New File  		   96256	Thumbs.db  0%  100%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0016400\Staff Resign\
+	    New File  		   48758	201408131611.pdf  0%  100%  
+	    New File  		   47467	Phillip White resignation letter.pdf  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0016400\Staff Time Cards\
+	    New File  		  278672	3-26 and 3-27.pdf  0%  100%  
+	    New File  		  146374	8-25 exep. sheet.pdf  0%  100%  
+	    New File  		   56832	Copy of Lance STAFF MASTER TIMECARD.xls  0%  100%  
+	    New File  		  195962	Jane.pdf  0%  100%  
+	    New File  		   96417	shift codes.docx  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0016400\Staff warnings\
+	    New File  		   35573	Final Written Warning Template.docx  0%  100%  
+	    New File  		   13963	Grace Lim.docx  0%  100%  
+	    New File  		   18171	Investigatory meeting.docx  0%  100%  
+	    New File  		   13222	Julie C.docx  0%  100%  
+	    New File  		   44544	Verbal Warning Template .doc  0%  100%  
+	    New File  		   38152	Written Warning Template - Individual Incident.docx  0%  100%  
+	    New File  		   36580	Written Warning Template.docx  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Staff warnings\KG\
+	    New File  		   13239	KG late.docx  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\SUMMM IT UP\
+	    New File  		   8.6 m	SUMMM IT UP_2013_03_26.pptx  0.0%100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Super user\
+	    New File  		   48565	Change Summary Bulletin_Printing Notes_05-07-2013.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Supplies\
+	    New File  		   27456	Pro Forma Invoice.mht  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\Temp\
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0016400\Templates\
+	    New File  		  130408	Anorectal%20Manometry%20A%201%2003%20EN0001.tif  0%  100%  
+	    New File  		  233472	ENDO Competency TEMPLATE.doc  0%  100%  
+	    New File  		   23412	FAPC 11.09.pdf  0%  100%  
+	    New File  		  746742	Interview-RN-SHC Guide.docx  0%  100%  
+	    New File  		   11070	LAWSON TEMPLATE.docx  0%  100%  
+	    New File  		   13794	Pager Sign-out sheets.docx  0%  100%  
+	    New File  		   45568	Template-DO NOT DELETE.doc  0%  100%  
+	    New File  		   19968	THERAPEUTIC   ENDOSCOPY  SKILLS  CHECKLIST.doc  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0016400\Time charges\
+	    New File  		   13244	CHARGES LEVEL BASED 8-23-12.xlsx  0%  100%  
+	    New File  		   66019	Copy of Endo time charge conversion 092012 update.xlsx  0%  100%  
+	    New File  		   67476	Copy of Endo time charge conversion 2-7-13 update.xlsx  0%  100%  
+	    New File  		   63577	Endo time charge conversion 072512.xlsx  0%  100%  
+	    New File  		   67174	Endo time charge conversion 100312 update.xlsx  0%  100%  
+	    New File  		  332288	Endoscopy Time Charge Conversion 2012.ppt  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\TOTW\
+	    New File  		  931361	Tip of the Week 3.27.12.pptx  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\Tracers\
+	    New File  		   53986	Copy of Copy of Patient Safety 09 01 11.xlsx  0%  100%  
+	    New File  		   13391	Copy of CSR-NPSG Tracer Priorities  2 27 13.xlsx  0%  100%  
+	    New File  		   13410	Copy of CSR-NPSG Tracer Priorities  2 8 13.xlsx  0%  100%  
+	    New File  		   18267	Tracer Schedule Grid.xlsx  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Transport services\
+	    New File  		   13411	Transportation.docx  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\Transport Tracking\
+	    New File  		  183347	PatientTracking Transport QRG.DOCX  0%  100%  
+	    New File  		   13540	Transportation.docx  0%  100%  
+	    New File  		  409498	TransportTracking Requester Guide.pdf  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0016400\Travelers\
+	    New File  		  313860	7-23 and 24.pdf  0%  100%  
+	    New File  		  192572	750274.pdf  0%  100%  
+	    New File  		  235370	Ashley Clarke.pdf  0%  100%  
+	    New File  		  219342	Complete Palo Alto Profile - Melissa T .pdf  0%  100%  
+	    New File  		    4752	Confirmelabonte.htm  0%  100%  
+	    New File  		  225251	Liezel Torres profile.pdf  0%  100%  
+	    New File  		  293717	Marsha Calderon.pdf  0%  100%  
+	    New File  		   17922	Onslow County Sherrif.docx  0%  100%  
+	    New File  		  906662	Performance-Eval-Form-LIVE.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0016400\Troutman\
+	    New File  		  102778	BMB-102799 Endo K Troutman F17 glasses x3.htm  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0016400\Troutman\BMB-102799 Endo K Troutman F17 glasses x3_files\
+	    New File  		     314	colorschememapping.xml  0%  100%  
+	    New File  		     255	filelist.xml  0%  100%  
+	    New File  		    3104	themedata.thmx  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0016400\Turnaround Time\
+	    New File  		   72704	03_16 Process Improvement-Turnaround times-1[1].doc  0%  100%  
+	    New File  		   72192	03-30 Process Improvement-Turnaround times-11.doc  0%  100%  
+	    New File  		  144950	Endo TOT Tracker.docx  0%  100%  
+	    New File  		  888320	Endo turnover April-July 2012.xls  0%  100%  
+	    New File  		   79872	Endoscopy Issue Trackers.vsd  0%  100%  
+	    New File  		  164864	FY 12 Charges Turnaround Days.xls  0%  100%  
+	    New File  		   10885	Turnaround time new temp(1).xlsx  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0016400\US Endo\
+	    New File  		   1.3 m	760747C_Spec Sheet Oracle EUS Balloon US Version.pdf  0%  100%  
+	    New File  		  303903	AquaShield_US_Spec_Sheet_CO2.pdf  0%  100%  
+	    New File  		   12933	Copy of Cross Reference US Endoscopy 3 7 2013.xlsx  0%  100%  
+	    New File  		   13671	Copy of Endochoice Cross Reference to US Endoscopy 3 7 2013.xlsx  0%  100%  
+	    New File  		   14794	Copy of Standford Current and Converted with Savings 3 15 2013.xlsx  0%  100%  
+	    New File  		   16635	NEW ITEM TEMPLATE  US Endoscopy  3 29 2013.xlsx  0%  100%  
+	    New File  		   90849	Quote2013112204550355.pdf  0%  100%  
+	    New File  		  165888	Stanford Medical Center Stocking Agreement (Endoscopy Kits) 3 2013.doc  0%  100%  
+	    New File  		   17628	Stanford Tier Break Down and Pricing 1 18 2013.xlsx  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0016400\Vendormate\
+	    New File  		   15273	Huddle Sign In Sheet.docx  0%  100%  
+	    New File  		  234429	Vendormate Badge Sign In Process Huddle Sheet.docx  0%  100%  
+	    New File  		  234429	Vendormate Badge Sign In Process Huddle Sheet-2014-08-13T102512.docx  0%  100%  
+	    New File  		  234429	Vendormate Badge Sign In Process Huddle Sheet-2014-08-13T102512-2014-09-03T194059.docx  0%  100%  
+	    New File  		  399750	Vendormate InService Slides.pptx  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0016400\Vis Wall\
+	    New File  		  309765	Core Measure SBAR.docx  0%  100%  
+	    New File  		   76568	Falls Prevention SBAR.docx  0%  100%  
+	    New File  		  135999	Performance Improvement Model PDCA w circle.pptx  0%  100%  
+	    New File  		  898177	SHC Mission and Vision.pptx  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0016400\Welcome\
+	    New File  		   33075	Endoscopy welcome_CHN.docx  0%  100%  
+	    New File  		  129081	Endoscopy welcome_CHN.pdf  0%  100%  
+	    New File  		   26624	EndoscopyWelcome-Spanish.doc  0%  100%  
+	    New File  		  396137	Welcome to Endoscopy revised 2.pdf  0%  100%  
+	    New File  		   35269	Welcome to Endoscopy revised 2_Rus.docx  0%  100%  
+	    New File  		  127941	Welcome to Endoscopy Vietnamese revised Dec 2010 _2_.pdf  0%  100%  
+	    New File  		   39525	Welcome to Endoscopy, Vietnamese, revised, Dec 2010.docx  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0016400\WINDOWS\
+	    New File  		     533	ilan_txt.ini  0%  100%  
+	    New File  		      71	iltwain.ctx  0%  100%  
+	    New File  		      71	iltwain.ini  0%  100%  
+	    New File  		      54	inifile.upd  0%  100%  
+	    New File  		   43008	Minutes Template.doc  0%  100%  
+	    New File  		     634	win.ctx  0%  100%  
+	    New File  		     634	win.ini  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0016400\WINDOWS\system\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :       249       249         0         0         0         0
+   Files :      2103      2103         0         0         0         0
+   Bytes :   2.512 g   2.512 g         0         0         0         0
+   Times :   0:10:16   0:09:51                       0:00:00   0:00:24
+
+
+   Speed :             4559306 Bytes/sec.
+   Speed :             260.885 MegaBytes/min.
+
+   Ended : Sun Mar 27 11:42:02 2016

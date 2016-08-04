@@ -1,0 +1,985 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Sun Mar 27 08:35:45 2016
+
+   Source : \\shintnpscfs116\T$\Users7\S0065305\
+     Dest : \\shintnpscfs116\W$\T_drive(disabled_users)_users7\users7\S0065305\
+
+    Files : *.*
+	    
+  Options : *.* /TEE /S /E /COPY:DATS /DCOPY:T /ZB /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0065305\
+	    New File  		     566	desktop.ini  0%  100%  
+	    New File  		   19456	Thumbs.db  0%  100%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0065305\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0065305\1300 Crane Street\
+	    New File  		   26112	1300 Crane Street Phase 2 Budget.xls  0%  100%  
+	    New File  		   26624	MMC Both Projects Narrative.doc  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0065305\1300 Crane Street\1300 Crane Plans\
+	    New File  		  362092	E3.1.pdf  0%  100%  
+	    New File  		  345712	E3.2.pdf  0%  100%  
+	    New File  		  288846	E3.3.pdf  0%  100%  
+	    New File  		   5.3 m	Pernit Dwgs Rev-Arch.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0065305\1300 Crane Street\1300 Schedules\
+	    New File  		   89599	Menlo Medical Clinic Construction Schedule.pdf  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0065305\1300 Crane Street\Bid Docs\
+	    New File  		   59229	Menlo Medical Clinic - Novo Bid Breakdown.pdf  0%  100%  
+	    New File  		   70092	Menlo Medical Clinic Clarifications & Exclusions.pdf  0%  100%  
+	    New File  		   89599	Menlo Medical Clinic Construction Schedule.pdf  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0065305\321 Middlefield MMC\
+	    New File  		  549417	Menlo Medical Clinic-Taber.pdf  0%  100%  
+	    New File  		   13824	MMC 321 Bid Tabulation 100%DD Docs.xls  0%  100%  
+	    New File  		   18271	Novo Menlo Medical 321 Middlefield Construction Proposal 4_27_09.pdf  0%  100%  
+	    New File  		  200192	NT Lewis MMC 321 Middlefield Proposal 04.24.09.doc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0065305\Ambulatory Care\
+	    New File  		   13235	2009312 Brayton Hughes Contract and COs.xlsx  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0065305\Blake Wilbur\
+	    New File  		   43487	Blake Wilbur 1st & Ground Fl Lobby Remodel_SHC_Estimate_form(1).xlsm  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\Bluetooth Exchange Folder\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\cache\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\cache\TempFile\
+	  New Dir         12	\\shintnpscfs116\T$\Users7\S0065305\Design and Construction\
+	    New File  		  113664	20120120-PDC-Proliance Project Roles mg-lahRv2.xls  0%  100%  
+	    New File  		  256477	contracter 4-17.pdf  0%  100%  
+	    New File  		  138240	Copy of EE Expense Form2009.xls  0%  100%  
+	    New File  		  175104	Copy of EEExpenseForm.xls  0%  100%  
+	    New File  		  140800	Darren Jones EE Expense Form 7-24-2009.xls  0%  100%  
+	    New File  		  140288	Darren Jones EE Expense Form2009.xls  0%  100%  
+	    New File  		  441545	Darren Jones HCD Registration.pdf  0%  100%  
+	    New File  		   26624	Darren Jones July '09 cash flow forecast.xls  0%  100%  
+	    New File  		    9657	Darren Jones Schedule.xlsx  0%  100%  
+	    New File  		    4139	HCD 2010 Registration Darren Jones.txt  0%  100%  
+	    New File  		   15886	Updating ACRs.docx  0%  100%  
+	    New File  		  250314	vendor 4-17.pdf  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0065305\Executive Health\
+	    New File  		   1.4 m	S25C-110120918290.pdf  0%  100%  
+	    New File  		   40250	Stanfornd_Ambulatory_Care_Clinic-Executive_Health_Cost_Break_down_Rev_1_.pdf  0%  100%  
+	    New File  		   38035	Stanfornd_Ambulatory_Care_Clinic-Executive_Health_VE.pdf  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0065305\H-1\
+	    New File  		  213578	770 Welch Initial Layouts Suite 181.pdf  0%  100%  
+	    New File  		   96166	770 Welch Pulmanory Clinic.pdf  0%  100%  
+	    New File  		   88064	A - E Contract Requirements - Nuc Med D-Spect.doc  0%  100%  
+	    New File  		   39424	Bid Form TI #1.doc  0%  100%  
+	    New File  		   39936	Bid Form TI #2.doc  0%  100%  
+	    New File  		   26405	EQUIP OLNY PMM 200705 export Jan 2011.xlsx  0%  100%  
+	    New File  		   70778	H1 Nursing Unit SHC Estimate form.xlsm  0%  100%  
+	    New File  		   44234	H1 Nursing Unit_SHC_Estimate_form(1).xlsm  0%  100%  
+	    New File  		   34726	PMM 200705 export Jan 2011.xlsx  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Desktop\
+	    New File  		    1511	Calculator.lnk  0%  100%  
+	    New File  		     550	Jones, Darren.lnk  0%  100%  
+	    New File  		     474	Lanier Files.lnk  0%  100%  
+	    New File  		     422	My Pictures.lnk  0%  100%  
+	    New File  		    1330	restorealldisplaytabs.reg  0%   98%   98%  100%  
+	    New File  		     799	Windows Media Player.lnk  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Desktop\Adobe Reader 9 Installer\
+	    New File  		  198032	AIRShareInstaller.exe  0%  100%  
+	    New File  		  295606	Folder.jpg  0%  100%  
+	    New File  		  308584	Setup.exe  0%  100%  
+	    New File  		     290	Setup.ini  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Desktop\Adobe Reader 9 Installer\AIR\
+	    New File  		   6.5 m	Adobe AIR Installer.exe  0.0%100%  
+	    New File  		   1.4 m	mauby.air  0%  100%  
+	    New File  		  211784	nosso_air.exe  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Desktop\Adobe Reader 9 Installer\READER9\
+	    New File  		    1728	abcpy.ini  0%  100%  
+	    New File  		   1.7 m	AcroRead.msi  0%  100%  
+	    New File  		 102.5 m	Data1.cab  0.0% 15.6% 31.2% 46.8% 62.4% 78.0% 93.6%100%  
+	    New File  		  341352	Setup.exe  0%  100%  
+	    New File  		     292	setup.ini  0%  100%  
+	  New Dir         54	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Favorites\
+	    New File  		     231	511.org - Your Bay Area travel guide.url  0%   20%   20%  100%  
+	    New File  		     211	Alameda Free Library.url  0%  100%  
+	    New File  		     186	Alameda Power and Telecom Welcome.url  0%  100%  
+	    New File  		     191	Alameda Sun - Home.url  0%  100%  
+	    New File  		     207	Anderson Collection.url  0%  100%  
+	    New File  		     197	BarkerBlue Digital.url  0%  100%  
+	    New File  		     234	Bing.url  0%   20%   20%  100%  
+	    New File  		     237	Charles Schwab.url  0%  100%  
+	    New File  		     211	Chez Panisse Restaurant.url  0%  100%  
+	    New File  		     303	Citibank Online - Sign On.url  0%   10%   10%  100%  
+	    New File  		    5575	CNBC Stock Market News, Business News, Financial, Earnings, World Market News and Information - CNBC.com.url  0%   26%   26%  100%  
+	    New File  		  152387	CNN.com - Breaking News, U.S., World, Weather, Entertainment & Video News.url  0%   96%   96%  100%  
+	    New File  		     619	CORENET Career Center on the SelectLeaders Real Estate Job Site Network.url  0%   30%   30%  100%  
+	    New File  		     122	Desktop.ini  0%  100%  
+	    New File  		     994	EARTHQUAKES for San Francisco.url  0%   41%   41%  100%  
+	    New File  		     122	East Bay Regional Park District  Embrace Life!.url  0%  100%  
+	    New File  		     236	East Bay SPCA.url  0%  100%  
+	    New File  		     164	EPSi.url  0%  100%  
+	    New File  		     534	Google.url  0%   31%   31%  100%  
+	    New File  		     354	Guest Home - LEED Online.url  0%  100%  
+	    New File  		     190	Guide Dogs for the Blind Pairing people with trained service dogs at no charge.url  0%  100%  
+	    New File  		     273	Hand Printed Quilt Fabric, Quilting Patterns, Quilting Fabric, Iowa Quilt Shop.url  0%   46%   46%  100%  
+	    New File  		     658	Home  VyStar Credit Union.url  0%   31%   31%  100%  
+	    New File  		     223	Japanese Food, Japanese Groceries - Online Japanese Supermarket for delivery or pick up.url  0%    8%    8%  100%  
+	    New File  		     221	Lake County Land under 50 acres.url  0%  100%  
+	    New File  		     394	MapQuest Maps - Driving Directions - Map.url  0%   25%   25%  100%  
+	    New File  		     195	Michelle Kaufmann Studio.url  0%  100%  
+	    New File  		      81	MSDN.url  0%  100%  
+	    New File  		     146	MSDS-Chemquik.url  0%  100%  
+	    New File  		   73764	MSNBC.url  0%   83%   83%  100%  
+	    New File  		     141	MSOnet.url  0%  100%  
+	    New File  		    1896	National and Local Weather Forecast, Hurricane, Radar and Report.url  0%   19%   19%  100%  
+	    New File  		     246	National HURRICANE Center.url  0%   21%   21%  100%  
+	    New File  		     267	NBC 12 Bay Area - Local News, Weather, Traffic, Entertainment, Events, Breaking News  NBC Bay Area.url  0%   18%   18%  100%  
+	    New File  		     253	Oakland Tribune - Home - Inside Bay Area.url  0%  100%  
+	    New File  		     172	Pediatric Heart Center Database.url  0%  100%  
+	    New File  		     300	Proliance Dashboard.url  0%  100%  
+	    New File  		     653	PROLIANCE V 3.65.0264.url  0%   22%   22%  100%  
+	    New File  		  162162	SFGate.url  0%   99%   99%  100%  
+	    New File  		     144	Stand.url  0%  100%  
+	    New File  		     140	Stanford Campus Downtime Reports.url  0%  100%  
+	    New File  		     132	Stanford Mall.url  0%  100%  
+	    New File  		     140	Stanford Offsite Clinics Downtime Reports.url  0%  100%  
+	    New File  		     140	Stanford Pharmacy Downtime Reports.url  0%  100%  
+	    New File  		     268	Stanford University Medical Center Renewal Project.url  0%   16%   16%  100%  
+	    New File  		     140	Stanford University Medical Center.url  0%  100%  
+	    New File  		     246	Stanford University.url  0%   24%   24%  100%  
+	    New File  		     206	Sudden Moneyr Institute - Financial Transitions Planning.url  0%  100%  
+	    New File  		     211	Support.url  0%    5%    5%  100%  
+	    New File  		     350	TIMELINK.url  0%   19%   19%  100%  
+	    New File  		     236	USGBC LEED Professional Accreditation.url  0%  100%  
+	    New File  		     195	Web Budgeting Tool.url  0%  100%  
+	    New File  		     214	Welcome to StanfordEMedicine for Employees.url  0%  100%  
+	    New File  		     174	Yahoo!.url  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Favorites\CV Med-CT Surg Clinic Favorites\
+	    New File  		     140	ECG.url  0%  100%  
+	    New File  		     150	Echo Lab.url  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Favorites\Links\
+	    New File  		     160	Customize Links.url  0%  100%  
+	    New File  		     112	MSDS-Chemquik.url  0%  100%  
+	    New File  		     107	MSOnet.url  0%  100%  
+	    New File  		     137	Pediatric Heart Center Database.url  0%  100%  
+	    New File  		     106	Stanford Campus Downtime Reports.url  0%  100%  
+	    New File  		     106	Stanford Offsite Clinics Downtime Reports.url  0%  100%  
+	    New File  		     106	Stanford Pharmacy Downtime Reports.url  0%  100%  
+	    New File  		     169	Windows Marketplace.url  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Favorites\LPCH Sites to Explore\
+	    New File  		     170	LPCH Community Physician Directory.url  0%  100%  
+	    New File  		     167	LPCH Faculty Physician Directory.url  0%  100%  
+	    New File  		     113	LPCH Nursing Education.url  0%  100%  
+	    New File  		     136	LPCH Web Site.url  0%  100%  
+	    New File  		     143	Vaccine Information Statements.url  0%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Favorites\LPCH Web Based Applications\
+	    New File  		     161	Cerner.url  0%  100%  
+	    New File  		     146	Hospital Paging.url  0%  100%  
+	    New File  		     147	LPCH Nursing Education.url  0%  100%  
+	    New File  		     141	MD Paging.url  0%  100%  
+	    New File  		     150	Medical Center Directory.url  0%  100%  
+	    New File  		     151	Quantros.url  0%  100%  
+	    New File  		     166	Reference - PEDBASE.url  0%  100%  
+	    New File  		     132	Referene - PEDBASE.url  0%  100%  
+	    New File  		     181	SHC Learning Management System.url  0%  100%  
+	    New File  		     158	Trust Commerce.url  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Favorites\Microsoft Websites\
+	    New File  		     160	IE Add-on site.url  0%  100%  
+	    New File  		     160	IE site on Microsoft.com.url  0%  100%  
+	    New File  		     160	Marketplace.url  0%  100%  
+	    New File  		     160	Microsoft At Home.url  0%  100%  
+	    New File  		     160	Microsoft At Work.url  0%  100%  
+	    New File  		     160	Welcome to IE7.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Favorites\Smart Paging\
+	    New File  		     146	Smart Paging Application.url  0%  100%  
+	    New File  		     172	Smart Paging Help - Introduction.url  0%  100%  
+	    New File  		     146	Smart Paging Help - Placing Pages & Using Features.url  0%  100%  
+	    New File  		     172	Smart Paging Help - Using Smart Paging.url  0%  100%  
+	  New Dir         32	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Favorites\SMG-SFM Favorites\
+	    New File  		     109	AAFP - American Family Physician.url  0%  100%  
+	    New File  		     158	AAFP Clin Policy.url  0%  100%  
+	    New File  		     243	AAP - American Academy of Pediatrics.url  0%  100%  
+	    New File  		     153	AAP Clin Policy.url  0%  100%  
+	    New File  		     162	Adult Immunization.url  0%  100%  
+	    New File  		     143	AFP.url  0%  100%  
+	    New File  		     105	CA Internet Formulary Reference.url  0%  100%  
+	    New File  		     143	CDC - Adult Immunization.url  0%  100%  
+	    New File  		     143	CDC - Child Immunization.url  0%  100%  
+	    New File  		     121	CDC - Travel Advise.url  0%  100%  
+	    New File  		     169	CDC Prevent Guides.url  0%  100%  
+	    New File  		     162	Child Immunization PDF.url  0%  100%  
+	    New File  		     185	Child Immunization.url  0%  100%  
+	    New File  		     167	Healinx User.url  0%  100%  
+	    New File  		     139	HMO Formulary.url  0%  100%  
+	    New File  		     162	Medem Health Info.url  0%  100%  
+	    New File  		     158	Natl Guideline Clearing House.url  0%  100%  
+	    New File  		     268	NHLBI Health Info -  National Heart, Lung, and Blood Institute.url  0%  100%  
+	    New File  		     157	NHLBI Health Info.url  0%  100%  
+	    New File  		     249	Nicholas Institute of Sports Medicine .url  0%  100%  
+	    New File  		     138	Nichol's Institute.url  0%  100%  
+	    New File  		     102	Palo Alto Medical Foundation - PAMF.url  0%  100%  
+	    New File  		     115	PDR - Physicians' Desk Reference.url  0%  100%  
+	    New File  		     149	PDR.url  0%  100%  
+	    New File  		     241	SFM - Stanford Family Medicine .url  0%  100%  
+	    New File  		     140	SFP Home.url  0%  100%  
+	    New File  		     189	SHC Contracts.url  0%  100%  
+	    New File  		     290	SHC Managed Care Contracts.url  0%  100%  
+	    New File  		     252	SMG - Stanford Medical Group.url  0%  100%  
+	    New File  		     151	SMG Home.url  0%  100%  
+	    New File  		     141	Travel Advise.url  0%  100%  
+	    New File  		     140	Trip Prep.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Favorites\Stanford Clinical Laboratory\
+	    New File  		     218	DISASTER PLAN - Stanford Clinical Lab and Anatomic Pathology.url  0%  100%  
+	    New File  		     143	Lab Internet Site.url  0%  100%  
+	    New File  		     155	Lab Intranet Site.url  0%  100%  
+	    New File  		     165	Sharepoint Lab Home Site.url  0%  100%  
+	  New Dir         16	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Favorites\Stanford Sites to Explore\
+	    New File  		     171	Find Cancer Clinical Trials.url  0%  100%  
+	    New File  		     114	Hospital url.url  0%  100%  
+	    New File  		     169	ICD 9 Coding.url  0%  100%  
+	    New File  		     148	Lane Library.url  0%  100%  
+	    New File  		     150	Medical Center Directory.url  0%  100%  
+	    New File  		     164	Medical Staff Roster.url  0%  100%  
+	    New File  		     128	Oncore url.url  0%  100%  
+	    New File  		     144	School of Medicine.url  0%  100%  
+	    New File  		     184	SHC Community Physician Directory.url  0%  100%  
+	    New File  		     181	SHC Faculty Physician Directory.url  0%  100%  
+	    New File  		     270	SHC Physician Directory.url  0%  100%  
+	    New File  		     148	SHC Web Site.url  0%  100%  
+	    New File  		     148	Stanford Intranet.url  0%  100%  
+	    New File  		     249	Stanford Intranets.url  0%  100%  
+	    New File  		     154	Stanford University Medical Center.url  0%  100%  
+	    New File  		     140	Stanford University.url  0%  100%  
+	  New Dir         22	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Favorites\Stanford Web Based Applications\
+	    New File  		     148	BOB (Knowledgebase).url  0%  100%  
+	    New File  		     148	Emerg-Med.url  0%  100%  
+	    New File  		     108	Ether.url  0%  100%  
+	    New File  		     219	HealthStream.url  0%  100%  
+	    New File  		     147	Hill-Rom On Demand.url  0%  100%  
+	    New File  		     149	HIPAA Information.url  0%  100%  
+	    New File  		     150	Lexicomp.url  0%  100%  
+	    New File  		     141	MICROMEDEX(R) Healthcare Series.url  0%  100%  
+	    New File  		     242	MSOnet.url  0%  100%  
+	    New File  		     145	PAMF - portal.url  0%  100%  
+	    New File  		     106	PAMF Sutter Health Citrix Portal.url  0%  100%  
+	    New File  		     144	Portal Backup Site.url  0%  100%  
+	    New File  		     150	Profee Ontrac.url  0%  100%  
+	    New File  		     146	Radiology Images.url  0%  100%  
+	    New File  		     253	SHC Carecast Online Learning Center.url  0%  100%  
+	    New File  		     260	SHC Learning Management System.url  0%  100%  
+	    New File  		     144	Spheris Clarity Care and Complete.url  0%  100%  
+	    New File  		     244	Stanford Lab.url  0%  100%  
+	    New File  		     153	Stanford Physician Portal.url  0%  100%  
+	    New File  		     147	SUMC Outlook Web Access.url  0%  100%  
+	    New File  		     113	TissueTrackCore.url  0%  100%  
+	    New File  		     158	Trust Commerce.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Favorites\Stanford Web Based Applications\Smart Paging\
+	    New File  		     112	Smart Paging Application.url  0%  100%  
+	    New File  		     138	Smart Paging Help - Introduction.url  0%  100%  
+	    New File  		     112	Smart Paging Help - Placing Pages & Using Features.url  0%  100%  
+	    New File  		     138	Smart Paging Help - Using Smart Paging.url  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Favorites\Stanford Web Based Applications\SmartPage\
+	    New File  		     253	Smart Page Portal.url  0%  100%  
+	    New File  		     252	Smart Paging Application.url  0%  100%  
+	    New File  		     278	Smart Paging Help - Introduction.url  0%  100%  
+	    New File  		     252	Smart Paging Help - Placing Pages.url  0%  100%  
+	    New File  		     278	Smart Paging Help - Using Features.url  0%  100%  
+	  New Dir         20	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Favorites\Travel\
+	    New File  		     451	Airline Seating Charts - Best Airplane Seats - SeatGuru.url  0%    8%    8%  100%  
+	    New File  		     193	Airline Tickets and Airline Reservations from American Airlines  AA.com.url  0%  100%  
+	    New File  		     215	Alameda - Oakland Ferry Service.url  0%  100%  
+	    New File  		     264	Atlantis Events.url  0%   16%   16%  100%  
+	    New File  		     242	BART - Bay Area Rapid Transit.url  0%   14%   14%  100%  
+	    New File  		     385	Cheap Flights, Airline Tickets, Cheap Airfare & Discount Travel Deals - Kayak.com.url  0%  100%  
+	    New File  		     914	Cheap Flights, Hotels, Destinations  Bing Travel.url  0%  100%  
+	    New File  		     399	Delta Air Lines - Airline Tickets and Airfare to Worldwide Destinations.url  0%   25%   25%  100%  
+	    New File  		     228	Edelweiss Lodge and Resort.url  0%  100%  
+	    New File  		     226	http--www.harleyfarms.com-.url  0%   20%   20%  100%  
+	    New File  		     154	Isle Inn Tours - Ireland Vacations, Ireland Tours, Ireland Travel, Ireland Tourism.url  0%  100%  
+	    New File  		     250	Kobe Travel Kobe Harborland.url  0%   44%   44%  100%  
+	    New File  		     543	Kyoto Travel Guide Official.url  0%  100%  
+	    New File  		     168	Northwest Airlines - Airline Tickets, Plane Tickets & Airfare.url  0%  100%  
+	    New File  		     234	Southwest Airlines  Book Flights, Airline Tickets, Airfare.url  0%    8%    8%  100%  
+	    New File  		    1277	TokyoMap.com - Free detailed map of Tokyo, Japan in English.url  0%   47%   47%  100%  
+	    New File  		     240	United Airlines - Airline Tickets, Airline Reservations, Flight Airfare.url  0%   14%   14%  100%  
+	    New File  		     480	US Airways  Airline tickets, vacations & business flights.url  0%   29%   29%  100%  
+	    New File  		     397	US Airways  America West Airlines - Official Site.url  0%  100%  
+	    New File  		    1214	XE - Universal Currency Converter.url  0%   51%   51%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Outlook\
+	    New File  		  452958	Default Outlook Profile.NK2  0%  100%  
+	    New File  		    3072	Default Outlook Profile.srs  0%  100%  
+	    New File  		    6165	Default Outlook Profile.xml  0%  100%  
+	    New File  		    2664	outcmd.dat  0%  100%  
+	    New File  		   39744	OutlPrnt  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0065305\LAP02432 4-6-11\Signatures\
+	    New File  		    1362	Darren S. Jones.htm  0%  100%  
+	    New File  		    5253	Darren S. Jones.rtf  0%  100%  
+	    New File  		     670	Darren S. Jones.txt  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\
+	    New File  		    1163	Emeryville - Shortcut.lnk  0%  100%  
+	    New File  		    1024	Jones, Darren - Shortcut.lnk  0%  100%  
+	    New File  		     882	LanierFiles - Shortcut.lnk  0%  100%  
+	    New File  		    1270	Research Match.lnk  0%  100%  
+	  New Dir        114	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\
+	    New File  		     231	511.org - Your Bay Area travel guide.url  0%   20%   20%  100%  
+	    New File  		     262	Alameda County Industries.url  0%   24%   24%  100%  
+	    New File  		     358	Alameda Free Library.url  0%  100%  
+	    New File  		     240	Alameda Municipal Power - Alameda Municipal Power.url  0%   17%   17%  100%  
+	    New File  		     249	Alameda Point Info  Alameda Point Info - Exploring the Future of Alameda Point.url  0%  100%  
+	    New File  		     191	Alameda Sun - Home.url  0%  100%  
+	    New File  		     207	Anderson Collection.url  0%  100%  
+	    New File  		     296	Audi European Delivery  Audi USA.url  0%   20%   20%  100%  
+	    New File  		     290	Audi USA  This is Truth in Engineering..url  0%   20%   20%  100%  
+	    New File  		     158	Babbo.url  0%  100%  
+	    New File  		     362	Background Documents  City of Alameda.url  0%   23%   23%  100%  
+	    New File  		     197	BarkerBlue Digital.url  0%  100%  
+	    New File  		     296	Bing.url  0%    6%    6%  100%  
+	    New File  		     192	California Department of Public Health.url  0%  100%  
+	    New File  		     227	Capital One Credit Cards, Bank, and Loans - Personal and Business.url  0%   20%   20%  100%  
+	    New File  		     232	Cassidy Turleyc.url  0%   16%   16%  100%  
+	    New File  		     237	Charles Schwab.url  0%  100%  
+	    New File  		     211	Chez Panisse Restaurant.url  0%  100%  
+	    New File  		     294	C-I-CARE.url  0%   20%   20%  100%  
+	    New File  		     693	Citibank Online - Sign On.url  0%   21%   21%  100%  
+	    New File  		    5575	CNBC Stock Market News, Business News, Financial, Earnings, World Market News and Information - CNBC.com.url  0%  100%  
+	    New File  		     206	CNN.com - Breaking News, U.S., World, Weather, Entertainment & Video News.url  0%    3%    3%  100%  
+	    New File  		     422	CORENET Career Center on the SelectLeaders Real Estate Job Site Network.url  0%   23%   23%  100%  
+	    New File  		     158	Cumming Construction Management.url  0%  100%  
+	    New File  		     158	Del Posto.url  0%  100%  
+	    New File  		     264	Design Build Institute.url  0%   18%   18%  100%  
+	    New File  		      84	desktop.ini  0%  100%  
+	    New File  		     344	DIRECTV..url  0%  100%  
+	    New File  		    1432	Discovery IGS 730 - Interventional X-ray for Cardiology - Interventional Image Guided Systems - Products - gehealthcare.com.url  0%  100%  
+	    New File  		     994	EARTHQUAKES for San Francisco.url  0%  100%  
+	    New File  		     196	Earthquakes.url  0%  100%  
+	    New File  		     122	East Bay Regional Park District  Embrace Life!.url  0%  100%  
+	    New File  		     236	East Bay SPCA.url  0%  100%  
+	    New File  		     489	Electrolux Kitchen Collection.url  0%    3%    3%  100%  
+	    New File  		    1843	Energy Team France.url  0%  100%  
+	    New File  		     164	EPSi.url  0%  100%  
+	    New File  		    2109	Exchange Online Store [C203] - Home Page.url  0%   60%   60%  100%  
+	    New File  		     268	Gator Football Schedule-Results - GatorZone.com.url  0%    2%    2%  100%  
+	    New File  		    1287	Google.url  0%   19%   19%  100%  
+	    New File  		     354	Guest Home - LEED Online.url  0%  100%  
+	    New File  		     190	Guide Dogs for the Blind Pairing people with trained service dogs at no charge.url  0%  100%  
+	    New File  		     273	Hand Printed Quilt Fabric, Quilting Patterns, Quilting Fabric, Iowa Quilt Shop.url  0%  100%  
+	    New File  		    1108	HealthCare Design Conference.url  0%  100%  
+	    New File  		     247	HealthEquity Login.url  0%   14%   14%  100%  
+	    New File  		     235	HealthySteps.url  0%  100%  
+	    New File  		     658	Home  VyStar Credit Union.url  0%  100%  
+	    New File  		     223	HOME PORT - Aircraft Carrier USS Hornet Museum.url  0%  100%  
+	    New File  		     301	https--careers-cummingcorporation.icims.com-jobs-intro.url  0%    6%    6%  100%  
+	    New File  		     251	https--us1.aconex.com-LogonAction=Login.url  0%  100%  
+	    New File  		     278	Hudson Valley Tourism  Home.url  0%   19%   19%  100%  
+	    New File  		     317	I Work 4 SHC - Login.url  0%    0%    0%   45%   91%  100%  
+	    New File  		     149	ITSM Self Service Portal (SSP).url  0%  100%  
+	    New File  		     221	Lake County Land under 50 acres.url  0%  100%  
+	    New File  		     202	Lawrence Berkeley National Laboratory.url  0%  100%  
+	    New File  		     217	Le Bernardin . 155 West 51st Street . New York City . 212-554-1515.url  0%    0%    0%  100%  
+	    New File  		     259	Lean Healthcare Solutions  Virginia Mason Institute.url  0%  100%  
+	    New File  		     466	LG Electronics Consumer Electronics & Appliances from LG  LG USA.url  0%   28%   28%  100%  
+	    New File  		     257	Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com.url  0%   22%   22%  100%  
+	    New File  		    1173	MapQuest Maps - Driving Directions - Map.url  0%   50%   50%  100%  
+	    New File  		     149	Mental Health Reporting System (MHRS).url  0%  100%  
+	    New File  		     195	Michelle Kaufmann Studio.url  0%  100%  
+	    New File  		     375	Microsoft Exchange - Outlook Web Access.url  0%  100%  
+	    New File  		     208	Mileage Calculator - Rand McNally.url  0%  100%  
+	    New File  		      81	MSDN.url  0%  100%  
+	    New File  		     146	MSDS-Chemquik.url  0%  100%  
+	    New File  		  167399	MSNBC.url  0%  100%  
+	    New File  		     164	MSOW Priv Inquiry.url  0%  100%  
+	    New File  		     287	MyHealth at Stanford - Login Page.url  0%   16%   16%  100%  
+	    New File  		    1697	National and Local Weather Forecast, Hurricane, Radar and Report.url  0%   17%   17%  100%  
+	    New File  		     246	National HURRICANE Center.url  0%  100%  
+	    New File  		     164	Navicare Nurse Call.url  0%  100%  
+	    New File  		     267	NBC 12 Bay Area - Local News, Weather, Traffic, Entertainment, Events, Breaking News  NBC Bay Area.url  0%   18%   18%  100%  
+	    New File  		     253	Oakland Tribune - Home - Inside Bay Area.url  0%  100%  
+	    New File  		     451	Official New York CityPASSr  Visit 6 New York Attractions for $109.url  0%   28%   28%  100%  
+	    New File  		     184	Palm Springs Midcentury Modern Homes for Sale and Rent.url  0%  100%  
+	    New File  		     172	Pediatric Heart Center Database.url  0%  100%  
+	    New File  		     522	Pet Health  The Internet's Premier Pet Health Resource  Find a Veterinarian.url  0%  100%  
+	    New File  		     226	Project Frog.url  0%   13%   13%  100%  
+	    New File  		     300	Proliance Dashboard.url  0%  100%  
+	    New File  		     653	PROLIANCE V 3.65.0264.url  0%   22%   22%  100%  
+	    New File  		     226	Rancho Gordo, Napa CALIF New World Specialty Food.url  0%    8%    8%  100%  
+	    New File  		     376	Rewarding a Healthy You.url  0%   21%   21%  100%  
+	    New File  		    1310	RTP Law Design Build Blog.url  0%   26%   26%  100%  
+	    New File  		     172	SF Superior Court of California - County of San Francisco.url  0%  100%  
+	    New File  		  432272	SFGate.url  0%   99%   99%  100%  
+	    New File  		     166	SHC CMS.url  0%  100%  
+	    New File  		    6183	Shooting in Richlands - Topix.url  0%   81%   81%  100%  
+	    New File  		     304	Shutters 30% off, Plantation Shutters  Interior Wood Shutters for Windows From The Shutter Store.url  0%   20%   20%  100%  
+	    New File  		    5181	Sigalert.com San Francisco Traffic Map.url  0%  100%  
+	    New File  		     144	Stand.url  0%  100%  
+	    New File  		     140	Stanford downtime Reports.url  0%  100%  
+	    New File  		     132	Stanford Mall.url  0%  100%  
+	    New File  		     153	Stanford Medicine Box.url  0%  100%  
+	    New File  		     268	Stanford University Medical Center Renewal Project.url  0%  100%  
+	    New File  		     140	Stanford University Medical Center.url  0%  100%  
+	    New File  		     246	Stanford University.url  0%  100%  
+	    New File  		     206	Sudden Moneyr Institute - Financial Transitions Planning.url  0%  100%  
+	    New File  		     211	Sunset - Your Guide to Living in the West.url  0%  100%  
+	    New File  		     211	Support.url  0%  100%  
+	    New File  		     301	The Bocuse Restaurant - Classic French Cuisine in New York.url  0%    0%    0%  100%  
+	    New File  		    1746	The Book of Mormon on Broadway  Official Website.url  0%   66%   66%  100%  
+	    New File  		     166	The Oak Hill School.url  0%  100%  
+	    New File  		     204	Transamerica Retirement Solutions.url  0%    3%    3%  100%  
+	    New File  		     363	Travel Distance Calculator -Distance Between Cities, Travel Distances - Worldatlas.com.url  0%   23%   23%  100%  
+	    New File  		     176	UESUGI & ASSOCIATES.url  0%  100%  
+	    New File  		     236	USGBC LEED Professional Accreditation.url  0%  100%  
+	    New File  		     195	Web Budgeting Tool.url  0%  100%  
+	    New File  		     669	weightwatchers.com Log In.url  0%  100%  
+	    New File  		     992	WeightWatchers.com Online for Men.url  0%  100%  
+	    New File  		     214	Welcome to StanfordEMedicine for Employees.url  0%  100%  
+	    New File  		     151	Workforce Management (IWork4SHC).url  0%  100%  
+	    New File  		     174	Yahoo!.url  0%  100%  
+	    New File  		     148	ZGF.url  0%  100%  
+	    New File  		     160	Zojirushi.url  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\CLIENT LAB USERS\
+	    New File  		     178	LABUSERS.url  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\CV Med-CT Surg Clinic Favorites\
+	    New File  		     140	ECG.url  0%  100%  
+	    New File  		     150	Echo Lab.url  0%  100%  
+	  New Dir         11	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\Links\
+	    New File  		    7268	CNN.url  0%   57%   57%  100%  
+	    New File  		     264	DBIA.url  0%   18%   18%  100%  
+	    New File  		      80	desktop.ini  0%  100%  
+	    New File  		     220	Google Maps.url  0%    3%    3%  100%  
+	    New File  		     237	Google.url  0%    4%    4%  100%  
+	    New File  		     317	iWork4SHC.url  0%    0%    0%   45%   91%  100%  
+	    New File  		    1488	MSNBC.url  0%    8%    8%  100%  
+	    New File  		    1980	News 4 Jax.url  0%   58%   58%  100%  
+	    New File  		     337	Proliance.url  0%  100%  
+	    New File  		    4458	SFGate.url  0%   83%   83%  100%  
+	    New File  		    1071	SigAlert.url  0%   49%   49%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\Links for United States\
+	    New File  		     224	desktop.ini  0%  100%  
+	    New File  		     134	GobiernoUSA.gov.url  0%  100%  
+	    New File  		     134	USA.gov.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\LPCH Sites to Explore\
+	    New File  		     170	LPCH Community Physician Directory.url  0%  100%  
+	    New File  		     167	LPCH Faculty Physician Directory.url  0%  100%  
+	    New File  		     136	LPCH Web Site.url  0%  100%  
+	    New File  		     143	Vaccine Information Statements.url  0%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\LPCH Web Based Applications\
+	    New File  		     161	Cerner.url  0%  100%  
+	    New File  		     146	Hospital Paging.url  0%  100%  
+	    New File  		     147	LPCH Nursing Education.url  0%  100%  
+	    New File  		     141	MD Paging.url  0%  100%  
+	    New File  		     150	Medical Center Directory.url  0%  100%  
+	    New File  		     151	Quantros.url  0%  100%  
+	    New File  		     166	Reference - PEDBASE.url  0%  100%  
+	    New File  		     181	SHC Learning Management System.url  0%  100%  
+	    New File  		     154	Stanford Children's Portal.url  0%  100%  
+	    New File  		     158	Trust Commerce.url  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\Microsoft Websites\
+	    New File  		     133	IE Add-on site.url  0%  100%  
+	    New File  		     133	IE site on Microsoft.com.url  0%  100%  
+	    New File  		     133	Microsoft At Home.url  0%  100%  
+	    New File  		     133	Microsoft At Work.url  0%  100%  
+	    New File  		     134	Microsoft Store.url  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\MSN Websites\
+	    New File  		     133	MSN Autos.url  0%  100%  
+	    New File  		     133	MSN Entertainment.url  0%  100%  
+	    New File  		     133	MSN Money.url  0%  100%  
+	    New File  		     133	MSN Sports.url  0%  100%  
+	    New File  		     133	MSN.url  0%  100%  
+	    New File  		     133	MSNBC News.url  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\SHC WEB-BASED APPLICATIONS\
+	    New File  		     194	WEB-BASED APPLICATIONS.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\Smart Paging\
+	    New File  		     146	Smart Paging Application.url  0%  100%  
+	    New File  		     172	Smart Paging Help - Introduction.url  0%  100%  
+	    New File  		     146	Smart Paging Help - Placing Pages & Using Features.url  0%  100%  
+	    New File  		     172	Smart Paging Help - Using Smart Paging.url  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\SMG-SFM Favorites\
+	    New File  		     153	AAP Clin Policy.url  0%  100%  
+	    New File  		     162	Adult Immunization.url  0%  100%  
+	    New File  		     143	AFP.url  0%  100%  
+	    New File  		     162	Medem Health Info.url  0%  100%  
+	    New File  		     157	NHLBI Health Info.url  0%  100%  
+	    New File  		     138	Nichol's Institute.url  0%  100%  
+	    New File  		     141	Travel Advise.url  0%  100%  
+	    New File  		     140	Trip Prep.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\Stanford Clinical Laboratory\
+	    New File  		     218	DISASTER PLAN - Stanford Clinical Lab and Anatomic Pathology.url  0%  100%  
+	    New File  		     143	Lab Internet Site.url  0%  100%  
+	    New File  		     155	Lab Intranet Site.url  0%  100%  
+	    New File  		     165	Sharepoint Lab Home Site.url  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\Stanford Sites to Explore\
+	    New File  		     169	ICD 9 Coding.url  0%  100%  
+	    New File  		     148	Stanford Intranet.url  0%  100%  
+	  New Dir         62	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\Stanford Web Based Applications\
+	    New File  		     231	511.org - Your Bay Area travel guide.url  0%  100%  
+	    New File  		     211	Alameda Free Library.url  0%  100%  
+	    New File  		     186	Alameda Power and Telecom Welcome.url  0%  100%  
+	    New File  		     191	Alameda Sun - Home.url  0%  100%  
+	    New File  		     207	Anderson Collection.url  0%  100%  
+	    New File  		     197	BarkerBlue Digital.url  0%  100%  
+	    New File  		     234	Bing.url  0%  100%  
+	    New File  		     143	BOB Knowledgebase.url  0%  100%  
+	    New File  		     149	CathLab Images.url  0%  100%  
+	    New File  		     237	Charles Schwab.url  0%  100%  
+	    New File  		     211	Chez Panisse Restaurant.url  0%  100%  
+	    New File  		     303	Citibank Online - Sign On.url  0%  100%  
+	    New File  		    5575	CNBC Stock Market News, Business News, Financial, Earnings, World Market News and Information - CNBC.com.url  0%  100%  
+	    New File  		  152387	CNN.com - Breaking News, U.S., World, Weather, Entertainment & Video News.url  0%  100%  
+	    New File  		     619	CORENET Career Center on the SelectLeaders Real Estate Job Site Network.url  0%  100%  
+	    New File  		     994	EARTHQUAKES for San Francisco.url  0%  100%  
+	    New File  		     122	East Bay Regional Park District  Embrace Life!.url  0%  100%  
+	    New File  		     236	East Bay SPCA.url  0%  100%  
+	    New File  		     147	Echocardiology Images.url  0%  100%  
+	    New File  		     150	Enterprise Image Archive.url  0%  100%  
+	    New File  		     534	Google.url  0%  100%  
+	    New File  		     354	Guest Home - LEED Online.url  0%  100%  
+	    New File  		     190	Guide Dogs for the Blind Pairing people with trained service dogs at no charge.url  0%  100%  
+	    New File  		     273	Hand Printed Quilt Fabric, Quilting Patterns, Quilting Fabric, Iowa Quilt Shop.url  0%  100%  
+	    New File  		     156	HealthStream.url  0%  100%  
+	    New File  		     147	Hill-Rom On Demand.url  0%  100%  
+	    New File  		     658	Home  VyStar Credit Union.url  0%  100%  
+	    New File  		     223	Japanese Food, Japanese Groceries - Online Japanese Supermarket for delivery or pick up.url  0%  100%  
+	    New File  		     221	Lake County Land under 50 acres.url  0%  100%  
+	    New File  		     163	Lawson Portal.url  0%  100%  
+	    New File  		     156	Lexicomp.url  0%  100%  
+	    New File  		     166	lifeIMAGE Inbox - Log in.url  0%  100%  
+	    New File  		     394	MapQuest Maps - Driving Directions - Map.url  0%  100%  
+	    New File  		     195	Michelle Kaufmann Studio.url  0%  100%  
+	    New File  		     164	MICROMEDEX(R) Healthcare Series.url  0%  100%  
+	    New File  		      81	MSDN.url  0%  100%  
+	    New File  		   73764	MSNBC.url  0%  100%  
+	    New File  		    1896	National and Local Weather Forecast, Hurricane, Radar and Report.url  0%  100%  
+	    New File  		     246	National HURRICANE Center.url  0%  100%  
+	    New File  		     267	NBC 12 Bay Area - Local News, Weather, Traffic, Entertainment, Events, Breaking News  NBC Bay Area.url  0%  100%  
+	    New File  		     154	nStream Images.url  0%  100%  
+	    New File  		     253	Oakland Tribune - Home - Inside Bay Area.url  0%  100%  
+	    New File  		     145	PAMF - portal.url  0%  100%  
+	    New File  		     144	Portal Backup Site.url  0%  100%  
+	    New File  		     150	Profee Ontrac.url  0%  100%  
+	    New File  		     300	Proliance Dashboard.url  0%  100%  
+	    New File  		     653	PROLIANCE V 3.65.0264.url  0%  100%  
+	    New File  		     146	Radiology Images.url  0%  100%  
+	    New File  		  162162	SFGate.url  0%  100%  
+	    New File  		     144	Spheris Clarity Care and Complete.url  0%  100%  
+	    New File  		     132	Stanford Mall.url  0%  100%  
+	    New File  		     268	Stanford University Medical Center Renewal Project.url  0%  100%  
+	    New File  		     140	Stanford University Medical Center.url  0%  100%  
+	    New File  		     246	Stanford University.url  0%  100%  
+	    New File  		     206	Sudden Moneyr Institute - Financial Transitions Planning.url  0%  100%  
+	    New File  		     147	SUMC Outlook Web Access.url  0%  100%  
+	    New File  		     211	Support.url  0%  100%  
+	    New File  		     350	TIMELINK.url  0%  100%  
+	    New File  		     158	Trust Commerce.url  0%  100%  
+	    New File  		     236	USGBC LEED Professional Accreditation.url  0%  100%  
+	    New File  		     214	Welcome to StanfordEMedicine for Employees.url  0%  100%  
+	    New File  		     174	Yahoo!.url  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\Stanford Web Based Applications\Links\
+	    New File  		     169	Windows Marketplace.url  0%  100%  
+	  New Dir         25	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\Stanford Web Based Applications\Travel\
+	    New File  		     451	Airline Seating Charts - Best Airplane Seats - SeatGuru.url  0%  100%  
+	    New File  		     193	Airline Tickets and Airline Reservations from American Airlines  AA.com.url  0%  100%  
+	    New File  		     215	Alameda - Oakland Ferry Service.url  0%  100%  
+	    New File  		     264	Atlantis Events.url  0%  100%  
+	    New File  		     242	BART - Bay Area Rapid Transit.url  0%  100%  
+	    New File  		     385	Cheap Flights, Airline Tickets, Cheap Airfare & Discount Travel Deals - Kayak.com.url  0%  100%  
+	    New File  		     914	Cheap Flights, Hotels, Destinations  Bing Travel.url  0%  100%  
+	    New File  		     399	Delta Air Lines - Airline Tickets and Airfare to Worldwide Destinations.url  0%  100%  
+	    New File  		     228	Edelweiss Lodge and Resort.url  0%  100%  
+	    New File  		    2856	HarrisRanch Inn & Restaurant - Shop, Stay and Dine.url  0%  100%  
+	    New File  		     226	http--www.harleyfarms.com-.url  0%  100%  
+	    New File  		     154	Isle Inn Tours - Ireland Vacations, Ireland Tours, Ireland Travel, Ireland Tourism.url  0%  100%  
+	    New File  		     250	Kobe Travel Kobe Harborland.url  0%  100%  
+	    New File  		     543	Kyoto Travel Guide Official.url  0%  100%  
+	    New File  		     168	Northwest Airlines - Airline Tickets, Plane Tickets & Airfare.url  0%  100%  
+	    New File  		     258	Pacific Place Hong Kong.url  0%  100%  
+	    New File  		     158	Sonoma Hotel, Russian River Bed and Breakfast, Sonoma Wine Country Lodging, Guerneville, CA.url  0%  100%  
+	    New File  		     234	Southwest Airlines  Book Flights, Airline Tickets, Airfare.url  0%  100%  
+	    New File  		     340	The Upper House.url  0%  100%  
+	    New File  		    1277	TokyoMap.com - Free detailed map of Tokyo, Japan in English.url  0%  100%  
+	    New File  		     240	United Airlines - Airline Tickets, Airline Reservations, Flight Airfare.url  0%  100%  
+	    New File  		     340	Upper House Hong Kong.url  0%  100%  
+	    New File  		     480	US Airways  Airline tickets, vacations & business flights.url  0%  100%  
+	    New File  		     397	US Airways  America West Airlines - Official Site.url  0%  100%  
+	    New File  		    1214	XE - Universal Currency Converter.url  0%  100%  
+	  New Dir         47	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\Travel\
+	    New File  		     781	Airline Seating Charts - Best Airplane Seats - SeatGuru.url  0%   14%   14%  100%  
+	    New File  		     215	Alameda - Oakland Ferry Service.url  0%  100%  
+	    New File  		     193	American Airlines  AA.com.url  0%  100%  
+	    New File  		     234	ANA, All Nippon Airways web site  ANA - North America.url  0%  100%  
+	    New File  		   14845	Atlantis Events.url  0%  100%  
+	    New File  		     259	Avis Car Rental - Rent A Car with Avis.url  0%  100%  
+	    New File  		     264	BART - Bay Area Rapid Transit.url  0%   15%   15%  100%  
+	    New File  		     445	British Airways.url  0%   24%   24%  100%  
+	    New File  		     168	Budapest Christmas Things To Do - Budapest Christmas.url  0%  100%  
+	    New File  		    1784	Burg Colmberg Hotel.url  0%   68%   68%  100%  
+	    New File  		     524	Cathay Pacific US.url  0%  100%  
+	    New File  		     263	Celebrity Cruise Line  Celebrity Cruises.url  0%  100%  
+	    New File  		     307	Central Singapore Hotel - The Fullerton Hotel Singapore - Luxury Hotel Singapore.url  0%  100%  
+	    New File  		     977	Cheap Flights, Hotels, Destinations  Bing Travel.url  0%  100%  
+	    New File  		     400	Delta Air Lines - Airline Tickets and Airfare to Worldwide Destinations.url  0%    9%    9%  100%  
+	    New File  		     228	Edelweiss Lodge and Resort.url  0%  100%  
+	    New File  		    4607	Expedia Travel Vacations, Cheap Flights, Airline Tickets & Airfares.url  0%   80%   80%  100%  
+	    New File  		     195	Germanwings - Book cheap flights.url  0%  100%  
+	    New File  		     417	Hawaiian Airlines.url  0%   22%   22%  100%  
+	    New File  		     271	Hilton HHonors  A Hotel Rewards Program.url  0%    4%    4%  100%  
+	    New File  		     943	Hotel in Singapore  Official Site Marina Bay Sands Singapore  Luxury Hotel Casino.url  0%  100%  
+	    New File  		     226	http--www.harleyfarms.com-.url  0%  100%  
+	    New File  		     939	Hyatt Hotels and Resorts - Make Reservations Online at Hyatt.com.url  0%   44%   44%  100%  
+	    New File  		     154	Isle Inn Tours - Ireland Vacations, Ireland Tours, Ireland Travel, Ireland Tourism.url  0%  100%  
+	    New File  		     225	JAPAN AIRLINES - American Region - Flights, Tickets, Airfare, and Tours to Japan, China, and Asia.url  0%  100%  
+	    New File  		     223	Japan National Tourism Organization.url  0%  100%  
+	    New File  		     250	Kobe Travel Kobe Harborland.url  0%  100%  
+	    New File  		     543	Kyoto Travel Guide Official.url  0%  100%  
+	    New File  		     356	Lufthansa - Online flight offers  No booking fee  Sale fares to Europe.url  0%   23%   23%  100%  
+	    New File  		    1459	Luxury Hotel in Bangkok  Mandarin Oriental Hotel, Bangkok.url  0%  100%  
+	    New File  		     404	More Possibilities - Confirmation.url  0%   25%   25%  100%  
+	    New File  		     168	Northwest Airlines - Airline Tickets, Plane Tickets & Airfare.url  0%  100%  
+	    New File  		     296	Norwegian Air.url  0%   24%   24%  100%  
+	    New File  		     424	Official Singapore Tourism Website - YourSingapore.com.url  0%  100%  
+	    New File  		     246	Plane Tickets, Flights And Airfares  Virgin America.url  0%   17%   17%  100%  
+	    New File  		     192	Prague Tourist Information  Prague Travel Guide.url  0%  100%  
+	    New File  		     261	San Francisco Bay Ferry.url  0%   18%   18%  100%  
+	    New File  		     179	Singapore Hotel  Official Site Raffles Hotel Singapore  Luxury Hotel.url  0%  100%  
+	    New File  		     220	Southwest Airlines  Book Flights, Airline Tickets, Airfare.url  0%   16%   16%  100%  
+	    New File  		    1277	TokyoMap.com - Free detailed map of Tokyo, Japan in English.url  0%  100%  
+	    New File  		     240	United Airlines - Airline Tickets, Airline Reservations, Flight Airfare.url  0%  100%  
+	    New File  		     365	Upper House Hong Kong.url  0%  100%  
+	    New File  		     480	US Airways  Airline tickets, vacations & business flights.url  0%   29%   29%  100%  
+	    New File  		     232	Virgin America.url  0%   16%   16%  100%  
+	    New File  		     783	Waikiki Hotels  Moana Surfrider, A Westin Resort & Spa  Waikiki Beach Resorts.url  0%  100%  
+	    New File  		     148	Western Railway Museum - Solano County - California.url  0%  100%  
+	    New File  		    1214	XE - Universal Currency Converter.url  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\UHA\
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\UHA\Brentwood\
+	    New File  		     156	ADP.url  0%  100%  
+	    New File  		     166	Centricity.url  0%  100%  
+	    New File  		     167	HealthStream.url  0%  100%  
+	    New File  		     144	HillinSite.url  0%  100%  
+	    New File  		     175	John Muir Health Clinic.url  0%  100%  
+	    New File  		     194	LabCorp Beacon.url  0%  100%  
+	    New File  		     161	Quest Diagnostic.url  0%  100%  
+	    New File  		     143	Tenet.url  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\UHA\Concord\
+	    New File  		     176	CarePad.url  0%  100%  
+	    New File  		     175	John Muir Health Clinical.url  0%  100%  
+	    New File  		     143	Tenet Application Portal.url  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\UHA\EBFP\
+	    New File  		     156	ADP.url  0%  100%  
+	    New File  		     138	CAIR.url  0%  100%  
+	    New File  		     165	Care360.url  0%  100%  
+	    New File  		     186	CitrixWeb.url  0%  100%  
+	    New File  		     163	First Data.url  0%  100%  
+	    New File  		     194	LapCorp Beacon.url  0%  100%  
+	    New File  		     175	NorCal Imaging.url  0%  100%  
+	    New File  		     172	RelayHealth.url  0%  100%  
+	    New File  		     144	UpToDate.url  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\UHA\Krishna\
+	    New File  		     160	Affinity.url  0%  100%  
+	    New File  		     153	ICD-9.url  0%  100%  
+	    New File  		     153	Iron Mountain.url  0%  100%  
+	    New File  		     150	Office Depot.url  0%  100%  
+	    New File  		     188	Quest Diagnostic.url  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\UHA\Kwok\
+	    New File  		     214	McKesson Supply Manager.url  0%  100%  
+	    New File  		     190	MDPortal.url  0%  100%  
+	    New File  		     150	Office Depot.url  0%  100%  
+	    New File  		     146	Practice Fusion.url  0%  100%  
+	    New File  		     154	Stanford HealthCare Alliance.url  0%  100%  
+	    New File  		     157	VaccineShoppe.url  0%  100%  
+	  New Dir         12	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\UHA\Ling\
+	    New File  		     156	ADP.url  0%  100%  
+	    New File  		     160	Affinity.url  0%  100%  
+	    New File  		     167	Healthstream.url  0%  100%  
+	    New File  		     155	HunterLabs.url  0%  100%  
+	    New File  		     137	JoinMe.url  0%  100%  
+	    New File  		     194	LabCorpBeacon.url  0%  100%  
+	    New File  		     201	MerckVaccines.url  0%  100%  
+	    New File  		     143	MyVRIPatients.url  0%  100%  
+	    New File  		     203	SimonMed.url  0%  100%  
+	    New File  		     178	SJSMobile.url  0%  100%  
+	    New File  		     163	UHACreditCard.url  0%  100%  
+	    New File  		     147	VaccineShoppe.url  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\UHA\Monoukian\
+	    New File  		     156	ADP.url  0%  100%  
+	    New File  		     160	Affinity.url  0%  100%  
+	    New File  		     167	Healthstream.url  0%  100%  
+	    New File  		     155	HunterLabs.url  0%  100%  
+	    New File  		     182	iPro.url  0%  100%  
+	    New File  		     149	Press Garney Portal.url  0%  100%  
+	    New File  		     163	UHA CreditCard.url  0%  100%  
+	    New File  		     171	USPS ZipLookup.url  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\UHA\MSA\
+	    New File  		     156	ADP.url  0%  100%  
+	    New File  		     160	Affinity.url  0%  100%  
+	    New File  		     167	Healthstream.url  0%  100%  
+	    New File  		     155	Hunter Labs.url  0%  100%  
+	    New File  		     163	UHA Credit Card.url  0%  100%  
+	  New Dir         16	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\UHA\OBGYN\
+	    New File  		     182	ABMG C.A.R.E Provider Access.url  0%  100%  
+	    New File  		     175	Aetna.url  0%  100%  
+	    New File  		     263	Alameda Alliance for Health.url  0%  100%  
+	    New File  		     165	Blue Cross.url  0%  100%  
+	    New File  		     162	Blue Shield of California.url  0%  100%  
+	    New File  		     158	CHCN.url  0%  100%  
+	    New File  		     157	CIGNA.url  0%  100%  
+	    New File  		     150	Endeavor - Noridian Medicare.url  0%  100%  
+	    New File  		     167	HealthNet.url  0%  100%  
+	    New File  		     156	iTranscription.url  0%  100%  
+	    New File  		     143	Medi-Cal Provider Login.url  0%  100%  
+	    New File  		     166	Medi-Cal.url  0%  100%  
+	    New File  		     145	Sutter.url  0%  100%  
+	    New File  		     152	UMR - Fiserv.url  0%  100%  
+	    New File  		     161	UMR - Sutter.url  0%  100%  
+	    New File  		     219	United Healthcare Online.url  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\UHA\Samaritan\
+	    New File  		     156	ADP.url  0%  100%  
+	    New File  		     183	Legacy.url  0%  100%  
+	    New File  		     250	MedFusion.url  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\UHA\SanRamon\
+	    New File  		     156	ADP.url  0%  100%  
+	    New File  		     166	Centricity.url  0%  100%  
+	    New File  		     167	Health Stream.url  0%  100%  
+	    New File  		     144	HillinSite.url  0%  100%  
+	    New File  		     175	John Muir.url  0%  100%  
+	    New File  		     194	LabCorp.url  0%  100%  
+	    New File  		     161	Quest Diagnostic.url  0%  100%  
+	    New File  		     143	Tenet Enterprise.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Favorites\Windows Live\
+	    New File  		     133	Get Windows Live.url  0%  100%  
+	    New File  		     133	Windows Live Gallery.url  0%  100%  
+	    New File  		     133	Windows Live Mail.url  0%  100%  
+	    New File  		     133	Windows Live Spaces.url  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Signatures\
+	    New File  		   25709	Darren S. Jones.htm  0%  100%  
+	    New File  		  336416	Darren S. Jones.rtf  0%  100%  
+	    New File  		    1630	Darren S. Jones.txt  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0065305\Laptop Files\Signatures\Darren S. Jones_files\
+	    New File  		     314	colorschememapping.xml  0%  100%  
+	    New File  		     285	filelist.xml  0%  100%  
+	    New File  		   18226	image001.png  0%  100%  
+	    New File  		   15909	image002.png  0%  100%  
+	    New File  		    3104	themedata.thmx  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\Migrated_LAP05228\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\Migrated_LAP05228\xp_Desktop\
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0065305\Migrated_LAP05228\xp_Desktop\Adobe Reader 9 Installer\
+	    New File  		  295606	Folder.jpg  0%  100%  
+	    New File  		   27648	Thumbs.db  0%  100%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0065305\Migrated_LAP05228\xp_Desktop\Outlook\
+	    New File  		    6165	Default Outlook Profile.xml  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0065305\Migrated_LAP05228\xp_Desktop\Signatures\
+	    New File  		    5253	Darren S. Jones.rtf  0%  100%  
+	    New File  		     670	Darren S. Jones.txt  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0065305\My Music\
+	    New File  		     662	Desktop.ini  0%  100%  
+	    New File  		     644	Sample Music.lnk  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0065305\My Music\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0065305\My Pictures\
+	    New File  		     668	Desktop.ini  0%  100%  
+	    New File  		     674	Sample Pictures.lnk  0%  100%  
+	    New File  		   43008	Thumbs.db  0%  100%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0065305\My Pictures\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0065305\My Pictures\1300 Crane Street\
+	    New File  		  947493	1300 Crane St 2nd fl north lobby.jpg  0%  100%  
+	    New File  		   17920	Thumbs.db  0%  100%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0065305\My Pictures\Blake Wilbur\
+	    New File  		   45797	B Wilbur left Conf Door.jpg  0%  100%  
+	    New File  		   46880	B Wilbur right Conf Door.jpg  0%  100%  
+	    New File  		   16384	Thumbs.db  0%  100%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0065305\My Pictures\Vision Center\
+	    New File  		  441774	Calf Front View.jpg  0%  100%  
+	    New File  		  511391	Calf Rear View with Dr T.jpg  0%  100%  
+	    New File  		  482336	Calf Side View.jpg  0%  100%  
+	    New File  		   41122	Door to Surgery Scheduling.jpg  0%  100%  
+	    New File  		   25088	Thumbs.db  0%  100%  100%  
+	    New File  		   45800	Tile Wall to Surgery Scheduling.jpg  0%  100%  
+	    New File  		   13338	Transformer plug for corded optho light.jpg  0%  100%  
+	    New File  		   13850	Transformer plug for cordless optho exam light.jpg  0%  100%  
+	    New File  		   53180	Wall to Right of Surgery Scheduling.jpg  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0065305\My Pictures\Vision Center DPR GMP\
+	    New File  		   22278	IMAGE_021.jpg  0%  100%  
+	    New File  		   20322	IMAGE_022.jpg  0%  100%  
+	    New File  		   20918	IMAGE_023.jpg  0%  100%  
+	    New File  		   19456	Thumbs.db  0%  100%  100%  
+	    New File  		   30754	Tracy & Zac with GMP.jpg  0%  100%  
+	    New File  		   19482	Vision Center DPR GMP.jpg  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0065305\My Shapes\
+	    New File  		     105	desktop.ini  0%  100%  
+	    New File  		       0	Favorites.vss100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0065305\My Shapes\_private\
+	    New File  		   29926	folder.ico  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0065305\My Videos\
+	    New File  		     664	Desktop.ini  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0065305\My Videos\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\My Virtual Machines\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\OneNote Notebooks\
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0065305\OneNote Notebooks\Personal\
+	    New File  		   1.4 m	General.one  0%  100%  
+	    New File  		    7056	Open Notebook.onetoc2  0%  100%  
+	    New File  		    4016	Unfiled Notes.one  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0065305\Outlook\
+	    New File  		  271360	archive (s0065305 v1).pst  0%  100%  
+	    New File  		  271360	archive (S0065305 v2).pst  0%  100%  
+	    New File  		 698.4 m	archive.pst  0.0%  2.2%  4.5%  6.8%  9.1% 11.4% 13.7% 16.0% 18.3% 20.6% 22.9% 25.1% 27.4% 29.7% 32.0% 34.3% 36.6% 38.9% 41.2% 43.5% 45.8% 48.1% 50.3% 52.6% 54.9% 57.2% 59.5% 61.8% 64.1% 66.4% 68.7% 71.0% 73.3% 75.5% 77.8% 80.1% 82.4% 84.7% 87.0% 89.3% 91.6% 93.9% 96.2% 98.4%100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0065305\Outlook Files\
+	    New File  		  11.6 g	archive.pst  0.0%  0.1%  0.2%  0.4%  0.5%  0.6%  0.8%  0.9%  1.0%  1.2%  1.3%  1.4%  1.6%  1.7%  1.8%  2.0%  2.1%  2.2%  2.4%  2.5%  2.6%  2.8%  2.9%  3.0%  3.2%  3.3%  3.4%  3.6%  3.7%  3.8%  4.0%  4.1%  4.2%  4.4%  4.5%  4.6%  4.8%  4.9%  5.0%  5.2%  5.3%  5.4%  5.6%  5.7%  5.9%  6.0%  6.1%  6.3%  6.4%  6.5%  6.7%  6.8%  6.9%  7.1%  7.2%  7.3%  7.5%  7.6%  7.7%  7.9%  8.0%  8.1%  8.3%  8.4%  8.5%  8.7%  8.8%  8.9%  9.1%  9.2%  9.3%  9.5%  9.6%  9.7%  9.9% 10.0% 10.1% 10.3% 10.4% 10.5% 10.7% 10.8% 10.9% 11.1% 11.2% 11.3% 11.5% 11.6% 11.8% 11.9% 12.0% 12.2% 12.3% 12.4% 12.6% 12.7% 12.8% 13.0% 13.1% 13.2% 13.4% 13.5% 13.6% 13.8% 13.9% 14.0% 14.2% 14.3% 14.4% 14.6% 14.7% 14.8% 15.0% 15.1% 15.2% 15.4% 15.5% 15.6% 15.8% 15.9% 16.0% 16.2% 16.3% 16.4% 16.6% 16.7% 16.8% 17.0% 17.1% 17.2% 17.4% 17.5% 17.7% 17.8% 17.9% 18.1% 18.2% 18.3% 18.5% 18.6% 18.7% 18.9% 19.0% 19.1% 19.3% 19.4% 19.5% 19.7% 19.8% 19.9% 20.1% 20.2% 20.3% 20.5% 20.6% 20.7% 20.9% 21.0% 21.1% 21.3% 21.4% 21.5% 21.7% 21.8% 21.9% 22.1% 22.2% 22.3% 22.5% 22.6% 22.7% 22.9% 23.0% 23.1% 23.3% 23.4% 23.6% 23.7% 23.8% 24.0% 24.1% 24.2% 24.4% 24.5% 24.6% 24.8% 24.9% 25.0% 25.2% 25.3% 25.4% 25.6% 25.7% 25.8% 26.0% 26.1% 26.2% 26.4% 26.5% 26.6% 26.8% 26.9% 27.0% 27.2% 27.3% 27.4% 27.6% 27.7% 27.8% 28.0% 28.1% 28.2% 28.4% 28.5% 28.6% 28.8% 28.9% 29.1% 29.2% 29.3% 29.5% 29.6% 29.7% 29.9% 30.0% 30.1% 30.3% 30.4% 30.5% 30.7% 30.8% 30.9% 31.1% 31.2% 31.3% 31.5% 31.6% 31.7% 31.9% 32.0% 32.1% 32.3% 32.4% 32.5% 32.7% 32.8% 32.9% 33.1% 33.2% 33.3% 33.5% 33.6% 33.7% 33.9% 34.0% 34.1% 34.3% 34.4% 34.5% 34.7% 34.8% 35.0% 35.1% 35.2% 35.4% 35.5% 35.6% 35.8% 35.9% 36.0% 36.2% 36.3% 36.4% 36.6% 36.7% 36.8% 37.0% 37.1% 37.2% 37.4% 37.5% 37.6% 37.8% 37.9% 38.0% 38.2% 38.3% 38.4% 38.6% 38.7% 38.8% 39.0% 39.1% 39.2% 39.4% 39.5% 39.6% 39.8% 39.9% 40.0% 40.2% 40.3% 40.4% 40.6% 40.7% 40.9% 41.0% 41.1% 41.3% 41.4% 41.5% 41.7% 41.8% 41.9% 42.1% 42.2% 42.3% 42.5% 42.6% 42.7% 42.9% 43.0% 43.1% 43.3% 43.4% 43.5% 43.7% 43.8% 43.9% 44.1% 44.2% 44.3% 44.5% 44.6% 44.7% 44.9% 45.0% 45.1% 45.3% 45.4% 45.5% 45.7% 45.8% 45.9% 46.1% 46.2% 46.3% 46.5% 46.6% 46.8% 46.9% 47.0% 47.2% 47.3% 47.4% 47.6% 47.7% 47.8% 48.0% 48.1% 48.2% 48.4% 48.5% 48.6% 48.8% 48.9% 49.0% 49.2% 49.3% 49.4% 49.6% 49.7% 49.8% 50.0% 50.1% 50.2% 50.4% 50.5% 50.6% 50.8% 50.9% 51.0% 51.2% 51.3% 51.4% 51.6% 51.7% 51.8% 52.0% 52.1% 52.2% 52.4% 52.5% 52.7% 52.8% 52.9% 53.1% 53.2% 53.3% 53.5% 53.6% 53.7% 53.9% 54.0% 54.1% 54.3% 54.4% 54.5% 54.7% 54.8% 54.9% 55.1% 55.2% 55.3% 55.5% 55.6% 55.7% 55.9% 56.0% 56.1% 56.3% 56.4% 56.5% 56.7% 56.8% 56.9% 57.1% 57.2% 57.3% 57.5% 57.6% 57.7% 57.9% 58.0% 58.2% 58.3% 58.4% 58.6% 58.7% 58.8% 59.0% 59.1% 59.2% 59.4% 59.5% 59.6% 59.8% 59.9% 60.0% 60.2% 60.3% 60.4% 60.6% 60.7% 60.8% 61.0% 61.1% 61.2% 61.4% 61.5% 61.6% 61.8% 61.9% 62.0% 62.2% 62.3% 62.4% 62.6% 62.7% 62.8% 63.0% 63.1% 63.2% 63.4% 63.5% 63.6% 63.8% 63.9% 64.1% 64.2% 64.3% 64.5% 64.6% 64.7% 64.9% 65.0% 65.1% 65.3% 65.4% 65.5% 65.7% 65.8% 65.9% 66.1% 66.2% 66.3% 66.5% 66.6% 66.7% 66.9% 67.0% 67.1% 67.3% 67.4% 67.5% 67.7% 67.8% 67.9% 68.1% 68.2% 68.3% 68.5% 68.6% 68.7% 68.9% 69.0% 69.1% 69.3% 69.4% 69.5% 69.7% 69.8% 70.0% 70.1% 70.2% 70.4% 70.5% 70.6% 70.8% 70.9% 71.0% 71.2% 71.3% 71.4% 71.6% 71.7% 71.8% 72.0% 72.1% 72.2% 72.4% 72.5% 72.6% 72.8% 72.9% 73.0% 73.2% 73.3% 73.4% 73.6% 73.7% 73.8% 74.0% 74.1% 74.2% 74.4% 74.5% 74.6% 74.8% 74.9% 75.0% 75.2% 75.3% 75.4% 75.6% 75.7% 75.9% 76.0% 76.1% 76.3% 76.4% 76.5% 76.7% 76.8% 76.9% 77.1% 77.2% 77.3% 77.5% 77.6% 77.7% 77.9% 78.0% 78.1% 78.3% 78.4% 78.5% 78.7% 78.8% 78.9% 79.1% 79.2% 79.3% 79.5% 79.6% 79.7% 79.9% 80.0% 80.1% 80.3% 80.4% 80.5% 80.7% 80.8% 80.9% 81.1% 81.2% 81.3% 81.5% 81.6% 81.8% 81.9% 82.0% 82.2% 82.3% 82.4% 82.6% 82.7% 82.8% 83.0% 83.1% 83.2% 83.4% 83.5% 83.6% 83.8% 83.9% 84.0% 84.2% 84.3% 84.4% 84.6% 84.7% 84.8% 85.0% 85.1% 85.2% 85.4% 85.5% 85.6% 85.8% 85.9% 86.0% 86.2% 86.3% 86.4% 86.6% 86.7% 86.8% 87.0% 87.1% 87.3% 87.4% 87.5% 87.7% 87.8% 87.9% 88.1% 88.2% 88.3% 88.5% 88.6% 88.7% 88.9% 89.0% 89.1% 89.3% 89.4% 89.5% 89.7% 89.8% 89.9% 90.1% 90.2% 90.3% 90.5% 90.6% 90.7% 90.9% 91.0% 91.1% 91.3% 91.4% 91.5% 91.7% 91.8% 91.9% 92.1% 92.2% 92.3% 92.5% 92.6% 92.7% 92.9% 93.0% 93.2% 93.3% 93.4% 93.6% 93.7% 93.8% 94.0% 94.1% 94.2% 94.4% 94.5% 94.6% 94.8% 94.9% 95.0% 95.2% 95.3% 95.4% 95.6% 95.7% 95.8% 96.0% 96.1% 96.2% 96.4% 96.5% 96.6% 96.8% 96.9% 97.0% 97.2% 97.3% 97.4% 97.6% 97.7% 97.8% 98.0% 98.1% 98.2% 98.4% 98.5% 98.6% 98.8% 98.9% 99.1% 99.2% 99.3% 99.5% 99.6% 99.7% 99.9%100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\RECYCLER\
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0065305\RECYCLER\S-1-5-21-1292407741-3760857420-1411248183-76542\
+	    New File  		      65	desktop.ini  0%  100%  
+	    New File  		      20	INFO2  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\Reflection\
+	  New Dir         14	\\shintnpscfs116\T$\Users7\S0065305\SHC Planning Design & Const\
+	    New File  		  169472	10.1.10 EEExpenseForm.xls  0%  100%  
+	    New File  		   23148	2009 12 21 Darren Jones Non-Management All in one (2).docx  0%  100%  
+	    New File  		  137216	3-9-09 EEExpenseForm.xls  0%  100%  
+	    New File  		  204800	Contingency Test 02 - Estimate Form - FSR (2).xls  0%  100%  
+	    New File  		  138240	Copy of EEExpenseForm.xls  0%  100%  
+	    New File  		   45056	Copy of T2013 010 PD+C Project Update 2013 02 06.xls  0%  100%  
+	    New File  		  414720	DSJ TIMESHEET v3 5 employee.xls  0%  100%  
+	    New File  		  463360	labels for SHC shipping.doc  0%  100%  
+	    New File  		   97280	Letter of Transmittal.doc  0%  100%  
+	    New File  		   93740	Letterhead 1 Pg 66 Willow.docx  0%  100%  
+	    New File  		   96768	letterhead SUMC.doc  0%  100%  
+	    New File  		   24999	Stanford Hospital and Clinics.gif  0%  100%  
+	    New File  		   94720	SUMC letterhead template.doc  0%  100%  
+	    New File  		   94720	SUMC MEMORANDUM template.doc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0065305\Snagit\
+	    New File  		   73752	SampleSNAG.snag  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\Snagit\Program\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\Visual Studio 2008\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\Visual Studio 2008\Code Snippets\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\Visual Studio 2008\Code Snippets\Visual Basic\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\Visual Studio 2008\Code Snippets\Visual Basic\My Code Snippets\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\Visual Studio 2008\Code Snippets\XML\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\Visual Studio 2008\Code Snippets\XML\My Xml Snippets\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\Visual Studio 2008\Projects\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0065305\Visual Studio 2008\Settings\
+	    New File  		  138726	CurrentSettings-2013-11-18.vssettings  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\Visual Studio 2008\Templates\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\Visual Studio 2008\Templates\ItemTemplates\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\Visual Studio 2008\Templates\ItemTemplates\Visual Web Developer\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\Visual Studio 2008\Templates\ProjectTemplates\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\Visual Studio 2008\Templates\ProjectTemplates\Visual Web Developer\
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0065305\Watson Court\
+	    New File  		    6621	Step-On-Container-5LY29_AS01.jpg  0%  100%  
+	    New File  		   34304	SVC existing equipment 3.xls  0%  100%  
+	    New File  		   24576	Watson Court Office Build 2nd Fl S.xls  0%  100%  
+	    New File  		   16164	Watson walkthrough 9 11 10.xlsx  0%  100%  
+	  New Dir         23	\\shintnpscfs116\T$\Users7\S0065305\Watson Court\Budgets\
+	    New File  		   16449	Ophthalmology Clinic Budget Comparison 12-19-08.xlsx  0%  100%  
+	    New File  		   13777	Ophthalmology Clinic-06-02-06.xlsx  0%  100%  
+	    New File  		   14036	Ophthalmology Clinic-06-02-06A.xlsx  0%  100%  
+	    New File  		   14055	Ophthalmology Clinic-06-02-06B.xlsx  0%  100%  
+	    New File  		   13995	Ophthalmology Clinic-06-12-08.xlsx  0%  100%  
+	    New File  		   13313	Ophthalmology Clinic-06-12-08CF.xlsx  0%  100%  
+	    New File  		  152576	SHC Power Point Template.ppt  0%  100%  
+	    New File  		   15640	SVC DPR Scheme Shell ORs Rev 1 1.6.09 eye 2.1 rev 2.pdf  0%  100%  
+	    New File  		   23552	Vision Center Budget Comparison with IT at $2.5M 1.8.09.xls  0%  100%  
+	    New File  		   23552	Vision Center Budget Comparison with IT at $6.0M 1.8.09.xls  0%  100%  
+	    New File  		   23552	Vision Center Budget Comparison Without Operating Rooms 1.28.09.xls  0%  100%  
+	    New File  		   23552	Vision Center Budget Comparison Without Operating Rooms Cold Shell for Future MOB 1.28.09.xls  0%  100%  
+	    New File  		   24576	Vision Center Budget Comparison Without Operating Rooms Cold Shell for Future MOB 2.12.09.xls  0%  100%  
+	    New File  		   24576	Vision Center Budget Comparison Without Operating Rooms Cold Shell for Future MOB 2.23.09.xls  0%  100%  
+	    New File  		   24576	Vision Center Budget Comparison Without Operating Rooms for Future ORs 2.12.09.xls  0%  100%  
+	    New File  		   24576	Vision Center Budget Comparison Without Operating Rooms for Future ORs 2.23.09.xls  0%  100%  
+	    New File  		   23552	Vision Center Budget Comparison Without Operating Rooms with MOB 1.28.09.xls  0%  100%  
+	    New File  		   27136	Vision Center Cash Flow $22.6M 1.30.09.xls  0%  100%  
+	    New File  		   27136	Vision Center Cash Flow $29.8M 1.30.09.xls  0%  100%  
+	    New File  		   30208	Vision Center Cash Flow 12-26-08.xls  0%  100%  
+	    New File  		   28160	Vision Center Cash Flow Net $22.5M 3.11.09.xls  0%  100%  
+	    New File  		  670208	Vision Center Scope Alternatives Rev1.ppt  0%  100%  
+	    New File  		  602624	Vision Center Scope Alternatives.ppt  0%  100%  
+	  New Dir         18	\\shintnpscfs116\T$\Users7\S0065305\Watson Court\General & Misc\
+	    New File  		   52351	5-20-09 SVC Basis of GMP-R3.docx  0%  100%  
+	    New File  		   57344	Best Hospitals-USNews&World-2008.doc  0%  100%  
+	    New File  		   39424	IT Scope of Work-Space Planning.doc  0%  100%  
+	    New File  		   98816	John Arrillaga Canopy Fire Alarm Letter.doc  0%  100%  
+	    New File  		   97792	John Arrillaga Canopy Permit Submission Letter.doc  0%  100%  
+	    New File  		   98816	John Arrillaga Sign and RCP Letter.doc  0%  100%  
+	    New File  		   13303	LPCH Phase I Hours Matrix 092908.pdf  0%  100%  
+	    New File  		   30208	OphthalmologyEquip-06-05-06.doc  0%  100%  
+	    New File  		   36352	OphthalmologyProjectSummary-06-11-08.doc  0%  100%  
+	    New File  		   37376	OphthalmologyProjectSummary-06-12-08.doc  0%  100%  
+	    New File  		   38912	Opthalmology Staff Names 9.25.08.xls  0%  100%  
+	    New File  		   1.2 m	PreviewGroup0808119 rev occupancy analysis report[1].pdf  0%  100%  
+	    New File  		   67584	Space Plan Grid Update Oct 13.doc  0%  100%  
+	    New File  		  101376	Space Planning Matrix-md v3.doc  0%  100%  
+	    New File  		  101376	Space Planning Matrix-v4.doc  0%  100%  
+	    New File  		   98816	Space Planning Processes V3.doc  0%  100%  
+	    New File  		   11937	Stanford Vision Center - Design Information Log - 1-23-09.xlsx  0%  100%  
+	    New File  		   40781	SVC - MEP Kick-off Sign-in Sheet - 1-21-09.pdf  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0065305\Watson Court\Invoices\
+	    New File  		   21318	Stanford Facility IT Planning Project Exp.pdf  0%  100%  
+	    New File  		   12800	Stanford Facility IT Planning Project Expenses.xls  0%  100%  
+	    New File  		   21295	Stanford Facility IT Planning Project Fees.pdf  0%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0065305\Watson Court\Meeting Minutes\
+	    New File  		   37888	Design Notes Sept-04-05-2008.doc  0%  100%  
+	    New File  		   35329	Stanford Vision Center Meeting Minutes Status Mtg 11.pdf  0%  100%  
+	    New File  		   37524	Stanford Vision Center Meeting Minutes Status Mtg 14.pdf  0%  100%  
+	    New File  		   40410	Stanford Vision Center Meeting Minutes Status Mtg 15.pdf  0%  100%  
+	    New File  		   42243	Stanford Vision Center Meeting Minutes Status Mtg 16.pdf  0%  100%  
+	    New File  		   41171	Stanford Vision Center Meeting Minutes Status Mtg 17.pdf  0%  100%  
+	    New File  		   31557	Stanford Vision Center Meeting Minutes Status Mtg 5.pdf  0%  100%  
+	    New File  		   31837	Stanford Vision Center Meeting Minutes Status Mtg 6.pdf  0%  100%  
+	    New File  		   32037	Stanford Vision Center Meeting Minutes Status Mtg 7.pdf  0%  100%  
+	    New File  		   32592	Stanford Vision Center Meeting Minutes Status Mtg 8.pdf  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0065305\Watson Court\MEP Issues\
+	    New File  		   16141	Ophthalmology Clinic MEP Questions-05-20-08.docx  0%  100%  
+	    New File  		   30720	SVC MEP Questions 1.doc  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0065305\Watson Court\Photos\
+	    New File  		  266767	IMG_1492.JPG  0%  100%  
+	    New File  		  266675	IMG_1493.JPG  0%  100%  
+	    New File  		  214995	IMG_1498.JPG  0%  100%  
+	    New File  		  205480	IMG_1501.JPG  0%  100%  
+	    New File  		  267201	IMG_1502.JPG  0%  100%  
+	  New Dir         20	\\shintnpscfs116\T$\Users7\S0065305\Watson Court\Plans\
+	    New File  		  226181	__corp-file-vs5.stanfordmed.org_users7_S0065305_WATSON~1_Plans_LEVEL1~1[1].jpg  0%  100%  
+	    New File  		  116915	2008_0513 2flr_SK21 rev1.pdf  0%  100%  
+	    New File  		  588910	2008_0515 1flr_SK22.jpg  0%  100%  
+	    New File  		  394008	2008_0515 1flr_SK22.pdf  0%  100%  
+	    New File  		  512339	2008_0612 2flr_SK21 rev2.jpg  0%  100%  
+	    New File  		  450342	20080620143823362.pdf  0%  100%  
+	    New File  		  767214	A1-01 - Site Plan - 081204.pdf  0%  100%  
+	    New File  		  286903	Level 1.pdf  0%  100%  
+	    New File  		  252387	Level 2.jpg  0%  100%  
+	    New File  		  301789	Level 2.pdf  0%  100%  
+	    New File  		  375741	SK-130 - Floor 1.pdf  0%  100%  
+	    New File  		  388870	SK-131 - Floor 2.pdf  0%  100%  
+	    New File  		  276571	SK-132 - Floor Plans - Full Bldg.pdf  0%  100%  
+	    New File  		   73749	SK-25 -  Exam.pdf  0%  100%  
+	    New File  		  290804	SK-27-080924.pdf  0%  100%  
+	    New File  		  290190	SK-34 - Floor 1 - Option 2.pdf  0%  100%  
+	    New File  		  294939	SK-35 - Floor 2 - Option 1.pdf  0%  100%  
+	    New File  		  294439	SK-36 - Floor 2 - Option 2.pdf  0%  100%  
+	    New File  		   1.8 m	ss-SD - Drawing Sheet - SK-318 - User Input Status Plan - First Floor.pdf  0%  100%  
+	    New File  		   1.8 m	ss-SD - Drawing Sheet - SK-319 - User Input Status - Second Floor.pdf  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0065305\Watson Court\Proposals\
+	    New File  		  809059	08.15.08ASCodeConsultant.pdf  0%  100%  
+	    New File  		  709917	8.15.08 ApprovedPreviewGpAS.pdf  0%  100%  
+	    New File  		  709917	PreviewGroupSignedProp.pdf  0%  100%  
+	    New File  		   25600	Tom Eliot Fisch AddnSvc-10-7-08.doc  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0065305\Watson Court\Schedules\
+	    New File  		   25600	DPR VC Contract Timeline.doc  0%  100%  
+	    New File  		   21058	DPR Vision Center 10-2-08.pdf  0%  100%  
+	    New File  		  169984	Ophthalmology Clinic-Schedule-06-12-08.mpp  0%  100%  
+	    New File  		  112128	Ophthalmology Clinic-Schedule-06-12-08A.mpp  0%  100%  
+	    New File  		  252976	Ophthalmology Clinic-Schedule-06-12-08C.pdf  0%  100%  
+	    New File  		   23636	Stanford Vision Center - 11-17-08 Bid Schedule.pdf  0%  100%  
+	    New File  		   26960	SVC TEF schedule1.pdf  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0065305\WINDOWS\
+	    New File  		       2	desktop.ctx  0%  100%  
+	    New File  		      54	inifile.upd  0%  100%  
+	    New File  		     614	win.ctx  0%  100%  
+	    New File  		     614	win.ini  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0065305\WINDOWS\system\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :       123       123         0         0         0         0
+   Files :       832       832         0         0         0         0
+   Bytes :  12.482 g  12.482 g         0         0         0         0
+   Times :   0:35:30   0:35:19                       0:00:00   0:00:11
+
+
+   Speed :             6324913 Bytes/sec.
+   Speed :             361.914 MegaBytes/min.
+
+   Ended : Sun Mar 27 09:11:16 2016

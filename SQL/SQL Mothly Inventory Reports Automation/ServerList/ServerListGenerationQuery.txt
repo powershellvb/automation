@@ -1,0 +1,13 @@
+EXEC xp_cmdshell 'bcp "SELECT INSTANCE_NAME FROM [DBADB].[dbo].[Inventory]  where SERVER_STATE= ''active'' and ENVIRONMENT=''DEV''" queryout "F:\Automation\ServerList\Dev.txt" -T -c -t, -S SHSCMSTSCDQ501\CMS'
+GO
+EXEC xp_cmdshell 'bcp "SELECT INSTANCE_NAME FROM [DBADB].[dbo].[Inventory]  where SERVER_STATE= ''active'' and ENVIRONMENT=''Test''" queryout "F:\Automation\ServerList\Test.txt" -T -c -t, -S SHSCMSTSCDQ501\CMS'
+GO
+EXEC xp_cmdshell 'bcp "SELECT INSTANCE_NAME FROM [DBADB].[dbo].[Inventory]  where SERVER_STATE= ''active'' and ENVIRONMENT=''DR - Prod''" queryout "F:\Automation\ServerList\DR.txt" -T -c -t, -S SHSCMSTSCDQ501\CMS'
+GO
+EXEC xp_cmdshell 'bcp "SELECT INSTANCE_NAME  FROM [DBADB].[dbo].[Inventory]  where SERVER_STATE= ''active'' and ENVIRONMENT=''Prod''and METALLURGY=''BRONZE''" queryout "F:\Automation\ServerList\Prod_Bronze.txt" -T -c -t, -S SHSCMSTSCDQ501\CMS'
+GO
+EXEC xp_cmdshell 'bcp "SELECT INSTANCE_NAME  FROM [DBADB].[dbo].[Inventory]  where SERVER_STATE= ''active'' and ENVIRONMENT=''Prod''and METALLURGY=''SILVER''" queryout "F:\Automation\ServerList\Prod_Silver.txt" -T -c -t, -S SHSCMSTSCDQ501\CMS'
+GO
+EXEC xp_cmdshell 'bcp "SELECT INSTANCE_NAME  FROM [DBADB].[dbo].[Inventory]  where SERVER_STATE= ''active'' and ENVIRONMENT=''Prod''and METALLURGY=''GOLD''" queryout "F:\Automation\ServerList\Prod_Gold.txt" -T -c -t, -S SHSCMSTSCDQ501\CMS'
+GO
+EXEC xp_cmdshell 'bcp "SELECT [INSTANCE_NAME] FROM [DBADB].[dbo].[Inventory]  where SERVER_STATE= ''active'' AND DB_SERVICES=''YES'' " queryout "F:\Automation\ServerList\instances.txt" -T -c -t, -S SHSCMSTSCDQ501\CMS'

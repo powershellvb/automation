@@ -1,0 +1,102 @@
+
+
+
+
+#  Alert Notification for Cluster server SQL servcies restarted
+#
+#  This script  is used to identify  whenever the  cluster server failover  automatically send an email notification to our DL
+
+# This Power shell will  works on  above 2.0  version .
+
+# History:
+#  07-14-2016: Original created by Nataraja Moorthy
+
+USE [msdb]
+GO
+
+ Object  Job [DB_Maintenacne.ClusterFailoverAlert]    Script Date 372016 114749 PM 
+BEGIN TRANSACTION
+DECLARE @ReturnCode INT
+SELECT @ReturnCode = 0
+ Object  JobCategory [[Uncategorized (Local)]]    Script Date 372016 114749 PM 
+IF NOT EXISTS (SELECT name FROM msdb.dbo.syscategories WHERE name=N'[Uncategorized (Local)]' AND category_class=1)
+BEGIN
+EXEC @ReturnCode = msdb.dbo.sp_add_category @class=N'JOB', @type=N'LOCAL', @name=N'[Uncategorized (Local)]'
+IF (@@ERROR  0 OR @ReturnCode  0) GOTO QuitWithRollback
+
+END
+
+DECLARE @jobId BINARY(16)
+EXEC @ReturnCode =  msdb.dbo.sp_add_job @job_name=N'DB_Maintenacne.ClusterFailoverAlert', 
+		@enabled=1, 
+		@notify_level_eventlog=0, 
+		@notify_level_email=2, 
+		@notify_level_netsend=0, 
+		@notify_level_page=0, 
+		@delete_level=0, 
+		@description=N'ClusterFailoverAlert for the DBA Team', 
+		@category_name=N'[Uncategorized (Local)]', 
+		@owner_login_name=N'sa', 
+		@notify_email_operator_name=N'DL-HCL-SQL', @job_id = @jobId OUTPUT
+IF (@@ERROR  0 OR @ReturnCode  0) GOTO QuitWithRollback
+ Object  Step [Send Alert to Email Team]    Script Date 372016 114749 PM 
+EXEC @ReturnCode = msdb.dbo.sp_add_jobstep @job_id=@jobId, @step_name=N'Send Alert to Email Team', 
+		@step_id=1, 
+		@cmdexec_success_code=0, 
+		@on_success_action=1, 
+		@on_success_step_id=0, 
+		@on_fail_action=2, 
+		@on_fail_step_id=0, 
+		@retry_attempts=0, 
+		@retry_interval=0, 
+		@os_run_priority=0, @subsystem=N'TSQL', 
+		@command=N'DECLARE @importance AS VARCHAR(6)
+ DECLARE @body AS NVARCHAR(1000)
+ DECLARE @Subject  AS NVARCHAR(1000)
+ DECLARE @InstanceName AS VARCHAR(100)DECLARE @NodeName AS NVARCHAR(100)
+ DECLARE @recipientsList VARCHAR(100)SELECT  @recipientsList =''DL-HCL-SQL@stanfordhealthcare.org''
+ SELECT  @InstanceName =@@SERVERNAME
+ SELECT  @NodeName = CAST(SERVERPROPERTY(''ComputerNamePhysicalNetBIOS'') AS NVARCHAR(200))
+ SELECT  @Subject  = ''RegdCRITICAL ALERT - Failover detected for SQL Instance ''+@InstanceName
+ SELECT  @body = ''Hi Team,
+ 
+		Fail over happened for Cluster Instance ''+@InstanceName + ''. SQL Cluster is now running on the node ''+@NodeName +''.
+		
+Work with the windows team to identify the root cause.''
+ SELECT  @importance =''High'' 
+ EXEC msdb.dbo.sp_send_dbmail
+     @profile_name =''DL-HCL-SQL'',
+     @recipients=@recipientsList,
+     @subject = @subject ,
+     @body = @body,
+     @body_format = ''HTML'' ,
+     @importance=@importance', 
+		@database_name=N'master', 
+		@flags=0
+IF (@@ERROR  0 OR @ReturnCode  0) GOTO QuitWithRollback
+EXEC @ReturnCode = msdb.dbo.sp_update_job @job_id = @jobId, @start_step_id = 1
+IF (@@ERROR  0 OR @ReturnCode  0) GOTO QuitWithRollback
+EXEC @ReturnCode = msdb.dbo.sp_add_jobschedule @job_id=@jobId, @name=N'SendEmailOnFailover', 
+		@enabled=1, 
+		@freq_type=64, 
+		@freq_interval=0, 
+		@freq_subday_type=0, 
+		@freq_subday_interval=0, 
+		@freq_relative_interval=0, 
+		@freq_recurrence_factor=0, 
+		@active_start_date=20160226, 
+		@active_end_date=99991231, 
+		@active_start_time=0, 
+		@active_end_time=235959
+IF (@@ERROR  0 OR @ReturnCode  0) GOTO QuitWithRollback
+EXEC @ReturnCode = msdb.dbo.sp_add_jobserver @job_id = @jobId, @server_name = N'(local)'
+IF (@@ERROR  0 OR @ReturnCode  0) GOTO QuitWithRollback
+COMMIT TRANSACTION
+GOTO EndSave
+QuitWithRollback
+    IF (@@TRANCOUNT  0) ROLLBACK TRANSACTION
+EndSave
+
+GO
+
+

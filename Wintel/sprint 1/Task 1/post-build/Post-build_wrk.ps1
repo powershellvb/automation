@@ -1,0 +1,1 @@
+Start-Process -FilePath C:\temp\post-build\app_ins_w.bat -windowstyle Hidden

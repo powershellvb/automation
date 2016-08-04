@@ -1,0 +1,979 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Sun Mar 27 09:11:16 2016
+
+   Source : \\shintnpscfs116\T$\Users7\S0063190\
+     Dest : \\shintnpscfs116\W$\T_drive(disabled_users)_users7\users7\S0063190\
+
+    Files : *.*
+	    
+  Options : *.* /TEE /S /E /COPY:DATS /DCOPY:T /ZB /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0063190\
+	    New File  		   16171	CP Missions.docx  0%  100%  
+	    New File  		   14133	CPP 15 sec pitch.docx  0%  100%  
+	    New File  		    1718	Default.rdp  0%  100%  
+	    New File  		     556	desktop.ini  0%  100%  
+	    New File  		  310272	Thumbs.db  0%  100%  100%  
+	    New File  		  111104	trace32.exe  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063190\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063190\Bluetooth Exchange Folder\
+	  New Dir         48	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\
+	    New File  		   67044	Alcoa Project  Manuscript Matrix May 12.xlsx  0%  100%  
+	    New File  		   54722	bears (Medium).jpg  0%   99%   99%  100%  
+	    New File  		   10265	Board and Officers 9-11.pdf  0%  100%  
+	    New File  		   27100	CiCARE DepartmentalMonthlyRounding.xlsx  0%  100%  
+	    New File  		     139	C-I-CARE.url  0%  100%  
+	    New File  		  562715	Copy of 2012 02 08 MAJ and PRN Prospect Assignments.xlsx  0%  100%  
+	    New File  		   13462	Copy of Corporate Partners Pledge Payment Schedule.xlsx  0%  100%  
+	    New File  		  250631	Copy of SHC_CPP_Financial Model4.xlsx  0%  100%  
+	    New File  		   87630	Corporate Partners Payment schedule July 2012.pdf  0%  100%  
+	    New File  		   16572	Corporate Partners Program stewardship ideas.docx  0%  100%  
+	    New File  		   16740	Corporate Partners Program stewardship ideasjkedits.docx  0%  100%  
+	    New File  		  768859	CorporatePartnersProgram-Brainstorming.pdf  0%  100%  
+	    New File  		   55296	CP charges  04-18-2011 to 04-18-2012.xls  0%  100%  
+	    New File  		  827459	CP Ltr  with Prog  Overview.pdf  0%  100%  
+	    New File  		   17082	CP Staff notes April 10 04.docx  0%  100%  
+	    New File  		   60257	CP Status review  10-27-11.docx  0%  100%  
+	    New File  		  420237	CV Personal genomics consent_Tussing.pdf  0%  100%  
+	    New File  		    1033	Dropbox.lnk  0%  100%  
+	    New File  		   26624	Due Diligence Worksheet.doc  0%  100%  
+	    New File  		   15077	Effects of Quality Health Navigation.docx  0%  100%  
+	    New File  		   16735	EHP Genomic Sequensing Task force  memo.docx  0%  100%  
+	    New File  		  400451	empirical_effects_of_collegiate_athletics_interim_report.pdf  0%  100%  
+	    New File  		  237373	guest services directory102711.pdf  0%  100%  
+	    New File  		    2453	Microsoft Office Communicator 2007 R2.lnk  0%  100%  
+	    New File  		  369386	Mindset.docx  0%  100%  
+	    New File  		    1177	My Documents.lnk  0%  100%  
+	    New File  		   7.8 m	Navigation strategic plan summary jan 2012.pdf  0.0%100%  
+	    New File  		   12738	New_Partner_Rollout_Proceedures July 2012.xlsx  0%  100%  
+	    New File  		   57541	New_Stanford_Hospital_Large.jpg  0%   99%   99%  100%  
+	    New File  		  106336	OracleHSNetwork Final.pdf  0%  100%  
+	    New File  		  599618	P020110106297943134404.pdf  0%  100%  
+	    New File  		   20809	Qualcomm pitch.docx  0%  100%  
+	    New File  		   14600	Reply on Best Doc.docx  0%  100%  
+	    New File  		   25165	SCP Awareness Internal Campaign.xlsx  0%  100%  
+	    New File  		   23230	SCP basics 072112 tmt2_.docx  0%  100%  
+	    New File  		   54272	SCP contacts from outlook 2012 Martmt.xls  0%  100%  
+	    New File  		   56832	SCP contacts from outlook 7-01-11tt.xls  0%  100%  
+	    New File  		  14.3 m	SCP MG discussion tmt2  0.0%100%  
+	    New File  		   16934	SCP report outline.docx  0%  100%  
+	    New File  		  357445	SHC Intranet SCP landing page 7-30-12.docx  0%  100%  
+	    New File  		    1082	Shortcut to Adobe Reader 9.4.lnk  0%  100%  
+	    New File  		   81016	Snowflakes Tuesdaymeeting participants.docx  0%  100%  
+	    New File  		   1.4 m	Stan_CPP_2011_06_07_Mini_Brochure.pdf  0%  100%  
+	    New File  		   8.7 m	STANFORD HOSPITAL AND CLINICS.mov  0.0%100%  
+	    New File  		   14446	Strategic Initiatives ADR June 2011.docx  0%  100%  
+	    New File  		  114176	Thumbs.db  0%  100%  100%  
+	    New File  		   45056	TUSSING FH contact info.xls  0%  100%  
+	    New File  		   20534	Zoho Cheat Sheet.docx  0%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\AIP Back up docs\
+	    New File  		   16019	AIP notes.docx  0%  100%  
+	    New File  		   2.3 m	CPPLaunch_Invitation_Final.pdf  0%  100%  
+	    New File  		   2.3 m	HEW7479_Website_sm10 (3).pdf  0%  100%  
+	    New File  		   3.6 m	HTS_BROCHURE3 (4).pdf  0%  100%  
+	    New File  		  611837	HTS_BROCHURE4 (2).pdf  0%  100%  
+	    New File  		  132724	POP_HP_PortalPage_2 2 a(2).pdf  0%  100%  
+	    New File  		   16478	SCP Satisfaction report 101911.docx  0%  100%  
+	    New File  		  186611	Screen shot Ebay.pptx  0%  100%  
+	    New File  		  132023	shc-corporate-partners-FINAL.pdf  0%  100%  
+	    New File  		   14795	Ted Tussing 2011 AIP Wrap up.docx  0%  100%  
+	    New File  		  146099	Thank you 6-2011 Ellison.pdf  0%  100%  
+	    New File  		   29734	TMT 2013 AIP FINAL.xlsx  0%  100%  
+	    New File  		   29668	TMT 2013 AIP Leadership Template.xlsx  0%  100%  
+	    New File  		   30630	TMT 2013 AIP Submission.xlsx  0%  100%  
+	    New File  		   30794	TMT AIP FY12 submission 102112 (2).xlsx  0%  100%  
+	    New File  		   29825	TMT AIP FY12 Template_v8 (2).xlsx  0%  100%  
+	    New File  		  265579	TUSSING_AIP 2012.pdf  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\AIP Back up docs\Exec mtgs\
+	    New File  		   23658	Amir_Intel_Murray briefing Aug 192011a.docx  0%  100%  
+	    New File  		   41056	Apple Meeting 17Mar2011 attendees and agenda.docx  0%  100%  
+	    New File  		   16341	HP SMC agenda 9811.docx  0%  100%  
+	    New File  		   14703	Intuit Corporate Strategy Group meeting 882011.docx  0%  100%  
+	    New File  		   16155	SHC Intel agenda 9111.docx  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\AIP Back up docs\General SCP\
+	    New File  		  490112	CP Dashboard AIP 2011t.pptx  0%  100%  
+	    New File  		   68585	CP PieChart.pptx  0%  100%  
+	    New File  		   79168	SCP at Glance 1011.pptx  0%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\AIP Back up docs\SCP Tracking\
+	    New File  		   93782	11-05-02 CP Status Innovation.docx  0%  100%  
+	    New File  		   24129	Contact Center report ebay 9-9-11.docx  0%  100%  
+	    New File  		   14770	Contact Center reportapple 8-3-11.docx  0%  100%  
+	    New File  		   71053	CP NEW Status sheet 7-28-11.docx  0%  100%  
+	    New File  		   45633	CP NEW Status sheet limited 9-26-11.docx  0%  100%  
+	    New File  		   47312	CP Status Tracking Sheet - 3-31-11.docx  0%  100%  
+	    New File  		   61673	CP Status Tracking Sheet -4-29-11 v2.docx  0%  100%  
+	    New File  		  970335	report 616-626.pdf  0%  100%  
+	    New File  		  641420	report 8.8-8.14.pdf  0%  100%  
+	    New File  		   1.4 m	Secure CPP report Oct 17- 23 2011.msg  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\AIP Back up docs\Their words\
+	    New File  		  606866	2011 0401 Letter from Eric Patel.pdf  0%  100%  
+	    New File  		   72372	A BAll intuit.docx  0%  100%  
+	    New File  		   17199	Applbaum note.docx  0%  100%  
+	    New File  		   14024	Ebay employee.docx  0%  100%  
+	    New File  		   58350	eBay HUB article 22711.docx  0%  100%  
+	    New File  		   22424	eBay message to employees may 9 2011.docx  0%  100%  
+	    New File  		   14577	ebay note maura eggert.docx  0%  100%  
+	  New Dir         20	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\Apple\
+	    New File  		   15529	Apple agenda sept 3011.docx  0%  100%  
+	    New File  		  118312	Apple Cases Cont Center June 2012.docx  0%  100%  
+	    New File  		   75589	Apple Cases Cont Center MAy 2012.docx  0%  100%  
+	    New File  		  135476	Apple CP.pptx  0%  100%  
+	    New File  		   2.5 m	apple cumm report jun thru nov2011.docx  0%  100%  
+	    New File  		   15146	Apple Drafts ADR 10411.docx  0%  100%  
+	    New File  		   35852	Apple FAQs for Landing Page 05-31-11.docx  0%  100%  
+	    New File  		   19549	Apple feedback may 26.docx  0%  100%  
+	    New File  		  136664	Apple Launch Navigator Service - HRWeb (US).pdf  0%  100%  
+	    New File  		   41472	Apple Mutual NDA (2).doc  0%  100%  
+	    New File  		   16818	Apple new level sept 2012.docx  0%  100%  
+	    New File  		   17630	Contact Center reportapple 12-31-12.docx  0%  100%  
+	    New File  		   14737	Contact Center reportapple 8-3-11.docx  0%  100%  
+	    New File  		   73896	Corporate Partners Contact Center Apr 2012.docx  0%  100%  
+	    New File  		   71555	Corporate Partners Contact Center MAr2012.docx  0%  100%  
+	    New File  		  206981	CPP_Apple_THN_Center.pdf  0%  100%  
+	    New File  		   14295	Navigator case_China 11 2011.docx  0%  100%  
+	    New File  		   14256	November Case_China.docx  0%  100%  
+	    New File  		   15200	oppenheimer draft_tt.docx  0%  100%  
+	    New File  		   37376	Thumbs.db  0%  100%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\Cardinal Health\
+	    New File  		  168448	Cardinal Health Bio - Barrett 3 29 10 pab.doc  0%  100%  
+	    New File  		   71233	Cardinal Health memo 1-3-12.docx  0%  100%  
+	    New File  		  267743	Cardinal Health Nick Augustinos bio exec  May 2012.pdf  0%  100%  
+	    New File  		   19456	Thumbs.db  0%  100%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\Care Counsel\
+	    New File  		  193145	Care Counsel Description 4 2012.pdf  0%  100%  
+	    New File  		  136421	Core CareCounsel Features.pdf  0%  100%  
+	    New File  		  568775	Employee Brochure.pdf  0%  100%  
+	    New File  		   94455	Sample Utilization and Satisfaction Report (2).pdf  0%  100%  
+	    New File  		   26112	Thumbs.db  0%  100%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\CERC\
+	    New File  		   12963	CERC Bootcamp 2012 participants.docx  0%  100%  
+	    New File  		  701685	CERC Plan Summary 1 13 2012tmt.docx  0%  100%  
+	    New File  		  173470	CERC_10 10 11.pdf  0%  100%  
+	    New File  		   25720	Concept Paper for Margaret Vosburgh V1 0.docx  0%  100%  
+	    New File  		   29873	corporate partners letter template 7 17 12.pdf  0%  100%  
+	    New File  		  181248	Director's Preface CERC Feb 27 2012.doc  0%  100%  
+	    New File  		  181760	Director's Preface Making a Difference with Philanthropy vFinal (2-4.10.12).doc  0%  100%  
+	    New File  		   28744	GE Proposal V1 0.docx  0%  100%  
+	    New File  		   13790	SCP inspiring solutions summit.docx  0%  100%  
+	    New File  		   33280	Thumbs.db  0%  100%  100%  
+	  New Dir         48	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\CP General Docs\
+	    New File  		   19701	April 8 briefing memo.docx  0%  100%  
+	    New File  		   3.5 m	Basic FAQs_forStaffGift_FINAL.DOCX  0%  100%  
+	    New File  		   15413	CEO ltr list Jun 7 2011 post resolution.xlsx  0%  100%  
+	    New File  		   36524	Copy of CPP Discussion for FY12 Budget v2.xlsx  0%  100%  
+	    New File  		   19313	Copy of Dashboard.xlsx  0%  100%  
+	    New File  		   16043	Corporate Partner CEO contacts.docx  0%  100%  
+	    New File  		   44467	Corporate Partners Prospect Update - April 2012.docx  0%  100%  
+	    New File  		   14541	CP  Offering to Partner Company Employees.docx  0%  100%  
+	    New File  		   16171	CP Missions.docx  0%  100%  
+	    New File  		   28998	CP NAvigation statement.docx  0%  100%  
+	    New File  		  191511	CP org chart Oct 10.pptx  0%  100%  
+	    New File  		   13374	CP Phone lines in.docx  0%  100%  
+	    New File  		   2.3 m	CPP Launch Invitation DRAFT.pdf  0%  100%  
+	    New File  		   4.4 m	Dec 11 ROtary Presentation.ppt  0%  100%  
+	    New File  		   21944	Dec 2 SCP and SHC Board Innovation Summit.docx  0%  100%  
+	    New File  		   4.2 m	Extra Slides_Canter_ Board mtg Jan 20.pptx  0%  100%  
+	    New File  		   32508	FAQs V5 1 12 11 ADRv.docx  0%  100%  
+	    New File  		   27536	FAQs V5 1 12 11.docx  0%  100%  
+	    New File  		   19360	GS Contact cntr data YTD May 11.xlsx  0%  100%  
+	    New File  		  413447	GS Dashboard slides1.pptx  0%  100%  
+	    New File  		   27242	Internal Template (v3-1711) - SHCorpPtners (2).docx  0%  100%  
+	    New File  		   21432	MAy 2012 Cummulative  tracking sheet.xlsx  0%  100%  
+	    New File  		   15124	Navigator service brief.docx  0%  100%  
+	    New File  		  239467	OCIO 2011Innovation slides.pptx  0%  100%  
+	    New File  		   16865	Partner update liners aug 5 2011s.docx  0%  100%  
+	    New File  		   16697	Rough Corp proposal template apr 14 2011.docx  0%  100%  
+	    New File  		   22094	SCP Communications Plan 8-31-11.docx  0%  100%  
+	    New File  		   2.5 m	SCP DASHBOARD 6-1-11 tt.docx  0%  100%  
+	    New File  		   3.3 m	SCP Guest Services brief.ppt  0%  100%  
+	    New File  		   18202	SCP pager may 13 b.docx  0%  100%  
+	    New File  		   51783	SCP pager may 13 py.docx  0%  100%  
+	    New File  		   52001	SCP pager may 13 x.docx  0%  100%  
+	    New File  		   15182	SCP SCH Renewal description.docx  0%  100%  
+	    New File  		   19849	SCP Stakeholder mtg apr 8 11 (2).docx  0%  100%  
+	    New File  		   1.3 m	SHC Del Langdon Draft for discussion FNL April 29.pdf  0%  100%  
+	    New File  		  101086	SHC_CPP_IT Program Phases -- Draft - 2011 02 14.pptx  0%  100%  
+	    New File  		  132023	shc-corporate-partners-FINAL.pdf  0%  100%  
+	    New File  		   3.6 m	Stan_CP_Board_Presentation_2011_05_16br.ppt  0%  100%  
+	    New File  		 1029632	Stan_CP_Board_Presentation_2011_09_20br.ppt  0%  100%  
+	    New File  		   1.4 m	Stan_CP_Investor slides_2011_12_16.ppt  0%  100%  
+	    New File  		   5.7 m	Stan_CPP_2010_10_22_Pres_Board.ppt  0.0%100%  
+	    New File  		   23040	Stanford Corporate Partners Annual Plan1.docx  0%  100%  
+	    New File  		  112901	Stanford Healthcare Reform Taskforce - Proposal v10.pptx  0%  100%  
+	    New File  		   3.2 m	Stanford Hospital Corporate Partners Program - Art .zip  0%   99%   99%  100%  
+	    New File  		   43008	Thumbs.db  0%  100%  100%  
+	    New File  		   14010	tportwood names for launch.docx  0%  100%  
+	    New File  		   20548	Vinod Khosla.docx  0%  100%  
+	    New File  		   14717	What a Health Navigator does.docx  0%  100%  
+	  New Dir         15	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\eBay PayPal\
+	    New File  		   15770	bay announcement Feb 3.docx  0%  100%  
+	    New File  		   23535	contact center data May31 2011.docx  0%  100%  
+	    New File  		   17079	Contact Center report ebay 9-9-11.docx  0%  100%  
+	    New File  		   41984	cpp_eBayNotes_8Feb11cf_tt.doc  0%  100%  
+	    New File  		   15553	Draft announcement to scp employees may 9 2011.docx  0%  100%  
+	    New File  		   15756	ebay contact center results May 2011.docx  0%  100%  
+	    New File  		   58350	eBay HUB article 22711.docx  0%  100%  
+	    New File  		   22424	eBay message to employees may 9 2011.docx  0%  100%  
+	    New File  		  112893	eBay Stanford Hospital FAQ 4-13-11.pdf  0%  100%  
+	    New File  		   15162	eBay Tech Executives june 22.docx  0%  100%  
+	    New File  		   14679	introductory meeting request eBay1a.docx  0%  100%  
+	    New File  		  779264	May_CPPAnalytics.ppt  0%  100%  
+	    New File  		  186611	Screen shot Ebay.pptx  0%  100%  
+	    New File  		  112893	Stanford Hospital FAQ 4-13-11.pdf  0%  100%  
+	    New File  		   17920	Thumbs.db  0%  100%  100%  
+	  New Dir         18	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\General Adm\
+	    New File  		  839168	145 El Camino 1st Fl (4).ppt  0%  100%  
+	    New File  		  839168	145 El Camino 1st Fl.ppt  0%  100%  
+	    New File  		   1.9 m	Board Presentation - Jan 20 2011 - DRAFT-tmt2.pptx  0%  100%  
+	    New File  		   1.3 m	Board Presentation - Jan20_FINAL DRAFT.pptx  0%  100%  
+	    New File  		   3.5 m	Board Presentation - Jan20_FINALfinal DRAFT-1.pptx  0%  100%  
+	    New File  		   14326	Call center message 12 2111.docx  0%  100%  
+	    New File  		   69050	Copy of BC Subscriber Employers for Appts through 9-15 - ScrubbedCP.xlsx  0%  100%  
+	    New File  		   18402	Corporate Partners Budget Estimate - Dec 20 2010.xlsx  0%  100%  
+	    New File  		   14958	CP CEO Letter ADR 5 21 3.docx  0%  100%  
+	    New File  		   56503	CP Status review july 11t.docx  0%  100%  
+	    New File  		   68608	CPP Project Manager.doc  0%  100%  
+	    New File  		   14056	Directions to Ted Tussing's office.docx  0%  100%  
+	    New File  		   1.4 m	FY2011 SHC  LPCH AIP SuccessFactors Navigation (4).ppt  0%  100%  
+	    New File  		  209186	PCY 2010-2011 Perf Evaluation - Tussing.rtf  0%  100%  
+	    New File  		   30208	SHC NDA with DeltaHealth.doc  0%  100%  
+	    New File  		   49664	SHC-DHC-NDA.doc  0%  100%  
+	    New File  		   13110	TEAM Contacts.xlsx  0%  100%  
+	    New File  		   12800	Thumbs.db  0%  100%  100%  
+	  New Dir         23	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\HP\
+	    New File  		   14027	Backup of Backup of HP_VIP_list(1).xlk  0%  100%  
+	    New File  		   14553	Backup of HP_VIP_list(1).xlk  0%  100%  
+	    New File  		   16710	Baldur Johnsen.docx  0%  100%  
+	    New File  		   4.3 m	Baldur Johnsen1 apr 11.ppt  0%  100%  
+	    New File  		   14642	GETTING HELP HP Slide 6 comments (3).docx  0%  100%  
+	    New File  		   13694	GETTING HELP HP Slide 6.docx  0%  100%  
+	    New File  		   2.3 m	HEW7479_Website_sm10.pdf  0%  100%  
+	    New File  		   1.0 m	HEW7608_Education_Info_Outline.pptx  0%  100%  
+	    New File  		   16951	Hewlett Expande Digital Health Feb 2011 baldur.docx  0%  100%  
+	    New File  		   16796	HP edits Aug 7 2012bb (3).docx  0%  100%  
+	    New File  		   22464	HP FAQs for Landing Page 4-26.docx  0%  100%  
+	    New File  		   17122	HP follow up, Mar 18 conf call.docx  0%  100%  
+	    New File  		   13919	HP Harry kim bio.docx  0%  100%  
+	    New File  		   13415	HP Mar 10 rough agenda.docx  0%  100%  
+	    New File  		  121437	HP Target Countries.pptx  0%  100%  
+	    New File  		   18841	HP ted e-mail 4-5-11.docx  0%  100%  
+	    New File  		   2.5 m	HP_ POP about Stanford2 (3).docx  0%  100%  
+	    New File  		   4.0 m	POP_ HP draft site_screening Instructions.pdf  0%  100%  
+	    New File  		  132724	POP_HP_PortalPage_2 2 a(2).pdf  0%  100%  
+	    New File  		   1.9 m	Stanford Workshop Agenda V2 .pdf  0%  100%  
+	    New File  		  157179	Thank you 6-2011 Apotheker.pdf  0%  100%  
+	    New File  		   16686	THE POWER OF PINK - FIGHT BREAST CANCER AT HP2.docx  0%  100%  
+	    New File  		   14336	Thumbs.db  0%  100%  100%  
+	  New Dir         11	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\Intel\
+	    New File  		   17388	ADR intel follow up.docx  0%  100%  
+	    New File  		   22960	Amir_Intel briefing Mar 24 2011.docx  0%  100%  
+	    New File  		   23128	Amir_Intel briefing Mar 24 2011a.docx  0%  100%  
+	    New File  		   23658	Amir_Intel_Murray briefing Aug 192011a.docx  0%  100%  
+	    New File  		   13891	Ben Wilson  bio 2010.docx  0%  100%  
+	    New File  		   17588	Dishman blog_51911The Truest Measure of Healthcare Quality.docx  0%  100%  
+	    New File  		   29220	Eric Dishman inspiring Innovation in HC  blog 2_23_11.docx  0%  100%  
+	    New File  		   36035	Inspiring innovation DISHMAN.docx  0%  100%  
+	    New File  		  193104	Intel $5K donor.pdf  0%  100%  
+	    New File  		   15467	Intel Mar 2 2011 meeting notes.docx  0%  100%  
+	    New File  		   32993	org chart for Amir 5-11.docx  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\International\
+	    New File  		   1.0 m	ALC _WHO Bulletin.pdf  0%  100%  
+	    New File  		   1.8 m	ALC Business_Brochure_English (2).pdf  0%  100%  
+	    New File  		   74409	Asia Liver Cntr JNCI news article.pdf  0%  100%  
+	    New File  		  299722	Asian Liver Corporate Partnerships Handout.pdf  0%  100%  
+	    New File  		   1.7 m	great wall.JPG  0%  100%  
+	    New File  		   1.8 m	SCPKU(4).JPG  0%  100%  
+	    New File  		   31232	Thumbs.db  0%  100%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\Intuit\
+	    New File  		   14532	Intuit Corporate Strategy Group meeting 882011.docx  0%  100%  
+	    New File  		   89078	Intuit web landing snapshot Aug 11.PNG  0%  100%  
+	    New File  		   15824	Sample email to employees.docx  0%  100%  
+	    New File  		  152076	Thank you 6-2011 Cook-Intuit.pdf  0%  100%  
+	    New File  		   20992	Thumbs.db  0%  100%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\JIFF\
+	    New File  		  906944	JIFF brief slides.pptx  0%  100%  
+	    New File  		   3.4 m	Jiff Stanford SPS.pptx  0%  100%  
+	    New File  		  254965	Jiff_Management_and_BOD_Bios[1].pdf  0%  100%  
+	    New File  		  329652	Jiff_May_2011_overview_2[1].docx  0%  100%  
+	    New File  		   2.6 m	Stanford's Dan Morissette June 6 2011.pptx  0%  100%  
+	    New File  		   28672	Thumbs.db  0%  100%  100%  
+	  New Dir         15	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\LISTS\
+	    New File  		   17959	620 Sandhill Review List 9.21.11(1).xlsx  0%  100%  
+	    New File  		   54834	Copy of $5M+ Development Officer Sort.xlsx  0%  100%  
+	    New File  		  127100	Copy of 2012 Skybox Tier 1 (INVITED) and Tier 2 (ALTERNATES) - For Julia.xlsx  0%  100%  
+	    New File  		   20682	Copy of Fortune 500 CEOs 2010.xlsx  0%  100%  
+	    New File  		   39142	Copy of MASTER_Guest_List (2).xlsx  0%  100%  
+	    New File  		   47390	Copy of TT CURRENTMASTER_CPP_GuestList (4).xlsx  0%  100%  
+	    New File  		   32350	Corporate Partners Program Contacts_12 28 10 alpha.xlsx  0%  100%  
+	    New File  		   19698	CP Key  invites Jan 4_2011.xlsx  0%  100%  
+	    New File  		   15888	CPP Direct Contacts Log Jan 17 2011.xlsx  0%  100%  
+	    New File  		   18302	CPP Key insiders_12 28 10 alpha_ Launch invites1.xlsx  0%  100%  
+	    New File  		   55441	Dec-8-2010 attendees.pdf  0%   99%   99%  100%  
+	    New File  		   51636	Fall FY11 Hosp $10K Master List-11.08.10(1).xlsx  0%  100%  
+	    New File  		  670985	Hos partners Event Review List Oct 2011 8.23.11(1).xlsx  0%  100%  
+	    New File  		   14035	HP_VIP_list(1).xlsx  0%  100%  
+	    New File  		   50725	Top 10 Prospects 2009-2010 (8) RSS 12 16 09.docx  0%  100%  
+	  New Dir         19	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\Nav Stories & data\
+	    New File  		   17382	Apple Stories 3-2012 (2).docx  0%  100%  
+	    New File  		   15079	Contact Center report template.docx  0%  100%  
+	    New File  		   33596	Copy of Corp Partners - Cummulative tracking sheet 2012-12-04.xlsx  0%  100%  
+	    New File  		   20755	Copy of Cummulative  tracking sheet  2012 - 4-30-12.xlsx  0%  100%  
+	    New File  		   20973	Copy of Cummulative  tracking sheet 2012 - 3-5-12.xlsx  0%  100%  
+	    New File  		   20578	Copy of Cummulative  tracking sheet 2012 - 4-3-12 (2).xlsx  0%  100%  
+	    New File  		   22084	Copy of Cummulative  tracking sheet 2012- 10-02.xlsx  0%  100%  
+	    New File  		   84967	Corp Partners stories jan 19 2012.docx  0%  100%  
+	    New File  		   84998	Corp Partners stories v5.docx  0%  100%  
+	    New File  		   75407	CP Cases Count MAy 2012.docx  0%  100%  
+	    New File  		   14074	CP Cummulative  tracking 123111.xlsx  0%  100%  
+	    New File  		   35436	CP Status navigation innovation summary 2-1-12 no table.docx  0%  100%  
+	    New File  		   31744	CPP Navigation Requests_12 07 12.doc  0%  100%  
+	    New File  		   21769	Cummulative  SCp Nav tracking sept 12a.xlsx  0%  100%  
+	    New File  		   20788	Cummulative  tracking sheet 2012 - 5-7-12.xlsx  0%  100%  
+	    New File  		   21555	Cummulative  tracking sheet 2012- 09-05.xlsx  0%  100%  
+	    New File  		   77505	Nav encounters update Cont Center sum Sep 2012 (2).docx  0%  100%  
+	    New File  		   98122	Sampling of SCP request Apr 2012.docx  0%  100%  
+	    New File  		   26512	Sampling of SCP request Feb 2012.docx  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\NVIDIA\
+	    New File  		  719838	NVIDIA and SHC executed agreement 6-12-12.pdf  0%  100%  
+	    New File  		   75401	NVIDIA Cases Cont Center MAy 2012.docx  0%  100%  
+	    New File  		   16629	Nvidia follow up letter1tt.docx  0%  100%  
+	    New File  		   1.6 m	NVIDIA Health Fair (2).JPG  0%  100%  
+	    New File  		   51440	NVIDIA Stanford Health Navigator_Employee Email Announcement_v1.docx  0%  100%  
+	    New File  		   25811	nvidia thank you suid30315188 (2).pdf  0%  100%  
+	    New File  		   20992	Thumbs.db  0%  100%  100%  
+	  New Dir         16	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\Oracle\
+	    New File  		   8.3 m	AC slides.pptx  0.0%100%  
+	    New File  		  236331	CPCA_StanfordUniversity Oracle.pdf  0%  100%  
+	    New File  		   54784	CPCA-Oracle-Stanford (3).doc  0%  100%  
+	    New File  		  152297	CPCA-Oracle-Stanford.pdf  0%  100%  
+	    New File  		   16563	Hi Mickey oracle.docx  0%  100%  
+	    New File  		   15192	Oracle bios.docx  0%  100%  
+	    New File  		   1.1 m	Oracle fair 3.JPG  0%  100%  
+	    New File  		   1.3 m	Oracle fair photo 1.JPG  0%  100%  
+	    New File  		   1.0 m	Oracle fair Photo 2.JPG  0%  100%  
+	    New File  		   22266	Oracle FAQs for Landing Page Final 4-25.docx  0%  100%  
+	    New File  		   17426	Oracle Health Navigatortmt.docx  0%  100%  
+	    New File  		   16577	Oracle Racing team partners with AECA to co control the event.docx  0%  100%  
+	    New File  		   15780	Sample email to Oracle employees May 23 2011.docx  0%  100%  
+	    New File  		  152742	Thank you 6-2011 Catz.pdf  0%  100%  
+	    New File  		  146099	Thank you 6-2011 Ellison.pdf  0%  100%  
+	    New File  		   34816	Thumbs.db  0%  100%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\RAK\
+	    New File  		  190214	HH Saud bin Saqr al Qasimi brief bio wikipedia July 2011.docx  0%  100%  
+	    New File  		  208783	HHSAUDinvitation.pdf  0%  100%  
+	    New File  		   42400	HHSS Discussion slides 722111.pptx  0%  100%  
+	    New File  		   18047	HHSS IMS Concept.docx  0%  100%  
+	    New File  		  201728	HHSS June 10 2009 report.doc  0%  100%  
+	    New File  		  157409	Intl Prospect slide sept 2012.pptx  0%  100%  
+	    New File  		   18432	Thumbs.db  0%  100%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\SCP B-Plans, etc\
+	    New File  		   21474	Catalog of Outreach Program presenters.docx  0%  100%  
+	    New File  		   21466	Catalog of possible CP presenters.docx  0%  100%  
+	    New File  		   15958	CP Strategic disease social network concept.docx  0%  100%  
+	    New File  		   23214	SCP Bplan (py) 6-11.docx  0%  100%  
+	    New File  		   22858	SCP Bplan.docx  0%  100%  
+	    New File  		   20360	SCP Community Partnership impact May1 2012.docx  0%  100%  
+	    New File  		   19439	SCP OEM exchange memo 1 (2).docx  0%  100%  
+	    New File  		   29688	SCP Outreach and content delivery memo DB-3.docx  0%  100%  
+	    New File  		   20418	Sentry Initiative_Infection control concept DRAFT.docx  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\SCP B-Plans, etc\CP Onsite Programs\
+	    New File  		   68399	CP Faculty showcase worksheet.docx  0%  100%  
+	    New File  		  314165	CP Outreach program plan agenda.pptx  0%  100%  
+	    New File  		   15136	CP Outreach programs 2012.xlsx  0%  100%  
+	  New Dir         12	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\SCP Innovation\
+	    New File  		   25088	Byerly SHC July 2010.doc  0%  100%  
+	    New File  		  482604	CIMIT overview.docx  0%  100%  
+	    New File  		   55441	Health Tech June 2011 invitees start.pdf  0%  100%  
+	    New File  		   41752	Healthcare Tech Summit June-22 Attendee List-4 (2).pdf  0%  100%  
+	    New File  		   14671	SCP Apps.docx  0%  100%  
+	    New File  		   18906	SCP Innovation Contacts draft apr 11.docx  0%  100%  
+	    New File  		   15068	SCP Innovation Initiative.docx  0%  100%  
+	    New File  		   17759	SVEN SCP June 22 program.docx  0%  100%  
+	    New File  		   17758	SVEN SCP June 22a.docx  0%  100%  
+	    New File  		   70518	SVEN SCP June 22b.docx  0%  100%  
+	    New File  		   15931	TEch summit brochure description (2).docx  0%  100%  
+	    New File  		   15360	Thumbs.db  0%  100%  100%  
+	  New Dir         11	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\SCP Innovation\HC Tech venture Forum\
+	    New File  		  362393	Brookings 0128_personalized_medicine_west.pdf  0%  100%  
+	    New File  		  401787	Brookings 1008_mhealth_west.pdf  0%  100%  
+	    New File  		   55441	Dec-8-2010 attendees.pdf  0%   99%   99%  100%  
+	    New File  		  188237	Dr.Milstein-Healthcare Tech Summit 12.8.10 (Stanford) - Handout.pdf  0%   99%   99%  100%  
+	    New File  		  252258	Healthcare Tech Summit Detailed Notes-PDF.pdf  0%   99%   99%  100%  
+	    New File  		  169183	Healthcare Tech Summit Key Takeaways from Breakout Sessions-vFINAL.pdf  0%   99%   99%  100%  
+	    New File  		  232380	Healthcare Tech Summit Raw Notes from Breakout Sessions.pdf  0%   99%   99%  100%  
+	    New File  		  628101	Healthcare Tech Summit Summary Analysis.pdf  0%   99%   99%  100%  
+	    New File  		  157486	Healthcare Tech Summit Summary Notes from Panel Sessions-1.pdf  0%   99%   99%  100%  
+	    New File  		   3.9 m	Healthcare-Tech-Summit-Survey.pdf  0%  100%  
+	    New File  		   80497	Judy App Jan 2011.pptx  0%  100%  
+	  New Dir         29	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\SCP Marketing\
+	    New File  		   1.5 m	2012-05-9  CP logo Tree+SCP+SUMC.pdf  0%  100%  
+	    New File  		  163967	2012-05-9 Logo CP Tree+SCP+SUMC.jpg  0%  100%  
+	    New File  		  460059	826 0089 Corporate Partners banners.pdf  0%  100%  
+	    New File  		   2.0 m	Banners Apr 15.JPG  0%  100%  
+	    New File  		   18070	Corporate Partners pitches.docx  0%  100%  
+	    New File  		  562443	CP article Feb 2012.pdf  0%  100%  
+	    New File  		   1.0 m	CP_SU_AD2.pptx  0%  100%  
+	    New File  		   1.0 m	CP_SU_AD3.pptx  0%  100%  
+	    New File  		   1.7 m	CP_SU_football Ad.pptx  0%  100%  
+	    New File  		   14488	Health Navigator bullets.docx  0%  100%  
+	    New File  		   2.9 m	Logo choices jan 2012.pptx  0%  100%  
+	    New File  		  163967	Logo CP Tree2.jpg  0%  100%  
+	    New File  		  517079	new_stanford_hospital_insert.pdf  0%  100%  
+	    New File  		   16587	Real Navigation story.docx  0%  100%  
+	    New File  		  204921	SCP Global Learning Exchange logo.pptx  0%  100%  
+	    New File  		  111030	SCP laminated for walk in.pptx  0%  100%  
+	    New File  		   14813	SCP pitch.docx  0%  100%  
+	    New File  		   15010	SCP Standard statement 10412.docx  0%  100%  
+	    New File  		   25600	SHC Corporate Partners PA2.doc  0%  100%  
+	    New File  		   25088	SHC Corporate Partners videoboard 102411.doc  0%  100%  
+	    New File  		    9299	SHC_Logo-clear-background-w.gif  0%  100%  
+	    New File  		   86708	SHC_WhiteLogoNoBackground.pptx  0%  100%  
+	    New File  		  141299	Stadium open slide4.pptx  0%  100%  
+	    New File  		   1.0 m	Stadium open slide5.pptx  0%  100%  
+	    New File  		   1.4 m	Stan_CP_Investor slides_2011_12_16.ppt  0%  100%  
+	    New File  		  157041	Stan_CPP_2012_05_25_12_with namesl (2).jpg  0%  100%  
+	    New File  		   2.2 m	Stanford CP athletics 11-12.pdf  0%  100%  
+	    New File  		   14494	The Stanford Health Navigator.docx  0%  100%  
+	    New File  		  283648	Thumbs.db  0%  100%  100%  
+	  New Dir         30	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\SCP Marketing\SCP Images\
+	    New File  		   14693	173263_560259084_5739955_n.jpg  0%   99%   99%  100%  
+	    New File  		    2077	1d6309e.jpg  0%   98%   98%  100%  
+	    New File  		   37205	20120327072350240435.jpg  0%   99%   99%  100%  
+	    New File  		    8873	41377_1171837608_5904_n.jpg  0%   99%   99%  100%  
+	    New File  		   91194	amir_rubin.jpg  0%  100%  
+	    New File  		   11211	BRIAN30.png  0%   99%   99%  100%  
+	    New File  		  239280	BWAttachment1158014-3.jpg  0%   99%   99%  100%  
+	    New File  		  126958	byerwalter.jpg  0%   99%   99%  100%  
+	    New File  		   68245	china_banner.jpg  0%  100%  
+	    New File  		  104026	clinical_news.jpg  0%  100%  
+	    New File  		   39221	cloud-servers.jpg  0%   99%   99%  100%  
+	    New File  		   20692	Copy of frame_10.jpg  0%  100%  
+	    New File  		   18318	Copy of oscdp.png  0%  100%  
+	    New File  		   17823	dirbas-f_300web.jpg  0%  100%  
+	    New File  		   20692	frame_10.jpg  0%  100%  
+	    New File  		   18759	gm_pic.jpg  0%   99%   99%  100%  
+	    New File  		   45522	InternationalMedicalServicesSign.jpg  0%   99%   99%  100%  
+	    New File  		   17718	jcpenney-ron-johnson.jpg  0%   99%   99%  100%  
+	    New File  		   3.0 m	Leadership.pptx  0%  100%  
+	    New File  		    8641	milstein-060611-150x150.jpg  0%  100%  
+	    New File  		  169510	new-hospital.jpg  0%  100%  
+	    New File  		   18318	oscdp.png  0%  100%  
+	    New File  		  138230	Patricia SHC People 6-2011.JPG  0%  100%  
+	    New File  		  340126	SCP coord.pptx  0%  100%  
+	    New File  		   63119	StanfordHealth-logo.jpg  0%   99%   99%  100%  
+	    New File  		   20291	ted-photo.jpg  0%   99%   99%  100%  
+	    New File  		  408064	Thumbs.db  0%  100%  100%  
+	    New File  		   16318	tns.hfqatkfb.170x170-75.jpg  0%   99%   99%  100%  
+	    New File  		   32803	verghese_cover.jpg  0%   99%   99%  100%  
+	    New File  		   25488	zoho.gif  0%   99%   99%  100%  
+	  New Dir         32	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\SCP Power Pts\
+	    New File  		   3.0 m	Best Docs Overview July 2012.pptx  0%  100%  
+	    New File  		   2.7 m	Business Plan SCP FY2012.pptx  0%  100%  
+	    New File  		  194560	Corporate Partner Prospects Powerpoint slide copy1.ppt  0%  100%  
+	    New File  		   1.0 m	Corporate Partners update 912 BR final.pptx  0%  100%  
+	    New File  		  319101	CP Biz Plan WIP Apr 15.pptx  0%  100%  
+	    New File  		  476117	CP Biz Plan WIP-2tmt.pptx  0%  100%  
+	    New File  		  374995	Fence wrap ideas.pptx  0%  100%  
+	    New File  		   88049	For less than the cost of a 30.pptx  0%  100%  
+	    New File  		  196729	FY 12 Year End Summary_Accomplishments _SCP.pptx  0%  100%  
+	    New File  		   71560	FY12 Partner Employee Utilization of Navigation br.pptx  0%  100%  
+	    New File  		   1.5 m	International Navigation Resource.pptx  0%  100%  
+	    New File  		   2.8 m	Logo choices jan 2012.pptx  0%  100%  
+	    New File  		   65777	Navigation levels.pptx  0%  100%  
+	    New File  		   63031	Needs for success.pptx  0%  100%  
+	    New File  		  283971	Overall CP Value Proposition 2012.pptx  0%  100%  
+	    New File  		  784924	presentor at podium with scp backdrop.pptx  0%  100%  
+	    New File  		  157410	Prospect slide sept 2012.pptx  0%  100%  
+	    New File  		  165817	SCP Brief pager Sept 2012.pptx  0%  100%  
+	    New File  		  219019	SCP Brief Sept 2012.pptx  0%  100%  
+	    New File  		  183282	SCP GE brief_Immelt Aug 2012.pptx  0%  100%  
+	    New File  		  523396	SCP June 7 Presentation v6.pptx  0%  100%  
+	    New File  		  169254	SCP mission oct 4 2012.pptx  0%  100%  
+	    New File  		  117152	SCP op org chart Oct 10 v 2.pptx  0%  100%  
+	    New File  		  114488	SCP op org chart.pptx  0%  100%  
+	    New File  		  326190	SCP status slides_ Sept 20 2012rj.pptx  0%  100%  
+	    New File  		   3.0 m	SCP status slides_ Sept 20 2012tt.pptx  0%  100%  
+	    New File  		  496129	SCP Strategy WIP v7.pptx  0%  100%  
+	    New File  		  518648	SCP TMT MG Committee 2012.pptx  0%  100%  
+	    New File  		  519483	SCP TMT Presentation Summer 2012.pptx  0%  100%  
+	    New File  		  331502	Sept 2012 SCP status_ MG report.pptx  0%  100%  
+	    New File  		   3.5 m	Step 2-3 Final Report V5.pptx  0%  100%  
+	    New File  		  311808	Thumbs.db  0%  100%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\StartX Med\
+	    New File  		  555573	Campus Demo Day.pptx  0%  100%  
+	    New File  		   59354	gauss surgical introduction.pdf  0%  100%  
+	    New File  		   18432	Thumbs.db  0%  100%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\TMT Stanford\
+	    New File  		  716288	Thumbs.db  0%  100%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0063190\California Move 2012\Verizon\
+	    New File  		  107716	DRAFT Verizon one-pager.docx  0%  100%  
+	    New File  		  106416	MCD Verizon one-pager FINAL Joy M (2).docx  0%  100%  
+	    New File  		   18444	Nov 12 2013 email W ADR_ Verizon_Caulfield visit.docx  0%  100%  
+	    New File  		   18574	Oct 25 2012 eamils to JV_SD on Verizon.docx  0%  100%  
+	    New File  		   18021	Oct 29 Joy email breifing on Veriz visit.docx  0%  100%  
+	    New File  		   28243	SHC-Verizon conf  call notes 11-21-13.docx  0%  100%  
+	    New File  		   72205	Verizon Oct 3 2012.docx  0%  100%  
+	    New File  		  106841	Verizon one-pager TMT 102512 (2).docx  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063190\Downloads\
+	    New File  		   61952	Thumbs.db  0%  100%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063190\Dropbox\
+	    New File  		  137452	Corporate Partners Productions.pptx  0%  100%  
+	    New File  		     187	desktop.ini  0%  100%  
+	    New File  		  246000	Getting Started.pdf  0%  100%  
+	    New File  		    5120	Thumbs.db  0%  100%  100%  
+	    New File  		   1.0 m	Tussings.zip  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063190\Dropbox\.dropbox.cache\
+	  New Dir         59	\\shintnpscfs116\T$\Users7\S0063190\Dropbox\Camera Uploads\
+	    New File  		  122293	2012-11-07 18.24.11.jpg  0%   99%   99%  100%  
+	    New File  		  234493	2012-11-07 18.25.31.jpg  0%   99%   99%  100%  
+	    New File  		  923880	2012-11-23 14.18.38.jpg  0%   99%   99%  100%  
+	    New File  		  945279	2012-11-30 16.36.39.jpg  0%   99%   99%  100%  
+	    New File  		  764314	2012-11-30 17.20.39.jpg  0%   99%   99%  100%  
+	    New File  		   1.2 m	2012-12-05 22.19.05.jpg  0%   99%   99%  100%  
+	    New File  		   1.8 m	2012-12-15 20.18.16.jpg  0%   99%   99%  100%  
+	    New File  		   1.8 m	2012-12-15 20.18.22.jpg  0%   99%   99%  100%  
+	    New File  		   1.9 m	2012-12-15 20.21.53.jpg  0%   99%   99%  100%  
+	    New File  		   1.7 m	2012-12-15 20.21.56.jpg  0%   99%   99%  100%  
+	    New File  		   1.8 m	2012-12-15 20.22.00.jpg  0%   99%   99%  100%  
+	    New File  		  367511	2013-01-10 22.35.00.jpg  0%   99%   99%  100%  
+	    New File  		 1042222	2013-01-15 15.40.21.jpg  0%   99%   99%  100%  
+	    New File  		  966788	2013-01-15 15.40.24.jpg  0%   99%   99%  100%  
+	    New File  		   1.2 m	2013-01-15 15.40.30.jpg  0%   99%   99%  100%  
+	    New File  		  786674	2013-02-24 22.25.56.jpg  0%   99%   99%  100%  
+	    New File  		   1.1 m	2013-05-04 08.22.26.jpg  0%   99%   99%  100%  
+	    New File  		   1.8 m	2013-05-04 08.22.49.jpg  0%   99%   99%  100%  
+	    New File  		   1.7 m	2013-05-04 08.23.12.jpg  0%   99%   99%  100%  
+	    New File  		   1.6 m	2013-05-04 08.23.39.jpg  0%   99%   99%  100%  
+	    New File  		   1.1 m	2013-05-04 08.23.49.jpg  0%   99%   99%  100%  
+	    New File  		   1.6 m	2013-05-04 08.24.05.jpg  0%   99%   99%  100%  
+	    New File  		   1.9 m	2013-05-04 08.25.19.jpg  0%   99%   99%  100%  
+	    New File  		   1.4 m	2013-05-04 08.25.43.jpg  0%   99%   99%  100%  
+	    New File  		   1.4 m	2013-05-04 08.25.50.jpg  0%   99%   99%  100%  
+	    New File  		   1.4 m	2013-05-04 08.29.53.jpg  0%   99%   99%  100%  
+	    New File  		   1.2 m	2013-05-04 08.30.29.jpg  0%   99%   99%  100%  
+	    New File  		   1.2 m	2013-05-04 08.32.47.jpg  0%   99%   99%  100%  
+	    New File  		   1.4 m	2013-05-04 08.32.54.jpg  0%   99%   99%  100%  
+	    New File  		   1.3 m	2013-05-04 08.34.25.jpg  0%   99%   99%  100%  
+	    New File  		   1.4 m	2013-05-04 08.34.28.jpg  0%   99%   99%  100%  
+	    New File  		  836655	2013-05-04 08.34.49.jpg  0%   99%   99%  100%  
+	    New File  		  793223	2013-05-04 08.34.51.jpg  0%   99%   99%  100%  
+	    New File  		  733195	2013-05-04 08.36.01.jpg  0%   99%   99%  100%  
+	    New File  		  674894	2013-05-04 08.36.33.jpg  0%   99%   99%  100%  
+	    New File  		   1.0 m	2013-05-04 08.41.19.jpg  0%   99%   99%  100%  
+	    New File  		   1.9 m	2013-05-04 08.45.44.jpg  0%   99%   99%  100%  
+	    New File  		   1.2 m	2013-05-04 08.46.03.jpg  0%   99%   99%  100%  
+	    New File  		   1.2 m	2013-05-04 08.46.13.jpg  0%   99%   99%  100%  
+	    New File  		   1.2 m	2013-05-04 08.46.26.jpg  0%   99%   99%  100%  
+	    New File  		  959914	2013-05-04 08.46.37.jpg  0%   99%   99%  100%  
+	    New File  		   1.1 m	2013-05-04 08.46.48.jpg  0%   99%   99%  100%  
+	    New File  		   1.4 m	2013-05-04 10.19.04.jpg  0%   99%   99%  100%  
+	    New File  		   1.0 m	2013-05-04 10.20.25.jpg  0%   99%   99%  100%  
+	    New File  		   1.6 m	2013-05-06 00.14.54.jpg  0%   99%   99%  100%  
+	    New File  		  909835	2013-05-10 19.49.28.jpg  0%   99%   99%  100%  
+	    New File  		   1.0 m	2013-05-10 19.49.34.jpg  0%   99%   99%  100%  
+	    New File  		  782336	2013-05-15 19.37.31.png  0%   99%   99%  100%  
+	    New File  		   1.4 m	2013-05-24 08.42.28.jpg  0%   99%   99%  100%  
+	    New File  		   1.4 m	2013-05-24 08.42.36.jpg  0%   99%   99%  100%  
+	    New File  		   1.3 m	2013-05-24 08.42.43.jpg  0%   99%   99%  100%  
+	    New File  		   1.0 m	2013-06-11 09.27.55.jpg  0%   99%   99%  100%  
+	    New File  		   1.1 m	2013-06-11 09.27.59.jpg  0%   99%   99%  100%  
+	    New File  		  590249	2013-06-11 19.13.29.jpg  0%   99%   99%  100%  
+	    New File  		  714539	2013-06-11 19.14.00.jpg  0%   99%   99%  100%  
+	    New File  		  656225	2013-06-11 19.14.07.jpg  0%   99%   99%  100%  
+	    New File  		  600870	2013-06-11 19.14.13.jpg  0%   99%   99%  100%  
+	    New File  		     187	desktop.ini  0%  100%  
+	    New File  		   31326	ZbThumbnail.info  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063190\Dropbox\MS Coach\
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063190\Dropbox\Public\
+	    New File  		     187	desktop.ini  0%  100%  
+	    New File  		     675	How to use the Public folder.txt  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063190\Migrated_WKS21345\
+	  New Dir         90	\\shintnpscfs116\T$\Users7\S0063190\Migrated_WKS21345\xp_Desktop\
+	    New File  		  258560	2014 budget ideas 2013-June3.xls  0%  100%  
+	    New File  		   18520	Apple _Cook meeting briefing Apr 2013a.docx  0%  100%  
+	    New File  		   74632	APPLE Cases thru Mar - report date 4-2013.docx  0%  100%  
+	    New File  		 1044899	Apple NDA 12_1_2012.pdf  0%  100%  
+	    New File  		   42496	AppleMutualNDA Nov 2012.doc  0%  100%  
+	    New File  		  184519	ARP Concept Memo for Stanford (2).pdf  0%  100%  
+	    New File  		  184519	ARP Concept Memo for Stanford.pdf  0%  100%  
+	    New File  		   54722	bears (Medium).jpg  0%  100%  
+	    New File  		   15951	Big Data SCP invitees.docx  0%  100%  
+	    New File  		  303808	BigDataFlyer2_final.pdf  0%  100%  
+	    New File  		   34816	BioDesignGrant(7 20 10).doc  0%  100%  
+	    New File  		   19188	Cardio-Visionaries Jiff partner MOU Apr 13.docx  0%  100%  
+	    New File  		   60928	CERC_WH_SCP jan 15 dinner invitees.xls  0%  100%  
+	    New File  		  163328	CISCO_Web_Portal.doc  0%  100%  
+	    New File  		   30657	C-Level VIP tours.docx  0%  100%  
+	    New File  		   31085	C-Level VIP tours2.docx  0%  100%  
+	    New File  		  987781	confidentiality agreement  fully executed 4-1-12.pdf  0%  100%  
+	    New File  		   82275	Contact Center report all partners sep 2012-feb 2013.docx  0%  100%  
+	    New File  		   59392	Copy of Projects by Partner report 2013-1-16.xls  0%  100%  
+	    New File  		  275968	Copy of Projects report w budget 2013-3-14 (2).xls  0%  100%  
+	    New File  		  110080	Copy of VP directors Managers Above 12-1-12 (3).xls  0%  100%  
+	    New File  		   85044	Corp Partners stories v5.docx  0%  100%  
+	    New File  		   21845	Corporate Partner Bullets apr 2013.docx  0%  100%  
+	    New File  		   33691	Corporate Partner Gift Structure Feb 2013.docx  0%  100%  
+	    New File  		   34021	Corporate Partner Gift Structure Jul 2013.docx  0%  100%  
+	    New File  		   24576	CP productions outline Feb 2013 PST1.docx  0%  100%  
+	    New File  		   25284	CP productions outline Feb 2013 py1.docx  0%  100%  
+	    New File  		   26153	CP productions outline Feb 2013 YTT1.docx  0%  100%  
+	    New File  		   19282	CP productions outline Feb 2013.docx  0%  100%  
+	    New File  		  151216	CS377T-BehaviorDesign.pdf  0%  100%  
+	    New File  		  849096	Diabetes A Butte may 29 2013.pdf  0%  100%  
+	    New File  		  206923	Draft Agenda-Objectives Dec 2012.pdf  0%  100%  
+	    New File  		   14725	Draft roll out announcement Apr 2013.docx  0%  100%  
+	    New File  		  545853	draft SCP newsletter Q3 2013 volume 1 (2).docx  0%  100%  
+	    New File  		  496936	draft SCP newsletter Q4 2013 volume 1 (2).docx  0%  100%  
+	    New File  		   77683	EBAY Cases Cont Center Jan 2013.docx  0%  100%  
+	    New File  		   22461	eBay message to employees may 9 2011.docx  0%  100%  
+	    New File  		   16231	Fall 2012 Log of SCP activities Dec 12docx.docx  0%  100%  
+	    New File  		   16774	Feb 2013 nav stories.docx  0%  100%  
+	    New File  		  497116	FEMA cert.pdf  0%  100%  
+	    New File  		   16489	Gift letter draft open jun 2013.docx  0%  100%  
+	    New File  		   46080	Ground breaking follow up invitees.xls  0%  100%  
+	    New File  		  130727	h7n9.docx  0%  100%  
+	    New File  		   19029	Hi Ann.docx  0%  100%  
+	    New File  		   1.0 m	IMG_4776_edited.JPG  0%  100%  
+	    New File  		   13698	John deneen.docx  0%  100%  
+	    New File  		  145126	Map to Stanford Hospital ER Valet.pdf  0%  100%  
+	    New File  		  709647	MCD LPCH MOU 2013.pdf  0%  100%  
+	    New File  		   21770	Navigation Services_one-pager (2)jan 13.docx  0%  100%  
+	    New File  		  719838	NVIDIA and SHC executed agreement 6-12-12.pdf  0%  100%  
+	    New File  		   15428	Oracle DOM  MOU.docx  0%  100%  
+	    New File  		   33280	PHI CP Short list Mar 1a.xls  0%  100%  
+	    New File  		   6.1 m	photo (1).JPG  0.0%100%  
+	    New File  		   14301	Professor few good men.docx  0%  100%  
+	    New File  		  220160	Projects by Partner report 2013-3-8 w descriptions (2).xls  0%  100%  
+	    New File  		  275968	Projects report w budget 2013-3-14.xls  0%  100%  
+	    New File  		   18927	RECap Corp Partners Startx Med Innovation Challenge Feb 2013.docx  0%  100%  
+	    New File  		   85724	RWJ Foundation Call for Prop Jan 13.pdf  0%  100%  
+	    New File  		  147934	SCP Accelerating Innovation in Employee Wellness.docx  0%  100%  
+	    New File  		   15372	SCP Activity log_ Fall12Winter13.docx  0%  100%  
+	    New File  		   23244	SCP basics 11162012tt.docx  0%  100%  
+	    New File  		   38671	SCP Content dev program May 30_13x.docx  0%  100%  
+	    New File  		  115980	SCP departmental outline jan 24_13.docx  0%  100%  
+	    New File  		   23565	SCP departmental outline Mar 21_13x.docx  0%  100%  
+	    New File  		   23370	SCP departmental outline Mar 4_13x.docx  0%  100%  
+	    New File  		   24620	SCP departmental outline May 14_13x.docx  0%  100%  
+	    New File  		   39813	SCP departmental update JUN 18_13x.docx  0%  100%  
+	    New File  		   39648	SCP departmental update JUN 6_13x.docx  0%  100%  
+	    New File  		   38288	SCP departmental update May 21_13x.docx  0%  100%  
+	    New File  		   39733	SCP departmental update May 30_13x.docx  0%  100%  
+	    New File  		  175254	SCP logo Jun 2013.pptx  0%  100%  
+	    New File  		   15049	SCP message to employees Health Nav roll out 2013.docx  0%  100%  
+	    New File  		  126464	SCP Navigation Requests_Apr 13.doc  0%  100%  
+	    New File  		   1.4 m	SCP newsletter Q3.docx  0%  100%  
+	    New File  		   14382	SCP novel benefit strategies concept.docx  0%  100%  
+	    New File  		   16887	SCP report outline.docx  0%  100%  
+	    New File  		   12935	SCP Senior leaders.xlsx  0%  100%  
+	    New File  		  822027	Silicon Valley Corp Health initiative - Tussing 2003.pdf  0%  100%  
+	    New File  		   67431	SOPS ADR Overview 021314.xlsx  0%  100%  
+	    New File  		   35510	Stanford Corporate Partner Colleagues Jun 2013.docx  0%  100%  
+	    New File  		   73728	Stanford_Corporate_Partners_Questionnaire.doc  0%  100%  
+	    New File  		  321138	Stanford-LPCH Preso 12 5 12 (for Ted).pdf  0%  100%  
+	    New File  		   18225	Startx words.docx  0%  100%  
+	    New File  		   2.3 m	StartXMedIC_flyer.pdf  0%  100%  
+	    New File  		   1.8 m	StartXMedIC_flyer_full_2_4corp.pdf  0%  100%  
+	    New File  		  173568	Thumbs.db  0%  100%  100%  
+	    New File  		   28787	TMT 2013 AIP FINAL.xlsx  0%  100%  
+	    New File  		  501997	User Manual-training document1-2013 v 5t.docx  0%  100%  
+	    New File  		   69488	Verizon SHC Draft Agenda 112712p.pdf  0%  100%  
+	    New File  		   36172	Visa references.docx  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0063190\Migrated_WKS21345\xp_Desktop\APPLe\
+	    New File  		  127957	ADR Apple briefing_Cook Apr 13a.pptx  0%  100%  
+	    New File  		  675406	Appl CP Agreement 2010.pdf  0%  100%  
+	    New File  		  167424	Apple Inc Referral to Stanford Health Navigatorv Final_mld.doc  0%  100%  
+	    New File  		   36275	Apple Vendor Integration Summit Task List.pdf  0%  100%  
+	    New File  		   2.7 m	APPLE VENDOR INTEGRATION SUMMIT.pdf  0%  100%  
+	    New File  		  283750	Apple vendor summit 1_23-13tt.pptx  0%  100%  
+	    New File  		   27282	Apple Vendor Summit Agenda.pdf  0%  100%  
+	    New File  		   20992	Thumbs.db  0%  100%  100%  
+	    New File  		   51200	UHC-Stanford Hospital NDA for Apple (50138983).doc  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063190\Migrated_WKS21345\xp_Desktop\Cullen Project\
+	    New File  		  149910	Health affairs 11_2012 on modifiable risk factors in employees.pdf  0%  100%  
+	    New File  		   1.8 m	journal pone 0032930.pdf  0%  100%  
+	    New File  		   30608	SCP novel benefit strategies concept may 2013.docx  0%  100%  
+	    New File  		   27387	SCPnovelbenefitstrategiesconceptmay2013.docx  0%  100%  
+	    New File  		  112998	TABLES AND FIGURES 10_15_12.docx  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0063190\Migrated_WKS21345\xp_Desktop\Oracle HSN\
+	    New File  		  368728	Fred Lee MD Oracle Bio 2012.pdf  0%  100%  
+	    New File  		   16267	Oracle - Stanford Dept of Medicine MOU 18Mar2013.docx  0%  100%  
+	    New File  		   2.2 m	Oracle - Stanford HSN 13Aug 2012.pdf  0%  100%  
+	    New File  		   16347	Oracle DOM  MOU jan 17 FLs.docx  0%  100%  
+	    New File  		   17398	Oracle Health adhearance project July 2013.docx  0%  100%  
+	    New File  		  316609	Oracle HSN - Stanford Briefing 08Nov2012 (2).pdf  0%  100%  
+	    New File  		  209840	Oracle HSN Data Integration Approach Jan2013.pdf  0%  100%  
+	    New File  		  102262	OracleHSNetwork Final.pdf  0%  100%  
+	  New Dir         12	\\shintnpscfs116\T$\Users7\S0063190\Migrated_WKS21345\xp_Desktop\RAK 2013\
+	    New File  		   2.7 m	Global Healthcare Partners Apr 2013a.pptx  0%  100%  
+	    New File  		   2.7 m	Global Healthcare Partners Apr 2013t.pptx  0%  100%  
+	    New File  		  190206	HH Saud bin Saqr al Qasimi brief bio July 2011.docx  0%  100%  
+	    New File  		  190214	HH Saud bin Saqr al Qasimi brief bio wikipedia July 2011.docx  0%  100%  
+	    New File  		  208783	HHSAUDinvitation.pdf  0%  100%  
+	    New File  		   42400	HHSS Discussion slides 722111.pptx  0%  100%  
+	    New File  		   18047	HHSS IMS Concept.docx  0%  100%  
+	    New File  		  201728	HHSS June 10 2009 report.doc  0%  100%  
+	    New File  		   13869	International Wire Transfer.docx  0%  100%  
+	    New File  		  157409	Intl Prospect slide sept 2012.pptx  0%  100%  
+	    New File  		   1.8 m	RAK plan2.ppt  0%  100%  
+	    New File  		   19968	Thumbs.db  0%  100%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063190\Migrated_WKS21345\xp_Desktop\SCP Biennial Review\
+	    New File  		   23768	SCP departmental outline jan 24_13x.docx  0%  100%  
+	    New File  		   20970	SCP report outline1.docx  0%  100%  
+	  New Dir         11	\\shintnpscfs116\T$\Users7\S0063190\Migrated_WKS21345\xp_Desktop\SCP Dinner Biefing\
+	    New File  		  190717	CERC_White House summit draft.pdf  0%  100%  
+	    New File  		   2.1 m	CERC_WHOSTP Program_final.pdf  0%  100%  
+	    New File  		   14684	dinner emails.docx  0%  100%  
+	    New File  		  183826	NEJMp1211374.pdf  0%  100%  
+	    New File  		   37888	SCP jan 15 dinner guests share.xls  0%  100%  
+	    New File  		   47616	SCP jan 15 dinner invitees.xls  0%  100%  
+	    New File  		   29568	Select Bios on Guests.docx  0%  100%  
+	    New File  		  670887	Stanford-OSTP Final Invitation Update  pdf.pdf  0%  100%  
+	    New File  		   18944	Thumbs.db  0%  100%  100%  
+	    New File  		   22794	Tuesday briefing AM.docx  0%  100%  
+	    New File  		   24355	Tuesday briefing.docx  0%  100%  
+	  New Dir         65	\\shintnpscfs116\T$\Users7\S0063190\Migrated_WKS21345\xp_Desktop\SCP Power Pts\
+	    New File  		   2.5 m	ADR Verizon SHC 021513.pptx  0%  100%  
+	    New File  		  283741	Apple vendor summit 1_23-13tt2.pptx  0%  100%  
+	    New File  		   3.0 m	Best Docs Overview July 2012.pptx  0%  100%  
+	    New File  		  115988	BJ Fogg.pptx  0%  100%  
+	    New File  		  116010	BJ Fogg_APPLE.pptx  0%  100%  
+	    New File  		   2.7 m	Business Plan SCP FY2012.pptx  0%  100%  
+	    New File  		  173403	Cisco ADR mtting Mar 5br.pptx  0%  100%  
+	    New File  		   1.0 m	CISCO_NAV_CP_March2013v3.pptx  0%  100%  
+	    New File  		   76904	Clinical Excellence Research Center brief.pptx  0%  100%  
+	    New File  		  196608	Corporate Partner Prospects Powerpoint slide copy1.ppt  0%  100%  
+	    New File  		   1.0 m	Corporate Partners update 912 BR final.pptx  0%  100%  
+	    New File  		  319101	CP Biz Plan WIP Apr 15.pptx  0%  100%  
+	    New File  		  476117	CP Biz Plan WIP-2tmt.pptx  0%  100%  
+	    New File  		  374995	Fence wrap ideas.pptx  0%  100%  
+	    New File  		   88049	For less than the cost of a 30.pptx  0%  100%  
+	    New File  		  196729	FY 12 Year End Summary_Accomplishments _SCP.pptx  0%  100%  
+	    New File  		   71560	FY12 Partner Employee Utilization of Navigation br.pptx  0%  100%  
+	    New File  		   70392	FY12 Partner Employee Utilization of Navigation Service.pptx  0%  100%  
+	    New File  		   1.5 m	HP pop screen shots.pptx  0%  100%  
+	    New File  		   63846	Innovation sphere apr 2013.pptx  0%  100%  
+	    New File  		   1.5 m	International Navigation Resource.pptx  0%  100%  
+	    New File  		   2.8 m	Logo choices jan 2012.pptx  0%  100%  
+	    New File  		   1.5 m	Mar 18 mrking meeting.pptx  0%  100%  
+	    New File  		   65777	Navigation levels.pptx  0%  100%  
+	    New File  		   63031	Needs for success.pptx  0%  100%  
+	    New File  		   2.0 m	Outreach generic presentation 5-2013.pptx  0%  100%  
+	    New File  		  283971	Overall CP Value Proposition 2012.pptx  0%  100%  
+	    New File  		  784924	presentor at podium with scp backdrop.pptx  0%  100%  
+	    New File  		  157410	Prospect slide sept 2012.pptx  0%  100%  
+	    New File  		  168052	SCP 1 pager dec2012 .pptx  0%  100%  
+	    New File  		  152928	SCP 2 0 12_7_12 v FD (2).pptx  0%  100%  
+	    New File  		  134648	SCP 2.0 12_7_12.pptx  0%  100%  
+	    New File  		  134621	SCP 2.0 may 13.pptx  0%  100%  
+	    New File  		  165817	SCP Brief pager Sept 2012.pptx  0%  100%  
+	    New File  		  219019	SCP Brief Sept 2012.pptx  0%  100%  
+	    New File  		  118383	SCP Forums Defined.pptx  0%  100%  
+	    New File  		  183282	SCP GE brief_Immelt Aug 2012.pptx  0%  100%  
+	    New File  		  271532	SCP intro Corp Relationship retreat Nov 2012.pptx  0%  100%  
+	    New File  		  523396	SCP June 7 Presentation v6.pptx  0%  100%  
+	    New File  		  171141	SCP mission Feb 2013.pptx  0%  100%  
+	    New File  		  159124	SCP mission Jan 2013 simple.pptx  0%  100%  
+	    New File  		  175702	SCP mission Jan 2013.pptx  0%  100%  
+	    New File  		  169254	SCP mission oct 4 2012.pptx  0%  100%  
+	    New File  		  174341	SCP missionMar 2013.pptx  0%  100%  
+	    New File  		  163895	SCP missionVerizon dec2012 br.pptx  0%  100%  
+	    New File  		  211302	SCP Nav utilation BL info Mar 13.pptx  0%  100%  
+	    New File  		  117152	SCP op org chart Oct 10 v 2.pptx  0%  100%  
+	    New File  		  114488	SCP op org chart.pptx  0%  100%  
+	    New File  		  111771	SCP pillars JUN 2013.pptx  0%  100%  
+	    New File  		   78239	SCP pillars Mar 23 2011.pptx  0%  100%  
+	    New File  		  100785	SCP pillars may 2013.pptx  0%  100%  
+	    New File  		  326190	SCP status slides_ Sept 20 2012rj.pptx  0%  100%  
+	    New File  		   3.0 m	SCP status slides_ Sept 20 2012tt.pptx  0%  100%  
+	    New File  		  496129	SCP Strategy WIP v7.pptx  0%  100%  
+	    New File  		  518648	SCP TMT MG Committee 2012.pptx  0%  100%  
+	    New File  		  519483	SCP TMT Presentation Summer 2012.pptx  0%  100%  
+	    New File  		   3.6 m	SCP update Mar 21 MG meeting draft.pptx  0%  100%  
+	    New File  		   2.3 m	SCP-MajorGiftsMar v 1FD.pptx  0%  100%  
+	    New File  		  331502	Sept 2012 SCP status_ MG report.pptx  0%  100%  
+	    New File  		   67573	Stanford University Medical Center basic facts 12 2012.pptx  0%  100%  
+	    New File  		  371224	StartX Innovation Challenge Feb 2013.pptx  0%  100%  
+	    New File  		   4.0 m	StartX-Med Innovation Challenge follow up compilation.pptx  0%  100%  
+	    New File  		   3.5 m	Step 2-3 Final Report V5.pptx  0%  100%  
+	    New File  		  609792	Thumbs.db  0%  100%  100%  
+	    New File  		   1.5 m	TUSSING Mar 18 mrking meeting.pptx  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0063190\Migrated_WKS21345\xp_Desktop\SCP Power Pts\CPP Partner Logos 2013\
+	    New File  		   1.0 m	Apple.ai  0%  100%  
+	    New File  		   57120	cisco_1.ai  0%  100%  
+	    New File  		   2.4 m	CPP_Sig_Left_2012_07_10.ai  0%  100%  
+	    New File  		  886326	ebay_inc_tm_cmyk.eps  0%  100%  
+	    New File  		  139321	HP.ai  0%  100%  
+	    New File  		  224160	INTUIT.ai  0%  100%  
+	    New File  		  238678	NVIDIA_logo.eps  0%  100%  
+	    New File  		   21579	Oracle.eps  0%  100%  
+	  New Dir         79	\\shintnpscfs116\T$\Users7\S0063190\Migrated_WKS21345\xp_Desktop\TMT Stanford\
+	    New File  		   30199	1C19__draft__ZeroTBMOU_sp[1].docx  0%  100%  
+	    New File  		   61436	att1.jpg  0%  100%  
+	    New File  		   71969	att10.jpg  0%  100%  
+	    New File  		   55197	att11.jpg  0%  100%  
+	    New File  		   53888	att12.jpg  0%  100%  
+	    New File  		   68827	att2.jpg  0%  100%  
+	    New File  		   86892	att3.jpg  0%  100%  
+	    New File  		   42196	att4.jpg  0%  100%  
+	    New File  		   77582	att5.jpg  0%  100%  
+	    New File  		   58175	att6.jpg  0%  100%  
+	    New File  		   68359	att7.jpg  0%  100%  
+	    New File  		   62848	att9.jpg  0%  100%  
+	    New File  		  411674	biochimica1994.pdf  0%  100%  
+	    New File  		   34816	BioDesignGrant(7 20 10).doc  0%  100%  
+	    New File  		   57351	Copy of 3-20-21-12 SCPKU Dinner and Dedication Responses.xlsx  0%  100%  
+	    New File  		   13889	Copy of BioCardia 2010 Proposed Bonus Payout Structure.xlsx  0%  100%  
+	    New File  		   22373	Corporate Partners Pledge Renewal - Draft 1t.docx  0%  100%  
+	    New File  		   22324	Corporate Partners Pledge Renewal - Draft 1tt.docx  0%  100%  
+	    New File  		   14088	CP goals AIP2.docx  0%  100%  
+	    New File  		   64000	DHC + StanfordIMS MOU (redline).doc  0%  100%  
+	    New File  		  271834	Dior_Advertisment_Taiwan[1].docx  0%  100%  
+	    New File  		    7226	divinv2 120811.pdf  0%  100%  
+	    New File  		    7378	divinvest120811.pdf  0%  100%  
+	    New File  		   3.5 m	DSC_0152.JPG  0%  100%  
+	    New File  		   64384	Family Caregiver Alliance facts.docx  0%  100%  
+	    New File  		   29492	FST 2010.xlsx  0%  100%  
+	    New File  		   51200	GK_STANFORD MOU DRAFT 06810t.doc  0%  100%  
+	    New File  		   19855	Global Health MOU template rough.docx  0%  100%  
+	    New File  		   64396	Hale Drive photo.pdf  0%  100%  
+	    New File  		   70866	insignificant.jpg  0%  100%  
+	    New File  		   15108	Jim Gibbons Bio.docx  0%  100%  
+	    New File  		   32114	KEY SCPKU DONORS.docx  0%  100%  
+	    New File  		   28160	LVMH 2011 Request for Payment.doc  0%  100%  
+	    New File  		  104531	LVMH Agreemnt 2010 COPY.pdf  0%  100%  
+	    New File  		   4.4 m	MA 2011 team.JPG  0%  100%  
+	    New File  		  475347	Mediskin1.pptx  0%  100%  
+	    New File  		   30208	MedtronicBiodesignSupport10_09.doc  0%  100%  
+	    New File  		  129898	Milstein Kothari Boeing Blog Health Affairs Oct  2009.pdf  0%  100%  
+	    New File  		   13200	Pay Stub1029.pdf  0%  100%  
+	    New File  		   13196	Pay Stub1112.pdf  0%  100%  
+	    New File  		   13277	Pay Stub1126.pdf  0%  100%  
+	    New File  		   3.3 m	PW Team outside ESPN.jpg  0%  100%  
+	    New File  		  110864	Rwanda_MOU_Aug_27_signed[1].pdf  0%  100%  
+	    New File  		   39736	SCPKU 31412.xlsx  0%  100%  
+	    New File  		   62976	Stanford GE MI  New Investigator Resarch Program 11FEB2010.doc  0%  100%  
+	    New File  		   6.1 m	STARTX--016[1].JPG  0.0%100%  
+	    New File  		  785963	STARTX2--016[1].JPG  0%  100%  
+	    New File  		   3.8 m	T&J 13111a.JPG  0%  100%  
+	    New File  		   16240	Taken from The Dean.docx  0%  100%  
+	    New File  		  469200	Tate Tussing All Sports Camp 2011 Risk Release.pdf  0%  100%  
+	    New File  		   14989	Ted bio Sept 2012.docx  0%  100%  
+	    New File  		   14587	Ted Tussing bio Aug 2012.docx  0%  100%  
+	    New File  		   15404	Ted Tussing bio Feb 2013 .docx  0%  100%  
+	    New File  		   14361	Ted Tussing bio Mar 2012.docx  0%  100%  
+	    New File  		   14056	Ted Tussing.docx  0%  100%  
+	    New File  		   3.5 m	Ted Tussing_001.JPG  0%  100%  
+	    New File  		   3.1 m	Ted Tussing_002.JPG  0%  100%  
+	    New File  		   3.2 m	Ted Tussing_003.JPG  0%  100%  
+	    New File  		   3.8 m	Ted Tussing_004.JPG  0%  100%  
+	    New File  		   3.4 m	Ted Tussing_005.JPG  0%  100%  
+	    New File  		   3.1 m	Ted Tussing_006.JPG  0%  100%  
+	    New File  		   3.0 m	Ted Tussing_007.JPG  0%  100%  
+	    New File  		   4.9 m	Ted Tussing_008.JPG  0%  100%  
+	    New File  		   4.5 m	Ted Tussing_009.JPG  0%  100%  
+	    New File  		   5.5 m	Ted Tussing_010.JPG  0%  100%  
+	    New File  		   5.6 m	Ted Tussing_011.JPG  0%  100%  
+	    New File  		   7.6 m	Ted Tussing_012.JPG  0.0%100%  
+	    New File  		   7.6 m	Ted Tussing_013.JPG  0.0%100%  
+	    New File  		   9.3 m	Ted Tussing_014.JPG  0.0%100%  
+	    New File  		   1.1 m	TedTussing1.jpg  0%  100%  
+	    New File  		   1.4 m	TedTussing2.jpg  0%  100%  
+	    New File  		   1.4 m	TedTussing3.jpg  0%  100%  
+	    New File  		   1.1 m	TedTussing4.jpg  0%  100%  
+	    New File  		  461312	Thumbs.db  0%  100%  100%  
+	    New File  		   14624	TMT brief bio.docx  0%  100%  
+	    New File  		   2.8 m	TMT.JPG  0%  100%  
+	    New File  		   14378	TR u of Ariz1.docx  0%  100%  
+	    New File  		   17714	University Officers and Trustees.docx  0%  100%  
+	    New File  		  103480	WireTransfer sub-acct 11-10.pdf  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063190\Migrated_WKS21345\xp_Desktop\TMT Stanford\Stanford SOM\
+	    New File  		   27648	JNJ TIPP Request for Payment 122010.doc  0%  100%  
+	    New File  		   28672	Request_for_Payment_draft_Covidien[1].doc  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063190\My Music\
+	    New File  		     652	Desktop.ini  0%  100%  
+	    New File  		     863	Sample Music.lnk  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063190\My Music\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063190\My Pictures\
+	    New File  		     484	bg-gradient.jpg  0%  100%  
+	    New File  		     658	Desktop.ini  0%  100%  
+	    New File  		     893	Sample Pictures.lnk  0%  100%  
+	    New File  		   78336	Thumbs.db  0%  100%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063190\My Pictures\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063190\My Pictures\Logitech Webcam\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063190\My Videos\
+	    New File  		     664	Desktop.ini  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063190\My Videos\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0063190\Outlook\
+	    New File  		     449	AlanChingYuenYeung.vcf  0%  100%  
+	    New File  		  271360	archive (s0063190 v1).pst  0%  100%  
+	    New File  		   1.9 g	archive.pst  0.0%  0.7%  1.5%  2.3%  3.1%  3.9%  4.7%  5.5%  6.3%  7.1%  7.8%  8.6%  9.4% 10.2% 11.0% 11.8% 12.6% 13.4% 14.2% 14.9% 15.7% 16.5% 17.3% 18.1% 18.9% 19.7% 20.5% 21.3% 22.0% 22.8% 23.6% 24.4% 25.2% 26.0% 26.8% 27.6% 28.4% 29.1% 29.9% 30.7% 31.5% 32.3% 33.1% 33.9% 34.7% 35.5% 36.2% 37.0% 37.8% 38.6% 39.4% 40.2% 41.0% 41.8% 42.6% 43.4% 44.1% 44.9% 45.7% 46.5% 47.3% 48.1% 48.9% 49.7% 50.5% 51.2% 52.0% 52.8% 53.6% 54.4% 55.2% 56.0% 56.8% 57.6% 58.3% 59.1% 59.9% 60.7% 61.5% 62.3% 63.1% 63.9% 64.7% 65.4% 66.2% 67.0% 67.8% 68.6% 69.4% 70.2% 71.0% 71.8% 72.5% 73.3% 74.1% 74.9% 75.7% 76.5% 77.3% 78.1% 78.9% 79.7% 80.4% 81.2% 82.0% 82.8% 83.6% 84.4% 85.2% 86.0% 86.8% 87.5% 88.3% 89.1% 89.9% 90.7% 91.5% 92.3% 93.1% 93.9% 94.6% 95.4% 96.2% 97.0% 97.8% 98.6% 99.4%100%  
+	    New File  		     532	CarolJKersten.vcf  0%  100%  
+	    New File  		   2.4 g	July 2011.pst  0.0%  0.6%  1.2%  1.9%  2.5%  3.2%  3.8%  4.5%  5.1%  5.8%  6.4%  7.0%  7.7%  8.3%  9.0%  9.6% 10.3% 10.9% 11.6% 12.2% 12.8% 13.5% 14.1% 14.8% 15.4% 16.1% 16.7% 17.4% 18.0% 18.6% 19.3% 19.9% 20.6% 21.2% 21.9% 22.5% 23.2% 23.8% 24.4% 25.1% 25.7% 26.4% 27.0% 27.7% 28.3% 29.0% 29.6% 30.3% 30.9% 31.5% 32.2% 32.8% 33.5% 34.1% 34.8% 35.4% 36.1% 36.7% 37.3% 38.0% 38.6% 39.3% 39.9% 40.6% 41.2% 41.9% 42.5% 43.1% 43.8% 44.4% 45.1% 45.7% 46.4% 47.0% 47.7% 48.3% 48.9% 49.6% 50.2% 50.9% 51.5% 52.2% 52.8% 53.5% 54.1% 54.8% 55.4% 56.0% 56.7% 57.3% 58.0% 58.6% 59.3% 59.9% 60.6% 61.2% 61.8% 62.5% 63.1% 63.8% 64.4% 65.1% 65.7% 66.4% 67.0% 67.6% 68.3% 68.9% 69.6% 70.2% 70.9% 71.5% 72.2% 72.8% 73.4% 74.1% 74.7% 75.4% 76.0% 76.7% 77.3% 78.0% 78.6% 79.3% 79.9% 80.5% 81.2% 81.8% 82.5% 83.1% 83.8% 84.4% 85.1% 85.7% 86.3% 87.0% 87.6% 88.3% 88.9% 89.6% 90.2% 90.9% 91.5% 92.1% 92.8% 93.4% 94.1% 94.7% 95.4% 96.0% 96.7% 97.3% 97.9% 98.6% 99.2% 99.9%100%  
+	    New File  		     447	MichaelLWelch.vcf  0%  100%  
+	    New File  		   2.1 m	Outlook.pst  0%  100%  
+	    New File  		   2.8 g	Outlook1.pst  0.0%  0.5%  1.0%  1.6%  2.1%  2.7%  3.2%  3.8%  4.3%  4.9%  5.4%  6.0%  6.5%  7.1%  7.6%  8.2%  8.7%  9.2%  9.8% 10.3% 10.9% 11.4% 12.0% 12.5% 13.1% 13.6% 14.2% 14.7% 15.3% 15.8% 16.4% 16.9% 17.4% 18.0% 18.5% 19.1% 19.6% 20.2% 20.7% 21.3% 21.8% 22.4% 22.9% 23.5% 24.0% 24.6% 25.1% 25.6% 26.2% 26.7% 27.3% 27.8% 28.4% 28.9% 29.5% 30.0% 30.6% 31.1% 31.7% 32.2% 32.8% 33.3% 33.8% 34.4% 34.9% 35.5% 36.0% 36.6% 37.1% 37.7% 38.2% 38.8% 39.3% 39.9% 40.4% 41.0% 41.5% 42.0% 42.6% 43.1% 43.7% 44.2% 44.8% 45.3% 45.9% 46.4% 47.0% 47.5% 48.1% 48.6% 49.2% 49.7% 50.2% 50.8% 51.3% 51.9% 52.4% 53.0% 53.5% 54.1% 54.6% 55.2% 55.7% 56.3% 56.8% 57.4% 57.9% 58.4% 59.0% 59.5% 60.1% 60.6% 61.2% 61.7% 62.3% 62.8% 63.4% 63.9% 64.5% 65.0% 65.6% 66.1% 66.6% 67.2% 67.7% 68.3% 68.8% 69.4% 69.9% 70.5% 71.0% 71.6% 72.1% 72.7% 73.2% 73.8% 74.3% 74.9% 75.4% 75.9% 76.5% 77.0% 77.6% 78.1% 78.7% 79.2% 79.8% 80.3% 80.9% 81.4% 82.0% 82.5% 83.1% 83.6% 84.1% 84.7% 85.2% 85.8% 86.3% 86.9% 87.4% 88.0% 88.5% 89.1% 89.6% 90.2% 90.7% 91.3% 91.8% 92.3% 92.9% 93.4% 94.0% 94.5% 95.1% 95.6% 96.2% 96.7% 97.3% 97.8% 98.4% 98.9% 99.5%100%  
+	    New File  		     454	SimonHStertzerMD.vcf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063190\Outlook Files\
+	    New File  		   1.3 g	archive.pst  0.0%  1.1%  2.3%  3.4%  4.6%  5.7%  6.9%  8.1%  9.2% 10.4% 11.5% 12.7% 13.9% 15.0% 16.2% 17.3% 18.5% 19.7% 20.8% 22.0% 23.1% 24.3% 25.5% 26.6% 27.8% 28.9% 30.1% 31.3% 32.4% 33.6% 34.7% 35.9% 37.1% 38.2% 39.4% 40.5% 41.7% 42.9% 44.0% 45.2% 46.3% 47.5% 48.7% 49.8% 51.0% 52.1% 53.3% 54.5% 55.6% 56.8% 57.9% 59.1% 60.3% 61.4% 62.6% 63.7% 64.9% 66.1% 67.2% 68.4% 69.5% 70.7% 71.9% 73.0% 74.2% 75.3% 76.5% 77.7% 78.8% 80.0% 81.1% 82.3% 83.5% 84.6% 85.8% 86.9% 88.1% 89.3% 90.4% 91.6% 92.7% 93.9% 95.1% 96.2% 97.4% 98.5% 99.7%100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063190\RECYCLER\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063190\Videos\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063190\Videos\Logitech Webcam\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063190\Videos\Logitech Webcam\Motion Detection\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063190\WINDOWS\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063190\WINDOWS\system\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063190\Work Oct 2013\
+	  New Dir         29	\\shintnpscfs116\T$\Users7\S0063190\Work Oct 2013\SCP General Materials\
+	    New File  		  260770	2013a valuation review Corporate Partners.pptx  0%  100%  
+	    New File  		   13887	ADR_Adobe SCP Sept 2013.docx  0%  100%  
+	    New File  		   41206	CEO background Aug 2013.docx  0%  100%  
+	    New File  		   34030	Corporate Partner Gift Structure Jul 2013.docx  0%  100%  
+	    New File  		  110591	Corporate Partners Prog  changes 10-17-12.pptx  0%  100%  
+	    New File  		   2.9 m	CorporatePartners_Version3_08 28 13-pages.pdf  0%  100%  
+	    New File  		   15559	Effects of Quality Health Navigation.docx  0%  100%  
+	    New File  		  203264	Generic_Web_Portal.doc  0%  100%  
+	    New File  		   20157	Global Navigator description July 2013a  ORACLE.docx  0%  100%  
+	    New File  		   19993	Global Navigator description July 2013a.docx  0%  100%  
+	    New File  		   80732	Navigation Memo mar 2016.docx  0%  100%  
+	    New File  		   23068	Rossi SCP brief VM Ware.docx  0%  100%  
+	    New File  		  237532	SCP 2.0Sept 30 2013.pptx  0%  100%  
+	    New File  		   98343	SCP Checklist--manual tt.docx  0%  100%  
+	    New File  		   26198	SCP elevator pitch Oct 2013.docx  0%  100%  
+	    New File  		   26898	SCP elevator pitch Oct 2013a.docx  0%  100%  
+	    New File  		  318165	SCP logos Sept 2013.pptx  0%  100%  
+	    New File  		   66859	SCP Mission sept 2013 proposal.pptx  0%  100%  
+	    New File  		  110090	SCP offer to partners attachment update v 2.pptx  0%  100%  
+	    New File  		  109578	SCP offer to partners attachment update v 3.pptx  0%  100%  
+	    New File  		  115800	SCP pillars Aug 2013.pptx  0%  100%  
+	    New File  		   43052	SCP Playbook Oct 2013expanded (3).docx  0%  100%  
+	    New File  		   40740	SCP Playbook Oct 2013jm (3).docx  0%  100%  
+	    New File  		   16341	SCP solictation process 1 pager.docx  0%  100%  
+	    New File  		   13798	SCP The Stanford Global Health Navigator aug 2013.docx  0%  100%  
+	    New File  		  822027	Silicon Valley Corp Health initiative - Tussing 2003.pdf  0%  100%  
+	    New File  		  636803	StanfordMedicine_logo.pdf  0%  100%  
+	    New File  		   3.2 m	SUMC SCP Template.pptx  0%  100%  
+	    New File  		  137728	Thumbs.db  0%  100%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        71        71         0         0         0         0
+   Files :       878       878         0         0         0         0
+   Bytes :   9.098 g   9.098 g         0         0         0         0
+   Times :   0:18:50   0:18:40                       0:00:00   0:00:10
+
+
+   Speed :             8722241 Bytes/sec.
+   Speed :             499.090 MegaBytes/min.
+
+   Ended : Sun Mar 27 09:30:06 2016

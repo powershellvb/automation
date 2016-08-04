@@ -1,0 +1,39 @@
+# ******
+# Chassis routing engine Test Script
+#
+# This script is the which is called by the master script, ssh to the servers remotely (Lawson PROD and DR)and create the users.
+# Runs on kourne shell
+# 
+# 
+# 
+# 
+#
+# History:
+#  13-07-2016: Original created by Karthick priya A
+#  
+#  
+# ******
+#!/bin/ksh
+sudo su -
+
+host=`uname -n`
+IFS=:
+while read userid gecos;do
+userverify=`cat /etc/passwd | grep -i $userid | wc -l`
+if [[ $userverify -eq 0 ]]
+then
+$rg=`clRGinfo -v | grep -i "Resource Group" | awk -F ":" '{print $2}'`
+/usr/es/sbin/cluster/cspoc/fix_args nop cl_mkuser -cspoc-g '$rg' pgrp='lawosn' groups='lawson' home='/home/$userid' gecos='$gecos' SYSTEM='KRB5files' registry='KRB5files' $userid
+#mkuser registry=KRB5files SYSTEM=KRB5files pgrp=lawson groups=lawson gecos=$gecos $userid
+if [[ $? = 0 ]]
+then
+echo "User $userid created sucessfully"
+else
+echo "User account creation failed for the ID $userid in $host"
+fi
+else
+echo "User exist in $host"
+fi
+done</tmp/input.txt
+exit
+exit

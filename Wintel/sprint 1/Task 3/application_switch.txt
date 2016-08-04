@@ -1,0 +1,1 @@
+"c:\temp\package\TreeSizeFreeSetup.exe /SILENT"

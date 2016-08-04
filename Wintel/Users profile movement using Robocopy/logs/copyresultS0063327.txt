@@ -1,0 +1,2159 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Sun Mar 27 11:11:35 2016
+
+   Source : \\shintnpscfs116\T$\Users7\S0063327\
+     Dest : \\shintnpscfs116\W$\T_drive(disabled_users)_users7\users7\S0063327\
+
+    Files : *.*
+	    
+  Options : *.* /TEE /S /E /COPY:DATS /DCOPY:T /ZB /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	  New Dir        130	\\shintnpscfs116\T$\Users7\S0063327\
+	    New File  		  159038	07 21 09 Clogs in SS at SOC.tif  0%  100%  
+	    New File  		   46980	072309.TIF  0%  100%  
+	    New File  		   48640	1520 GENERATOR.doc  0%  100%  
+	    New File  		   40448	2_20 ESCOxygenSysFail.doc  0%  100%  
+	    New File  		   43896	201309181534.pdf  0%  100%  
+	    New File  		  665325	2452 WATSON CT Taining guide.docx  0%  100%  
+	    New File  		    5477	3867208ec0495a44a07df9ed5d216cf0 - Autodiscover.xml  0%  100%  
+	    New File  		   13842	730 Welch Fire Alarm Panel Instructions.docx  0%  100%  
+	    New File  		   17115	84602 Budget Review.xlsx  0%  100%  
+	    New File  		   35840	AC1B Sheave Ordering Info.doc  0%  100%  
+	    New File  		  215608	AC6C.tif  0%  100%  
+	    New File  		   25481	ACE- Overview.docx  0%  100%  
+	    New File  		  11.3 m	AGENDA_2013 04 09_EM_Monthly.ppt  0.0%100%  
+	    New File  		  10.6 m	AGENDA_2013 06 11_EM_Monthly-Sept.ppt  0.0%100%  
+	    New File  		  202858	Appeal_application_form_-_residential_single-family.pdf  0%  100%  
+	    New File  		  271360	archive (s0063327 v1).pst  0%  100%  
+	    New File  		 228.8 m	archive.pst  0.0%  6.9% 13.9% 20.9% 27.9% 34.9% 41.9% 48.9% 55.9% 62.9% 69.9% 76.8% 83.8% 90.8% 97.8%100%  
+	    New File  		   26348	Argon Gas (2).docx  0%  100%  
+	    New File  		   40448	ASSISTANT CHIEF.xls  0%  100%  
+	    New File  		   19280	BAAQMD Letter.docx  0%  100%  
+	    New File  		   30208	Case Study.1.doc  0%  100%  
+	    New File  		  13.4 m	CitrixOnlinePluginWeb_12.1.0.30.exe  0.0%100%  
+	    New File  		   1.3 m	CMS Account Information Form 730 Welch.doc  0%  100%  
+	    New File  		   24057	CO 2.docx  0%  100%  
+	    New File  		   40448	Copy of Copy of WATSON ROUNDS.xls  0%  100%  
+	    New File  		   2.5 m	Copy of December PS EM Mon Mtg Agenda.pptx  0%  100%  
+	    New File  		   82944	Copy of Dispatch worksheet (2).xls  0%  100%  
+	    New File  		  171008	Copy of EM_Operational Goals_Tactical Plan_Facility Services_DeLuca_2012-20-11.xls  0%  100%  
+	    New File  		  220212	Copy of Engineers contact list.xlsx  0%  100%  
+	    New File  		   15430	Copy of FTE (2) (3).XLSX  0%  100%  
+	    New File  		   33792	Copy of HILLVIEW RR.xls  0%  100%  
+	    New File  		   13112	Copy of Los Altos PCC Issues.xlsx  0%  100%  
+	    New File  		   13112	Copy of Los Altos PCC Issues-2014-08-30T081251.xlsx  0%  100%  
+	    New File  		   35840	Copy of Maintenance Staffing  Future State (2).xls  0%  100%  
+	    New File  		   13588	Copy of Mechancial Knowledge_Scorecard.xlsx  0%  100%  
+	    New File  		   45169	Copy of Ops Project v8 5-6-13 djc notes 5-14-13 v2 (5)--Nayeem 5-19-13.xlsx  0%  100%  
+	    New File  		   22025	Copy of SBCC EM Punch List with PEM notes 7-9-2015.xlsx  0%  100%  
+	    New File  		   11346	Copy of SBEI Phase 2 - Training Matrix.xlsx  0%  100%  
+	    New File  		   23054	Copy of SHC-EM_Employee-Profile_2013-08-27.xlsx  0%  100%  
+	    New File  		   23054	Copy of SHC-EM_Employee-Profile_2013-08-27-2014-08-30T081251.xlsx  0%  100%  
+	    New File  		   18743	Copy of Vendor Scorecard (2).xlsx  0%  100%  
+	    New File  		   2.6 m	December PS EM Mon Mtg Agenda.pptx  0%  100%  
+	    New File  		    1992	Default.rdp  0%  100%  
+	    New File  		     556	desktop.ini  0%  100%  
+	    New File  		   15892	E&M Staffing Grid.XLSX  0%  100%  
+	    New File  		   25110	EM Supported Locations.xlsx  0%  100%  
+	    New File  		   14820	Equipment refrigerant log.pdf  0%  100%  
+	    New File  		   28864	Fire Watch Request Form.docx  0%  100%  
+	    New File  		   11317	FY 14 Engineering Vehicles.xlsx  0%  100%  
+	    New File  		   11228	HD133   12 6 12.docx  0%  100%  
+	    New File  		  794431	HD133 work order.docx  0%  100%  
+	    New File  		   24164	Helium.docx  0%  100%  
+	    New File  		  450953	Hillview FY15 capital request Med Gas Manifolds.pptx  0%  100%  
+	    New File  		  190593	Hoover MOB Questionnaire.docx  0%  100%  
+	    New File  		   10800	HPS Gen Log.xlsx  0%  100%  
+	    New File  		   14283	hvacrefrigerationlog-704a.pdf  0%  100%  
+	    New File  		   15660	Inspection List.docx  0%  100%  
+	    New File  		  198352	Interview Tool-Bldg Eng.docx  0%  100%  
+	    New File  		   34304	Job Parts Purchase Order Form (3).doc  0%  100%  
+	    New File  		   13876	June Monthly Update.docx  0%  100%  
+	    New File  		   28651	Keepstock PATC and SRI.xlsx  0%  100%  
+	    New File  		  365675	Lighting Specs SMOC  0%  100%  
+	    New File  		   22585	Liquid Nitrogen.docx  0%  100%  
+	    New File  		   5.7 m	Little Red Schoolhouse- Steam.pdf  0.0%100%  
+	    New File  		   25088	MED GAS FILTER SWAP.xls  0%  100%  
+	    New File  		   24383	Mixed Gas # 3.docx  0%  100%  
+	    New File  		   12405	MJ vs In House Savings.xlsx  0%  100%  
+	    New File  		  91.4 m	MOV005.MOD  0.0% 17.4% 34.9% 52.4% 69.9% 87.4%100%  
+	    New File  		   24153	Nitrogen Gas.docx  0%  100%  
+	    New File  		  161307	Office127.JPG  0%  100%  
+	    New File  		   46080	OPC Backflows.doc  0%  100%  
+	    New File  		  220672	OPC FLS.xls  0%  100%  
+	    New File  		  199734	OPC OR Humidity Control-A3 JM.pdf  0%  100%  
+	    New File  		  118745	OPC OR Humidity Control-A3 JM.pptx  0%  100%  
+	    New File  		   14208	OPC PG&E Account Info.docx  0%  100%  
+	    New File  		   98594	Org Chart-Open Head Count (s0063327 v1).pptx  0%  100%  
+	    New File  		   99151	Org Chart-Open Head Count.pptx  0%  100%  
+	    New File  		   12100	OSC Task and Generator LIght Test Log.xlsx  0%  100%  
+	    New File  		    6718	Panel Tr.tif  0%  100%  
+	    New File  		    6718	Panel Tr0001.tif  0%  100%  
+	    New File  		    6746	Panel Tr0002.tif  0%  100%  
+	    New File  		  215364	Panel Trend Data Detail Report.tif  0%  100%  
+	    New File  		  215364	Panel Trend Data Detail Report0001.tif  0%  100%  
+	    New File  		  194384	Panel Trend Data Detail Report0002.tif  0%  100%  
+	    New File  		  210230	Panel Trend Data Detail Report0003.tif  0%  100%  
+	    New File  		   26624	Parts Order Form.xls  0%  100%  
+	    New File  		   10492	Patient and employee confidetiality 12 5 12.docx  0%  100%  
+	    New File  		   2.9 m	Private Water Systems_WRUP O&M.pdf  0%  100%  
+	    New File  		  248320	Procedure for Using Able Credit Card Revised 11-13.doc  0%  100%  
+	    New File  		   17336	PS E&M FY13 Ops & Capital Items.docx  0%  100%  
+	    New File  		   36352	PS E&M Maintenance Staffing FY14.xls  0%  100%  
+	    New File  		   16686	PS EM FY14 Ops  Capital Items.docx  0%  100%  
+	    New File  		   25600	PS EM Staff  Vehicle FY13 (2).doc  0%  100%  
+	    New File  		   50176	Rain Response  0%  100%  
+	    New File  		   50453	recov_recycle.pdf  0%  100%  
+	    New File  		   58209	refer log 1.pdf  0%  100%  
+	    New File  		   24064	REFRIGERANT LOG BOOK.doc  0%  100%  
+	    New File  		  907662	Rounds Chk List back.pdf  0%  100%  
+	    New File  		  933589	Rounds Chk List front.pdf  0%  100%  
+	    New File  		   14686	Safety Training FY13.xlsx  0%  100%  
+	    New File  		   18135	Sequence of Operation  730 Welch Rd.docx  0%  100%  
+	    New File  		   16883	SHC Cover Sheet.docx  0%  100%  
+	    New File  		   23040	SHC H2157 Enviromental and excessive air volume.doc  0%  100%  
+	    New File  		   12051	SHC H2157 Enviromental and excessive air volume.docx  0%  100%  
+	    New File  		   11895	SHC HE262 Patient room.docx  0%  100%  
+	    New File  		   12191	SHC HF042 Patient room.docx  0%  100%  
+	    New File  		   11890	SHC HF071 Patient room.docx  0%  100%  
+	    New File  		   26055	SHC Termination Trial Period Binh Tran.docx  0%  100%  
+	    New File  		   31825	SHC Written Warning Bryon Thomas.docx  0%  100%  
+	    New File  		    1330	Shortcut to 2452 Watson floor plans from MBurke 4.26.10.pdf.lnk  0%  100%  
+	    New File  		    1005	Shortcut to Cover.doc.lnk  0%  100%  
+	    New File  		  21.2 m	Siemens.zip  0.0% 75.4%100%  100%  100%  
+	    New File  		   25088	Simplex Grinnell Mtg.doc  0%  100%  
+	    New File  		   59904	Simplex Mtg 3-9-12.doc  0%  100%  
+	    New File  		   16711	SM Recomendation Letter.docx  0%  100%  
+	    New File  		   54605	Sosa's FINAL!!!!! Timecard.pdf  0%  100%  
+	    New File  		   24576	Stanford Outpatient 5-17-12.doc  0%  100%  
+	    New File  		   17950	STANFORD PATC BMS-HVAC LIST.docx  0%  100%  
+	    New File  		   31232	Steam Shutdown Request E and W Pavilion & Core.xls  0%  100%  
+	    New File  		     652	SWWATER.INI  0%  100%  
+	    New File  		   19829	Terry Lane Move In Projects.docx  0%  100%  
+	    New File  		   73216	TestsInspectionTable SHC Property Mgt (2).doc  0%  100%  
+	    New File  		  382976	Thumbs.db  0%  100%  100%  
+	    New File  		  111104	trace32.exe  0%  100%  
+	    New File  		   45568	UHA-PCHA PS EM Maintenance Staffing FY14 (2).xls  0%  100%  
+	    New File  		   45568	UHA-PCHA PS EM Maintenance Staffing FY14.xls  0%  100%  
+	    New File  		   14561	Updated  PS-ABLE BUDGET FY15.xlsx  0%  100%  
+	    New File  		   12818	Vision Center Best Practice Task List.docx  0%  100%  
+	    New File  		   12210	Vision Center Fire Doors.xlsx  0%  100%  
+	    New File  		   1.6 m	Why culture matters_04 26 2011v5.tif  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	    New File  		   16896	Thumbs.db  0%  100%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\
+	    New File  		   4.4 m	Publication.exe  0%  100%  
+	    New File  		  422546	reader.swf  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\pubData\
+	    New File  		     203	crossdomain.xml  0%  100%  
+	    New File  		  289492	emc.common.swf  0%  100%  
+	    New File  		  642362	emc.plugin.swf  0%  100%  
+	    New File  		     727	expressInstall.swf  0%  100%  
+	    New File  		    3945	filesList.list  0%  100%  
+	    New File  		     220	preloaderData.xml  0%  100%  
+	    New File  		   22272	swfgoodies.js  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\pubData\config\
+	    New File  		   34042	reader.xml  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\pubData\plugins\
+	    New File  		    8287	ControlBarDeclaration.swf  0%  100%  
+	    New File  		   16434	ResellerDeclaration.swf  0%  100%  
+	    New File  		    7885	ShapeDeclaration.swf  0%  100%  
+	    New File  		   60095	ShareThisDeclaration.swf  0%  100%  
+	    New File  		   35699	SlideShowDeclaration.swf  0%  100%  
+	    New File  		   12476	StatisticsDeclaration.swf  0%  100%  
+	    New File  		   52757	VideoPlayerDeclaration.swf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\pubData\readerStyles\
+	    New File  		   44542	Aqua.swf  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\pubData\SEO\
+	    New File  		    5249	Page_1.html  0%  100%  
+	    New File  		    5257	Page_2.html  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\pubData\source\
+	    New File  		  373057	2013 schedule.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\pubData\source\files\
+	    New File  		   77661	Aqua background.jpg  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\pubData\source\images\
+	    New File  		    1066	get_flash_player.gif  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\pubData\source\images\pages\
+	    New File  		  376574	page1.jpg  0%  100%  
+	    New File  		  373948	page2.jpg  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\pubData\source\images\thumbnails\
+	    New File  		   10852	thumbnail1.jpg  0%  100%  
+	    New File  		   10877	thumbnail2.jpg  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\pubData\source\images\zoompages\
+	    New File  		  300224	zoompage1.jpg  0%  100%  
+	    New File  		  302727	zoompage2.jpg  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\
+	    New File  		    1006	Info.plist  0%  100%  
+	    New File  		       8	PkgInfo  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\MacOS\
+	    New File  		   1.2 m	mdm_flash_player  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\
+	    New File  		     424	fixedg.sol  0%  100%  
+	    New File  		   1.0 m	mdm.dat  0%  100%  
+	    New File  		   65085	mdm_flash_player.icns  0%  100%  
+	    New File  		   19076	rdata8.dat  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\English.lproj\
+	    New File  		     158	InfoPlist.strings  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\English.lproj\MainMenu.nib\
+	    New File  		    1336	classes.nib  0%  100%  
+	    New File  		     578	info.nib  0%  100%  
+	    New File  		   13093	keyedobjects.nib  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\extensions\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\extensions\mdm_forms.bundle\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\extensions\mdm_forms.bundle\Contents\
+	    New File  		     674	Info.plist  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\extensions\mdm_forms.bundle\Contents\MacOS\
+	    New File  		  563260	mdmforms  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\extensions\mdm_forms.bundle\Contents\Resources\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\extensions\mdm_forms.bundle\Contents\Resources\English.lproj\
+	    New File  		     204	InfoPlist.strings  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\extensions\mdm_system.bundle\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\extensions\mdm_system.bundle\Contents\
+	    New File  		     678	Info.plist  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\extensions\mdm_system.bundle\Contents\MacOS\
+	    New File  		  568664	mdm_system  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\extensions\mdm_system.bundle\Contents\Resources\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\extensions\mdm_system.bundle\Contents\Resources\English.lproj\
+	    New File  		     204	InfoPlist.strings  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\
+	    New File  		    1010	Info.plist  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\MacOS\
+	    New File  		  12.9 m	Flash Player  0.0%100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\Resources\
+	    New File  		    9190	Flash Player.rsrc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\Resources\cs.lproj\
+	    New File  		    3350	Localized.rsrc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\Resources\de.lproj\
+	    New File  		    3491	Localized.rsrc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\Resources\English.lproj\
+	    New File  		     286	Localized.rsrc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\Resources\es.lproj\
+	    New File  		    3429	Localized.rsrc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\Resources\fr.lproj\
+	    New File  		    3491	Localized.rsrc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\Resources\it.lproj\
+	    New File  		    3420	Localized.rsrc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\Resources\ja.lproj\
+	    New File  		    3335	Localized.rsrc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\Resources\ko.lproj\
+	    New File  		    3145	Localized.rsrc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\Resources\nl.lproj\
+	    New File  		    3452	Localized.rsrc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\Resources\pl.lproj\
+	    New File  		    3354	Localized.rsrc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\Resources\pt.lproj\
+	    New File  		    3372	Localized.rsrc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\Resources\ru.lproj\
+	    New File  		    3393	Localized.rsrc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\Resources\sv.lproj\
+	    New File  		    3279	Localized.rsrc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\Resources\tr.lproj\
+	    New File  		    3267	Localized.rsrc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\Resources\zh_CN.lproj\
+	    New File  		    2977	Localized.rsrc  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_custromer_off line_schedule_v1\Publication.app\Contents\Resources\Flash Player.plugin\Contents\Resources\zh_TW.lproj\
+	    New File  		    3001	Localized.rsrc  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\2013_Training_off_line_Catalog_v2\
+	    New File  		   4.4 m	Publication.exe  0%  100%  
+	    New File  		  422546	reader.swf  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0063327\2013_Training_off_line_Catalog_v2\pubData\
+	    New File  		     203	crossdomain.xml  0%  100%  
+	    New File  		  289492	emc.common.swf  0%  100%  
+	    New File  		  642362	emc.plugin.swf  0%  100%  
+	    New File  		     727	expressInstall.swf  0%  100%  
+	    New File  		    8003	filesList.list  0%  100%  
+	    New File  		     212	preloaderData.xml  0%  100%  
+	    New File  		   22272	swfgoodies.js  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_Training_off_line_Catalog_v2\pubData\config\
+	    New File  		  413117	reader.xml  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0063327\2013_Training_off_line_Catalog_v2\pubData\plugins\
+	    New File  		    8287	ControlBarDeclaration.swf  0%  100%  
+	    New File  		   17710	FlexBookDeclaration.swf  0%  100%  
+	    New File  		   16434	ResellerDeclaration.swf  0%  100%  
+	    New File  		    7885	ShapeDeclaration.swf  0%  100%  
+	    New File  		   60095	ShareThisDeclaration.swf  0%  100%  
+	    New File  		   35699	SlideShowDeclaration.swf  0%  100%  
+	    New File  		   12476	StatisticsDeclaration.swf  0%  100%  
+	    New File  		   52757	VideoPlayerDeclaration.swf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_Training_off_line_Catalog_v2\pubData\readerStyles\
+	    New File  		   44542	Aqua.swf  0%  100%  
+	  New Dir         46	\\shintnpscfs116\T$\Users7\S0063327\2013_Training_off_line_Catalog_v2\pubData\SEO\
+	    New File  		    1104	Page_1.html  0%  100%  
+	    New File  		    1938	Page_10.html  0%  100%  
+	    New File  		    4084	Page_11.html  0%  100%  
+	    New File  		    3416	Page_12.html  0%  100%  
+	    New File  		    3568	Page_13.html  0%  100%  
+	    New File  		    3402	Page_14.html  0%  100%  
+	    New File  		    3657	Page_15.html  0%  100%  
+	    New File  		    3177	Page_16.html  0%  100%  
+	    New File  		    3405	Page_17.html  0%  100%  
+	    New File  		    1738	Page_18.html  0%  100%  
+	    New File  		    1551	Page_19.html  0%  100%  
+	    New File  		    5034	Page_2.html  0%  100%  
+	    New File  		    2376	Page_20.html  0%  100%  
+	    New File  		    2377	Page_21.html  0%  100%  
+	    New File  		    3534	Page_22.html  0%  100%  
+	    New File  		    3350	Page_23.html  0%  100%  
+	    New File  		    3691	Page_24.html  0%  100%  
+	    New File  		    3423	Page_25.html  0%  100%  
+	    New File  		    3529	Page_26.html  0%  100%  
+	    New File  		    4043	Page_27.html  0%  100%  
+	    New File  		    4009	Page_28.html  0%  100%  
+	    New File  		    3559	Page_29.html  0%  100%  
+	    New File  		    3560	Page_3.html  0%  100%  
+	    New File  		    2354	Page_30.html  0%  100%  
+	    New File  		    2379	Page_31.html  0%  100%  
+	    New File  		    3207	Page_32.html  0%  100%  
+	    New File  		    3695	Page_33.html  0%  100%  
+	    New File  		     996	Page_34.html  0%  100%  
+	    New File  		    4566	Page_35.html  0%  100%  
+	    New File  		     996	Page_36.html  0%  100%  
+	    New File  		    3858	Page_37.html  0%  100%  
+	    New File  		    2907	Page_38.html  0%  100%  
+	    New File  		    2669	Page_39.html  0%  100%  
+	    New File  		    4557	Page_4.html  0%  100%  
+	    New File  		    3909	Page_40.html  0%  100%  
+	    New File  		    3021	Page_41.html  0%  100%  
+	    New File  		     996	Page_42.html  0%  100%  
+	    New File  		    3080	Page_43.html  0%  100%  
+	    New File  		     996	Page_44.html  0%  100%  
+	    New File  		    4186	Page_45.html  0%  100%  
+	    New File  		    1312	Page_46.html  0%  100%  
+	    New File  		    4263	Page_5.html  0%  100%  
+	    New File  		    3122	Page_6.html  0%  100%  
+	    New File  		    3256	Page_7.html  0%  100%  
+	    New File  		    3256	Page_8.html  0%  100%  
+	    New File  		    3566	Page_9.html  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_Training_off_line_Catalog_v2\pubData\source\
+	    New File  		   3.1 m	2013 Training Catalog.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_Training_off_line_Catalog_v2\pubData\source\files\
+	    New File  		   77661	Aqua background.jpg  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\2013_Training_off_line_Catalog_v2\pubData\source\images\
+	    New File  		    1066	get_flash_player.gif  0%  100%  
+	  New Dir         46	\\shintnpscfs116\T$\Users7\S0063327\2013_Training_off_line_Catalog_v2\pubData\source\images\pages\
+	    New File  		   78914	page1.jpg  0%  100%  
+	    New File  		   70819	page10.jpg  0%  100%  
+	    New File  		  124263	page11.jpg  0%  100%  
+	    New File  		  120435	page12.jpg  0%  100%  
+	    New File  		  114377	page13.jpg  0%  100%  
+	    New File  		  106753	page14.jpg  0%  100%  
+	    New File  		  121256	page15.jpg  0%  100%  
+	    New File  		   97117	page16.jpg  0%  100%  
+	    New File  		  123297	page17.jpg  0%  100%  
+	    New File  		   59018	page18.jpg  0%  100%  
+	    New File  		   50771	page19.jpg  0%  100%  
+	    New File  		  137305	page2.jpg  0%  100%  
+	    New File  		   89635	page20.jpg  0%  100%  
+	    New File  		   88455	page21.jpg  0%  100%  
+	    New File  		  111400	page22.jpg  0%  100%  
+	    New File  		  107047	page23.jpg  0%  100%  
+	    New File  		  118011	page24.jpg  0%  100%  
+	    New File  		  113613	page25.jpg  0%  100%  
+	    New File  		  109232	page26.jpg  0%  100%  
+	    New File  		  137928	page27.jpg  0%  100%  
+	    New File  		  124144	page28.jpg  0%  100%  
+	    New File  		  109698	page29.jpg  0%  100%  
+	    New File  		  124363	page3.jpg  0%  100%  
+	    New File  		   77615	page30.jpg  0%  100%  
+	    New File  		   82346	page31.jpg  0%  100%  
+	    New File  		   93529	page32.jpg  0%  100%  
+	    New File  		  123892	page33.jpg  0%  100%  
+	    New File  		   10089	page34.jpg  0%  100%  
+	    New File  		  138141	page35.jpg  0%  100%  
+	    New File  		   10089	page36.jpg  0%  100%  
+	    New File  		  126883	page37.jpg  0%  100%  
+	    New File  		   95152	page38.jpg  0%  100%  
+	    New File  		  100830	page39.jpg  0%  100%  
+	    New File  		  143398	page4.jpg  0%  100%  
+	    New File  		  125981	page40.jpg  0%  100%  
+	    New File  		   96970	page41.jpg  0%  100%  
+	    New File  		   10089	page42.jpg  0%  100%  
+	    New File  		  105900	page43.jpg  0%  100%  
+	    New File  		   10089	page44.jpg  0%  100%  
+	    New File  		  145621	page45.jpg  0%  100%  
+	    New File  		   67296	page46.jpg  0%  100%  
+	    New File  		  134021	page5.jpg  0%  100%  
+	    New File  		  101588	page6.jpg  0%  100%  
+	    New File  		  106614	page7.jpg  0%  100%  
+	    New File  		  105731	page8.jpg  0%  100%  
+	    New File  		  120175	page9.jpg  0%  100%  
+	  New Dir         46	\\shintnpscfs116\T$\Users7\S0063327\2013_Training_off_line_Catalog_v2\pubData\source\images\thumbnails\
+	    New File  		    6116	thumbnail1.jpg  0%  100%  
+	    New File  		    6295	thumbnail10.jpg  0%  100%  
+	    New File  		    6738	thumbnail11.jpg  0%  100%  
+	    New File  		    6603	thumbnail12.jpg  0%  100%  
+	    New File  		    6709	thumbnail13.jpg  0%  100%  
+	    New File  		    6516	thumbnail14.jpg  0%  100%  
+	    New File  		    6812	thumbnail15.jpg  0%  100%  
+	    New File  		    6489	thumbnail16.jpg  0%  100%  
+	    New File  		    6887	thumbnail17.jpg  0%  100%  
+	    New File  		    5780	thumbnail18.jpg  0%  100%  
+	    New File  		    5365	thumbnail19.jpg  0%  100%  
+	    New File  		    6836	thumbnail2.jpg  0%  100%  
+	    New File  		    6398	thumbnail20.jpg  0%  100%  
+	    New File  		    6664	thumbnail21.jpg  0%  100%  
+	    New File  		    6693	thumbnail22.jpg  0%  100%  
+	    New File  		    6501	thumbnail23.jpg  0%  100%  
+	    New File  		    6677	thumbnail24.jpg  0%  100%  
+	    New File  		    6652	thumbnail25.jpg  0%  100%  
+	    New File  		    6598	thumbnail26.jpg  0%  100%  
+	    New File  		    6868	thumbnail27.jpg  0%  100%  
+	    New File  		    6873	thumbnail28.jpg  0%  100%  
+	    New File  		    6682	thumbnail29.jpg  0%  100%  
+	    New File  		    6619	thumbnail3.jpg  0%  100%  
+	    New File  		    5954	thumbnail30.jpg  0%  100%  
+	    New File  		    6434	thumbnail31.jpg  0%  100%  
+	    New File  		    6199	thumbnail32.jpg  0%  100%  
+	    New File  		    6797	thumbnail33.jpg  0%  100%  
+	    New File  		    3909	thumbnail34.jpg  0%  100%  
+	    New File  		    7331	thumbnail35.jpg  0%  100%  
+	    New File  		    3909	thumbnail36.jpg  0%  100%  
+	    New File  		    6617	thumbnail37.jpg  0%  100%  
+	    New File  		    6211	thumbnail38.jpg  0%  100%  
+	    New File  		    6529	thumbnail39.jpg  0%  100%  
+	    New File  		    7010	thumbnail4.jpg  0%  100%  
+	    New File  		    7082	thumbnail40.jpg  0%  100%  
+	    New File  		    6471	thumbnail41.jpg  0%  100%  
+	    New File  		    3909	thumbnail42.jpg  0%  100%  
+	    New File  		    7165	thumbnail43.jpg  0%  100%  
+	    New File  		    3909	thumbnail44.jpg  0%  100%  
+	    New File  		    6764	thumbnail45.jpg  0%  100%  
+	    New File  		    5538	thumbnail46.jpg  0%  100%  
+	    New File  		    6763	thumbnail5.jpg  0%  100%  
+	    New File  		    6781	thumbnail6.jpg  0%  100%  
+	    New File  		    6885	thumbnail7.jpg  0%  100%  
+	    New File  		    6610	thumbnail8.jpg  0%  100%  
+	    New File  		    6993	thumbnail9.jpg  0%  100%  
+	  New Dir         46	\\shintnpscfs116\T$\Users7\S0063327\2013_Training_off_line_Catalog_v2\pubData\source\images\zoompages\
+	    New File  		  162909	zoompage1.jpg  0%  100%  
+	    New File  		  156056	zoompage10.jpg  0%  100%  
+	    New File  		  260231	zoompage11.jpg  0%  100%  
+	    New File  		  256454	zoompage12.jpg  0%  100%  
+	    New File  		  237899	zoompage13.jpg  0%  100%  
+	    New File  		  222942	zoompage14.jpg  0%  100%  
+	    New File  		  249998	zoompage15.jpg  0%  100%  
+	    New File  		  203514	zoompage16.jpg  0%  100%  
+	    New File  		  256582	zoompage17.jpg  0%  100%  
+	    New File  		  133657	zoompage18.jpg  0%  100%  
+	    New File  		  112373	zoompage19.jpg  0%  100%  
+	    New File  		  268975	zoompage2.jpg  0%  100%  
+	    New File  		  196655	zoompage20.jpg  0%  100%  
+	    New File  		  187769	zoompage21.jpg  0%  100%  
+	    New File  		  232039	zoompage22.jpg  0%  100%  
+	    New File  		  228689	zoompage23.jpg  0%  100%  
+	    New File  		  247080	zoompage24.jpg  0%  100%  
+	    New File  		  237678	zoompage25.jpg  0%  100%  
+	    New File  		  230558	zoompage26.jpg  0%  100%  
+	    New File  		  291133	zoompage27.jpg  0%  100%  
+	    New File  		  264362	zoompage28.jpg  0%  100%  
+	    New File  		  234938	zoompage29.jpg  0%  100%  
+	    New File  		  275189	zoompage3.jpg  0%  100%  
+	    New File  		  171025	zoompage30.jpg  0%  100%  
+	    New File  		  175338	zoompage31.jpg  0%  100%  
+	    New File  		  197503	zoompage32.jpg  0%  100%  
+	    New File  		  254611	zoompage33.jpg  0%  100%  
+	    New File  		   37069	zoompage34.jpg  0%  100%  
+	    New File  		  300607	zoompage35.jpg  0%  100%  
+	    New File  		   37069	zoompage36.jpg  0%  100%  
+	    New File  		  270614	zoompage37.jpg  0%  100%  
+	    New File  		  208819	zoompage38.jpg  0%  100%  
+	    New File  		  214249	zoompage39.jpg  0%  100%  
+	    New File  		  307070	zoompage4.jpg  0%  100%  
+	    New File  		  265168	zoompage40.jpg  0%  100%  
+	    New File  		  203478	zoompage41.jpg  0%  100%  
+	    New File  		   37069	zoompage42.jpg  0%  100%  
+	    New File  		  232368	zoompage43.jpg  0%  100%  
+	    New File  		   37069	zoompage44.jpg  0%  100%  
+	    New File  		  291062	zoompage45.jpg  0%  100%  
+	    New File  		  151787	zoompage46.jpg  0%  100%  
+	    New File  		  281692	zoompage5.jpg  0%  100%  
+	    New File  		  223791	zoompage6.jpg  0%  100%  
+	    New File  		  232585	zoompage7.jpg  0%  100%  
+	    New File  		  228253	zoompage8.jpg  0%  100%  
+	    New File  		  257982	zoompage9.jpg  0%  100%  
+	  New Dir         31	\\shintnpscfs116\T$\Users7\S0063327\ABLE\
+	    New File  		   14622	Apprentice Requirements-Chris Grech.docx  0%  100%  
+	    New File  		  140800	CG PE 10.doc  0%  100%  
+	    New File  		  104448	Chris Grech 2011 PE.doc  0%  100%  
+	    New File  		   12204	Copy of Revised Able Budget FY12.xlsx  0%  100%  
+	    New File  		   22234	CSosa_Part D Employee Dev Plan_9-10.rtf  0%  100%  
+	    New File  		  141312	JC PE 10.doc  0%  100%  
+	    New File  		  106496	Jeff Capen 2012 Performance Evaluation.doc  0%  100%  
+	    New File  		  398233	Jeff Capen PE.pdf  0%  100%  
+	    New File  		  139264	John PE-09.doc  0%  100%  
+	    New File  		  118272	John-PE 2011.doc  0%  100%  
+	    New File  		  139264	Keith PE-09.doc  0%  100%  
+	    New File  		  118272	Keith-PE 2011.doc  0%  100%  
+	    New File  		  141312	Kevin PE-09.doc  0%  100%  
+	    New File  		  140288	KM PE 10.doc  0%  100%  
+	    New File  		   31962	NH 31 F1-1 0 Drug Test  Background Check Authorization Form.pdf  0%  100%  
+	    New File  		  106496	Performance Evaluation Sean P 2012.doc  0%  100%  
+	    New File  		  105472	Performance Evaluation.doc  0%  100%  
+	    New File  		   19037	PIP WORK PLAN Sean LaPlante.docx  0%  100%  
+	    New File  		   13671	Request for Promotion- Rudy.docx  0%  100%  
+	    New File  		   15993	Request for Promotion-Sean Plummer.docx  0%  100%  
+	    New File  		  105472	Rodolfo Ramos PE 2011.doc  0%  100%  
+	    New File  		  105472	Rodolfo-PE 2011.doc  0%  100%  
+	    New File  		  139776	RR PE 10.doc  0%  100%  
+	    New File  		   22112	Sean LaPlante PIP.Dec 2011.docx  0%  100%  
+	    New File  		  139264	Sean PE- 09.doc  0%  100%  
+	    New File  		  386601	Sean Plummer PE.pdf  0%  100%  
+	    New File  		  104960	Sean-PE 2011.doc  0%  100%  
+	    New File  		     653	Shortcut to Able Background Form.pdf.lnk  0%  100%  
+	    New File  		  315442	Sosa Review 2011.rtf  0%  100%  
+	    New File  		  300666	Sosa's Review 11.rtf  0%  100%  
+	    New File  		  139776	SP PE 10.doc  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\
+	  New Dir         58	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Desktop\
+	    New File  		  142023	2010 TJC checklist .pdf  0%  100%  
+	    New File  		   29696	451 Sherman Rounds.xls  0%  100%  
+	    New File  		   39424	730 Rounds.xls  0%   99%   99%  100%  
+	    New File  		   33280	A ROUNDS.xls  0%  100%  
+	    New File  		   25618	ACE- Overview.docx  0%  100%  
+	    New File  		  126504	Active Daily Management f.pdf  0%  100%  
+	    New File  		   59392	Agenda 1 on 1 Tony.doc  0%  100%  
+	    New File  		   24576	BMS LOG.xls  0%  100%  
+	    New File  		   43520	Cal Yr PM Sched.xls  0%  100%  
+	    New File  		   29231	Copy of BCAnet Sizing.xlsx  0%  100%  
+	    New File  		   41984	Copy of Maintenance Staffing FY 12.xls  0%  100%  
+	    New File  		   13336	Copy of MJ Mechanical Service Location  Rates_FY12.xlsx  0%  100%  
+	    New File  		   22234	CSosa_Part D Employee Dev Plan_9-10.rtf  0%  100%  
+	    New File  		   14919	Document1.docx  0%  100%  
+	    New File  		    1013	Dropbox.lnk  0%  100%  
+	    New File  		  622080	edited MASTER-Contact List.xls  0%  100%  
+	    New File  		     770	Editors.lnk  0%  100%  
+	    New File  		   18234	EM New Hire Training Guide.docx  0%  100%  
+	    New File  		   96444	EM Proposed Structure-Org Chart SQ FT.pptx  0%  100%  
+	    New File  		   50688	Engineering Responsibilities.doc  0%  100%  
+	    New File  		   26030	Fire Watch Request Form.docx  0%  100%  
+	    New File  		    2122	Go to Meeting.lnk  0%  100%  
+	    New File  		    2315	Google Chrome.lnk  0%  100%  
+	    New File  		   15010	Interview Tool.docx  0%  100%  
+	    New File  		  71.5 m	iTunesSetup.exe  0.0% 22.3% 44.7% 67.1% 89.5%100%  100%  100%  
+	    New File  		   34304	Job Parts Purchase Order Form (3).doc  0%  100%  
+	    New File  		  202120	lot diemensions.pdf  0%  100%  
+	    New File  		   37376	LPCH Spine and Cover.doc  0%  100%  
+	    New File  		    2507	Microsoft Outlook 2010.lnk  0%  100%  
+	    New File  		  220672	OPC FLS.xls  0%  100%  
+	    New File  		   67377	OT Form.docx  0%  100%  
+	    New File  		   29696	PAVILION C.doc  0%  100%  
+	    New File  		  105472	Performance Evaluation.doc  0%  100%  
+	    New File  		  550400	PMM Approved Vendor List.xls  0%  100%  
+	    New File  		   14811	Pre-Screen Questions.docx  0%  100%  
+	    New File  		   21016	Project Status Report_Property_Services.xlsx  0%  100%  
+	    New File  		   98616	Property Services E&M Org Chart.pptx  0%  100%  
+	    New File  		   17322	PS E&M FY13 Ops & Capital Items.docx  0%  100%  
+	    New File  		   25600	PS E&M Staff & Vehicle FY13.doc  0%  100%  
+	    New File  		    1491	Remote Desktop Connection.lnk  0%  100%  
+	    New File  		   12656	Revised Able Budget FY12.xlsx  0%  100%  
+	    New File  		   31744	ROUNDS B.xls  0%  100%  
+	    New File  		   31232	ROUNDS C.xls  0%  100%  
+	    New File  		   28672	ROUNDS D.xls  0%  100%  
+	    New File  		   18135	Sequence of Operation  730 Welch Rd.docx  0%  100%  
+	    New File  		     530	Shortcut to Copy of HILLVIEW RR.xls.lnk  0%  100%  
+	    New File  		    1005	Shortcut to Cover.doc.lnk  0%  100%  
+	    New File  		     572	Shortcut to Job Parts Purchase Order Form (3).doc.lnk  0%  100%  
+	    New File  		    1005	Shortcut to Spine.doc.lnk  0%  100%  
+	    New File  		  300666	Sosa's Review 11.rtf  0%  100%  
+	    New File  		   57344	Suzie 1 on 1  0%  100%  
+	    New File  		     220	Timelink.url  0%   13%   13%  100%  
+	    New File  		   4.5 m	TJC 2009_CAMH_With_Update 2010.pdf  0%  100%  
+	    New File  		   67072	Utility Shutdown Request - Hoover.XLS  0%  100%  
+	    New File  		   35328	Utility shutdown request (version 1).xls  0%  100%  
+	    New File  		   39424	WATSON ROUNDS.xls  0%  100%  
+	    New File  		   63488	Weekly Eng Meeting August 5th 09.doc  0%  100%  
+	    New File  		     792	Windows Media Player.lnk  0%  100%  
+	  New Dir         55	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Favorites\
+	    New File  		     270	 Cost of Electricity.url  0%  100%  
+	    New File  		     987	 Refrigerant Management Program.url  0%   52%   52%  100%  
+	    New File  		     148	ACCO Controls - Building Automation Log - Powered by vBulletin.url  0%  100%  
+	    New File  		     262	California Traffic Safety Institute - CTSI.url  0%  100%  
+	    New File  		     156	CAMUS Hydronics, Ltd..url  0%  100%  
+	    New File  		     144	Celsius to Fahrenheit.url  0%  100%  
+	    New File  		     306	Chicago Faucet.url  0%  100%  
+	    New File  		     178	City of Palo Alto Website - Utilities.url  0%  100%  
+	    New File  		     174	Cone Mounter.url  0%  100%  
+	    New File  		     224	Control-A-FlowrÿOrderÿNow.url  0%  100%  
+	    New File  		      83	Desktop.ini  0%  100%  
+	    New File  		     630	Dogs.url  0%   13%   13%  100%  
+	    New File  		     274	EARTHQUAKE UPDATE.url  0%  100%  
+	    New File  		     164	EPSi.url  0%  100%  
+	    New File  		    2889	Free Internet Radio Stations - AOL Music.url  0%   71%   71%  100%  
+	    New File  		     133	GE-SYLVANIA CROSS REF.url  0%  100%  
+	    New File  		     612	HD SUPPLY.url  0%  100%  
+	    New File  		     216	Heatco.url  0%  100%  
+	    New File  		     145	http--www.watts.com-pdf-CR-BP.pdf.url  0%  100%  
+	    New File  		     248	JCR Store.url  0%  100%  
+	    New File  		     418	Kodakgallery.comÿShare confirmation.url  0%  100%  
+	    New File  		     146	Lighting Cont. 420.url  0%  100%  
+	    New File  		     152	Login Page ALC.url  0%  100%  
+	    New File  		     259	Mary L Johnson DDC.url  0%  100%  
+	    New File  		     269	Materials Management - Purchasing.url  0%  100%  
+	    New File  		     604	McMaster-Carr.url  0%  100%  
+	    New File  		     130	Micro Control Systems Inc.url  0%  100%  
+	    New File  		      81	MSDN.url  0%  100%  
+	    New File  		     146	MSDS-Chemquik.url  0%  100%  
+	    New File  		     119	MSN.com.url  0%  100%  
+	    New File  		     141	MSOnet.url  0%  100%  
+	    New File  		     172	Pediatric Heart Center Database.url  0%  100%  
+	    New File  		     217	Power factor - Wikipedia, the free encyclopedia.url  0%  100%  
+	    New File  		     302	quantros.url  0%    6%    6%  100%  
+	    New File  		     197	Radio Station Guide.url  0%  100%  
+	    New File  		     377	Redwood City Weather.url  0%  100%  
+	    New File  		     402	seats.url  0%  100%  
+	    New File  		     194	SHC WEB-BASED APPLICATIONS.url  0%  100%  
+	    New File  		     215	SIRIUS Satellite Radio - SIRIUS Internet Radio.url  0%  100%  
+	    New File  		     144	Stand.url  0%  100%  
+	    New File  		     140	Stanford Campus Downtime Reports.url  0%  100%  
+	    New File  		     140	Stanford Offsite Clinics Downtime Reports.url  0%  100%  
+	    New File  		     140	Stanford Pharmacy Downtime Reports.url  0%  100%  
+	    New File  		     130	Superstrut-Windustrial.url  0%  100%  
+	    New File  		      84	Support.url  0%  100%  
+	    New File  		    1305	Ticketmaster Confirmation.url  0%  100%  
+	    New File  		     321	TIMELINK.url  0%   18%   18%  100%  
+	    New File  		     243	TJC Boot Camp.url  0%  100%  
+	    New File  		     431	Training Certificate ABB.url  0%  100%  
+	    New File  		     554	UltiPro Web.url  0%  100%  
+	    New File  		     266	UltiPro.url  0%   15%   15%  100%  
+	    New File  		     219	VitalSmarts - Training Center.url  0%  100%  
+	    New File  		     181	wattstopper LCP.url  0%  100%  
+	    New File  		     195	Web Budgeting Tool.url  0%  100%  
+	    New File  		     324	West Point Sloughÿ9414507ÿTidal Data Daily View.url  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Favorites\CLIENT LAB USERS\
+	    New File  		     178	LABUSERS.url  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Favorites\CV Med-CT Surg Clinic Favorites\
+	    New File  		     140	ECG.url  0%  100%  
+	    New File  		     150	Echo Lab.url  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Favorites\LifeIMAGE\
+	    New File  		     167	lifeIMAGE Inbox - Log in.url  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Favorites\Links\
+	    New File  		      84	desktop.ini  0%  100%  
+	    New File  		     113	Free Hotmail.url  0%  100%  
+	    New File  		     112	MSDS-Chemquik.url  0%  100%  
+	    New File  		     107	MSOnet.url  0%  100%  
+	    New File  		     137	Pediatric Heart Center Database.url  0%  100%  
+	    New File  		     106	Stanford Campus Downtime Reports.url  0%  100%  
+	    New File  		     106	Stanford Offsite Clinics Downtime Reports.url  0%  100%  
+	    New File  		     106	Stanford Pharmacy Downtime Reports.url  0%  100%  
+	    New File  		     226	Web Slice Gallery.url  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Favorites\LPCH Sites to Explore\
+	    New File  		     170	LPCH Community Physician Directory.url  0%  100%  
+	    New File  		     167	LPCH Faculty Physician Directory.url  0%  100%  
+	    New File  		     113	LPCH Nursing Education.url  0%  100%  
+	    New File  		     136	LPCH Web Site.url  0%  100%  
+	    New File  		     143	Vaccine Information Statements.url  0%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Favorites\LPCH Web Based Applications\
+	    New File  		     161	Cerner.url  0%  100%  
+	    New File  		     146	Hospital Paging.url  0%  100%  
+	    New File  		     147	LPCH Nursing Education.url  0%  100%  
+	    New File  		     141	MD Paging.url  0%  100%  
+	    New File  		     150	Medical Center Directory.url  0%  100%  
+	    New File  		     151	Quantros.url  0%  100%  
+	    New File  		     166	Reference - PEDBASE.url  0%  100%  
+	    New File  		     132	Referene - PEDBASE.url  0%  100%  
+	    New File  		     181	SHC Learning Management System.url  0%  100%  
+	    New File  		     158	Trust Commerce.url  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Favorites\Microsoft Websites\
+	    New File  		     160	IE Add-on site.url  0%  100%  
+	    New File  		     160	IE site on Microsoft.com.url  0%  100%  
+	    New File  		     160	Marketplace.url  0%  100%  
+	    New File  		     160	Microsoft At Home.url  0%  100%  
+	    New File  		     160	Microsoft At Work.url  0%  100%  
+	    New File  		     161	Microsoft Store.url  0%  100%  
+	    New File  		     160	Welcome to IE7.url  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Favorites\SHC WEBBASE\
+	    New File  		     152	SHC WEBBASE.url  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Favorites\SHC WEB-BASED APPLICATIONS\
+	    New File  		     163	Lawson Portal.url  0%  100%  
+	    New File  		     194	WEB-BASED APPLICATIONS.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Favorites\Smart Paging\
+	    New File  		     146	Smart Paging Application.url  0%  100%  
+	    New File  		     172	Smart Paging Help - Introduction.url  0%  100%  
+	    New File  		     146	Smart Paging Help - Placing Pages & Using Features.url  0%  100%  
+	    New File  		     172	Smart Paging Help - Using Smart Paging.url  0%  100%  
+	  New Dir         32	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Favorites\SMG-SFM Favorites\
+	    New File  		     109	AAFP - American Family Physician.url  0%  100%  
+	    New File  		     158	AAFP Clin Policy.url  0%  100%  
+	    New File  		     243	AAP - American Academy of Pediatrics.url  0%  100%  
+	    New File  		     153	AAP Clin Policy.url  0%  100%  
+	    New File  		     162	Adult Immunization.url  0%  100%  
+	    New File  		     143	AFP.url  0%  100%  
+	    New File  		     105	CA Internet Formulary Reference.url  0%  100%  
+	    New File  		     143	CDC - Adult Immunization.url  0%  100%  
+	    New File  		     143	CDC - Child Immunization.url  0%  100%  
+	    New File  		     121	CDC - Travel Advise.url  0%  100%  
+	    New File  		     169	CDC Prevent Guides.url  0%  100%  
+	    New File  		     162	Child Immunization PDF.url  0%  100%  
+	    New File  		     185	Child Immunization.url  0%  100%  
+	    New File  		     167	Healinx User.url  0%  100%  
+	    New File  		     139	HMO Formulary.url  0%  100%  
+	    New File  		     162	Medem Health Info.url  0%  100%  
+	    New File  		     158	Natl Guideline Clearing House.url  0%  100%  
+	    New File  		     268	NHLBI Health Info -  National Heart, Lung, and Blood Institute.url  0%  100%  
+	    New File  		     157	NHLBI Health Info.url  0%  100%  
+	    New File  		     249	Nicholas Institute of Sports Medicine .url  0%  100%  
+	    New File  		     138	Nichol's Institute.url  0%  100%  
+	    New File  		     102	Palo Alto Medical Foundation - PAMF.url  0%  100%  
+	    New File  		     115	PDR - Physicians' Desk Reference.url  0%  100%  
+	    New File  		     149	PDR.url  0%  100%  
+	    New File  		     241	SFM - Stanford Family Medicine .url  0%  100%  
+	    New File  		     140	SFP Home.url  0%  100%  
+	    New File  		     189	SHC Contracts.url  0%  100%  
+	    New File  		     290	SHC Managed Care Contracts.url  0%  100%  
+	    New File  		     252	SMG - Stanford Medical Group.url  0%  100%  
+	    New File  		     151	SMG Home.url  0%  100%  
+	    New File  		     141	Travel Advise.url  0%  100%  
+	    New File  		     140	Trip Prep.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Favorites\Stanford Clinical Laboratory\
+	    New File  		     218	DISASTER PLAN - Stanford Clinical Lab and Anatomic Pathology.url  0%  100%  
+	    New File  		     143	Lab Internet Site.url  0%  100%  
+	    New File  		     155	Lab Intranet Site.url  0%  100%  
+	    New File  		     165	Sharepoint Lab Home Site.url  0%  100%  
+	  New Dir         16	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Favorites\Stanford Sites to Explore\
+	    New File  		     171	Find Cancer Clinical Trials.url  0%  100%  
+	    New File  		     114	Hospital url.url  0%  100%  
+	    New File  		     169	ICD 9 Coding.url  0%  100%  
+	    New File  		     148	Lane Library.url  0%  100%  
+	    New File  		     150	Medical Center Directory.url  0%  100%  
+	    New File  		     164	Medical Staff Roster.url  0%  100%  
+	    New File  		     128	Oncore url.url  0%  100%  
+	    New File  		     144	School of Medicine.url  0%  100%  
+	    New File  		     184	SHC Community Physician Directory.url  0%  100%  
+	    New File  		     181	SHC Faculty Physician Directory.url  0%  100%  
+	    New File  		     270	SHC Physician Directory.url  0%  100%  
+	    New File  		     148	SHC Web Site.url  0%  100%  
+	    New File  		     148	Stanford Intranet.url  0%  100%  
+	    New File  		     249	Stanford Intranets.url  0%  100%  
+	    New File  		     154	Stanford University Medical Center.url  0%  100%  
+	    New File  		     140	Stanford University.url  0%  100%  
+	  New Dir         25	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Favorites\Stanford Web Based Applications\
+	    New File  		     148	BOB (Knowledgebase).url  0%  100%  
+	    New File  		     148	Emerg-Med.url  0%  100%  
+	    New File  		     108	Ether.url  0%  100%  
+	    New File  		     156	HealthStream.url  0%  100%  
+	    New File  		     147	Hill-Rom On Demand.url  0%  100%  
+	    New File  		     149	HIPAA Information.url  0%  100%  
+	    New File  		     163	Lawson Portal.url  0%  100%  
+	    New File  		     150	Lexicomp.url  0%  100%  
+	    New File  		     166	lifeIMAGE Inbox - Log in.url  0%  100%  
+	    New File  		     141	MICROMEDEX(R) Healthcare Series.url  0%  100%  
+	    New File  		     242	MSOnet.url  0%  100%  
+	    New File  		     145	PAMF - portal.url  0%  100%  
+	    New File  		     106	PAMF Sutter Health Citrix Portal.url  0%  100%  
+	    New File  		     144	Portal Backup Site.url  0%  100%  
+	    New File  		     150	Profee Ontrac.url  0%  100%  
+	    New File  		     146	Radiology Images.url  0%  100%  
+	    New File  		     253	SHC Carecast Online Learning Center.url  0%  100%  
+	    New File  		     260	SHC Learning Management System.url  0%  100%  
+	    New File  		     144	Spheris Clarity Care and Complete.url  0%  100%  
+	    New File  		     244	Stanford Lab.url  0%  100%  
+	    New File  		     153	Stanford Physician Portal.url  0%  100%  
+	    New File  		     147	SUMC Outlook Web Access.url  0%  100%  
+	    New File  		     113	TissueTrackCore.url  0%  100%  
+	    New File  		     158	Trust Commerce.url  0%  100%  
+	    New File  		     151	XT Teletracking.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Favorites\Stanford Web Based Applications\Smart Paging\
+	    New File  		     112	Smart Paging Application.url  0%  100%  
+	    New File  		     138	Smart Paging Help - Introduction.url  0%  100%  
+	    New File  		     112	Smart Paging Help - Placing Pages & Using Features.url  0%  100%  
+	    New File  		     138	Smart Paging Help - Using Smart Paging.url  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Favorites\Stanford Web Based Applications\SmartPage\
+	    New File  		     253	Smart Page Portal.url  0%  100%  
+	    New File  		     252	Smart Paging Application.url  0%  100%  
+	    New File  		     278	Smart Paging Help - Introduction.url  0%  100%  
+	    New File  		     252	Smart Paging Help - Placing Pages.url  0%  100%  
+	    New File  		     278	Smart Paging Help - Using Features.url  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Favorites\Stanford Web-Based Applications\
+	    New File  		     192	GE Web.url  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Proof\
+	    New File  		    1775	CUSTOM.DIC  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Signatures\
+	    New File  		   31483	Joel McKinney.htm  0%  100%  
+	    New File  		  122497	Joel McKinney.rtf  0%  100%  
+	    New File  		    2116	Joel McKinney.txt  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063327\backup on june 4, 2012\Signatures\Joel McKinney_files\
+	    New File  		     314	colorschememapping.xml  0%  100%  
+	    New File  		     281	filelist.xml  0%  100%  
+	    New File  		    2750	image001.jpg  0%  100%  
+	    New File  		    1529	image002.jpg  0%  100%  
+	    New File  		    3104	themedata.thmx  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\Dropbox\
+	    New File  		     187	desktop.ini  0%  100%  
+	    New File  		  246000	Getting Started.pdf  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\Dropbox\.dropbox.cache\
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\Dropbox\Hoover Parking Garage\
+	    New File  		      11	.dropbox  0%  100%  
+	    New File  		     187	desktop.ini  0%  100%  
+	    New File  		  38.2 m	Fire_Alarm_D.pdf  0.0% 41.8% 83.6%100%  
+	    New File  		  13.0 m	Fire_Alarm_PD.pdf  0.0%100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\Dropbox\Photos\
+	    New File  		     187	desktop.ini  0%  100%  
+	    New File  		     567	How to use the Photos folder.txt  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063327\Dropbox\Photos\Sample Album\
+	    New File  		  339773	Boston City Flow.jpg  0%  100%  
+	    New File  		  354633	Costa Rican Frog.jpg  0%  100%  
+	    New File  		  480098	Pensive Parakeet.jpg  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\Dropbox\Public\
+	    New File  		     187	desktop.ini  0%  100%  
+	    New File  		     675	How to use the Public folder.txt  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063327\H1338 x ray radiology\
+	    New File  		   11250	H1338 X Ray Radiology vfd reset.docx  0%  100%  
+	    New File  		   2.6 m	IMG_0777.JPG  0%  100%  
+	    New File  		   12288	Thumbs.db  0%  100%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063327\H3229 Office and west core hallway\
+	    New File  		   11116	H3229 Office and west core hall.docx  0%  100%  
+	    New File  		   2.6 m	IMG_0776.JPG  0%  100%  
+	    New File  		   12800	Thumbs.db  0%  100%  100%  
+	  New Dir         13	\\shintnpscfs116\T$\Users7\S0063327\HD133\
+	    New File  		   1.8 m	IMG_0689.JPG  0%  100%  
+	    New File  		   1.4 m	IMG_0690.JPG  0%  100%  
+	    New File  		   1.4 m	IMG_0691.JPG  0%  100%  
+	    New File  		   1.5 m	IMG_0692.JPG  0%  100%  
+	    New File  		   1.5 m	IMG_0693.JPG  0%  100%  
+	    New File  		   1.4 m	IMG_0694.JPG  0%  100%  
+	    New File  		   1.5 m	IMG_0695.JPG  0%  100%  
+	    New File  		   1.6 m	IMG_0696.JPG  0%  100%  
+	    New File  		   1.7 m	IMG_0697.JPG  0%  100%  
+	    New File  		   2.8 m	IMG_0699.JPG  0%  100%  
+	    New File  		   3.1 m	IMG_0700.JPG  0%  100%  
+	    New File  		   1.9 m	IMG_0704.JPG  0%  100%  
+	    New File  		   24576	Thumbs.db  0%  100%  100%  
+	  New Dir         11	\\shintnpscfs116\T$\Users7\S0063327\HF036\
+	    New File  		   12396	HF036 Email.docx  0%  100%  
+	    New File  		   1.0 m	HF036 hanging velocity controller.xps  0%  100%  
+	    New File  		   1.4 m	HF036 Supply air damper position.xps  0%  100%  
+	    New File  		   12185	HFO36 Email.docx  0%  100%  
+	    New File  		   2.0 m	IMG_0708.JPG  0%  100%  
+	    New File  		   1.5 m	IMG_0710.JPG  0%  100%  
+	    New File  		   1.7 m	IMG_0711.JPG  0%  100%  
+	    New File  		   1.4 m	IMG_0712.JPG  0%  100%  
+	    New File  		   1.8 m	IMG_0714.JPG  0%  100%  
+	    New File  		   2.0 m	IMG_0715.JPG  0%  100%  
+	    New File  		   1.8 m	IMG_0717.JPG  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\Inventor Server SDK ACAD 2014\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\Inventor Server SDK ACAD 2014\Content Center Files\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\Inventor Server SDK ACAD 2014\Content Center Files\R2014\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\iPod\
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063327\Main Kitchen\
+	    New File  		   12027	Email main kitchen cooler 4.docx  0%  100%  
+	    New File  		   3.0 m	IMG_0719.JPG  0%  100%  
+	    New File  		   13312	Thumbs.db  0%  100%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\Migrated_LAP05382\
+	  New Dir         26	\\shintnpscfs116\T$\Users7\S0063327\Migrated_LAP05382\xp_Desktop\
+	    New File  		  188668	20130419 Facilities Standard Questionnaire.docx  0%  100%  
+	    New File  		  304769	2014 0326 Byer Eye Surgery Center Generator Alarm.docx  0%  100%  
+	    New File  		   94760	A3 Emergency Binder.pptx  0%  100%  
+	    New File  		   77312	Copy of Able 092010 to 03132014 (2).xls  0%  100%  
+	    New File  		   13249	Copy of MJ Mechanical Service Location  Rates_FY12.xlsx  0%  100%  
+	    New File  		   2.5 m	E Binder Hoover Pav.pptx  0%  100%  
+	    New File  		   1.2 m	E Binder PATC 1820.pptx  0%  100%  
+	    New File  		   1.2 m	E Binder PATC 1830.pptx  0%  100%  
+	    New File  		 1009956	E-Binder PATC 1840.pptx  0%  100%  
+	    New File  		   13960	Emergency Binder Site Information Check List.docx  0%  100%  
+	    New File  		   10883	Gen Log.xlsx  0%  100%  
+	    New File  		   17910	Hunter_Allen_Bergner_Resume_1_14.docx  0%  100%  
+	    New File  		   1.0 m	HVAC List Property Services.pdf  0%  100%  
+	    New File  		   18655	LL FLS Letter.docx  0%  100%  
+	    New File  		  527343	Managing to Learn.pptx Pam, Colton, and Joel.pptx  0%  100%  
+	    New File  		  15.1 m	Planbook2012.pdf  0.0%100%  
+	    New File  		   19428	PS Incident Report.docx  0%  100%  
+	    New File  		   9.2 m	RSASecurIDToken411.zip  0.0%100%  
+	    New File  		   13712	Running To Do List!!.docx  0%  100%  
+	    New File  		    1481	s0063327.zip  0%  100%  
+	    New File  		     542	Shortcut to Monthly PS ENG MTG Doc.docx.lnk  0%  100%  
+	    New File  		   41984	Stacy_40th_Celebration_Invitee_List.xls  0%  100%  
+	    New File  		   16254	Stacy_40th_Celebration_Invitee_List.xlsx  0%  100%  
+	    New File  		  181648	Stanford SPF_021214.pdf  0%  100%  
+	    New File  		   51712	T2014.050.PD+C Project Update.2013.12.11.xls  0%  100%  
+	    New File  		   67072	TestsInspectionTable SHC Property Mgt.doc  0%  100%  
+	  New Dir         13	\\shintnpscfs116\T$\Users7\S0063327\Migrated_LAP05382\xp_Desktop\Agendas\
+	    New File  		   58880	Agenda 1 on 1 Tony.doc  0%  100%  
+	    New File  		   61440	Agenda LL-FLS Audits.doc  0%  100%  
+	    New File  		   4.7 m	AGENDA_2013.03.12_E&M_Monthly.ppt  0%  100%  
+	    New File  		   50688	Chief Agenda.doc  0%  100%  
+	    New File  		   2.5 m	December PS EM Mon Mtg Agenda.pptx  0%  100%  
+	    New File  		  873670	Feb PS EM Mon Mtg Agenda.pptx  0%  100%  
+	    New File  		   32256	Joel Intro.doc  0%  100%  
+	    New File  		  123320	March PS EM Mon Mtg Agenda.pptx  0%  100%  
+	    New File  		   58368	Martha 1 on 1.doc  0%  100%  
+	    New File  		   8.1 m	November PS E&M Mon Mtg Agenda.pptx  0.0%100%  
+	    New File  		   17920	Thumbs.db  0%  100%  100%  
+	    New File  		   56320	TJC letter to Landlords.doc  0%  100%  
+	    New File  		   63488	Weekly Eng Meeting August 5th 09.doc  0%  100%  
+	  New Dir         12	\\shintnpscfs116\T$\Users7\S0063327\Migrated_LAP05382\xp_Desktop\Capital Projects\
+	    New File  		   1.6 m	2452 Watson Court boiler replacement.pptx  0%  100%  
+	    New File  		   1.8 m	3375 Hillview boiler replacement.pptx  0%  100%  
+	    New File  		   2.2 m	3375 Hillview Harmonic Filter Installation Project.pptx  0%  100%  
+	    New File  		   1.8 m	3375 Hillview Main Gas Line Valve Safety.pptx  0%  100%  
+	    New File  		   2.1 m	3375 Hillview Med Gas Manifold Replacement Project.pptx  0%  100%  
+	    New File  		   1.0 m	730 Welch Heating Boiler Replacment Slides.pptx  0%  100%  
+	    New File  		  450153	Capital Request Form  Hillview Main Gas Line.pptx  0%  100%  
+	    New File  		  450711	Hillview capital request Harmonic Filter.pptx  0%  100%  
+	    New File  		  449501	Hillview FY15 capital request Boiler Replacement.pptx  0%  100%  
+	    New File  		  450959	Hillview FY15 capital request Med Gas Manifolds.pptx  0%  100%  
+	    New File  		   41472	Thumbs.db  0%  100%  100%  
+	    New File  		  450894	Watson FY15 capital request Boiler Replacement.pptx  0%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0063327\Migrated_LAP05382\xp_Desktop\Forms\
+	    New File  		   24576	BMS LOG.xls  0%  100%  
+	    New File  		   12636	Copy of OSC Task and Generator LIght Test Log.xlsx  0%  100%  
+	    New File  		   20273	Do Not Flush Signs.docx  0%  100%  
+	    New File  		   11528	ESC Task and Generator LIght Test Log.xlsx  0%  100%  
+	    New File  		   29056	Fire Watch Request Form.docx  0%  100%  
+	    New File  		   35970	Generator Test Log_Byers.docx  0%  100%  
+	    New File  		   10800	HPS Gen Log.xlsx  0%  100%  
+	    New File  		   37376	LPCH Spine and Cover.doc  0%  100%  
+	    New File  		   12616	Off Site Generator Specs.xlsx  0%  100%  
+	    New File  		  220672	OPC FLS.xls  0%  100%  
+	    New File  		    1054	Shortcut to 2_20_OxygenSysFail.doc.lnk  0%  100%  
+	    New File  		     743	Shortcut to Cover.doc (2).zip  0%  100%  
+	    New File  		    1005	Shortcut to Cover.doc.lnk  0%  100%  
+	    New File  		    1005	Shortcut to Spine.doc.lnk  0%  100%  
+	    New File  		  408983	Tier 2 Huddle Template.docx  0%  100%  
+	    New File  		   35328	Utility shutdown request (version 1).xls  0%  100%  
+	    New File  		   12210	Vision Center Fire Doors.xlsx  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\Migrated_LAP05382\xp_Desktop\Hoover 4th Floor Permit Set - Copy\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\Migrated_LAP05382\xp_Desktop\Hoover 4th Floor Permit Set - Copy\Mazzetti\
+	    New File  		   5.7 m	Mazzetti Permit Set.pdf  0.0%100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\Migrated_LAP05382\xp_Desktop\Hoover 4th Floor Permit Set - Copy\Propp & Guerin\
+	    New File  		   1.3 m	G0.1.pdf  0%  100%  
+	    New File  		   88139	G0.2.pdf  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\Migrated_LAP05382\xp_Desktop\Hoover 4th Floor Permit Set - Copy\Structural Calcs - Degenkolb\
+	    New File  		   1.0 m	120926-Calcs.pdf  0%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0063327\Migrated_LAP05382\xp_Desktop\Joel's Personal File\
+	    New File  		   28474	AIP Leadership FY14 McKinney.xlsx  0%  100%  
+	    New File  		   28671	Copy of AIP Leadership FY14 Joel McKinney.xlsx  0%  100%  
+	    New File  		   22748	Copy of McKinney_AIP Leadership Template FY13 080312_Results.xlsx  0%  100%  
+	    New File  		   15692	Joel's Work Load.docx  0%  100%  
+	    New File  		  533774	S1.1.pdf  0%  100%  
+	    New File  		  213679	S2.1.pdf  0%  100%  
+	    New File  		  255308	S2.2.pdf  0%  100%  
+	    New File  		  289134	S3.1.pdf  0%  100%  
+	    New File  		  212513	S3.2.pdf  0%  100%  
+	    New File  		    1656	Shortcut to AIP Leadership FY14 McKinney.xlsx.lnk  0%  100%  
+	  New Dir         23	\\shintnpscfs116\T$\Users7\S0063327\Migrated_LAP05382\xp_Desktop\PS E&M\
+	    New File  		    9817	ABLE FY14 Wages.xlsx  0%  100%  
+	    New File  		   11641	Copy of FY 14 Engineering Vehicles.xlsx  0%  100%  
+	    New File  		   41984	Copy of UHA-PCHA PS EM Maintenance Staffing FY14 (2).xls  0%  100%  
+	    New File  		  622080	edited MASTER-Contact List.xls  0%  100%  
+	    New File  		   18286	EM New Hire Training Guide.docx  0%  100%  
+	    New File  		   86140	EM Proposed Structure-Org Chart SQ FT.pptx  0%  100%  
+	    New File  		   50688	Engineering Responsibilities.doc  0%  100%  
+	    New File  		  220672	Jeff C PE 2013.doc  0%  100%  
+	    New File  		   35840	Job Parts Purchase Order Form (3).doc  0%  100%  
+	    New File  		   67377	OT Form.docx  0%  100%  
+	    New File  		   36864	Parts Order Form.doc  0%  100%  
+	    New File  		   14881	Pre-Screen Questions.docx  0%  100%  
+	    New File  		   16431	Present vs Estimated V5.pdf  0%  100%  
+	    New File  		  247808	Procedure for Using Able Credit Card Revised 11-13.doc  0%  100%  
+	    New File  		   99272	Property Services E&M Org Chart.pptx  0%  100%  
+	    New File  		   17322	PS E&M FY13 Ops & Capital Items.docx  0%  100%  
+	    New File  		   25600	PS E&M Staff & Vehicle FY14.doc  0%  100%  
+	    New File  		   19921	PS EM FY14 Operating-Capital Items.docx  0%  100%  
+	    New File  		   12199	PS-ABLE BUDGET FY14.xlsx  0%  100%  
+	    New File  		   12738	Revised Able Budget FY12.xlsx  0%  100%  
+	    New File  		  220672	Scott Miles PE 2013.doc  0%  100%  
+	    New File  		  222720	Sean P. PE 2013.doc  0%  100%  
+	    New File  		     572	Shortcut to Job Parts Purchase Order Form (3).doc.lnk  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0063327\Migrated_LAP05382\xp_Desktop\Rounds\
+	    New File  		   29696	451 Sherman Rounds.xls  0%  100%  
+	    New File  		   39424	730 Rounds.xls  0%  100%  
+	    New File  		   33280	A ROUNDS.xls  0%  100%  
+	    New File  		   12140	Byers Matrix.xlsx  0%  100%  
+	    New File  		   31744	ROUNDS B.xls  0%  100%  
+	    New File  		   31232	ROUNDS C.xls  0%  100%  
+	    New File  		   28672	ROUNDS D.xls  0%  100%  
+	    New File  		     530	Shortcut to Copy of HILLVIEW RR.xls.lnk  0%  100%  
+	    New File  		   39424	WATSON ROUNDS.xls  0%  100%  
+	  New Dir         31	\\shintnpscfs116\T$\Users7\S0063327\Migrated_LAP05382\xp_Desktop\SHC E&M\
+	    New File  		   4.7 m	AGENDA April SHC E&M Monthly.ppt  0%  100%  
+	    New File  		  10.9 m	AGENDA_2013.10.09_EM_Monthly.ppt  0.0%100%  
+	    New File  		   17128	Assistant Chief Engineers and Shops.docx  0%  100%  
+	    New File  		  14.2 m	BMS - JCI_Full proposal.pdf  0.0%100%  
+	    New File  		   1.3 m	Breaker replacement storyline 6.28.13.pptx  0%  100%  
+	    New File  		   31744	Building Management System 2013 06 25 (3).doc  0%  100%  
+	    New File  		   21287	Copy of Air Quality Monitoring Task Force_Meeting 1_2013 8 7.xlsx  0%  100%  
+	    New File  		   18125	Copy of All PFIs 080613.xlsx  0%  100%  
+	    New File  		   41815	Copy of EOY Ops Project v7 5-6-13 Final (3) Submitted to Finance.xlsx  0%  100%  
+	    New File  		   12804	Copy of Hector Operations - Daily.xlsx  0%  100%  
+	    New File  		   12946	Copy of Operations - Daily.xlsx  0%  100%  
+	    New File  		   19134	Copy of Public Restroom Project Plan.xlsx  0%  100%  
+	    New File  		  246902	D&T Air Handler Diagram.pptx  0%  100%  
+	    New File  		  637998	Domestic Water Pumps.pptx  0%  100%  
+	    New File  		 1006170	Electrical Upgrades - Hospital wide.pptx  0%  100%  
+	    New File  		   20689	EM Gemba 0802.docx  0%  100%  
+	    New File  		   13533	Hector Thierry.docx  0%  100%  
+	    New File  		   15078	INTERIM HVAC ACE.docx  0%  100%  
+	    New File  		   67611	Interstitial Spaces.pptx  0%  100%  
+	    New File  		  16.0 m	JCAHO REVISION 2013-03-291.pdf  0.0% 99.8%100%  
+	    New File  		   29105	LPCH Improvement Letter Template.docx  0%  100%  
+	    New File  		  781015	Medical Air Comp.pptx  0%  100%  
+	    New File  		  742146	Medical Vac Unit.pptx  0%  100%  
+	    New File  		  158694	ORG-CHART_EM_2013-08-27.docx  0%  100%  
+	    New File  		  960559	Pneumatic Tube System.pptx  0%  100%  
+	    New File  		   14431	Project Status Report_EM (7) (2).XLSX  0%  100%  
+	    New File  		   31372	Retrofit Pneumatics points.docx  0%  100%  
+	    New File  		   18478	SHC E&M Training.docx  0%  100%  
+	    New File  		   13473	SHC Engineer Info.docx  0%  100%  
+	    New File  		 1044227	SHC Map & Departments.png  0%  100%  
+	    New File  		   25907	WCHA Control retro.docx  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063327\Migrated_LAP05382\xp_Desktop\TJC\
+	    New File  		  142023	2010 TJC checklist .pdf  0%  100%  
+	    New File  		   67072	40-51_PR_ Temperature and Humidity Monitoring CBedits WIP.doc  0%  100%  
+	    New File  		   4.5 m	TJC 2009_CAMH_With_Update 2010.pdf  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063327\Migrated_LAP05382\xp_Desktop\Training\
+	    New File  		   25618	ACE- Overview.docx  0%  100%  
+	    New File  		   14919	Document1.docx  0%  100%  
+	    New File  		   16015	PS Able Admin_FINAL.docx  0%  100%  
+	  New Dir         11	\\shintnpscfs116\T$\Users7\S0063327\Modular MRI\
+	    New File  		  177189	1209_Palo-Alto_MR - Sheet - E110-4 - ELECTRICAL RISER DIAGRAM.pdf  0%  100%  
+	    New File  		  334376	1209_Palo-Alto_MR - Sheet - M100-4 - HVAC PLAN & SECTIONS.pdf  0%  100%  
+	    New File  		   51700	1209_Palo-Alto_MR - Sheet - M300-4 - HVAC SCHEDULES.pdf  0%  100%  
+	    New File  		  145877	Page M100-1 from MfgSet_SAM - 1.pdf  0%  100%  
+	    New File  		  177958	Page M100-2 from MfgSet- SAM - 2.pdf  0%  100%  
+	    New File  		  128358	Page M100-3 from MfgSet - SAM - 3.pdf  0%  100%  
+	    New File  		   47351	Page M300 from MfgSet - MR SUITE.pdf  0%  100%  
+	    New File  		   49031	Page-E110 from MfgSet - MR SUITE.pdf  0%  100%  
+	    New File  		  11.5 m	Stanford MRI_Fire Alarm Drawings_121912.pdf  0.0%100%  
+	    New File  		   9.0 m	Stanford MRI_PDC Drawings_121412.pdf  0.0%100%  
+	    New File  		  21.7 m	Stanford MRI_Permit Set_112812.pdf  0.0% 73.6%100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\My Data Sources\
+	    New File  		     190	+Connect to New Data Source.odc  0%  100%  
+	    New File  		     196	+NewSQLServerConnection.odc  0%  100%  
+	    New File  		      70	DESKTOP.INI  0%  100%  
+	    New File  		    4710	FOLDER.ICO  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\My Google Gadgets\
+	    New File  		   11399	Analog Clock-Google.gg  0%  100%  
+	    New File  		  117359	Weather-Google Inc..gg  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063327\My Music\
+	    New File  		     652	Desktop.ini  0%  100%  
+	    New File  		     761	Sample Music (S0063327 v1).lnk  0%  100%  
+	    New File  		     644	Sample Music.lnk  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\My Music\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\My Music\iPod\
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063327\My Music\iTunes\
+	    New File  		   16384	iTunes Library Extras.itdb  0%  100%  
+	    New File  		   32768	iTunes Library Genius.itdb  0%  100%  
+	    New File  		    4162	iTunes Library.itl  0%  100%  
+	    New File  		   12635	iTunes Music Library.xml  0%  100%  
+	    New File  		       8	sentinel  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\My Music\iTunes\Album Artwork\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\My Music\iTunes\Album Artwork\Cache\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\My Music\iTunes\Album Artwork\Download\
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\My Music\iTunes\iTunes Media\
+	    New File  		     305	.iTunes Preferences.plist  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\My Music\iTunes\iTunes Media\Automatically Add to iTunes\
+	  New Dir         21	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\
+	    New File  		     658	Desktop.ini  0%  100%  
+	    New File  		   4.3 m	DSC00183.JPG  0%  100%  
+	    New File  		   4.3 m	DSC00184.JPG  0%  100%  
+	    New File  		   2.0 m	IMG_0813.JPG  0%  100%  
+	    New File  		   4.5 m	IMG_0814.JPG  0%  100%  
+	    New File  		   3.3 m	IMG_0815.JPG  0%  100%  
+	    New File  		   1.4 m	IMG_0816.JPG  0%  100%  
+	    New File  		   1.6 m	IMG_0817.JPG  0%  100%  
+	    New File  		   2.3 m	IMG_0818.JPG  0%  100%  
+	    New File  		   2.0 m	IMG_0819.JPG  0%  100%  
+	    New File  		   2.0 m	IMG_0820.JPG  0%  100%  
+	    New File  		   1.7 m	IMG_0821.JPG  0%  100%  
+	    New File  		   1.7 m	IMG_0821-2014-08-30T081257.JPG  0%  100%  
+	    New File  		   3.4 m	IMG_0822.JPG  0%  100%  
+	    New File  		   2.3 m	IMG_0824.JPG  0%  100%  
+	    New File  		  865782	ip address.bmp  0%  100%  
+	    New File  		   14873	ry=315.jpg  0%  100%  
+	    New File  		     807	Sample Pictures (S0063327 v1).lnk  0%  100%  
+	    New File  		     674	Sample Pictures.lnk  0%  100%  
+	    New File  		   60245	Stratoliner.JPG  0%  100%  
+	    New File  		  287744	Thumbs.db  0%  100%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\$RECYCLE.BIN\
+	    New File  		     544	$IF6BLY3-2014-08-30T081258.JPG  0%  100%  
+	    New File  		     129	desktop.ini  0%  100%  
+	    New File  		     129	desktop-2014-08-30T081258.ini  0%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\100 Amp Batteries Pavilion B\
+	    New File  		  198721	100 Amp Batteries Pavilion B 001.jpg  0%  100%  
+	    New File  		  434324	100 Amp Batteries Pavilion B 002.jpg  0%  100%  
+	    New File  		  147304	730 Welch_Main Gas Shut Off.JPG  0%  100%  
+	    New File  		   75776	Thumbs.db  0%  100%  100%  
+	    New File  		  454433	Watson Boiler.JPG  0%  100%  
+	  New Dir         15	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\145 Water Hammer\
+	    New File  		   1.2 m	145 Water Hammer 001.jpg  0%  100%  
+	    New File  		   1.2 m	145 Water Hammer 002.jpg  0%  100%  
+	    New File  		   1.1 m	145 Water Hammer 003.jpg  0%  100%  
+	    New File  		   1.1 m	145 Water Hammer 004.jpg  0%  100%  
+	    New File  		   1.1 m	145 Water Hammer 005.jpg  0%  100%  
+	    New File  		   1.3 m	145 Water Hammer 006.jpg  0%  100%  
+	    New File  		   1.1 m	145 Water Hammer 007.jpg  0%  100%  
+	    New File  		   1.1 m	145 Water Hammer 008.jpg  0%  100%  
+	    New File  		   1.6 m	145 Water Hammer 009.jpg  0%  100%  
+	    New File  		   1.2 m	145 Water Hammer 010.jpg  0%  100%  
+	    New File  		   1.2 m	145 Water Hammer 011.jpg  0%  100%  
+	    New File  		   1.2 m	145 Water Hammer 012.jpg  0%  100%  
+	    New File  		   1.3 m	145 Water Hammer 013.jpg  0%  100%  
+	    New File  		   1.1 m	145 Water Hammer 014.jpg  0%  100%  
+	    New File  		   30720	Thumbs.db  0%  100%  100%  
+	  New Dir         18	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\700 Welch UPS\
+	    New File  		   2.3 m	700 Welch UPS 001.jpg  0%  100%  
+	    New File  		   1.6 m	700 Welch UPS 002.jpg  0%  100%  
+	    New File  		   1.8 m	700 Welch UPS 003.jpg  0%  100%  
+	    New File  		   1.9 m	700 Welch UPS 004.jpg  0%  100%  
+	    New File  		   2.3 m	700 Welch UPS 005.jpg  0%  100%  
+	    New File  		   2.4 m	700 Welch UPS 006.jpg  0%  100%  
+	    New File  		       6	ATT00001.txt  0%  100%  
+	    New File  		       6	ATT00002.txt  0%  100%  
+	    New File  		       6	ATT00003.txt  0%  100%  
+	    New File  		       6	ATT00004.txt  0%  100%  
+	    New File  		  188901	photo 1.JPG  0%  100%  
+	    New File  		  188901	photo 1-2014-08-30T081259.JPG  0%  100%  
+	    New File  		  172986	photo 2.JPG  0%  100%  
+	    New File  		  172986	photo 2-2014-08-30T081259.JPG  0%  100%  
+	    New File  		  109691	photo 3.JPG  0%  100%  
+	    New File  		  108470	photo 4.JPG  0%  100%  
+	    New File  		   97866	photo 5.JPG  0%  100%  
+	    New File  		   97280	Thumbs.db  0%  100%  100%  
+	  New Dir         13	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\B-2 Control Rm\
+	    New File  		   1.1 m	B-2 Control Rm 001.jpg  0%  100%  
+	    New File  		   1.1 m	B-2 Control Rm 002.jpg  0%  100%  
+	    New File  		   1.2 m	B-2 Control Rm 003.jpg  0%  100%  
+	    New File  		   1.2 m	B-2 Control Rm 004.jpg  0%  100%  
+	    New File  		   1.1 m	B-2 Control Rm 005.jpg  0%  100%  
+	    New File  		   1.3 m	B-2 Control Rm 006.jpg  0%  100%  
+	    New File  		   1.1 m	B-2 Control Rm 007.jpg  0%  100%  
+	    New File  		   1.2 m	B-2 Control Rm 008.jpg  0%  100%  
+	    New File  		  977353	B-2 Control Rm 009.jpg  0%  100%  
+	    New File  		   1.4 m	B-2 Control Rm 010.jpg  0%  100%  
+	    New File  		   1.2 m	B-2 Control Rm 011.jpg  0%  100%  
+	    New File  		   1.3 m	OPC Elev. Brake Swithc.jpg  0%  100%  
+	    New File  		   40960	Thumbs.db  0%  100%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\B3 Bridge Door Damage May 12th\
+	    New File  		   1.4 m	B3 Bridge Door Damage May 12th 001.jpg  0%  100%  
+	    New File  		   1.0 m	B3 Bridge Door Damage May 12th 002.jpg  0%  100%  
+	    New File  		   1.4 m	B3 Bridge Door Damage May 12th 003.jpg  0%  100%  
+	    New File  		   22528	Thumbs.db  0%  100%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Beacon Medeas\
+	    New File  		  328321	Beacon Medaes 001.jpg  0%  100%  
+	    New File  		  426959	Beacon Medaes 002.jpg  0%  100%  
+	    New File  		  310642	Beacon Medaes 003.jpg  0%  100%  
+	    New File  		  567172	Beacon Medaes 004.jpg  0%  100%  
+	    New File  		   28160	Thumbs.db  0%  100%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Building B North East Roof Hatch\
+	    New File  		   1.2 m	Building B North East Roof Hatch 001.jpg  0%  100%  
+	    New File  		   1.3 m	Building B North East Roof Hatch 002.jpg  0%  100%  
+	    New File  		   1.3 m	Building B North East Roof Hatch 003.jpg  0%  100%  
+	    New File  		   28160	Thumbs.db  0%  100%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\C338 Leak\
+	    New File  		   1.7 m	C338 Leak.jpg  0%  100%  
+	    New File  		   1.8 m	HB338 Leak 001.jpg  0%  100%  
+	    New File  		   1.6 m	HB338 Leak 002.jpg  0%  100%  
+	    New File  		   1.6 m	HB338 Leak 003.jpg  0%  100%  
+	    New File  		   30208	Thumbs.db  0%  100%  100%  
+	  New Dir        132	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Camus Boiler Annual\
+	    New File  		   1.4 m	Camus Boiler Annual 001.jpg  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 002.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 003.jpg  0%  100%  
+	    New File  		   1.6 m	Camus Boiler Annual 004.jpg  0%  100%  
+	    New File  		  12.8 m	Camus Boiler Annual 005.avi  0.0%100%  
+	    New File  		   1.4 m	Camus Boiler Annual 006.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 007.jpg  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 008.jpg  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 009.jpg  0%  100%  
+	    New File  		   1.5 m	Camus Boiler Annual 010.jpg  0%  100%  
+	    New File  		   1.5 m	Camus Boiler Annual 011.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 012.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 013.jpg  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 014.jpg  0%  100%  
+	    New File  		   1.5 m	Camus Boiler Annual 015.jpg  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 016.jpg  0%  100%  
+	    New File  		  18.6 m	Camus Boiler Annual 017.avi  0.0% 85.6%100%  
+	    New File  		   1.6 m	Camus Boiler Annual 018.jpg  0%  100%  
+	    New File  		   1.6 m	Camus Boiler Annual 019.jpg  0%  100%  
+	    New File  		   1.6 m	Camus Boiler Annual 020.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 021.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 022.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 023.jpg  0%  100%  
+	    New File  		   1.5 m	Camus Boiler Annual 024.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 025.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 026.jpg  0%  100%  
+	    New File  		   1.0 m	Camus Boiler Annual 027.jpg  0%  100%  
+	    New File  		   1.1 m	Camus Boiler Annual 028.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 029.jpg  0%  100%  
+	    New File  		   1.1 m	Camus Boiler Annual 030.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 031.jpg  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 032.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 033.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 034.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 035.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 036.jpg  0%  100%  
+	    New File  		   1.1 m	Camus Boiler Annual 037.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 038.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 039.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 040.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 041.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 042.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 043.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 044.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 045.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 046.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 047.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 048.jpg  0%  100%  
+	    New File  		   1.1 m	Camus Boiler Annual 049.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 050.jpg  0%  100%  
+	    New File  		   1.1 m	Camus Boiler Annual 051.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 052.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 053.jpg  0%  100%  
+	    New File  		   1.0 m	Camus Boiler Annual 054.jpg  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 055.jpg  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 056.jpg  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 057.jpg  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 058.jpg  0%  100%  
+	    New File  		   1.5 m	Camus Boiler Annual 059.jpg  0%  100%  
+	    New File  		   1.5 m	Camus Boiler Annual 060.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 061.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 062.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 063.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 064.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 065.jpg  0%  100%  
+	    New File  		  16.8 m	Camus Boiler Annual 066.avi  0.0% 95.0%100%  
+	    New File  		   1.2 m	Camus Boiler Annual 067.jpg  0%  100%  
+	    New File  		   1.1 m	Camus Boiler Annual 068.jpg  0%  100%  
+	    New File  		   1.1 m	Camus Boiler Annual 069.jpg  0%  100%  
+	    New File  		   1.5 m	Camus Boiler Annual 070.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 071.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 072.jpg  0%  100%  
+	    New File  		   5.7 m	Camus Boiler Annual 073.avi  0.0%100%  
+	    New File  		   1.4 m	Camus Boiler Annual 074.jpg  0%  100%  
+	    New File  		   2.0 m	Camus Boiler Annual 075.avi  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 076.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 077.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 078.jpg  0%  100%  
+	    New File  		   1.1 m	Camus Boiler Annual 079.jpg  0%  100%  
+	    New File  		   1.5 m	Camus Boiler Annual 080.jpg  0%  100%  
+	    New File  		   1.5 m	Camus Boiler Annual 081.jpg  0%  100%  
+	    New File  		   1.5 m	Camus Boiler Annual 082.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 083.jpg  0%  100%  
+	    New File  		   1.1 m	Camus Boiler Annual 084.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 085.jpg  0%  100%  
+	    New File  		   1.5 m	Camus Boiler Annual 086.jpg  0%  100%  
+	    New File  		   1.5 m	Camus Boiler Annual 087.jpg  0%  100%  
+	    New File  		   1.6 m	Camus Boiler Annual 088.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 089.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 090.jpg  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 091.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 092.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 093.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 094.jpg  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 095.jpg  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 096.jpg  0%  100%  
+	    New File  		   1.6 m	Camus Boiler Annual 097.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 098.jpg  0%  100%  
+	    New File  		   1.5 m	Camus Boiler Annual 099.jpg  0%  100%  
+	    New File  		   1.5 m	Camus Boiler Annual 100.jpg  0%  100%  
+	    New File  		   1.5 m	Camus Boiler Annual 101.jpg  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 102.jpg  0%  100%  
+	    New File  		   1.5 m	Camus Boiler Annual 103.jpg  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 104.jpg  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 105.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 106.jpg  0%  100%  
+	    New File  		   1.5 m	Camus Boiler Annual 107.jpg  0%  100%  
+	    New File  		   1.0 m	Camus Boiler Annual 108.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 109.jpg  0%  100%  
+	    New File  		   1.1 m	Camus Boiler Annual 110.jpg  0%  100%  
+	    New File  		   1.1 m	Camus Boiler Annual 111.jpg  0%  100%  
+	    New File  		   1.1 m	Camus Boiler Annual 112.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 113.jpg  0%  100%  
+	    New File  		   1.1 m	Camus Boiler Annual 114.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 115.jpg  0%  100%  
+	    New File  		   1.0 m	Camus Boiler Annual 116.jpg  0%  100%  
+	    New File  		   1.1 m	Camus Boiler Annual 117.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 118.jpg  0%  100%  
+	    New File  		   1.0 m	Camus Boiler Annual 119.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 120.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 121.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 122.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 123.jpg  0%  100%  
+	    New File  		   1.1 m	Camus Boiler Annual 124.jpg  0%  100%  
+	    New File  		   1.1 m	Camus Boiler Annual 125.jpg  0%  100%  
+	    New File  		   1.1 m	Camus Boiler Annual 126.jpg  0%  100%  
+	    New File  		   1.3 m	Camus Boiler Annual 127.jpg  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 128.jpg  0%  100%  
+	    New File  		   1.2 m	Camus Boiler Annual 129.jpg  0%  100%  
+	    New File  		   1.6 m	Camus Boiler Annual 130.jpg  0%  100%  
+	    New File  		   1.4 m	Camus Boiler Annual 131.jpg  0%  100%  
+	    New File  		   20992	Thumbs.db  0%  100%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Capital\
+	    New File  		   1.5 m	Capital.jpg  0%  100%  
+	    New File  		   15872	Thumbs.db  0%  100%  100%  
+	  New Dir         12	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Carrier Chiller\
+	    New File  		   1.0 m	Carrier Chiller.jpg  0%  100%  
+	    New File  		   1.2 m	CH 1.JPG  0%  100%  
+	    New File  		   1.0 m	CH 2.JPG  0%  100%  
+	    New File  		   1.0 m	CH 2-2014-08-30T082051.JPG  0%  100%  
+	    New File  		   1.3 m	CH 3.JPG  0%  100%  
+	    New File  		   1.0 m	CH 4.JPG  0%  100%  
+	    New File  		   1.0 m	CH 5.JPG  0%  100%  
+	    New File  		   1.2 m	photo 1.JPG  0%  100%  
+	    New File  		   1.2 m	photo 2.JPG  0%  100%  
+	    New File  		   1.1 m	photo 3.JPG  0%  100%  
+	    New File  		   1.0 m	photo 4.JPG  0%  100%  
+	    New File  		  109056	Thumbs.db  0%  100%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Cath Angio Leak\
+	    New File  		   2.1 m	Cath Angio Leak 001.jpg  0%  100%  
+	    New File  		   2.5 m	Cath Angio Leak 002.jpg  0%  100%  
+	    New File  		   1.8 m	Cath Angio Leak 003.jpg  0%  100%  
+	    New File  		   1.3 m	Cath Angio Leak 004.jpg  0%  100%  
+	    New File  		   1.3 m	Cath Angio Leak 004-2014-08-30T082035.jpg  0%  100%  
+	    New File  		   2.0 m	Cath Angio Leak 005.jpg  0%  100%  
+	    New File  		   43008	Thumbs.db  0%  100%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\CAV-Valve Labeling\
+	    New File  		  943249	CAV-Valve Labeling 001.jpg  0%  100%  
+	    New File  		   1.4 m	CAV-Valve Labeling 002.jpg  0%  100%  
+	    New File  		   16896	Thumbs.db  0%  100%  100%  
+	  New Dir         20	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\CC Leak\
+	    New File  		   1.7 m	CC Leak 001.jpg  0%  100%  
+	    New File  		   1.5 m	CC Leak 002.jpg  0%  100%  
+	    New File  		   1.5 m	CC Leak 002-2014-08-30T081932.jpg  0%  100%  
+	    New File  		   1.5 m	CC Leak 003.jpg  0%  100%  
+	    New File  		   1.6 m	CC Leak 004.jpg  0%  100%  
+	    New File  		   1.7 m	CC Leak 005.jpg  0%  100%  
+	    New File  		   1.7 m	CC Leak 006.jpg  0%  100%  
+	    New File  		   1.9 m	CC Leak 007.jpg  0%  100%  
+	    New File  		   1.7 m	CC Leak 008.jpg  0%  100%  
+	    New File  		   1.5 m	CC Leak 009.jpg  0%  100%  
+	    New File  		   1.7 m	CC Leak 010.jpg  0%  100%  
+	    New File  		   1.7 m	CC Leak 010-2014-08-30T081932.jpg  0%  100%  
+	    New File  		   1.7 m	CC Leak 011.jpg  0%  100%  
+	    New File  		   1.5 m	CC Leak 012.jpg  0%  100%  
+	    New File  		   1.9 m	CC Leak 013.jpg  0%  100%  
+	    New File  		   2.1 m	CC Leak 014.jpg  0%  100%  
+	    New File  		   2.4 m	CC Leak 015.jpg  0%  100%  
+	    New File  		   1.9 m	CC Leak 016.jpg  0%  100%  
+	    New File  		   1.9 m	CC Leak 016-2014-08-30T081932.jpg  0%  100%  
+	    New File  		   40960	Thumbs.db  0%  100%  100%  
+	  New Dir         11	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Climate Craft Exhast & Camus Boiler Flue Pipe\
+	    New File  		   1.1 m	Climate Craft Exhast & Camus Boiler Flue Pipe 001.jpg  0%  100%  
+	    New File  		   1.2 m	Climate Craft Exhast & Camus Boiler Flue Pipe 002.jpg  0%  100%  
+	    New File  		   1.2 m	Climate Craft Exhast & Camus Boiler Flue Pipe 003.jpg  0%  100%  
+	    New File  		   1.1 m	Climate Craft Exhast & Camus Boiler Flue Pipe 004.jpg  0%  100%  
+	    New File  		   1.2 m	Climate Craft Exhast & Camus Boiler Flue Pipe 005.jpg  0%  100%  
+	    New File  		   1.2 m	Climate Craft Exhast & Camus Boiler Flue Pipe 006.jpg  0%  100%  
+	    New File  		   1.2 m	Climate Craft Exhast & Camus Boiler Flue Pipe 007.jpg  0%  100%  
+	    New File  		   1.4 m	Climate Craft Exhast & Camus Boiler Flue Pipe 008.jpg  0%  100%  
+	    New File  		   1.1 m	Climate Craft Exhast & Camus Boiler Flue Pipe 009.jpg  0%  100%  
+	    New File  		   1.0 m	Climate Craft Exhast & Camus Boiler Flue Pipe 010.jpg  0%  100%  
+	    New File  		   30208	Thumbs.db  0%  100%  100%  
+	  New Dir         58	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\COOLING TOWER & TEAM PHOTOS\
+	    New File  		   1.4 m	COOLING TOWER & TEAM PHOTOS 001.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWER & TEAM PHOTOS 002.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWER & TEAM PHOTOS 003.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWER & TEAM PHOTOS 004.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWER & TEAM PHOTOS 005.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWER & TEAM PHOTOS 006.jpg  0%  100%  
+	    New File  		   1.1 m	COOLING TOWER & TEAM PHOTOS 007.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWER & TEAM PHOTOS 008.jpg  0%  100%  
+	    New File  		   1.5 m	COOLING TOWER & TEAM PHOTOS 009.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWER & TEAM PHOTOS 010.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWER & TEAM PHOTOS 011.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWER & TEAM PHOTOS 012.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWER & TEAM PHOTOS 013.jpg  0%  100%  
+	    New File  		   1.5 m	COOLING TOWER & TEAM PHOTOS 014.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWER & TEAM PHOTOS 015.jpg  0%  100%  
+	    New File  		   1.1 m	COOLING TOWER & TEAM PHOTOS 016.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWER & TEAM PHOTOS 017.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWER & TEAM PHOTOS 018.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWER & TEAM PHOTOS 019.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWER & TEAM PHOTOS 020.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWER & TEAM PHOTOS 021.jpg  0%  100%  
+	    New File  		   1.5 m	COOLING TOWER & TEAM PHOTOS 022.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWER & TEAM PHOTOS 023.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWER & TEAM PHOTOS 024.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWER & TEAM PHOTOS 025.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWER & TEAM PHOTOS 026.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWER & TEAM PHOTOS 027.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWER & TEAM PHOTOS 028.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWER & TEAM PHOTOS 029.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWER & TEAM PHOTOS 030.jpg  0%  100%  
+	    New File  		   1.5 m	COOLING TOWER & TEAM PHOTOS 031.jpg  0%  100%  
+	    New File  		   1.1 m	COOLING TOWER & TEAM PHOTOS 032.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWER & TEAM PHOTOS 033.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWER & TEAM PHOTOS 034.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWER & TEAM PHOTOS 035.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWER & TEAM PHOTOS 036.jpg  0%  100%  
+	    New File  		   1.1 m	COOLING TOWER & TEAM PHOTOS 037.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWER & TEAM PHOTOS 038.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWER & TEAM PHOTOS 039.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWER & TEAM PHOTOS 040.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWER & TEAM PHOTOS 041.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWER & TEAM PHOTOS 042.jpg  0%  100%  
+	    New File  		   1.1 m	COOLING TOWER & TEAM PHOTOS 043.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWER & TEAM PHOTOS 044.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWER & TEAM PHOTOS 045.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWER & TEAM PHOTOS 046.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWER & TEAM PHOTOS 047.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWER & TEAM PHOTOS 048.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWER & TEAM PHOTOS 049.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWER & TEAM PHOTOS 050.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWER & TEAM PHOTOS 051.jpg  0%  100%  
+	    New File  		   1.5 m	COOLING TOWER & TEAM PHOTOS 052.jpg  0%  100%  
+	    New File  		   1.5 m	COOLING TOWER & TEAM PHOTOS 053.jpg  0%  100%  
+	    New File  		   1.5 m	COOLING TOWER & TEAM PHOTOS 054.jpg  0%  100%  
+	    New File  		   1.1 m	COOLING TOWER & TEAM PHOTOS 055.jpg  0%  100%  
+	    New File  		   1.0 m	COOLING TOWER & TEAM PHOTOS 056.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWER & TEAM PHOTOS 057.jpg  0%  100%  
+	    New File  		   35840	Thumbs.db  0%  100%  100%  
+	  New Dir         28	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\COOLING TOWERS & COND. DRAINS\
+	    New File  		   1.2 m	COOLING TOWERS & COND. DRAINS 001.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWERS & COND. DRAINS 002.jpg  0%  100%  
+	    New File  		   1.5 m	COOLING TOWERS & COND. DRAINS 003.jpg  0%  100%  
+	    New File  		   1.1 m	COOLING TOWERS & COND. DRAINS 004.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWERS & COND. DRAINS 005.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWERS & COND. DRAINS 006.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWERS & COND. DRAINS 007.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWERS & COND. DRAINS 008.jpg  0%  100%  
+	    New File  		   1.1 m	COOLING TOWERS & COND. DRAINS 009.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWERS & COND. DRAINS 010.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWERS & COND. DRAINS 011.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWERS & COND. DRAINS 012.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWERS & COND. DRAINS 013.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWERS & COND. DRAINS 014.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWERS & COND. DRAINS 015.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWERS & COND. DRAINS 016.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWERS & COND. DRAINS 017.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWERS & COND. DRAINS 018.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWERS & COND. DRAINS 019.jpg  0%  100%  
+	    New File  		   1.1 m	COOLING TOWERS & COND. DRAINS 020.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWERS & COND. DRAINS 021.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWERS & COND. DRAINS 022.jpg  0%  100%  
+	    New File  		   1.2 m	COOLING TOWERS & COND. DRAINS 023.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWERS & COND. DRAINS 024.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWERS & COND. DRAINS 025.jpg  0%  100%  
+	    New File  		   1.4 m	COOLING TOWERS & COND. DRAINS 026.jpg  0%  100%  
+	    New File  		   1.3 m	COOLING TOWERS & COND. DRAINS 027.jpg  0%  100%  
+	    New File  		   33792	Thumbs.db  0%  100%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\CU1-PAV D\
+	    New File  		  297761	CU1-PAV D 001.jpg  0%  100%  
+	    New File  		  254606	CU1-PAV D 002.jpg  0%  100%  
+	    New File  		  318403	CU1-PAV D 003.jpg  0%  100%  
+	    New File  		  429816	CU1-PAV D 004.jpg  0%  100%  
+	    New File  		   27136	Thumbs.db  0%  100%  100%  
+	  New Dir         30	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\D&T\
+	    New File  		   2.1 m	D&T 001.jpg  0%  100%  
+	    New File  		   2.2 m	D&T 002.jpg  0%  100%  
+	    New File  		   1.8 m	D&T 003.jpg  0%  100%  
+	    New File  		   1.8 m	D&T 004.jpg  0%  100%  
+	    New File  		   1.8 m	D&T 005.jpg  0%  100%  
+	    New File  		   2.1 m	D&T 006.jpg  0%  100%  
+	    New File  		   2.1 m	D&T 007.jpg  0%  100%  
+	    New File  		   2.3 m	D&T 008.jpg  0%  100%  
+	    New File  		   2.4 m	D&T 009.jpg  0%  100%  
+	    New File  		   2.3 m	D&T 010.jpg  0%  100%  
+	    New File  		   2.1 m	D&T 011.jpg  0%  100%  
+	    New File  		   2.0 m	D&T 012.jpg  0%  100%  
+	    New File  		   2.4 m	D&T 013.jpg  0%  100%  
+	    New File  		   2.2 m	D&T 014.jpg  0%  100%  
+	    New File  		   1.9 m	D&T 015.jpg  0%  100%  
+	    New File  		   2.3 m	D&T 016.jpg  0%  100%  
+	    New File  		   1.9 m	D&T 017.jpg  0%  100%  
+	    New File  		   2.0 m	D&T 018.jpg  0%  100%  
+	    New File  		   2.1 m	D&T 019.jpg  0%  100%  
+	    New File  		   2.0 m	D&T 020.jpg  0%  100%  
+	    New File  		   1.5 m	D&T 021.jpg  0%  100%  
+	    New File  		   1.9 m	D&T 022.jpg  0%  100%  
+	    New File  		   1.9 m	D&T 023.jpg  0%  100%  
+	    New File  		   1.9 m	D&T 023-2014-08-30T081740.jpg  0%  100%  
+	    New File  		   2.0 m	D&T 024.jpg  0%  100%  
+	    New File  		   2.0 m	D&T 024-2014-08-30T081740.jpg  0%  100%  
+	    New File  		   2.3 m	D&T 025.jpg  0%  100%  
+	    New File  		   2.1 m	D&T 026.jpg  0%  100%  
+	    New File  		   2.0 m	D&T 027.jpg  0%  100%  
+	    New File  		   69120	Thumbs.db  0%  100%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Danfoss VFD Project\
+	    New File  		   38009	Danfoss VFD Project 001.jpg  0%  100%  
+	    New File  		  129457	Danfoss VFD Project 002.jpg  0%  100%  
+	    New File  		   44221	Danfoss VFD Project 003.jpg  0%  100%  
+	    New File  		   52573	Danfoss VFD Project 004.jpg  0%  100%  
+	    New File  		   56487	Danfoss VFD Project 005.jpg  0%  100%  
+	    New File  		   40120	Danfoss VFD Project 006.jpg  0%  100%  
+	    New File  		   26112	Thumbs.db  0%  100%  100%  
+	  New Dir         13	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\E Binder Hoover Pics\
+	    New File  		   4.2 m	E Binder Hoover Pics 001.jpg  0%  100%  
+	    New File  		   4.0 m	E Binder Hoover Pics 002.jpg  0%  100%  
+	    New File  		   3.0 m	E Binder Hoover Pics 003.jpg  0%  100%  
+	    New File  		   2.1 m	E Binder Hoover Pics 004.jpg  0%  100%  
+	    New File  		   3.2 m	E Binder Hoover Pics 005.jpg  0%  100%  
+	    New File  		   3.9 m	E Binder Hoover Pics 006.jpg  0%  100%  
+	    New File  		   4.6 m	E Binder Hoover Pics 007.jpg  0%  100%  
+	    New File  		   4.4 m	E Binder Hoover Pics 008.jpg  0%  100%  
+	    New File  		   4.4 m	E Binder Hoover Pics 008-2014-08-30T081642.jpg  0%  100%  
+	    New File  		   6.3 m	E Binder Hoover Pics 009.jpg  0.0%100%  
+	    New File  		   6.3 m	E Binder Hoover Pics 009-2014-08-30T081642.jpg  0.0%100%  
+	    New File  		   4.8 m	E Binder Hoover Pics 010.jpg  0%  100%  
+	    New File  		  140800	Thumbs.db  0%  100%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Expansion Panel Loose\
+	    New File  		   1.2 m	Expansion Panel Loose 001.jpg  0%  100%  
+	    New File  		   1.5 m	Expansion Panel Loose 002.jpg  0%  100%  
+	    New File  		   1.4 m	Expansion Panel Loose 003.jpg  0%  100%  
+	    New File  		   1.1 m	Expansion Panel Loose 004.jpg  0%  100%  
+	    New File  		   18432	Thumbs.db  0%  100%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Filtrine Chiller\
+	    New File  		   66783	Filtrine Chiller 001.jpg  0%  100%  
+	    New File  		   87133	Filtrine Chiller 002.jpg  0%  100%  
+	    New File  		   76643	Filtrine Chiller 003.jpg  0%  100%  
+	    New File  		   31260	Filtrine Chiller 004.jpg  0%  100%  
+	    New File  		   25600	Thumbs.db  0%  100%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Filtrine Chiller-MRI\
+	    New File  		   1.3 m	Filtrine Chiller-MRI 001.jpg  0%  100%  
+	    New File  		   1.5 m	Filtrine Chiller-MRI 002.jpg  0%  100%  
+	    New File  		   1.4 m	Filtrine Chiller-MRI 003.jpg  0%  100%  
+	    New File  		   29696	Thumbs.db  0%  100%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Freezer Rm Cooling Unit\
+	    New File  		   1.4 m	Freezer Rm Cooling Unit.jpg  0%  100%  
+	    New File  		    9216	Thumbs.db  0%  100%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\HHW BYPASS PIPING\
+	    New File  		   1.1 m	HHW BYPASS PIPING 001.jpg  0%  100%  
+	    New File  		   1.4 m	HHW BYPASS PIPING 002.jpg  0%  100%  
+	    New File  		   2.7 m	HHW BYPASS PIPING 003.jpg  0%  100%  
+	    New File  		   1.4 m	HHW BYPASS PIPING 004.jpg  0%  100%  
+	    New File  		   1.4 m	HHW BYPASS PIPING 005.jpg  0%  100%  
+	    New File  		   1.5 m	HHW BYPASS PIPING 006.jpg  0%  100%  
+	    New File  		   22528	Thumbs.db  0%  100%  100%  
+	  New Dir         16	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Hoover Ductwork Dust and others\
+	    New File  		   1.8 m	Hoover Ductwork Dust and others 001.jpg  0%  100%  
+	    New File  		   2.2 m	Hoover Ductwork Dust and others 002.jpg  0%  100%  
+	    New File  		   1.1 m	Hoover Ductwork Dust and others 003.jpg  0%  100%  
+	    New File  		   4.3 m	Hoover Ductwork Dust and others 004.jpg  0%  100%  
+	    New File  		   2.4 m	Hoover Ductwork Dust and others 005.jpg  0%  100%  
+	    New File  		   3.4 m	Hoover Ductwork Dust and others 006.jpg  0%  100%  
+	    New File  		   2.0 m	Hoover Ductwork Dust and others 007.jpg  0%  100%  
+	    New File  		   2.1 m	Hoover Ductwork Dust and others 008.jpg  0%  100%  
+	    New File  		   1.7 m	Hoover Ductwork Dust and others 009.jpg  0%  100%  
+	    New File  		   2.6 m	Hoover Ductwork Dust and others 010.jpg  0%  100%  
+	    New File  		   2.0 m	Hoover Ductwork Dust and others 011.jpg  0%  100%  
+	    New File  		   1.7 m	Hoover Ductwork Dust and others 012.jpg  0%  100%  
+	    New File  		   2.5 m	Hoover Ductwork Dust and others 013.jpg  0%  100%  
+	    New File  		   2.1 m	Hoover Ductwork Dust and others 014.jpg  0%  100%  
+	    New File  		   1.7 m	Hoover Ductwork Dust and others 015.jpg  0%  100%  
+	    New File  		   32768	Thumbs.db  0%  100%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Hoover Trane Units\
+	    New File  		   2.4 m	Hoover Trane Units 001.jpg  0%  100%  
+	    New File  		   2.3 m	Hoover Trane Units 002.jpg  0%  100%  
+	    New File  		   2.0 m	Hoover Trane Units 003.jpg  0%  100%  
+	    New File  		   2.3 m	Hoover Trane Units 004.jpg  0%  100%  
+	    New File  		   3.3 m	Hoover Trane Units 005.jpg  0%  100%  
+	    New File  		   2.6 m	Hoover Trane Units 006.jpg  0%  100%  
+	    New File  		   2.2 m	Hoover Trane Units 007.jpg  0%  100%  
+	    New File  		   58368	Thumbs.db  0%  100%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Humidifier Leak\
+	    New File  		   1.4 m	Humidifier Leak 001.jpg  0%  100%  
+	    New File  		   1.3 m	Humidifier Leak 002.jpg  0%  100%  
+	    New File  		   1.4 m	Humidifier Leak 003.jpg  0%  100%  
+	    New File  		   1.4 m	Humidifier Leak 004.jpg  0%  100%  
+	    New File  		   1.4 m	Humidifier Leak 005.jpg  0%  100%  
+	    New File  		   1.4 m	Humidifier Leak 006.jpg  0%  100%  
+	    New File  		   1.6 m	Humidifier Leak 007.jpg  0%  100%  
+	    New File  		   1.3 m	Humidifier Leak 008.jpg  0%  100%  
+	    New File  		   1.3 m	Humidifier Leak 009.jpg  0%  100%  
+	    New File  		   25088	Thumbs.db  0%  100%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\iPod Photo Cache\
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Janitors Closet H2244\
+	    New File  		   2.0 m	Janitors Closet H2244 001.jpg  0%  100%  
+	    New File  		   2.2 m	Janitors Closet H2244 002.jpg  0%  100%  
+	    New File  		   26624	Thumbs.db  0%  100%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\L010228 Piping\
+	    New File  		   44910	L010228 Piping 001.jpg  0%  100%  
+	    New File  		   46870	L010228 Piping 002.jpg  0%  100%  
+	    New File  		   29330	L010228 Piping 003.jpg  0%  100%  
+	    New File  		   23552	Thumbs.db  0%  100%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Med Vac, Air, DWP's D&T\
+	    New File  		   1.8 m	Med Vac, Air, DWP's D&T 001.jpg  0%  100%  
+	    New File  		   1.7 m	Med Vac, Air, DWP's D&T 002.jpg  0%  100%  
+	    New File  		   1.6 m	Med Vac, Air, DWP's D&T 003.jpg  0%  100%  
+	    New File  		   1.5 m	Med Vac, Air, DWP's D&T 004.jpg  0%  100%  
+	    New File  		   1.6 m	Med Vac, Air, DWP's D&T 005.jpg  0%  100%  
+	    New File  		   1.5 m	Med Vac, Air, DWP's D&T 006.jpg  0%  100%  
+	    New File  		   88064	Thumbs.db  0%  100%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Mr. B\
+	    New File  		   1.3 m	Mr. B 001.jpg  0%  100%  
+	    New File  		   1.4 m	Mr. B 002.jpg  0%  100%  
+	    New File  		   1.3 m	Mr. B 003.jpg  0%  100%  
+	    New File  		   1.3 m	Mr. B 004.jpg  0%  100%  
+	    New File  		   1.4 m	Mr. B 005.jpg  0%  100%  
+	    New File  		   1.4 m	Mr. B 006.jpg  0%  100%  
+	    New File  		   1.4 m	Mr. B 007.jpg  0%  100%  
+	    New File  		   1.4 m	Mr. B 008.jpg  0%  100%  
+	    New File  		  114688	Thumbs.db  0%  100%  100%  
+	  New Dir         26	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\New folder\
+	    New File  		   3.3 m	IMG_0807.JPG  0%  100%  
+	    New File  		   2.1 m	IMG_0808.JPG  0%  100%  
+	    New File  		   2.1 m	IMG_0808-2014-08-30T081540.JPG  0%  100%  
+	    New File  		   2.3 m	IMG_0809.JPG  0%  100%  
+	    New File  		   1.6 m	IMG_0811.JPG  0%  100%  
+	    New File  		   2.1 m	IMG_0812.JPG  0%  100%  
+	    New File  		   2.0 m	IMG_0813.JPG  0%  100%  
+	    New File  		   4.5 m	IMG_0814.JPG  0%  100%  
+	    New File  		   3.3 m	IMG_0815.JPG  0%  100%  
+	    New File  		   1.4 m	IMG_0816.JPG  0%  100%  
+	    New File  		   1.6 m	IMG_0817.JPG  0%  100%  
+	    New File  		   2.3 m	IMG_0818.JPG  0%  100%  
+	    New File  		   2.0 m	IMG_0819.JPG  0%  100%  
+	    New File  		   2.0 m	IMG_0820.JPG  0%  100%  
+	    New File  		   1.7 m	IMG_0821.JPG  0%  100%  
+	    New File  		   3.4 m	IMG_0822.JPG  0%  100%  
+	    New File  		   2.3 m	IMG_0824.JPG  0%  100%  
+	    New File  		   1.9 m	IMG_0825.JPG  0%  100%  
+	    New File  		   2.8 m	IMG_0826.JPG  0%  100%  
+	    New File  		   2.5 m	IMG_0827.JPG  0%  100%  
+	    New File  		   1.7 m	IMG_0828.JPG  0%  100%  
+	    New File  		   2.2 m	IMG_0829.JPG  0%  100%  
+	    New File  		   2.7 m	IMG_0830.JPG  0%  100%  
+	    New File  		   2.1 m	IMG_0831.JPG  0%  100%  
+	    New File  		   2.6 m	IMG_0832.JPG  0%  100%  
+	    New File  		  293888	Thumbs.db  0%  100%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\New folder (2)\
+	  New Dir         18	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Old Hoover Pics\
+	    New File  		   3.1 m	Domestic Water Main with Shutoffs.jpg  0%  100%  
+	    New File  		   2.8 m	Domestic Water Main.jpg  0%  100%  
+	    New File  		   3.4 m	Domestic Water Shutoffs.jpg  0%  100%  
+	    New File  		   2.0 m	Hoover 1st Floor Sprinkler Riser.jpg  0%  100%  
+	    New File  		   1.9 m	Hoover 2nd Floor Sprinkler Riser.jpg  0%  100%  
+	    New File  		   2.0 m	Hoover 3rd Floor Sprinkler Riser.jpg  0%  100%  
+	    New File  		   2.3 m	Hoover 480 Main Breaker.jpg  0%  100%  
+	    New File  		   4.2 m	Hoover 480 Main.jpg  0%  100%  
+	    New File  		   2.0 m	Hoover 4th Floor Sprinkler Riser.jpg  0%  100%  
+	    New File  		   2.1 m	Hoover ATS.jpg  0%  100%  
+	    New File  		   2.3 m	Hoover Emergency Generator.jpg  0%  100%  
+	    New File  		   2.1 m	Hoover Fire Panel.jpg  0%  100%  
+	    New File  		   3.1 m	Hoover Fire Pump and Fire ATS.jpg  0%  100%  
+	    New File  		   2.8 m	Hoover Fire Service Back Flow Preventer.jpg  0%  100%  
+	    New File  		   1.8 m	Hoover Ground Floor Sprinkler Riser.jpg  0%  100%  
+	    New File  		   2.5 m	Hoover Natural Gas Main.jpg  0%  100%  
+	    New File  		   4.6 m	Main Water Back Flow Preventers and Meters.jpg  0%  100%  
+	    New File  		   89088	Thumbs.db  0%  100%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\OPC CAV-Valve Labeling\
+	    New File  		  943249	OPC CAV-Valve Labeling 001.jpg  0%  100%  
+	    New File  		   1.2 m	OPC CAV-Valve Labeling 002.jpg  0%  100%  
+	    New File  		   1.3 m	OPC CAV-Valve Labeling 003.jpg  0%  100%  
+	    New File  		   1.3 m	OPC CAV-Valve Labeling 004.jpg  0%  100%  
+	    New File  		   17920	Thumbs.db  0%  100%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\OR-5 Floor\
+	    New File  		   1.4 m	OR-5 Floor 001.jpg  0%  100%  
+	    New File  		   1.4 m	OR-5 Floor 002.jpg  0%  100%  
+	    New File  		   15872	Thumbs.db  0%  100%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\PATC 1820 E Binder Pics\
+	    New File  		   1.1 m	PATC 1820 E Binder Pics 002.jpg  0%  100%  
+	    New File  		   1.1 m	PATC 1820 E Binder Pics 002-2014-08-30T081526.jpg  0%  100%  
+	    New File  		   1.4 m	PATC 1820 E Binder Pics 003.jpg  0%  100%  
+	    New File  		   1.5 m	PATC 1820 E Binder Pics 004.jpg  0%  100%  
+	    New File  		   4.4 m	PATC 1820 E Binder Pics 005.jpg  0%  100%  
+	    New File  		   4.6 m	PATC 1820 E Binder Pics 006.jpg  0%  100%  
+	    New File  		   2.0 m	PATC 1820 E Binder Pics 007.jpg  0%  100%  
+	    New File  		   2.0 m	PATC 1820 E Binder Pics 007-2014-08-30T081526.jpg  0%  100%  
+	    New File  		   4.5 m	PATC 1820 E Binder Pics 008.jpg  0%  100%  
+	    New File  		   64000	Thumbs.db  0%  100%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\PATC 1830 E Binder Pics\
+	    New File  		   3.4 m	PATC 1830 E Binder Pics 003.jpg  0%  100%  
+	    New File  		   4.8 m	PATC 1830 E Binder Pics 004.jpg  0%  100%  
+	    New File  		   3.9 m	PATC 1830 E Binder Pics 005.jpg  0%  100%  
+	    New File  		   3.9 m	PATC 1830 E Binder Pics 005-2014-08-30T081445.jpg  0%  100%  
+	    New File  		   1.4 m	PATC 1830 E Binder Pics 007.jpg  0%  100%  
+	    New File  		   1.8 m	PATC 1830 E Binder Pics 008.jpg  0%  100%  
+	    New File  		   1.6 m	PATC 1830 E Binder Pics 009.jpg  0%  100%  
+	    New File  		  111616	Thumbs.db  0%  100%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\PATC 1840 E Binder Pics\
+	    New File  		   1.8 m	PATC 1840 E Binder Pics 001.jpg  0%  100%  
+	    New File  		   1.6 m	PATC 1840 E Binder Pics 002.jpg  0%  100%  
+	    New File  		   2.7 m	PATC 1840 E Binder Pics 003.jpg  0%  100%  
+	    New File  		   2.7 m	PATC 1840 E Binder Pics 004.jpg  0%  100%  
+	    New File  		   2.2 m	PATC 1840 E Binder Pics 005.jpg  0%  100%  
+	    New File  		   1.4 m	PATC 1840 E Binder Pics 006.jpg  0%  100%  
+	    New File  		   27136	Thumbs.db  0%  100%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Pavilion B North East Roof Hatch\
+	    New File  		   1.2 m	Pavilion B North East Roof Hatch 001.jpg  0%  100%  
+	    New File  		   1.5 m	Pavilion B North East Roof Hatch 002.jpg  0%  100%  
+	    New File  		   1.3 m	Pavilion B North East Roof Hatch 003.jpg  0%  100%  
+	    New File  		   1.3 m	Pavilion B North East Roof Hatch 004.jpg  0%  100%  
+	    New File  		   1.2 m	Pavilion B North East Roof Hatch 005.jpg  0%  100%  
+	    New File  		   21504	Thumbs.db  0%  100%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Pavilion C NorthWest Roof Hatch\
+	    New File  		   1.2 m	Pavilion C NorthWest Roof Hatch 001.jpg  0%  100%  
+	    New File  		   1.2 m	Pavilion C NorthWest Roof Hatch 002.jpg  0%  100%  
+	    New File  		   1.2 m	Pavilion C NorthWest Roof Hatch 003.jpg  0%  100%  
+	    New File  		   1.2 m	Pavilion C NorthWest Roof Hatch 004.jpg  0%  100%  
+	    New File  		   1.3 m	Pavilion C NorthWest Roof Hatch 005.jpg  0%  100%  
+	    New File  		   1.2 m	Pavilion C NorthWest Roof Hatch 006.jpg  0%  100%  
+	    New File  		   22528	Thumbs.db  0%  100%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Pavilion C South East Roof Hatch\
+	    New File  		   1.3 m	Pavilion C South East Roof Hatch 001.jpg  0%  100%  
+	    New File  		   1.2 m	Pavilion C South East Roof Hatch 002.jpg  0%  100%  
+	    New File  		   1.2 m	Pavilion C South East Roof Hatch 003.jpg  0%  100%  
+	    New File  		   24576	Thumbs.db  0%  100%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\P-Tube Controls\
+	    New File  		   1.7 m	P-Tube Controls.jpg  0%  100%  
+	    New File  		   26112	Thumbs.db  0%  100%  100%  
+	  New Dir         10	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\S LaPlante Accident\
+	    New File  		   2.1 m	S LaPlante Accident 001.jpg  0%  100%  
+	    New File  		   3.9 m	S LaPlante Accident 002.jpg  0%  100%  
+	    New File  		   2.5 m	S LaPlante Accident 003.jpg  0%  100%  
+	    New File  		   2.5 m	S LaPlante Accident 003-2014-08-30T081313.jpg  0%  100%  
+	    New File  		   2.4 m	S LaPlante Accident 004.jpg  0%  100%  
+	    New File  		   2.4 m	S LaPlante Accident 004-2014-08-30T081313.jpg  0%  100%  
+	    New File  		   2.8 m	S LaPlante Accident 005.jpg  0%  100%  
+	    New File  		   2.1 m	S LaPlante Accident 006.jpg  0%  100%  
+	    New File  		   2.5 m	S LaPlante Accident 007.jpg  0%  100%  
+	    New File  		   57344	Thumbs.db  0%  100%  100%  
+	  New Dir         20	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\SB MOB\
+	    New File  		       6	ATT00001.txt  0%  100%  
+	    New File  		       6	ATT00002.txt  0%  100%  
+	    New File  		       6	ATT00003.txt  0%  100%  
+	    New File  		      88	ATT00004.txt  0%  100%  
+	    New File  		  369666	photo 1.JPG  0%  100%  
+	    New File  		  464442	photo 2.JPG  0%  100%  
+	    New File  		  449721	photo 3.JPG  0%  100%  
+	    New File  		  346797	photo 4.JPG  0%  100%  
+	    New File  		   2.2 m	SB MOB 001.jpg  0%  100%  
+	    New File  		   2.1 m	SB MOB 002.jpg  0%  100%  
+	    New File  		   2.7 m	SB MOB 003.jpg  0%  100%  
+	    New File  		   2.3 m	SB MOB 004.jpg  0%  100%  
+	    New File  		   2.3 m	SB MOB 004-2014-08-30T081308.jpg  0%  100%  
+	    New File  		   2.1 m	SB MOB 005.jpg  0%  100%  
+	    New File  		   2.7 m	SB MOB 006.jpg  0%  100%  
+	    New File  		   2.2 m	SB MOB 007.jpg  0%  100%  
+	    New File  		   2.7 m	SB MOB 008.jpg  0%  100%  
+	    New File  		   2.9 m	SB MOB 009.jpg  0%  100%  
+	    New File  		   2.9 m	SB MOB 010.jpg  0%  100%  
+	    New File  		   89600	Thumbs.db  0%  100%  100%  
+	  New Dir          5	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Skylight Leak\
+	    New File  		   1.4 m	Skylight Leak 001.jpg  0%  100%  
+	    New File  		   1.8 m	Skylight Leak 002.jpg  0%  100%  
+	    New File  		   2.1 m	Skylight Leak 003.jpg  0%  100%  
+	    New File  		   1.8 m	Skylight Leak 004.jpg  0%  100%  
+	    New File  		   14848	Thumbs.db  0%  100%  100%  
+	  New Dir         48	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\SMOC PICS\
+	    New File  		    1582	Shortcut to SMOC PICS 001.jpg.lnk  0%  100%  
+	    New File  		   1.2 m	SMOC PICS 001.jpg  0%  100%  
+	    New File  		   1.2 m	SMOC PICS 002.jpg  0%  100%  
+	    New File  		   1.3 m	SMOC PICS 003.jpg  0%  100%  
+	    New File  		   1.2 m	SMOC PICS 004.jpg  0%  100%  
+	    New File  		   1.4 m	SMOC PICS 005.jpg  0%  100%  
+	    New File  		   1.4 m	SMOC PICS 006.jpg  0%  100%  
+	    New File  		   1.3 m	SMOC PICS 007.jpg  0%  100%  
+	    New File  		   1.4 m	SMOC PICS 008.jpg  0%  100%  
+	    New File  		   1.4 m	SMOC PICS 009.jpg  0%  100%  
+	    New File  		   1.3 m	SMOC PICS 010.jpg  0%  100%  
+	    New File  		   1.2 m	SMOC PICS 011.jpg  0%  100%  
+	    New File  		   1.2 m	SMOC PICS 012.jpg  0%  100%  
+	    New File  		   1.2 m	SMOC PICS 013.jpg  0%  100%  
+	    New File  		   1.2 m	SMOC PICS 014.jpg  0%  100%  
+	    New File  		   1.2 m	SMOC PICS 015.jpg  0%  100%  
+	    New File  		   1.4 m	SMOC PICS 016.jpg  0%  100%  
+	    New File  		   1.4 m	SMOC PICS 017.jpg  0%  100%  
+	    New File  		   1.4 m	SMOC PICS 018.jpg  0%  100%  
+	    New File  		   1.2 m	SMOC PICS 019.jpg  0%  100%  
+	    New File  		   1.4 m	SMOC PICS 020.jpg  0%  100%  
+	    New File  		   1.1 m	SMOC PICS 021.jpg  0%  100%  
+	    New File  		   1.4 m	SMOC PICS 022.jpg  0%  100%  
+	    New File  		   1.5 m	SMOC PICS 023.jpg  0%  100%  
+	    New File  		   1.2 m	SMOC PICS 024.jpg  0%  100%  
+	    New File  		   1.4 m	SMOC PICS 025.jpg  0%  100%  
+	    New File  		   1.3 m	SMOC PICS 026.jpg  0%  100%  
+	    New File  		   1.1 m	SMOC PICS 027.jpg  0%  100%  
+	    New File  		   1.1 m	SMOC PICS 028.jpg  0%  100%  
+	    New File  		   1.1 m	SMOC PICS 029.jpg  0%  100%  
+	    New File  		   1.0 m	SMOC PICS 030.jpg  0%  100%  
+	    New File  		   1.4 m	SMOC PICS 031.jpg  0%  100%  
+	    New File  		   1.5 m	SMOC PICS 032.jpg  0%  100%  
+	    New File  		   1.1 m	SMOC PICS 033.jpg  0%  100%  
+	    New File  		   1.0 m	SMOC PICS 034.jpg  0%  100%  
+	    New File  		   1.4 m	SMOC PICS 035.jpg  0%  100%  
+	    New File  		   1.4 m	SMOC PICS 036.jpg  0%  100%  
+	    New File  		   1.3 m	SMOC PICS 037.jpg  0%  100%  
+	    New File  		  993287	SMOC PICS 038.jpg  0%  100%  
+	    New File  		   1.3 m	SMOC PICS 039.jpg  0%  100%  
+	    New File  		   1.2 m	SMOC PICS 040.jpg  0%  100%  
+	    New File  		   1.3 m	SMOC PICS 041.jpg  0%  100%  
+	    New File  		   1.3 m	SMOC PICS 042.jpg  0%  100%  
+	    New File  		   1.4 m	SMOC PICS 043.jpg  0%  100%  
+	    New File  		   1.4 m	SMOC PICS 044.jpg  0%  100%  
+	    New File  		   1.4 m	SMOC PICS 045.jpg  0%  100%  
+	    New File  		   1.3 m	SMOC PICS 046.jpg  0%  100%  
+	    New File  		   90624	Thumbs.db  0%  100%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Steam Boiler Pics\
+	    New File  		   1.1 m	Steam Boiler Pics 001.jpg  0%  100%  
+	    New File  		   1.0 m	Steam Boiler Pics 003.jpg  0%  100%  
+	    New File  		   30208	Thumbs.db  0%  100%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Steam Filter Bypass\
+	    New File  		   1.4 m	Steam Filter Bypass 001.jpg  0%  100%  
+	    New File  		   1.4 m	Steam Filter Bypass 002.jpg  0%  100%  
+	    New File  		   1.0 m	Steam Filter Bypass 003.jpg  0%  100%  
+	    New File  		   1.1 m	Steam Filter Bypass 004.jpg  0%  100%  
+	    New File  		   1.2 m	Steam Filter Bypass 005.jpg  0%  100%  
+	    New File  		   1.2 m	Steam Filter Bypass 006.jpg  0%  100%  
+	    New File  		   1.2 m	Steam Filter Bypass 007.jpg  0%  100%  
+	    New File  		   1.1 m	Steam Filter Bypass 008.jpg  0%  100%  
+	    New File  		   32768	Thumbs.db  0%  100%  100%  
+	  New Dir         32	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Storm-S-12-Steam Filter\
+	    New File  		   1.2 m	Storm-S-12-Steam Filter 001.jpg  0%  100%  
+	    New File  		   1.4 m	Storm-S-12-Steam Filter 002.jpg  0%  100%  
+	    New File  		   1.3 m	Storm-S-12-Steam Filter 003.jpg  0%  100%  
+	    New File  		   1.4 m	Storm-S-12-Steam Filter 004.jpg  0%  100%  
+	    New File  		   1.3 m	Storm-S-12-Steam Filter 005.jpg  0%  100%  
+	    New File  		   1.1 m	Storm-S-12-Steam Filter 006.jpg  0%  100%  
+	    New File  		   1.3 m	Storm-S-12-Steam Filter 007.jpg  0%  100%  
+	    New File  		   1.3 m	Storm-S-12-Steam Filter 008.jpg  0%  100%  
+	    New File  		   1.4 m	Storm-S-12-Steam Filter 009.jpg  0%  100%  
+	    New File  		   1.2 m	Storm-S-12-Steam Filter 010.jpg  0%  100%  
+	    New File  		   1.5 m	Storm-S-12-Steam Filter 011.jpg  0%  100%  
+	    New File  		   1.4 m	Storm-S-12-Steam Filter 012.jpg  0%  100%  
+	    New File  		   1.5 m	Storm-S-12-Steam Filter 013.jpg  0%  100%  
+	    New File  		   1.4 m	Storm-S-12-Steam Filter 014.jpg  0%  100%  
+	    New File  		   1.3 m	Storm-S-12-Steam Filter 015.jpg  0%  100%  
+	    New File  		   1.5 m	Storm-S-12-Steam Filter 016.jpg  0%  100%  
+	    New File  		   1.5 m	Storm-S-12-Steam Filter 017.jpg  0%  100%  
+	    New File  		   1.5 m	Storm-S-12-Steam Filter 018.jpg  0%  100%  
+	    New File  		   1.4 m	Storm-S-12-Steam Filter 019.jpg  0%  100%  
+	    New File  		   1.6 m	Storm-S-12-Steam Filter 020.jpg  0%  100%  
+	    New File  		   1.5 m	Storm-S-12-Steam Filter 021.jpg  0%  100%  
+	    New File  		   1.6 m	Storm-S-12-Steam Filter 022.jpg  0%  100%  
+	    New File  		   1.5 m	Storm-S-12-Steam Filter 024.jpg  0%  100%  
+	    New File  		   1.5 m	Storm-S-12-Steam Filter 025.jpg  0%  100%  
+	    New File  		   1.4 m	Storm-S-12-Steam Filter 026.jpg  0%  100%  
+	    New File  		   1.5 m	Storm-S-12-Steam Filter 027.jpg  0%  100%  
+	    New File  		   1.6 m	Storm-S-12-Steam Filter 028.jpg  0%  100%  
+	    New File  		   1.6 m	Storm-S-12-Steam Filter 029.jpg  0%  100%  
+	    New File  		   1.6 m	Storm-S-12-Steam Filter 030.jpg  0%  100%  
+	    New File  		   1.3 m	Storm-S-12-Steam Filter 032.jpg  0%  100%  
+	    New File  		  20.0 m	Storm-S-12-Steam Filter 033.avi  0.0% 79.8%100%  
+	    New File  		  392704	Thumbs.db  0%  100%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Vision Center ATS Pics\
+	    New File  		   30208	Thumbs.db  0%  100%  100%  
+	    New File  		   2.3 m	Vision Center ATS Pics 001.jpg  0%  100%  
+	    New File  		   2.4 m	Vision Center ATS Pics 002.jpg  0%  100%  
+	    New File  		   2.7 m	Vision Center ATS Pics 003.jpg  0%  100%  
+	    New File  		   2.5 m	Vision Center ATS Pics 004.jpg  0%  100%  
+	    New File  		   2.7 m	Vision Center ATS Pics 005.jpg  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Vision Center Pharmacy\
+	    New File  		   26112	Thumbs.db  0%  100%  100%  
+	    New File  		  386730	Vision Center Pharmacy 001.jpg  0%  100%  
+	    New File  		  493023	Vision Center Pharmacy 002.jpg  0%  100%  
+	    New File  		  452903	Vision Center Pharmacy 003.jpg  0%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Water Softner\
+	    New File  		   24064	Thumbs.db  0%  100%  100%  
+	    New File  		  248616	Water Softner 001.jpg  0%  100%  
+	    New File  		  198425	Water Softner 002.jpg  0%  100%  
+	    New File  		  530586	Water Softner 003.jpg  0%  100%  
+	    New File  		  261504	Water Softner 004.jpg  0%  100%  
+	    New File  		  220803	Water Softner 005.jpg  0%  100%  
+	    New File  		  154686	Water Softner 006.jpg  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Watson Boiler Exhaust\
+	    New File  		   26624	Thumbs.db  0%  100%  100%  
+	    New File  		   1.3 m	Watson Boiler Exhaust 001.jpg  0%  100%  
+	    New File  		   1.2 m	Watson Boiler Exhaust 002.jpg  0%  100%  
+	    New File  		   1.2 m	Watson Boiler Exhaust 003.jpg  0%  100%  
+	  New Dir         23	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Watson Ct Emg. Binder Pics\
+	    New File  		   2.5 m	IMG_0744.JPG  0%  100%  
+	    New File  		   2.3 m	IMG_0747.JPG  0%  100%  
+	    New File  		   4.0 m	IMG_0752.JPG  0%  100%  
+	    New File  		   2.0 m	IMG_0761.JPG  0%  100%  
+	    New File  		   72704	Thumbs.db  0%  100%  100%  
+	    New File  		   3.3 m	Watson Ct Emg Binder_001.pptx  0%  100%  
+	    New File  		  381636	Watson Ct Emg Binder_003.pptx  0%  100%  
+	    New File  		   1.6 m	Watson Ct Emg. Binder Pics 001.jpg  0%  100%  
+	    New File  		   1.5 m	Watson Ct Emg. Binder Pics 002.jpg  0%  100%  
+	    New File  		   1.6 m	Watson Ct Emg. Binder Pics 003.jpg  0%  100%  
+	    New File  		   1.5 m	Watson Ct Emg. Binder Pics 004.jpg  0%  100%  
+	    New File  		   1.5 m	Watson Ct Emg. Binder Pics 005.jpg  0%  100%  
+	    New File  		   1.4 m	Watson Ct Emg. Binder Pics 006.jpg  0%  100%  
+	    New File  		   1.4 m	Watson Ct Emg. Binder Pics 007.jpg  0%  100%  
+	    New File  		   1.2 m	Watson Ct Emg. Binder Pics 008.jpg  0%  100%  
+	    New File  		   1.5 m	Watson Ct Emg. Binder Pics 009.jpg  0%  100%  
+	    New File  		   1.4 m	Watson Ct Emg. Binder Pics 010.jpg  0%  100%  
+	    New File  		   1.5 m	Watson Ct Emg. Binder Pics 011.jpg  0%  100%  
+	    New File  		   1.4 m	Watson Ct Emg. Binder Pics 012.jpg  0%  100%  
+	    New File  		   1.4 m	Watson Ct Emg. Binder Pics 013.jpg  0%  100%  
+	    New File  		   1.3 m	Watson Ct Emg. Binder Pics 014.jpg  0%  100%  
+	    New File  		   1.5 m	Watson Ct Emg. Binder Pics 015.jpg  0%  100%  
+	    New File  		  206203	Watson Water Shutoff.JPG  0%  100%  
+	  New Dir         29	\\shintnpscfs116\T$\Users7\S0063327\My Pictures\Watson Warranty HVAC\
+	    New File  		   1.1 m	IMG_1.JPG  0%  100%  
+	    New File  		   1.3 m	IMG_10.JPG  0%  100%  
+	    New File  		   1.1 m	IMG_11.JPG  0%  100%  
+	    New File  		   1.5 m	IMG_12.JPG  0%  100%  
+	    New File  		   1.2 m	IMG_13.JPG  0%  100%  
+	    New File  		   1.5 m	IMG_14.JPG  0%  100%  
+	    New File  		   1.2 m	IMG_15.JPG  0%  100%  
+	    New File  		   1.1 m	IMG_16.JPG  0%  100%  
+	    New File  		   1.4 m	IMG_17.JPG  0%  100%  
+	    New File  		   1.5 m	IMG_18.JPG  0%  100%  
+	    New File  		   1.7 m	IMG_19.JPG  0%  100%  
+	    New File  		   1.2 m	IMG_2.JPG  0%  100%  
+	    New File  		   1.9 m	IMG_20.JPG  0%  100%  
+	    New File  		   1.4 m	IMG_21.JPG  0%  100%  
+	    New File  		   1.2 m	IMG_22.JPG  0%  100%  
+	    New File  		   1.4 m	IMG_23.JPG  0%  100%  
+	    New File  		   1.4 m	IMG_24.JPG  0%  100%  
+	    New File  		   1.4 m	IMG_25.JPG  0%  100%  
+	    New File  		   1.1 m	IMG_26.JPG  0%  100%  
+	    New File  		   1.3 m	IMG_27.JPG  0%  100%  
+	    New File  		   1.3 m	IMG_28.JPG  0%  100%  
+	    New File  		   1.3 m	IMG_3.JPG  0%  100%  
+	    New File  		   1.7 m	IMG_4.JPG  0%  100%  
+	    New File  		   1.0 m	IMG_5.JPG  0%  100%  
+	    New File  		   1.2 m	IMG_6.JPG  0%  100%  
+	    New File  		 1014370	IMG_7.JPG  0%  100%  
+	    New File  		   1.5 m	IMG_8.JPG  0%  100%  
+	    New File  		   1.2 m	IMG_9.JPG  0%  100%  
+	    New File  		   31232	Thumbs.db  0%  100%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\My Videos\
+	    New File  		     664	Desktop.ini  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\My Videos\$RECYCLE.BIN\
+	    New File  		     129	desktop.ini  0%  100%  
+	    New File  		     129	desktop-2014-08-30T081257.ini  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\New Folder (3)\
+	    New File  		  103984	Background Check Form.pdf  0%  100%  
+	    New File  		   28704	Form-Conflict-of-Interest Disclosure Statement-Form Fill 011312.docx  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\Outlook Files\
+	    New File  		 474.9 m	archive.pst  0.0%  3.3%  6.7% 10.1% 13.4% 16.8% 20.2% 23.5% 26.9% 30.3% 33.6% 37.0% 40.4% 43.7% 47.1% 50.5% 53.9% 57.2% 60.6% 64.0% 67.3% 70.7% 74.1% 77.4% 80.8% 84.2% 87.5% 90.9% 94.3% 97.6%100%  
+	    New File  		   1.4 g	archive1.pst  0.0%  1.0%  2.1%  3.1%  4.2%  5.2%  6.3%  7.3%  8.4%  9.5% 10.5% 11.6% 12.6% 13.7% 14.7% 15.8% 16.9% 17.9% 19.0% 20.0% 21.1% 22.1% 23.2% 24.2% 25.3% 26.4% 27.4% 28.5% 29.5% 30.6% 31.6% 32.7% 33.8% 34.8% 35.9% 36.9% 38.0% 39.0% 40.1% 41.1% 42.2% 43.3% 44.3% 45.4% 46.4% 47.5% 48.5% 49.6% 50.7% 51.7% 52.8% 53.8% 54.9% 55.9% 57.0% 58.0% 59.1% 60.2% 61.2% 62.3% 63.3% 64.4% 65.4% 66.5% 67.6% 68.6% 69.7% 70.7% 71.8% 72.8% 73.9% 75.0% 76.0% 77.1% 78.1% 79.2% 80.2% 81.3% 82.3% 83.4% 84.5% 85.5% 86.6% 87.6% 88.7% 89.7% 90.8% 91.9% 92.9% 94.0% 95.0% 96.1% 97.1% 98.2% 99.2%100%  
+	    New File  		  271360	My Outlook Data File(1).pst  0%  100%  
+	    New File  		  271360	My Outlook Data File(2).pst  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\Pref Evals\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\Reflection\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\SHC\
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063327\SHC\Boswell A201C Rags in Supply Air Vents\
+	    New File  		   1.6 m	IMG_0739.JPG  0%  100%  
+	    New File  		   2.2 m	IMG_0740.JPG  0%  100%  
+	    New File  		   2.2 m	IMG_0741.JPG  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0063327\SHC\Cancer Center Exam Rooms Towels in Supply Air vents\
+	    New File  		   1.8 m	IMG_0730.JPG  0%  100%  
+	    New File  		   1.6 m	IMG_0731.JPG  0%  100%  
+	    New File  		   1.7 m	IMG_0732.JPG  0%  100%  
+	    New File  		   1.9 m	IMG_0733.JPG  0%  100%  
+	    New File  		   1.5 m	IMG_0734.JPG  0%  100%  
+	    New File  		   1.6 m	IMG_0735.JPG  0%  100%  
+	    New File  		   1.9 m	IMG_0736.JPG  0%  100%  
+	    New File  		   1.3 m	IMG_0737.JPG  0%  100%  
+	    New File  		   1.6 m	IMG_0738.JPG  0%  100%  
+	  New Dir         16	\\shintnpscfs116\T$\Users7\S0063327\SHC\CC2331 vav box issues\
+	    New File  		   1.5 m	IMG_0720.JPG  0%  100%  
+	    New File  		   1.5 m	IMG_0721.JPG  0%  100%  
+	    New File  		   1.5 m	IMG_0722.JPG  0%  100%  
+	    New File  		   1.8 m	IMG_0723.JPG  0%  100%  
+	    New File  		   1.7 m	IMG_0724.JPG  0%  100%  
+	    New File  		   1.7 m	IMG_0725.JPG  0%  100%  
+	    New File  		   1.7 m	IMG_0726.JPG  0%  100%  
+	    New File  		   1.2 m	IMG_0742.JPG  0%  100%  
+	    New File  		   2.0 m	IMG_0743.JPG  0%  100%  
+	    New File  		   1.7 m	IMG_0744.JPG  0%  100%  
+	    New File  		   2.0 m	IMG_0745.JPG  0%  100%  
+	    New File  		   1.7 m	IMG_0746.JPG  0%  100%  
+	    New File  		   1.7 m	IMG_0747.JPG  0%  100%  
+	    New File  		   2.0 m	IMG_0748.JPG  0%  100%  
+	    New File  		   1.8 m	IMG_0749.JPG  0%  100%  
+	    New File  		   2.1 m	IMG_0750.JPG  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\SHC\H2157E Dr Schnittger excessive dirt and air volume\
+	    New File  		   1.3 m	H2157E dirt in cup.xps  0%  100%  
+	    New File  		  473434	H2157E dirt on rag.xps  0%  100%  
+	    New File  		   1.8 m	IMG_0640.JPG  0%  100%  
+	    New File  		  263021	IMG_0641.JPG  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063327\SHC\HE262 Patient Room failed Veloc controller and h20 valve\
+	    New File  		   2.0 m	IMG_0662.JPG  0%  100%  
+	    New File  		   2.1 m	IMG_0663.JPG  0%  100%  
+	    New File  		   1.3 m	IMG_0664.JPG  0%  100%  
+	  New Dir          8	\\shintnpscfs116\T$\Users7\S0063327\SHC\HF042 Patient Room failed velocity controller\
+	    New File  		 1017643	HF042 velo cntrl.xps  0%  100%  
+	    New File  		   1.1 m	HF042.xps  0%  100%  
+	    New File  		   1.4 m	IMG_0672.JPG  0%  100%  
+	    New File  		   1.4 m	IMG_0673.JPG  0%  100%  
+	    New File  		   1.8 m	IMG_0674.JPG  0%  100%  
+	    New File  		   1.7 m	IMG_0675.JPG  0%  100%  
+	    New File  		   1.7 m	IMG_0676.JPG  0%  100%  
+	    New File  		   1.5 m	IMG_0677.JPG  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0063327\SHC\HF071 Patient Room failed velocity controller\
+	    New File  		  975034	HF071 set by hand.xps  0%  100%  
+	    New File  		 1029151	HF071.xps  0%  100%  
+	    New File  		   1.5 m	IMG_0678.JPG  0%  100%  
+	    New File  		   1.4 m	IMG_0679.JPG  0%  100%  
+	    New File  		   1.6 m	IMG_0680.JPG  0%  100%  
+	    New File  		   1.3 m	IMG_0682.JPG  0%  100%  
+	  New Dir          6	\\shintnpscfs116\T$\Users7\S0063327\SHC\HF237 Patient Room Duct tape covering vents\
+	    New File  		   1.5 m	IMG_0751.JPG  0%  100%  
+	    New File  		   2.1 m	IMG_0752.JPG  0%  100%  
+	    New File  		   1.8 m	IMG_0753.JPG  0%  100%  
+	    New File  		   1.5 m	IMG_0754.JPG  0%  100%  
+	    New File  		   1.6 m	IMG_0755.JPG  0%  100%  
+	    New File  		   1.6 m	IMG_0756.JPG  0%  100%  
+	  New Dir         13	\\shintnpscfs116\T$\Users7\S0063327\SHC 1504\
+	    New File  		   1.6 m	IMG_0790.JPG  0%  100%  
+	    New File  		   1.6 m	IMG_0791.JPG  0%  100%  
+	    New File  		   1.4 m	IMG_0792.JPG  0%  100%  
+	    New File  		   1.6 m	IMG_0793.JPG  0%  100%  
+	    New File  		   1.6 m	IMG_0794.JPG  0%  100%  
+	    New File  		   1.5 m	IMG_0795.JPG  0%  100%  
+	    New File  		   1.6 m	IMG_0796.JPG  0%  100%  
+	    New File  		   2.0 m	IMG_0798.JPG  0%  100%  
+	    New File  		   1.8 m	IMG_0799.JPG  0%  100%  
+	    New File  		   1.3 m	IMG_0800.JPG  0%  100%  
+	    New File  		   1.3 m	IMG_0801.JPG  0%  100%  
+	    New File  		   2.3 m	IMG_0802.JPG  0%  100%  
+	    New File  		   22528	Thumbs.db  0%  100%  100%  
+	  New Dir          7	\\shintnpscfs116\T$\Users7\S0063327\SHC Fans and Areas\
+	    New File  		   1.7 m	IMG_0761.JPG  0%  100%  
+	    New File  		   2.0 m	IMG_0766.JPG  0%  100%  
+	    New File  		   1.9 m	IMG_0770.JPG  0%  100%  
+	    New File  		   1.9 m	IMG_0771.JPG  0%  100%  
+	    New File  		   1.7 m	IMG_0773.JPG  0%  100%  
+	    New File  		   2.0 m	IMG_0775.JPG  0%  100%  
+	    New File  		   25088	Thumbs.db  0%  100%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\SnagIt Catalog\
+	    New File  		   16262	Example.jpg  0%  100%  
+	    New File  		    8704	Thumbs.db  0%  100%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\SnagIt Catalog\Instant Messenger\
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\SnagIt Catalog\Program\
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\Trane Intellipak\
+	    New File  		   3.7 m	RT-EB-110.pdf  0%  100%  
+	    New File  		  830089	RT-SVP04D-EN.pdf  0%  100%  
+	    New File  		  10.8 m	RT-SVX10H-EN.pdf  0.0%100%  
+	    New File  		   7.9 m	SXHG-W-2.pdf  0.0%100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\WinControl\
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063327\WINDOWS\
+	    New File  		      54	inifile.upd  0%  100%  
+	    New File  		     573	win.ctx  0%  100%  
+	    New File  		     573	win.ini  0%  100%  
+	  New Dir          0	\\shintnpscfs116\T$\Users7\S0063327\WINDOWS\system\
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\wks08292\
+	    New File  		   72638	Default Outlook Profile.NK2  0%  100%  
+	    New File  		 133.7 m	outlook.ost  0.0% 11.9% 23.9% 35.9% 47.8% 59.8% 71.8% 83.7% 95.7%100%  
+	  New Dir         11	\\shintnpscfs116\T$\Users7\S0063327\wks08292\Desktop\
+	    New File  		  432417	1106080929a.jpg  0%  100%  
+	    New File  		  843776	Copy of Mechanical and Tenant Labor Profile.xls  0%  100%  
+	    New File  		  139776	Eng. OCT Report.doc  0%  100%  
+	    New File  		  107520	Eng. Report DEC.doc  0%  100%  
+	    New File  		  117248	Engineering Monthly Report Tempate WITH OT.doc  0%  100%  
+	    New File  		   84480	Engineering Monthly Report Tempate.doc  0%  100%  
+	    New File  		   98656	go2meeting.exe  0%  100%  
+	    New File  		     152	Login Page ALC.url  0%  100%  
+	    New File  		   91648	Nov. Eng Report.doc  0%  100%  
+	    New File  		  116736	SEPT ENG. REPORT.doc  0%  100%  
+	    New File  		  761344	Straight Time and OT Labor Profile.xls  0%  100%  
+	  New Dir         17	\\shintnpscfs116\T$\Users7\S0063327\wks08292\Favorites\
+	    New File  		     156	CAMUS Hydronics, Ltd..url  0%  100%  
+	    New File  		      83	Desktop.ini  0%  100%  
+	    New File  		     251	Enviro-Tec Products.url  0%  100%  
+	    New File  		     418	Kodakgallery.comÿShare confirmation.url  0%  100%  
+	    New File  		     152	Login Page ALC.url  0%  100%  
+	    New File  		     112	MSDS-Chemquik.url  0%  100%  
+	    New File  		     119	MSN.com.url  0%  100%  
+	    New File  		     107	MSOnet.url  0%  100%  
+	    New File  		     137	Pediatric Heart Center Database.url  0%  100%  
+	    New File  		     197	Radio Station Guide.url  0%  100%  
+	    New File  		     215	SIRIUS Satellite Radio - SIRIUS Internet Radio.url  0%  100%  
+	    New File  		     100	Stanford Campus Downtime Reports.url  0%  100%  
+	    New File  		     100	Stanford Offsite Clinics Downtime Reports.url  0%  100%  
+	    New File  		     100	Stanford Pharmacy Downtime Reports.url  0%  100%  
+	    New File  		     431	Training Certificate ABB.url  0%  100%  
+	    New File  		     554	UltiPro Web.url  0%  100%  
+	    New File  		     161	Web Budgeting Tool.url  0%  100%  
+	  New Dir          2	\\shintnpscfs116\T$\Users7\S0063327\wks08292\Favorites\CV Med-CT Surg Clinic Favorites\
+	    New File  		     106	ECG.url  0%  100%  
+	    New File  		     115	Echo Lab.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\wks08292\Favorites\Links\
+	    New File  		     119	Customize Links.url  0%  100%  
+	    New File  		     113	Free Hotmail.url  0%  100%  
+	    New File  		     118	Windows Media.url  0%  100%  
+	    New File  		     113	Windows.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\wks08292\Favorites\LPCH Sites to Explore\
+	    New File  		     136	LPCH Community Physician Directory.url  0%  100%  
+	    New File  		     133	LPCH Faculty Physician Directory.url  0%  100%  
+	    New File  		     102	LPCH Web Site.url  0%  100%  
+	    New File  		     109	Vaccine Information Statements.url  0%  100%  
+	  New Dir          9	\\shintnpscfs116\T$\Users7\S0063327\wks08292\Favorites\LPCH Web Based Applications\
+	    New File  		     127	Cerner.url  0%  100%  
+	    New File  		     112	Hospital Paging.url  0%  100%  
+	    New File  		     113	LPCH Nursing Education.url  0%  100%  
+	    New File  		     107	MD Paging.url  0%  100%  
+	    New File  		     116	Medical Center Directory.url  0%  100%  
+	    New File  		     117	Quantros.url  0%  100%  
+	    New File  		     132	Reference - PEDBASE.url  0%  100%  
+	    New File  		     147	SHC Learning Management System.url  0%  100%  
+	    New File  		     123	Trust Commerce.url  0%  100%  
+	  New Dir         19	\\shintnpscfs116\T$\Users7\S0063327\wks08292\Favorites\SMG-SFM Favorites\
+	    New File  		     124	AAFP Clin Policy.url  0%  100%  
+	    New File  		     119	AAP Clin Policy.url  0%  100%  
+	    New File  		     128	Adult Immunization.url  0%  100%  
+	    New File  		     109	AFP.url  0%  100%  
+	    New File  		     135	CDC Prevent Guides.url  0%  100%  
+	    New File  		     128	Child Immunization PDF.url  0%  100%  
+	    New File  		     151	Child Immunization.url  0%  100%  
+	    New File  		     133	Healinx User.url  0%  100%  
+	    New File  		     105	HMO Formulary.url  0%  100%  
+	    New File  		     128	Medem Health Info.url  0%  100%  
+	    New File  		     124	Natl Guideline Clearing House.url  0%  100%  
+	    New File  		     123	NHLBI Health Info.url  0%  100%  
+	    New File  		     104	Nichol's Institute.url  0%  100%  
+	    New File  		     115	PDR.url  0%  100%  
+	    New File  		     106	SFP Home.url  0%  100%  
+	    New File  		     155	SHC Contracts.url  0%  100%  
+	    New File  		     117	SMG Home.url  0%  100%  
+	    New File  		     107	Travel Advise.url  0%  100%  
+	    New File  		     106	Trip Prep.url  0%  100%  
+	  New Dir         11	\\shintnpscfs116\T$\Users7\S0063327\wks08292\Favorites\Stanford Sites to Explore\
+	    New File  		     135	ICD 9 Coding.url  0%  100%  
+	    New File  		     114	Lane Library.url  0%  100%  
+	    New File  		     116	Medical Center Directory.url  0%  100%  
+	    New File  		     130	Medical Staff Roster.url  0%  100%  
+	    New File  		     110	School of Medicine.url  0%  100%  
+	    New File  		     150	SHC Community Physician Directory.url  0%  100%  
+	    New File  		     147	SHC Faculty Physician Directory.url  0%  100%  
+	    New File  		     114	SHC Web Site.url  0%  100%  
+	    New File  		     114	Stanford Intranet.url  0%  100%  
+	    New File  		     120	Stanford University Medical Center.url  0%  100%  
+	    New File  		     106	Stanford University.url  0%  100%  
+	  New Dir         14	\\shintnpscfs116\T$\Users7\S0063327\wks08292\Favorites\Stanford Web Based Applications\
+	    New File  		     114	BOB (Knowledgebase).url  0%  100%  
+	    New File  		     113	Emerg-Med.url  0%  100%  
+	    New File  		     122	HealthStream.url  0%  100%  
+	    New File  		     115	HIPAA Information.url  0%  100%  
+	    New File  		     116	Lexicomp.url  0%  100%  
+	    New File  		     107	MICROMEDEX(R) Healthcare Series.url  0%  100%  
+	    New File  		     111	PAMF - portal.url  0%  100%  
+	    New File  		     110	Portal Backup Site.url  0%  100%  
+	    New File  		     116	Profee Ontrac.url  0%  100%  
+	    New File  		     112	Radiology Images.url  0%  100%  
+	    New File  		     255	Spheris Clarity Care and Complete.url  0%  100%  
+	    New File  		     119	Stanford Physician Portal.url  0%  100%  
+	    New File  		     113	SUMC Outlook Web Access.url  0%  100%  
+	    New File  		     123	Trust Commerce.url  0%  100%  
+	  New Dir          4	\\shintnpscfs116\T$\Users7\S0063327\wks08292\Favorites\Stanford Web Based Applications\Smart Paging\
+	    New File  		     112	Smart Paging Application.url  0%  100%  
+	    New File  		     138	Smart Paging Help - Introduction.url  0%  100%  
+	    New File  		     112	Smart Paging Help - Placing Pages & Using Features.url  0%  100%  
+	    New File  		     138	Smart Paging Help - Using Smart Paging.url  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\wks08292\Favorites\Stanford Web-Based Applications\
+	    New File  		     192	GE Web.url  0%  100%  
+	  New Dir          1	\\shintnpscfs116\T$\Users7\S0063327\wks08292\Proof\
+	    New File  		     182	CUSTOM.DIC  0%  100%  
+	  New Dir          3	\\shintnpscfs116\T$\Users7\S0063327\wks08292\Signatures\
+	    New File  		     623	Joel McKinney.htm  0%  100%  
+	    New File  		    2378	Joel McKinney.rtf  0%  100%  
+	    New File  		     200	Joel McKinney.txt  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :       228       228         0         0         0         0
+   Files :      1901      1901         0         0         0         0
+   Bytes :   4.207 g   4.207 g         0         0         0         0
+   Times :   0:12:33   0:12:12                       0:00:00   0:00:21
+
+
+   Speed :             6164016 Bytes/sec.
+   Speed :             352.707 MegaBytes/min.
+
+   Ended : Sun Mar 27 11:24:09 2016
